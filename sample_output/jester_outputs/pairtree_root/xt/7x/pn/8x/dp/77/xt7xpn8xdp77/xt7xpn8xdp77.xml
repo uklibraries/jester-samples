@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">1997ms151</eadid><filedesc><titlestmt><titleproper type="filing">Morton, Jennie C. and Alice Orbison Frankfort, Kentucky album</titleproper><titleproper>Guide to the Jennie C. Morton and Alice Orbison Frankfort, Kentucky album <num>1997ms151</num></titleproper><author>Paige Thyne</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 February 13</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-04-04 11:22:52 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Jennie C. Morton and Alice Orbison Frankfort, Kentucky album</unittitle>
+    <unitid>1997ms151</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.04 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1890/1890" type="inclusive">circa 1890s</unitdate>
+    <abstract id="aspace_e0a340e08cdd26da576c66aa8c4184e0">The Jennie C. Morton and Alice Orbison Frankfort, Kentucky album (circa 1890s; 0.04 cubic feet, 1 box) is a late-nineteenth century scrapbook containing a collection of poems about Frankfort, Kentucky, written by Jennie C. Morton. Each poem is paired with an image of Frankfort scenes taken by Alice Orbison.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_98bc19a1c864e98f8b81efe12a40eb68">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_5dd86ade64f290ed157e25a7003664e1">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 1987.</p>  </acqinfo>
+  <arrangement id="aspace_41674e40809fa3b50ff0f9253b38b6d3">
+    <head>Arrangement</head>
+<p>Collection is arranged by format.</p>  </arrangement>
+  <bioghist id="aspace_650444cd88cc7e5fc697e538cc3a9026">
+    <head>Biographical note</head>
+<p>Jennie Morton, born 1838 in Franklin County, Kentucky, was regent and secretary treasurer of the Kentucky State Historical Society. She was an active member of the society as well as a poet. She died in 1920 of heart disease. Alice Orbison was born 1876 in Frankfort, Kentucky, and died 1959.</p>  </bioghist>
+  <prefercite id="aspace_8fc48716a3300c010ca951bae2c8e14c">
+    <head>Preferred Citation</head>
+<p>1997ms151: [identification of item], Jennie C. Morton and Alice Orbison Frankfort, Kentucky album, circa 1890s, University of Kentucky Libraries Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_d0456ace6f6eca672d9691ec2c01fee8">
+    <head>Scope and Contents</head>
+<p>The Jennie C. Morton and Alice Orbison Frankfort, Kentucky album (circa 1890s, 0.04 cubic feet, 1 box) is a late-nineteenth century scrapbook containing a collection of poems about Frankfort, Kentucky, written by Jennie C. Morton. Each poem is paired with an image of Frankfort scenes taken by Alice Orbison. The poems are type written on paper bound together with yarn.</p>  </scopecontent>
+  <userestrict id="aspace_4766d8b99d11421b6fa11344283be8d9">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">American poetry -- Women authors.</subject>
+    <subject source="lcsh">Art and photography -- United States.</subject>
+    <occupation source="lcsh">Authors.</occupation>
+    <geogname source="lcsh">Frankfort (Ky.)</geogname>
+  </controlaccess>
+  <dsc><c id="ref1" level="item"><did><unittitle>Jennie C. Morton and Alice Orbison Frankfort, Kentucky album</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_ba5b283fb8fc46fd36e3d78b14e601a6" label="mixed materials" type="box">1</container><container id="aspace_542d5137a67592cba140bfb882c9358d" parent="aspace_ba5b283fb8fc46fd36e3d78b14e601a6" type="item">1</container><dao entityref="xt7xpn8xdp77_1_1"/></did></c></dsc>
+</archdesc>
+</ead>

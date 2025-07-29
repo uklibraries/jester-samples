@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2023ms010</eadid><filedesc><titlestmt><titleproper type="filing">Diary of an unidentified nurse in Dayton, Ky.</titleproper><titleproper>Guide to the Diary of an unidentified nurse in Dayton, Ky., 1938 <num>2023ms010</num></titleproper><author>Megan J. Bordner</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2024 April 5</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-06-04 11:39:54 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Diary of an unidentified nurse in Dayton, Ky.</unittitle>
+    <unitid>2023ms010</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/4272</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1938/1938">1938</unitdate>
+    <abstract id="aspace_3677934299a90c9b24674c0252a8ed04">The diary of an unidentified nurse in Dayton, Ky. (dated 1938; 0.1 cubic feet; 1 folder) comprises a handwritten diary that documents a nurse learning and performing psychiatric care between the Speers Memorial Hospital Training School in Dayton, Kentucky, and the Longview Hospital in Cincinnati, Ohio.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_0dfddcdabd44564ecc163df8fc60729d">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <bioghist id="aspace_dfb58236c17f268516c6ac905b390fc9">
+    <head>Historical note</head>
+<p>No biographical information available on diary author other than she trained as a nurse in the Speers memorial Hospital Training School in Dayton Kentucky, and the Longview Hospital in Cincinnati, Ohio.</p>  </bioghist>
+  <prefercite id="aspace_e0b2d242b04a0f1be1bc6802df784a65">
+    <head>Preferred Citation</head>
+<p>2023ms010: [identification of item], Diary of an unidentified nurse in Dayton, Ky., 1938, University of Kentucky Libraries Special Collection Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_736912a2bdccafe4c2f5b2489e1e3509">
+    <head>Scope and Contents</head>
+<p>The diary of an unidentified nurse in Dayton, Ky. (dated 1938; 0.1 cubic feet; 1 folder) comprises a handwritten diary that documents a nurse learning and performing psychiatric care between the Speers Memorial Hospital Training School in Dayton, Kentucky, and the Longview Hospital in Cincinnati, Ohio. The nurse remains unidentified, but the composition notebook suggests these could be her notes for class and some pages received grades in red ink. The nurse describes physical and mental attributes of depression, hysteria, schizophrenia, syphillis, and paranoia through case studies and class notes. An included clipping regarding the graduating class of Speers Hospital in 1938 might provide possibilities for the notebook's author. The women listed are Ophelia Gardner, Gertrude L. Scales, Peggy Pabst, Anna Mary Posey, Sylvia Gillam, Bernice Clift, Betty Lee Sigler, Gertrude Wofford, Ruth Francis Moran, and Velta Floyd. This collection gives an intimate look inside the world of insane asylums and of Depression-era psychiatric care seen from the perspective of young nurse training hands-on in two institutional settings.</p>  </scopecontent>
+  <userestrict id="aspace_95cac96ef91e7bc3d078f38b915ad806">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform authfilenumber="gf2014026085" source="lcsh">Diaries.</genreform>
+    <subject source="lcsh">Nursing -- Kentucky.</subject>
+    <subject source="lcsh">Mental illness</subject>
+    <subject source="lcsh">Psychiatric hospital care -- Kentucky.</subject>
+    <subject source="lcsh">Psychiatric hospitals -- Kentucky</subject>
+    <corpname rules="rda" source="local">Speers Memorial Hospital Training School (Dayton, Ky.)</corpname>
+    <corpname>Longview Hospital (Cincinnati, Ohio)</corpname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Diary of an unidentified nurse in Dayton, Ky.</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/965047</unitid><unitdate datechar="creation">1938</unitdate><container id="aspace_4613f079e66d949e1a6bf2e9698c4823" label="mixed materials" type="box">MS-50</container><container id="aspace_7180494bff44baca723595473b4e78c5" parent="aspace_4613f079e66d949e1a6bf2e9698c4823" type="folder">1</container></did></c></dsc>
+</archdesc>
+</ead>

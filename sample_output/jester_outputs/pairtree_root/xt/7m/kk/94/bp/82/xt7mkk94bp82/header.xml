@@ -1,0 +1,79 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7mkk94bp82</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7mkk94bp82/data/2021ms088.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Gina Webb papers (dated 1992-1999, undated; 0.45 cubic feet; 1 box) comprise transcripts, historical notes, letters, and some photographs and negatives gather by Webb for an oral history project with residents of Perryville, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Ida Lucille Mangum</author>
+    <title>Gina Webb papers</title>
+    <source>Gina Webb papers</source>
+    <unitdates>
+      <date>1992-1999, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.45 Cubic Feet</extent>
+    <arrangement>Collection is arranged into two series by format.</arrangement>
+    <subjects>
+      <subject>African American history</subject>
+      <subject>Oral histories</subject>
+      <subject>Kentucky -- History -- Civil War, 1861-1865</subject>
+      <subject>Perryville (Ky.)</subject>
+      <subject>Sleettown (Ky.)</subject>
+    </subjects>
+    <prefercite>2021ms088: [identification of item], Gina Webb papers, 1992-1999, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Gina Webb is a historian living in Boyle County, Kentucky. During the 1990's she conducted oral history interviews with residents of Perryville, Kentucky about local history.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Gina Webb papers (dated 1992-1999, undated; 0.45 cubic feet; 1 box) comprise transcripts, historical notes, letters, and some photographs and negatives gather by Webb for an oral history project with residents of Perryville, Kentucky. The transcripts cover the town, the people, the culture, the commerce. Of significance, the collection includes interviews and photographs related to slavery, and the post-Civil War settlement in Boyle County of former enslaved persons called Sleettown.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Binder no. 1</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">1996-1998, undated</unitdate>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+    </c>
+    <c id="ref7" level="series">
+      <did>
+        <unittitle>Binder no. 2</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1992-1999, undated</unitdate>
+      </did>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+    </c>
+  </contents>
+</header>

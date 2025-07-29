@@ -1,0 +1,130 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7v6w967n06</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7v6w967n06/data/2010av006.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Stereoscope Gems of Kentucky Scenery by Carpenter and Mullen collection (dated 1864-1876; 1 box, 21 items; 0.07 cubic feet) consists of twenty-one albumen process stereograph cards of various landscape scenes of Kentucky. Scenes are identified on the verso in handwriting along with an identifying number.</abstract>
+  <descriptive_summary>
+    <author>Sarah K. Piester</author>
+    <title>Stereoscope Gems of Kentucky Scenery by Carpenter and Mullen collection</title>
+    <source>Stereoscope Gems of Kentucky Scenery by Carpenter and Mullen collection</source>
+    <unitdates>
+      <date>1864-1876</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.07 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+    </subjects>
+    <prefercite>2010av006 : [identification of item], Stereoscope &quot;Gems of Kentucky Scenery&quot; by Carpenter and Mullen Collection, 1864-1876, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>James Mullen was born February 4, 1834 in Cincinnati, Ohio.   At eighteen years of age, he began working and studying in the daguerreotype gallery of E.C. Hawkins in Cincinnati, Ohio.  Over the next several years, Mullen operated galleries in Cincinnati and New York and was a photographer for Eaton &amp; Webber until 1862. In late 1862, Mullen was a photographer in the Engineer Corps under General Rosecrans.  He relocated to Lexington, Kentucky and conducted a successful photographic business in both portrait and landscapes.  Mullen was also employed by the State Geological Survey and the Engineers of the Cincinnati Southern Railroad, and maintained a gallery on the second and third floors of a building on Main Street in Lexington.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Stereoscope <emph render="doublequote">Gems of Kentucky Scenery</emph> by Carpenter and Mullen collection (dated 1864-1876; 1 box, 21 items; 0.07 cubic feet) consists of twenty-one albumen process stereograph cards of various landscape scenes of Kentucky. Scenes are identified on the verso in handwriting along with an identifying number.  Numbers are non-contiguous in a series of unknown length.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Series One</unittitle>
+        <unitdate datechar="creation">1864-1867</unitdate>
+      </did>
+      <c id="ref2" level="item"/>
+      <c id="ref3" level="item"/>
+      <c id="ref4" level="item"/>
+      <c id="ref5" level="item"/>
+      <c id="ref6" level="item"/>
+      <c id="ref7" level="item"/>
+      <c id="ref8" level="item"/>
+      <c id="ref9" level="item"/>
+      <c id="ref10" level="item"/>
+      <c id="ref11" level="item"/>
+      <c id="ref12" level="item"/>
+      <c id="ref13" level="item"/>
+      <c id="ref14" level="item"/>
+      <c id="ref15" level="item"/>
+      <c id="ref16" level="item"/>
+      <c id="ref17" level="item"/>
+      <c id="ref18" level="item"/>
+      <c id="ref19" level="item"/>
+      <c id="ref20" level="item"/>
+      <c id="ref21" level="item"/>
+      <c id="ref22" level="item"/>
+    </c>
+    <c id="ref23" level="file">
+      <did>
+        <unittitle>Series Two</unittitle>
+        <unitdate datechar="creation">1867</unitdate>
+      </did>
+      <c id="ref24" level="item"/>
+      <c id="ref25" level="item"/>
+      <c id="ref26" level="item"/>
+      <c id="ref27" level="item"/>
+      <c id="ref28" level="item"/>
+      <c id="ref29" level="item"/>
+      <c id="ref30" level="item"/>
+      <c id="ref31" level="item"/>
+      <c id="ref32" level="item"/>
+      <c id="ref33" level="item"/>
+      <c id="ref34" level="item"/>
+      <c id="ref35" level="item"/>
+      <c id="ref36" level="item"/>
+      <c id="ref37" level="item"/>
+      <c id="ref38" level="item"/>
+      <c id="ref39" level="item"/>
+      <c id="ref40" level="item"/>
+      <c id="ref41" level="item"/>
+      <c id="ref42" level="item"/>
+    </c>
+    <c id="ref43" level="file">
+      <did>
+        <unittitle>Series Three</unittitle>
+        <unitdate datechar="creation">1867</unitdate>
+      </did>
+      <c id="ref44" level="item"/>
+      <c id="ref45" level="item"/>
+      <c id="ref46" level="item"/>
+      <c id="ref47" level="item"/>
+    </c>
+    <c id="ref48" level="file">
+      <did>
+        <unittitle>Series Four</unittitle>
+        <unitdate datechar="creation">1871</unitdate>
+        <langmaterial><language langcode="eng">English</language>.</langmaterial>
+      </did>
+      <c id="ref49" level="item"/>
+      <c id="ref50" level="item"/>
+      <c id="ref51" level="item"/>
+      <c id="ref52" level="item"/>
+      <c id="ref53" level="item"/>
+      <c id="ref54" level="item"/>
+      <c id="ref55" level="item"/>
+      <c id="ref56" level="item"/>
+      <c id="ref57" level="item"/>
+      <c id="ref58" level="item"/>
+    </c>
+  </contents>
+</header>

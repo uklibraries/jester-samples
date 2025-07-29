@@ -1,0 +1,258 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt73tx35499w</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt73tx35499w/data/2008ua025.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The University of Kentucky Athletics Publications Collection (dated 1900-2019; 81.79 cubic feet, 3.76 Gigabytes; 34 record storage cartons, 125 document boxes, 4 slim boxes, 8 flat boxes, and 2459 files) consists of magazines, programs, and media guides documenting athletics at the University of Kentucky (UK) and sporting events in which UK teams participated.</abstract>
+  <descriptive_summary>
+    <author>Andrew W. McGraw, Marie Dale, Brynne Stevens, Maria Vela, Ruth E. Bryan</author>
+    <title>University of Kentucky Athletic Publications Collection:  General Publications</title>
+    <source>University of Kentucky Athletic Publications Collection:  General Publications</source>
+    <unitdates>
+      <date>1900-2019 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>81.79 Cubic Feet</extent>
+    <arrangement>The publications are arranged by sport and type of publication and thereunder arranged chronologically.  There are three collection guides to the entire collection:  General publications (2008ua025), Football (2008ua025.01), and Basketball (2008ua025.02).</arrangement>
+    <subjects>
+      <subject>Basketball -- Kentucky -- History.</subject>
+      <subject>Basketball for women -- Kentucky</subject>
+      <subject>Football -- Kentucky -- History</subject>
+      <subject>College sports -- Kentucky</subject>
+      <subject>Basketball -- Kentucky -- Lexington.</subject>
+      <subject>Football -- Kentucky -- Lexington</subject>
+    </subjects>
+    <prefercite>2008ua025 : [identification of item], University of Kentucky. Athletics Publications collection, 1900-2019, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist></bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The University of Kentucky Athletics Publications Collection (dated 1900-2019; 81.79 cubic feet, 3.76 Gigabytes; 34 record storage cartons, 125 document boxes, 4 slim boxes, 8 flat boxes, and 2459 files) consists of magazines, programs, and media guides documenting athletics at the University of Kentucky (UK) and sporting events in which UK teams participated. The majority of the publications are UK-specific, but there are also Southeastern Conference (SEC), National Collegiate Athletic Association (NCAA), and national publications.  Sports documented include football, men's basketball, women's basketball, cross country, track and field, rifle, softball, baseball, golf, gymnastics, swimming and diving, soccer, tennis, volleyball, and wrestling.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>This collections is open to use by researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The intellectual rights to this collection are owned by the University of Kentucky.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Administrative Publications (NCAA and SEC)</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/230920</unitid>
+        <unitdate datechar="creation" type="inclusive">1991-1996</unitdate>
+      </did>
+      <scopecontent id="aspace_2192e292206eb04c24535579062fcd7b">
+        <head>Scope and Contents</head>
+        <p>Materials published by University of Kentucky Athletics that cover the entire Athletics Department and are not sport specific.</p>
+      </scopecontent>
+      <c id="ref2" level="subseries"/>
+      <c id="ref5" level="subseries"/>
+    </c>
+    <c id="ref8" level="series">
+      <did>
+        <unittitle>All Teams Sports </unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/230943</unitid>
+        <unitdate datechar="creation" type="inclusive">1950-2087</unitdate>
+      </did>
+      <c id="ref9" level="subseries"/>
+      <c id="ref86" level="subseries"/>
+      <c id="ref88" level="subseries"/>
+      <c id="ref90" level="subseries"/>
+      <c id="ref94" level="subseries"/>
+      <c id="ref380" level="subseries"/>
+    </c>
+    <c id="ref399" level="series">
+      <did>
+        <unittitle>Baseball</unittitle>
+        <unitid>Series III</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/230844</unitid>
+        <unitdate datechar="creation" type="inclusive">1971-2017</unitdate>
+      </did>
+      <c id="ref400" level="subseries"/>
+      <c id="ref467" level="subseries"/>
+    </c>
+    <c id="ref493" level="series">
+      <did>
+        <unittitle>Calendars, Handbooks, and Manuals </unittitle>
+        <unitid>Series IV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/231254</unitid>
+        <unitdate datechar="creation" type="inclusive">1961-2006</unitdate>
+      </did>
+      <c id="ref494" level="subseries"/>
+      <c id="ref503" level="subseries"/>
+      <c id="ref505" level="subseries"/>
+    </c>
+    <c id="ref509" level="series">
+      <did>
+        <unittitle>Cheerleading</unittitle>
+        <unitid>V.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/950284</unitid>
+      </did>
+    </c>
+    <c id="ref510" level="series">
+      <did>
+        <unittitle>Cross Country</unittitle>
+        <unitid>Series VI.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/228442</unitid>
+        <unitdate datechar="creation" type="inclusive">1978-2012</unitdate>
+      </did>
+      <c id="ref511" level="subseries"/>
+      <c id="ref573" level="subseries"/>
+      <c id="ref578" level="subseries"/>
+      <c id="ref581" level="subseries"/>
+      <c id="ref591" level="subseries"/>
+    </c>
+    <c id="ref597" level="series">
+      <did>
+        <unittitle>Cross Country/ Track and Field </unittitle>
+        <unitid>Series VII.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/792046</unitid>
+        <unitdate datechar="creation" type="inclusive">1978-1994</unitdate>
+      </did>
+      <c id="ref598" level="subseries"/>
+      <c id="ref600" level="subseries"/>
+    </c>
+    <c id="ref604" level="series">
+      <did>
+        <unittitle>Dance</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/950285</unitid>
+      </did>
+    </c>
+    <c id="ref605" level="series">
+      <did>
+        <unittitle>Golf</unittitle>
+        <unitid>Series VIII.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/229128</unitid>
+        <unitdate datechar="creation" type="inclusive">1979-2013</unitdate>
+      </did>
+      <c id="ref606" level="subseries"/>
+      <c id="ref635" level="subseries"/>
+      <c id="ref645" level="subseries"/>
+      <c id="ref648" level="subseries"/>
+    </c>
+    <c id="ref742" level="series">
+      <did>
+        <unittitle>Gymnastics</unittitle>
+        <unitid>Series IX.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/229147</unitid>
+        <unitdate datechar="creation" type="inclusive">1910-2012</unitdate>
+      </did>
+      <c id="ref743" level="subseries"/>
+      <c id="ref773" level="subseries"/>
+      <c id="ref781" level="subseries"/>
+      <c id="ref796" level="subseries"/>
+      <c id="ref825" level="subseries"/>
+      <c id="ref833" level="subseries"/>
+      <c id="ref842" level="subseries"/>
+    </c>
+    <c id="ref854" level="series">
+      <did>
+        <unittitle>Rifle </unittitle>
+        <unitid>Series X.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/228446</unitid>
+        <unitdate datechar="creation" type="inclusive">1995-2010</unitdate>
+      </did>
+      <c id="ref855" level="subseries"/>
+      <c id="ref864" level="subseries"/>
+      <c id="ref867" level="subseries"/>
+    </c>
+    <c id="ref870" level="series">
+      <did>
+        <unittitle>Soccer</unittitle>
+        <unitid>Series XI.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/230878</unitid>
+        <unitdate datechar="creation" type="inclusive">1991-2014</unitdate>
+      </did>
+      <c id="ref871" level="subseries"/>
+      <c id="ref881" level="subseries"/>
+      <c id="ref1173" level="subseries"/>
+    </c>
+    <c id="ref1192" level="series">
+      <did>
+        <unittitle>Softball</unittitle>
+        <unitid>Series XII.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/228449</unitid>
+        <unitdate datechar="creation" type="inclusive">1998-2012</unitdate>
+      </did>
+      <c id="ref1193" level="subseries"/>
+    </c>
+    <c id="ref1227" level="series">
+      <did>
+        <unittitle>Swimming and Diving</unittitle>
+        <unitid>Series XIII.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/230868</unitid>
+        <unitdate datechar="creation" type="inclusive">1976-2013, undated</unitdate>
+      </did>
+      <c id="ref1228" level="subseries"/>
+      <c id="ref1374" level="subseries"/>
+      <c id="ref1377" level="subseries"/>
+    </c>
+    <c id="ref1381" level="series">
+      <did>
+        <unittitle>Tennis</unittitle>
+        <unitid>Series XIV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/230895</unitid>
+        <unitdate datechar="creation" type="inclusive">1916-2013</unitdate>
+      </did>
+      <c id="ref1382" level="subseries"/>
+      <c id="ref1430" level="subseries"/>
+      <c id="ref1489" level="subseries"/>
+    </c>
+    <c id="ref1521" level="series">
+      <did>
+        <unittitle>Track and Field</unittitle>
+        <unitid>Series XV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/229114</unitid>
+        <unitdate datechar="creation" type="inclusive">1921-2013</unitdate>
+      </did>
+      <c id="ref1522" level="subseries"/>
+      <c id="ref1728" level="subseries"/>
+      <c id="ref1765" level="subseries"/>
+    </c>
+    <c id="ref1772" level="series">
+      <did>
+        <unittitle>Volleyball</unittitle>
+        <unitid>Series XVI.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/230914</unitid>
+        <unitdate datechar="creation" type="inclusive">1979-2016, undated</unitdate>
+      </did>
+      <c id="ref1773" level="subseries"/>
+      <c id="ref1776" level="subseries"/>
+      <c id="ref2380" level="subseries"/>
+      <c id="ref2387" level="subseries"/>
+      <c id="ref2397" level="subseries"/>
+      <c id="ref2402" level="subseries"/>
+      <c id="ref2404" level="subseries"/>
+      <c id="ref2411" level="subseries"/>
+      <c id="ref2413" level="subseries"/>
+      <c id="ref2444" level="subseries"/>
+    </c>
+    <c id="ref2450" level="series">
+      <did>
+        <unittitle>Wrestling</unittitle>
+        <unitid>Series XVII.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/230838</unitid>
+        <unitdate datechar="creation" type="inclusive">1977-1983</unitdate>
+      </did>
+      <c id="ref2451" level="subseries"/>
+      <c id="ref2463" level="subseries"/>
+      <c id="ref2472" level="subseries"/>
+    </c>
+  </contents>
+</header>

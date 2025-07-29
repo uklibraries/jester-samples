@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<c id="ref300" level="item"> <did> <unittitle>Jimmy Dan conner</unittitle> <unitdate datechar="creation" type="inclusive">1988</unitdate> <container id="aspace_a1c26fabe1eb408330c0c5c8602bc1c6" label="Realia" type="box">10</container> <container id="aspace_cd246a59ef2fba4d0ec0f6e58ba72caf" parent="aspace_a1c26fabe1eb408330c0c5c8602bc1c6" type="folder">6</container> <container id="aspace_5ef875be6fd0358bb460d92b222aec11" parent="aspace_cd246a59ef2fba4d0ec0f6e58ba72caf" type="item">17</container> </did> </c>

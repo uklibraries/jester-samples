@@ -1,0 +1,94 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7z348gft31</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7z348gft31/data/87M4.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The John James Audubon papers (dated 1828, undated; 0.1 cubic feet; 3 items) consist of thre manuscript items related to John James Audubon: a letter, a written recollection, and handwritten description of the Kentucky Warbler.</abstract>
+  <descriptive_summary>
+    <author>Processed by: Archives Staff ; machine-readable finding aid created by:Eric Weig</author>
+    <title>John James Audubon papers</title>
+    <source>John James Audubon papers</source>
+    <unitdates>
+      <date>1828, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Artists.</subject>
+      <subject>Naturalists.</subject>
+    </subjects>
+    <prefercite>87M4: [Identification of item], John James Audubon papers, 1828, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Artist, ornithologist and naturalist John James Audubon was born in France, traveled to America in 1804, stayed for a while in Philadelphia and came to Kentucky in 1807. In partnership with Ferdinand Rozier, Audubon bought a stock of goods in New York and went to Louisville, Kentucky where the two of them opened a general store. In 1810 they moved their business to Henderson, Kentucky. While in Kentucky, Audubon's interests in natural history and ornithology continued, but the business partnership with Rozier was not a success and was dissolved. Audobon studied and drew birds in their habitats, culminating in his color plate book, <title render="italic">The Birds of America, 1827-1831</title>, which is considered a notable ornithological work of the 19th century.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The John James Audubon papers (dated 1828, undated; 0.1 cubic feet; 3 items) consist of thre manuscript items related to John James Audubon: a letter, a written recollection, and handwritten description of the Kentucky Warbler. The letter was written by Audubon from London to his son, Victor, about his desire to have his family join him in London. In the letter Audubon describes several specific works and comments on his improved financial state. The collection also includes a four page document entitled <emph render="doublequote">Boon's [sic] Powers of Retention</emph> in which Daniel Boone recounts to Audubon how a boundary dispute was settled by locating an ash tree upon which Boone had cut three notches while escaping from the Indians 25 years earlier. In this lengthy account that is undated, Audubon details what they were wearing, descriptions of the environment and activities of Native Americans. The final item in this collection is an undated manuscript describing the Kentucky Warbler in the White Cucumber tree entitled <emph render="doublequote">Kentucky Warbler</emph>. It is the field description for plate 38 of <title render="italic">The Birds of America, 1827-1831</title>.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>John James Audubon letter to Victor Audubon</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1006416</unitid>
+        <unitdate datechar="creation" type="inclusive">1828 December 11</unitdate>
+        <container id="aspace_b7eb1879f9280d95b5d5db0b39517cc2" label="mixed materials" type="folder">1</container>
+        <dao entityref="xt7z348gft31_1_1"/>
+      </did>
+      <scopecontent id="aspace_676270debbfee2a7812a2dbb35ef10bf">
+        <head>Scope and Contents</head>
+        <p>Unable to find a publisher in America, Audubon sailed to England in 1826, gambling his wife's savings in the hope that he might be able to see his sketches and paintings published. Again, having no success, he spent a year slowly acquiriting subscribers, and only when His Majesty George IV signed for <title render="italic">The Birds of America</title> and set the fashion in his favor was Audubon confident that his life's work would appear in its finished form. Acting as his own publisher, he found in Robert Havell, Jr. the engraver that his standards required. Birds of America, in elephant folio size, began to appear in parts in 1827, and quickly realized critical and financial success. In late 1828, Audubon was just beginning to realize a profit from <title render="italic">The Birds of America</title>. He was anxious to convince his wife , Lucy, to join him in London. In a signed letter of 1828 to his eldest son, Victor, then a clerk in Louisville, Audubon writes from London of his desire to have his family join him. In addition, he describes the status of <title render="italic">The Birds of America</title>. He writes, <emph render="doublequote">I will send you what I call the first volume of my voluminous work in about 2 months. It will be bound in sepia leather and will be a monument to my having existed.</emph></p>
+      </scopecontent>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Boon's Powers of Retention</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1006417</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_318bc1dedaa3169e091b3bec4660aad8" label="mixed materials" type="folder">2</container>
+        <dao entityref="xt7z348gft31_2_1"/>
+      </did>
+      <scopecontent id="aspace_78253b66a46ad4fb1a05383bf5a49931">
+        <head>Scope and Contents</head>
+        <p>In this lengthy, undated account, Audubon writes of Daniel <emph render="doublequote">Boon's (sic) powers of retention.</emph> Audubon lived in Kentucky between 1807 and 1819. In partnership with Ferdinand Rozier, Audubon bought a stock of goods in New York and went to Louisville where they opened a general store. In 1810 they moved their business to Henderson, Kentucky. There Audubon met Daniel Boone who recounted to Audubon how he helped settle a boundary dispute by correctly locating, 25 years after the event, an ash tree upon which he had cut three notches while escaping capture by Native Americans.</p>
+      </scopecontent>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle><emph render="doublequote">Kentucky Warbler</emph> description</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1006418</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_b67cdfefe8b2c82c7852ca104a745c1e" label="mixed materials" type="folder">3</container>
+        <dao entityref="xt7z348gft31_3_1"/>
+      </did>
+      <scopecontent id="aspace_22593afb191c2d1ce3df1230e8a72459">
+        <head>Scope and Contents</head>
+        <p>While in Kentucky, Audubon's interests in natural history and ornithology continued. His observations of the Kentucky Warbler and White Cucumber tree are described in an undated Audubon manuscript entitled <emph render="doublequote">Kentucky Warbler,</emph> the field description for plate 38 of <title render="italic">The Birds of America</title>.</p>
+      </scopecontent>
+    </c>
+  </contents>
+</header>

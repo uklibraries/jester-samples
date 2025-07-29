@@ -1,0 +1,100 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt72804xkj9z</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt72804xkj9z/data/2018ms006.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Alpha Phi Alpha Fraternity Unity Breakfast programs and recordings (dated 1995-2024; 0.68 cubic feet; 2 boxes, 4.74 GB, 12 files) primarily consists of event programs and DVD recordings that document the annual Alpha Phi Alpha Unity Breakfast held yearly on Martin Luther King, Jr. Day in Lexington, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Scott Kenkel</author>
+    <title>Alpha Phi Alpha Fraternity Unity Breakfast programs and recordings</title>
+    <source>Alpha Phi Alpha Fraternity Unity Breakfast programs and recordings</source>
+    <unitdates>
+      <date>1995-2024 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.68 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>African Americans -- Kentucky -- Lexington</subject>
+      <subject>Martin Luther King, Jr., Day</subject>
+      <subject>Programs.</subject>
+      <subject>Alpha Phi Alpha Fraternity</subject>
+      <subject>Alpha Phi Alpha Fraternity. Alpha Beta Lambda Chapter. Education Foundation</subject>
+    </subjects>
+    <prefercite>2018ms006: Alpha Phi Alpha Fraternity Unity Breakfast programs and recordings, 1995-2024, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Unity Breakfast is an annual event sponsored by the Alpha Beta Lambda chapter of the Alpha Phi Alpha Fraternity in Lexington, Kentucky. Alpha Phi Alpha was the first Greek-lettered African American fraternity. Its Alpha Beta Lambda chapter was founded in Lexington in 1928.  Since 1995, the Unity Breakfast has celebrated diversity and unity in honor of Martin Luther King, Jr. on Martin Luther King, Jr. Day. The Unity Breakfast is open to the community and includes the presentation of the Unity Awards and guest speakers from a variety of backgrounds. The Unity Breakfast provides support for the Alpha Beta Lamda Chapter Education Foundation, the charitable arm of the fraternity which provides scholarships and community outreach.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Alpha Phi Alpha Fraternity Unity Breakfast programs and recordings (dated 1995-2024; 0.68 cubic feet; 2 boxes, 4.74 GB, 12 digital files) primarily consists of event programs and DVD recordings that document the annual Alpha Phi Alpha Unity Breakfast held yearly on Martin Luther King, Jr. Day in Lexington, Kentucky. Additionally, the collection includes a program for the dedication of the Vertner Woodson Tandy Historical Marker, which Alpha Phi Alpha helped establish.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Unity Breakfast recordings</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/683981</unitid>
+        <unitdate datechar="creation" type="inclusive">2009-2018</unitdate>
+      </did>
+      <c id="ref2" level="item"/>
+      <c id="ref3" level="item"/>
+      <c id="ref4" level="item"/>
+      <c id="ref5" level="item"/>
+      <c id="ref6" level="item"/>
+      <c id="ref7" level="item"/>
+      <c id="ref8" level="item"/>
+      <c id="ref9" level="item"/>
+      <c id="ref10" level="item"/>
+      <c id="ref11" level="item"/>
+      <c id="ref12" level="item"/>
+      <c id="ref13" level="item"/>
+    </c>
+    <c id="ref14" level="series">
+      <did>
+        <unittitle>Unity Breakfast programs</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/679587</unitid>
+        <unitdate datechar="creation" type="inclusive">1995-2018</unitdate>
+      </did>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+      <c id="ref19" level="file"/>
+      <c id="ref20" level="file"/>
+    </c>
+    <c id="ref21" level="series">
+      <did>
+        <unittitle>Related printed materials</unittitle>
+        <unitid>Series III.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/679588</unitid>
+        <unitdate datechar="creation" type="inclusive">2009-2014</unitdate>
+      </did>
+      <c id="ref22" level="file"/>
+      <c id="ref23" level="file"/>
+    </c>
+  </contents>
+</header>

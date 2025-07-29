@@ -1,0 +1,117 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt71ns0kwg49</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt71ns0kwg49/data/2005ua054.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Antoinette Greider papers (dated 1964-2017, bulk 1983-1995; 1.03 cubic feet; 1 record storage carton and 1 flat box) primarily comprise correspondence, proposals, reports, diaries, slides, and photographic prints documenting Antoinette Toni Greider's work as University of Kentucky Library Adviser on the Western Universities Agricultural Education Project in Indonesia, 1985 and 1989.</abstract>
+  <descriptive_summary>
+    <author>Ruth E. Bryan, Antoinette Greider</author>
+    <title>Antoinette Greider papers</title>
+    <source>Antoinette Greider papers</source>
+    <unitdates>
+      <date>1964-2017 (inclusive)</date>
+      <date>1983-1995 (bulk)</date>
+    </unitdates>
+    <creator>Greider, Antoinette Paris, 1950-</creator>
+    <extent>1.03 Cubic Feet</extent>
+    <arrangement>Collection is arranged subject and format into five series:  Indonesia Project, University Senate Council, Libraries, Indonesia Project Diaries, and Photographs and Slides.</arrangement>
+    <subjects>
+      <subject>Agricultural assistance, American -- Indonesia</subject>
+      <subject>Academic librarians</subject>
+      <subject>Indonesia.</subject>
+      <subject>International librarianship</subject>
+      <subject>University cooperation -- Indonesia</subject>
+      <subject>University cooperation -- Kentucky</subject>
+      <subject>Greider, Antoinette Paris, 1950-</subject>
+      <subject>Western Universities Agricultural Education Project. University of Kentucky Team</subject>
+    </subjects>
+    <prefercite>2005ua054 : [identification of item], Antoinette Greider papers, 1964-2017, bulk 1983-1995, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical Note</head>
+      <p>Antoinette Paris (Toni) Powell Greider was a member of the University of Kentucky (UK) Library faculty from August 1973 to July 2017.  During her tenure she served as Director of the Agricultural Library (now Agricultural Information Center) from 1974 to 2005; Associate Dean of Research and Education from 2005 through 2010; and Director of International Programs from 2010 until her retirement.   Her University-wide responsibilities include service on the University Senate where she served as chair of the Senate Resource Allocation Subcommittee and four years on the Senate Organization and Structure Committee.  From 1980 to 1990,  Greider was the Library Advisor on the Western Universities Agricultural Education ( WUAE) Project headquartered in Palembang, Indonesia.  The Chiefs of Party for the WUAE project were Russell H. Brannon (Agricultural Economics, UK, 1980-1985) and Harold G. Love (Agricultural Economics, UK, 1985-1990). </p><p>During Greider's career she authored numerous publications and made presentations around the world.  Her scholarly record is found in UKnowledge (uknowledge.uky.edu).  Greider was born in Marquette, Michigan on August 24, 1950.  She earned her BA in history from the University of Kentucky in 1972 and her MA in Library Science from the University of Kentucky in 1973.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Antoinette Greider papers (dated 1964-2017, bulk 1983-1995; 1.03 cubic feet; 1 record storage carton and 1 flat box) primarily comprise correspondence, proposals, reports, diaries, slides, and photographic prints documenting Antoinette <emph render="doublequote">Toni</emph> Greider's work as University of Kentucky Library Adviser on the Western Universities Agricultural Education Project in Indonesia, 1985 and 1989.   Included are two diaries kept by Greider of the two projects in 1985 and 1989, along with indexes of names and associated slides and prints.  There are also correspondence, supporting documents, and reports from Greider's service as chair for two University Senate council committees on faculty title series (1997-1998) and on faculty salaries for summer programs (1980-1981), as well as articles and reports on the University of Kentucky Libraries international programs (2010-2014).  The latter are also available at libraries.uky.edu/IP.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Indonesia Project</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/780815</unitid>
+        <unitdate datechar="creation" type="inclusive">1981-1995, undated</unitdate>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+    </c>
+    <c id="ref9" level="series">
+      <did>
+        <unittitle>University Senate Council</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/780823</unitid>
+        <unitdate datechar="creation" type="inclusive">1964-1989, undated</unitdate>
+      </did>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+    </c>
+    <c id="ref12" level="series">
+      <did>
+        <unittitle>Libraries</unittitle>
+        <unitid>Series III.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/780826</unitid>
+        <unitdate datechar="creation" type="inclusive">2010-2014</unitdate>
+      </did>
+      <c id="ref13" level="file"/>
+    </c>
+    <c id="ref14" level="series">
+      <did>
+        <unittitle>Indonesia Project Diaries</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/780828</unitid>
+        <unitdate datechar="creation" type="inclusive">1985-1989</unitdate>
+      </did>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+    </c>
+    <c id="ref18" level="series">
+      <did>
+        <unittitle>Photographs and Slides</unittitle>
+        <unitid>Series V.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/780832</unitid>
+        <unitdate datechar="creation" type="inclusive">1985-1989</unitdate>
+      </did>
+      <c id="ref19" level="subseries"/>
+      <c id="ref20" level="subseries"/>
+      <c id="ref21" level="subseries"/>
+      <c id="ref57" level="subseries"/>
+    </c>
+  </contents>
+</header>

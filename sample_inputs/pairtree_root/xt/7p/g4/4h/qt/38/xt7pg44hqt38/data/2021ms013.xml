@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2021ms013</eadid><filedesc><titlestmt><titleproper type="filing">Johnson, Richard Mentor letter to General Samuel Milroy</titleproper><titleproper>Guide to the Richard Mentor Johnson letter to General Samuel Milroy, 1842 December 17 <num>2021ms013</num></titleproper><author>Megan Mummey</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2021 September 28</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-06-13 16:12:51 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Richard Mentor Johnson letter to General Samuel Milroy</unittitle>
+    <unitid>2021ms013</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Cubic Feet</extent>
+      <extent altrender="carrier">1 item</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1842-12-17/1842-12-17">1842 December 17</unitdate>
+    <abstract id="aspace_4339b3b835d84e7db3c07914d80f53fe">The Richard Mentor Johnson letter to General Samuel Milroy (dated 1842 December 17; 0.01 cubic feet; 1 item) comprises a letter written by Richard Mentor Johnson to General Samuel Milroy concerning the administration of President John Tyler and the possibility of reappointing Milroy to political office.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_f81fcc5a30e2d11dce79ff707d4bbfe7">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <bioghist id="aspace_24a3895c5426eba73f2fef54ecc6c654">
+    <head>Biographical note</head>
+<p>Richard Mentor Johnson of Kentucky was the only Vice President of the United States elected by the Senate pursuant to the Twelfth Constitutional Amendment, which kicked in when, as in the 1836 elections, no vice presidential candidate received a majority of the electoral votes. He achieved fame for having allegedly killed Tecumseh during the War of 1812. But he also gained notoriety for his open relationship with Julia Chinn, an enslaved woman with whom he had two children. The Democrats dumped him from their ticket when Van Buren ran unsuccessfully for a second term. In 1839 General Samuel Milroy, who resided in Delphi Indiana, was appointed agent for the Miami and Pottawatomie Indians. He was replaced in June 1841, under the Admnistration of John Tyler.</p>  </bioghist>
+  <prefercite id="aspace_96c745c5695d3b205e9d3163bc0a1bc5">
+    <head>Preferred Citation</head>
+<p>2021ms013: [identification of item], Richard Mentor Johnson letter to General Samuel Milroy, 1842 December 17, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_1cb0230cd7aae7f73b7e7157755d4c68">
+    <head>Scope and Contents</head>
+<p>The Richard Mentor Johnson letter to General Samuel Milroy (dated 1842 December 17; 0.01 cubic feet; 1 item) comprises a letter written by Richard Mentor Johnson to General Samuel Milroy concerning the administration of President John Tyler and the possibility of reappointing Milroy to political office. In the letter Johnson opines that he may be able to persuade President Tyler to reappoint Milroy to his previous position as the appointed agent for the Miami and Potawatomi peoples. The letter additionally comments on the administration of Tyler, who as Vice President became President as a Whig after the death of William Henry Harrison. Jonson says in the letter that despite Tyler's Whig affiliation, he has <emph render="doublequote">no doubt Tyler inclines to appoint democrats to office.</emph></p>  </scopecontent>
+  <userestrict id="aspace_c4f5000d2770ffbf3610c247dac624e3">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Patronage, Political -- United States</subject>
+    <subject source="lcsh">Native Americans</subject>
+  </controlaccess>
+  <dsc><c01 id="aspace_e44dfaf30b2cf3460071ebc5a935e838" level="file"><did><unittitle>Richard Mentor Johnson letter to General Samuel Milroy</unittitle><unitdate datechar="creation">1842 December 17</unitdate><container id="aspace_8d6e8c4c0fe048bcb40551ba9fc63aee" label="mixed materials" type="box">MS-49</container><container id="aspace_70b2d014426567c249e2704f1757f0aa" parent="aspace_8d6e8c4c0fe048bcb40551ba9fc63aee" type="folder">1</container></did></c01></dsc>
+</archdesc>
+</ead>

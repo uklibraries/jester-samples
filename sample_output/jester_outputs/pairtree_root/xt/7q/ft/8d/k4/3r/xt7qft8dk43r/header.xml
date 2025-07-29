@@ -1,0 +1,70 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7qft8dk43r</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7qft8dk43r/data/2023ms043.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Minnie Sue Lane Durrum Stevens Nelson scrapbook (dated 1949-2004; 1.2 cubic feet; 1 box, 1 wrapped item) comprises a scrapbook which documents the softball career of Nelson and other female fast-pitch softball players throughout the Bluegrass region of kentucky, as well as her Hall of Fame plaque.</abstract>
+  <descriptive_summary>
+    <author>Kaylee McMunn</author>
+    <title>Minnie Sue Lane Durrum Stevens Nelson scrapbook</title>
+    <source>Minnie Sue Lane Durrum Stevens Nelson scrapbook</source>
+    <unitdates>
+      <date>1949-2004, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>1.2 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Sports -- Kentucky.</subject>
+      <subject>Sports -- Women</subject>
+    </subjects>
+    <prefercite>2023ms043 : [identification of item], Minnie Sue Lane Durrum Stevens Nelson scrapbook, 1949-2004, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Minnie Sue Lane Durrum Stevens Nelson was born June 23, 1929, in Fayette County. She graduated from Versailles High School, attended UK, and later worked for over forty years for the state as a graduate accountant in human resources. A celebrated fast-ball pitcher, she was inducted into the KY Softball Hall of Fame in 1997. Collection contains a scrapbook, which includes baseball cards of Nelson and other female fast-pitch softball players throughout the Bluegrass region, as well as her Hall of Fame plaque. </p><p>Link to oral history interview: https://kentuckyoralhistory.org/ark:/16417/xt7j7cssgq0gg</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Minnie Sue Lane Durrum Stevens Nelson scrapbook (dated 1949-2004; 1.2 cubic feet; 1 box, 1 wrapped item) comprises a scrapbook which documents the softball career of Nelson and other female fast-pitch softball players throughout the Bluegrass region of Kentucky, as well as her Hall of Fame plaque. The scrapbook contents are arranged chronologically. Players and coaches featured at the front of the scrapbook include: Kathleen Hockensmith, June Smither, Bettie Childers, Lois Johnson, Minnie Sue Durrum, Elizabeth Douglas, Jean Belcher, Peggy McFadden, Louise (Allen) Lane, Pat Perdue, Ann Sayles, Margaret Winfrough, Pat Kent, Jean True, Rose Chasteen, Pauline Jackson, Dawn Brislan, Ella (Red) Flynn; Coaches: Noble McDougal, A.G. Perry, Dickie [?], Ike Wingate.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Scrapbook</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948920</unitid>
+        <unitdate datechar="creation" normal="1949/2004" type="inclusive">1949-2004, undated</unitdate>
+        <container id="aspace_42aa1c0c29401c72c8603d529f7d71ae" label="mixed materials" type="box">1</container>
+        <container id="aspace_1cdd6ffee7ecefb54c6c9abc0a209b74" parent="aspace_42aa1c0c29401c72c8603d529f7d71ae" type="item">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Hall of Fame plaque</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948921</unitid>
+        <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+        <container id="aspace_a0d7df82e7aa09c90743f28efc017124" label="mixed materials" type="item">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

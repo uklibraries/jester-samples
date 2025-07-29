@@ -1,0 +1,68 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7cjs9h708g</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7cjs9h708g/data/2017ms039.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The George W. Gallup Civil War diary (dated 1864; 0.05 cubic feet; 1 folder) consists of one diary that documents Gallup's journey to Atlanta as a lieutenant colonel in the Union Army under General Sherman during the Atlanta campaign.</abstract>
+  <descriptive_summary>
+    <author>Emily Burgess</author>
+    <title>George W. Gallup Civil War diary</title>
+    <source>George W. Gallup Civil War diary</source>
+    <unitdates>
+      <date>1864 (inclusive)</date>
+    </unitdates>
+    <creator>Gallup, George W., 1828-1880</creator>
+    <extent>0.05 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Atlanta Campaign, 1864.</subject>
+      <subject>Diaries -- 19th Century.</subject>
+      <subject>Diaries -- United States -- Kentucky.</subject>
+      <subject>Kentucky -- History -- Civil War, 1861-1865</subject>
+      <subject>Military life.</subject>
+      <subject>United States -- History -- Civil War, 1861-1865 -- Personal narratives</subject>
+      <subject>Gallup, George W., 1828-1880</subject>
+      <subject>United States. Army. Kentucky Infantry Regiment, 14th (1861-1865)</subject>
+    </subjects>
+    <prefercite>2017ms039: [identification of item], The George W. Gallup Civil War Diary, 1964, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Before the outbreak of the Civil War, George W. Gallup (1828-1880) was a student, teacher, and lawyer. Originally from New York, he  migrated to Kentucky where he would meet his future wife, Rebecca, and become close friends with her brother, Laban T. Moore. In December 1861, Gallup and Moore rallied men together to form the 14th Kentucky Volunteer Infantry and he initially served as its quartermaster. He later became its commander. He served as Commander of the Military District of Eastern Kentucky from August 1863 to May 1864. Two months prior to the beginning of the diary, Gallup joined General William Tecumseh Sherman's command during the Atlanta campaign. After the end of the war, Gallup resumed his law practice in Louisa, Kentucky. In recognition of his Civil War service, President Andrew Johnson appointed him Brevet Brigadier General in 1867. He died in 1880 and is buried in Ashland, Kentucky.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The George W. Gallup Civil War diary (dated 1864; 0.05 cubic feet; 1 folder) consists of one diary that documents Gallup's journey to Atlanta as a lieutenant colonel in the Union Army under General Sherman during the Atlanta campaign. The diary begins on July 10, 1864, in which he notes having 2000 miles to go until reaching Atlanta. In the days leading up to the Atlanta campaign, Gallup discusses troop movements, journeying through Macon and Jonesborough, and utilizing the railways. There is heavy detail regarding the day of the Atlanta campaign and the days following. After partaking in the campaign, he concludes his diary in Chattanooga, Tennessee, on his way home to Kentucky. The diary is in fragile condition and should be handled carefully.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>George W. Gallup Civil War diary</unittitle>
+        <unitdate datechar="creation" type="inclusive">1864</unitdate>
+        <container id="aspace_e0167a3235ba5691b2e332883046a0ce" label="mixed materials" type="box">MS-44</container>
+        <container id="aspace_cd58281fe4729f843614d7678d4f91d8" parent="aspace_e0167a3235ba5691b2e332883046a0ce" type="folder">1</container>
+        <dao entityref="xt7cjs9h708g_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

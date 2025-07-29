@@ -1,0 +1,102 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt71ns0kwj4d</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt71ns0kwj4d/data/87m11.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Lillie Chaffin papers (dated 1947-1995, undated; 17.1 cubic feet; 19 boxes) comprise drafts, research materials, correspondence, scrapbooks, and photographs related to the life and work of the writer and poet, Lillie Chaffin.</abstract>
+  <descriptive_summary>
+    <author>Kaylee McMunn</author>
+    <title>Lillie Chaffin papers</title>
+    <source>Lillie Chaffin papers</source>
+    <unitdates>
+      <date>1947-1995, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>17.1 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Appalachian authors</subject>
+      <subject>American poetry -- Women authors.</subject>
+      <subject>Manuscripts, American -- Kentucky.</subject>
+      <subject>Poets, American -- Kentucky.</subject>
+      <subject>Bert T. Combs Appalachian Collection</subject>
+    </subjects>
+    <prefercite>87m11: [identification of item], Lillie Chaffin papers, 1947-1995, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Lillie D. Chaffin was born February 1, 1925, at Varney, Kentucky, to Kenis and Fairybelle Dorton. Lillie began school at age four and graduated eighth grade at twelve. Her family could not afford to send her to high school, but with the school administration's assistance she was able to attend Johns Creek High School in Pikeville. Lillie dropped out of high school to marry Thomas Chaffin in 1942 but resumed her education three years later. After graduating as valedictorian of her class in 1947, Lillie completed her bachelor's degree at Pikeville College. She then began a career in the public school system and devoted 28 years as a teacher and librarian in Kentucky public schools. Lillie moved to Florida in 1981 following the death of her husband, Thomas. There, she met and married Vernon O. Kash, who died in 1985. After being diagnosed with cancer, Lillie joined her son, Thomas, in West Virginia, and died there in October 1993.  </p><p>Early in her teaching career, Lillie began writing poetry and children's stories. Her poetry was featured in journals and anthologies nationwide and in 1963, she published her first children's book, titled <title render="italic">A Garden is Good</title>. In 1967, her poetry anthology <title render="italic">A Stone for Sisyphus</title> earned an award from the International Poetry Society. In 1969, her book <title render="italic">Bear Wheather</title> was named one of the best juvenile books of the year by the New York Times. In 1971, <title render="italic">John Henry McCoy</title> was awarded the annual Best Book for Young Readers Award from the Child Study Association of America. In 1974, her book <title render="italic">Eighth Day Thirteenth Moon</title> was nominated for the Pulitzer Prize. In 1991, she co-edited <title render="italic">God's Plenty: Modern Kentucky Writers</title>, a collection of short fiction, poetry and essays by Kentucky authors.  </p><p>Throughout her writing career, Lillie authored seventeen books of poetry, fiction, and non-fiction for children and adults. She went on to earn a master's degree from Eastern Kentucky University and was named Teacher of the Year and Distinguished alumnus by the university. She was also awarded honorary Doctorate of Letters degrees from both EKU and Pikeville College. In 1996, Morehead State University began the Thomas and Lille D. Chaffin Award, which recognizes outstanding Appalachian authors. Notable recipients of the award include George Ella Lyon, Michael McFee, Michael Chitwood, and James R. Riley. </p><p>Sources:  </p><p>https://pikecountykyhistoricalsociety.com/lillie-d-chaffin/ </p><p>https://kentuckyoralhistory.org/ark:/16417/xt74qr4nnt8p </p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Lillie Chaffin papers (dated 1947-1995, undated; 17.1 cubic feet; 19 boxes) comprise drafts, research materials, correspondence, scrapbooks, and photos related to the life and work of the Kentucky writer. The collection contains drafts of Chaffin's works, reference materials related to workshops and publication, professional correspondence with publishers and agents, personal correspondence with friends and family, Chaffin's journals and notes, and scrapbooks of clippings and pamphlets that review and celebrate Chaffin's life and work. The manuscript series, comprising the bulk of the collection, contains drafts of Chaffin's works. The series is divided into sub-series according to the type of work, following Chaffin's original organization when possible. The professional series contains materials related to Chaffin's teaching and writing career, including workshop notes and handouts, writing and publication reference materials, publicity materials and clippings, and correspondence with publishers and agents. The personal series contains Chaffin's journals, spanning from 1971 to her death in 1993, as well as scrapbook pages, personal correspondence with friends and family, and materials related to family members and Chaffin's personal life. The photograph series contains photos of Chaffin, professional conferences and presentations, and friends and family.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Manuscripts</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" normal="1960/1988" type="inclusive">1960-1988, undated</unitdate>
+      </did>
+      <c id="ref2" level="subseries"/>
+      <c id="ref45" level="subseries"/>
+      <c id="ref52" level="subseries"/>
+      <c id="ref57" level="subseries"/>
+      <c id="ref60" level="subseries"/>
+      <c id="ref63" level="subseries"/>
+    </c>
+    <c id="ref64" level="series">
+      <did>
+        <unittitle>Professional</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" normal="1957/1993" type="inclusive">1957-1993, undated</unitdate>
+      </did>
+      <c id="ref65" level="subseries"/>
+      <c id="ref70" level="subseries"/>
+      <c id="ref74" level="subseries"/>
+      <c id="ref75" level="subseries"/>
+      <c id="ref80" level="subseries"/>
+    </c>
+    <c id="ref83" level="series">
+      <did>
+        <unittitle>Personal</unittitle>
+        <unitid>Series III.</unitid>
+        <unitdate datechar="creation" normal="1953/1995" type="inclusive">1953-1995, undated</unitdate>
+      </did>
+      <c id="ref84" level="subseries"/>
+      <c id="ref85" level="subseries"/>
+      <c id="ref86" level="subseries"/>
+      <c id="ref87" level="subseries"/>
+    </c>
+    <c id="ref88" level="series">
+      <did>
+        <unittitle>Photographs</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitdate datechar="creation" normal="1942/1987" type="inclusive">1942-1987, undated</unitdate>
+      </did>
+      <c id="ref89" level="subseries"/>
+      <c id="ref90" level="subseries"/>
+      <c id="ref91" level="subseries"/>
+    </c>
+  </contents>
+</header>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt7crj48sg14">2009ms132.0454</eadid><filedesc><titlestmt><titleproper type="filing">Women's travel diary</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: Women's travel diary, 1924, 1949-1950 <num>2009ms132.0454</num></titleproper><author>Sarah Coblentz</author><sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2019 May 21</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-06-03 09:30:43 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: Women's travel diary</unittitle>
+    <unitid>2009ms132.0454</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/3108</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.06 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1924/1950" type="inclusive">1924, 1949-1950</unitdate>
+    <abstract id="aspace_f1e677cce9619122f043998e9e5776e6">The Women's travel diary (dated 1924, 1949-1950; 0.06 cubic feet; 1 folder) comprises a travel diary that documents the European trips taken by unidentified women in the early and mid-twentieth century.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_c9e98a284c4bb4c4b00d5f80b6fec327">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_b029c8dde6792e667aeeda5011e5ebab">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_6b1ba886ac7626163755a44c817a36ef">
+    <head>Arrangement</head>
+<p>Collection is arranged by subject. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_c165b41d5cd3eed5362b145a07aefe10">
+    <head>Biographical note</head>
+<p>No biographical information available on the women.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_1ac95924cb02bda423e80dcbc473112e">
+    <head>Preferred Citation</head>
+<p>2009ms132.0454: [identification of item], Wade Hall Collection of American Letters: Women's travel diary, 1924, 1949-1950, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_d7f86ccf32fdaca8b1743479479eb04e">
+    <head>Scope and Contents</head>
+<p>The Women's travel diary (dated 1924, 1949-1950; 0.06 cubic feet; 1 folder) comprises a travel diary that documents the European trips taken by unidentified women in the early and mid-twentieth century. The 1924 journey covered Italy, Switzerland, Belgium, France, the Netherlands, and Scotland. The woman wrote about the people she encountered on the ship to Europe, the qualities of the cities and hotels stayed in, her opinions on local food. She also frequently compared the cities to the United States. In some of the entries, the diary discusses the history behind sites she visited, including the Lion of Lucerne, various churches in Italy, the Louvre, and The Hague. The 1949-1950 trip seems to be written by a different woman, many of the pages documenting the trip are torn out, only the last three pages remain which detail the woman's return to the United States and difficulties getting through customs.</p><p>The Women's travel diary is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.  </p>  </scopecontent>
+  <userestrict id="aspace_32b691028cb2ff5a9884155f782f6038">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Diaries -- 20th century</subject>
+    <geogname source="lcsh">Belgium -- Description and travel.</geogname>
+    <geogname authfilenumber="sh 85045661" source="lcsh">Europe -- Description and travel.</geogname>
+    <geogname source="lcsh">France</geogname>
+    <geogname source="lcsh">Italy</geogname>
+    <geogname source="lcsh">Netherlands (Holland)</geogname>
+    <subject source="lcsh">Ocean travel</subject>
+    <geogname source="lcsh">Scotland</geogname>
+    <geogname source="lcsh">Switzerland.</geogname>
+    <subject source="lcsh">Travel costs.</subject>
+    <subject source="lcsh">Travel -- Personal narratives.</subject>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Travel diary</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/743388</unitid><unitdate datechar="creation" type="inclusive">1924, 1949-1950</unitdate><container id="aspace_270887d74747ee4f5b74b91f2ef08108" label="mixed materials" type="box">WH-27</container><container id="aspace_1387730c37b447d0750e84ef4204b624" parent="aspace_270887d74747ee4f5b74b91f2ef08108" type="folder">5</container><dao entityref="xt7crj48sg14_1_1"/></did></c></dsc>
+</archdesc>
+</ead>

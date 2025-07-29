@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt7bvq2s7g37">2009ms132.0238</eadid><filedesc><titlestmt><titleproper type="filing">Ulrich, Antonio M. prisoner of war recipe book</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: Antonio M. Ulrich prisoner of war recipe book, 1944-1945 <num>2009ms132.0238</num></titleproper><author>Sarah Coblentz</author><sponsor>Processing and digitization made possible by the National Endowment for the Humanities.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2018 October 29</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-29 11:31:25 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: Antonio M. Ulrich prisoner of war recipe book</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Ulrich, Antonio M., 1918-1982</persname>
+    </origination>
+    <unitid>2009ms132.0238</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.04 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate>
+    <abstract id="aspace_4a18d1d25549dbba0855ea15bcd3789a">The Antonio M. Ulrich prisoner of war recipe book collection (dated 1944-1945; 0.044 cubic feet; 1 folder) comprises one book of recipes compiled by Antonio Ulrich and other prisoners at the Zentsuji prisoner of war camp during World War II.</abstract>
+    <physloc id="aspace_beaa795f28adc46ccc228366ae879365">Housed with multiple collections.</physloc>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_98cbfb19e5f9fe8ffd5bf8c4425791c4">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_bdd379d867d25c72f3b6b33c514a3567">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_5c1bdb9ef70f9ffd18a1b6023c4f4ab8">
+    <head>Arrangement</head>
+<p>Collection is arranged by format. The Wade Hall Collection of American Letters has been processed into discrete series based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_f9da57e6f57d3a7d0bdb699aa58ab16d">
+    <head>Biographical note</head>
+<p>Antonio Munroe Ulrich (1918-1982) was born in Chester Del, Pennsylvania and adopted by Dr. Katharine Warner Ulrich (1870-1936). In 1940, Ulrich married Joanne Clark (1922-1980), whom he met when they were students at Fishburne Military School and Fairfax Hall respectively. Antonio and Joann Ulrich had three children: Clara Anne, Katherine, and F. Thomas Ulrich. Ulrich enlisted in the US Army in 1941, serving as a 2nd Lieutenant during World War II. He was a part of the Luzon Force, and was captured by the Japanese in April or May 1942. Ulrich would spend the remainder of the war in at least three Japanese prisoner of war [POW] camps, Osaka (Chikko), Zentsuji, and Rokuroski; finally being released around October 1945. Ulrich was a survivor of the Bataan Death March. </p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_dd622ea7ecdd29a8084c7b192bb4bc94">
+    <head>Preferred Citation</head>
+<p>2009ms132.0238: [identification of item], Wade Hall Collection of American Letters: Antonio M. Ulrich prisoner of war recipe book, 1944-1945, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_35a7e77484610d071a144949e75f8325">
+    <head>Scope and Contents</head>
+<p>The Antonio M. Ulrich prisoner of war recipe book (dated 1944-1945; 0.04 cubic feet; 1 folder) comprises one book of recipes compiled by Antonio Ulrich and other prisoners at the Zentsuji POW Camp during World War II. The recipes in the book include breads, chili, corn pone, and a variety of sweets and desserts. There is also a list of <emph render="doublequote">one days meals at home</emph>, special dinners for celebrations, a Maine shore dinner, foods to try, sandwich spreads, where specific food can be purchased, and a list of places to eat across the United States. There is also a loose-leaf set of recipes, mainly cookies, cakes, and sweet breads, and a pictorial from Newsweek detailing how Zentsuji was used as a propaganda camp. </p><p>The Antonio M. Ulrich prisoner of war recipe book is part of the Wade Hall Collection of American letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.  </p>  </scopecontent>
+  <userestrict id="aspace_a152de8293b9c885059fcf18656a50c6">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Bataan Death March, Philippines, 1942</subject>
+    <subject source="lcsh">Cookbooks.</subject>
+    <subject source="lcsh">Recipes.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Prisoners and prisons.</subject>
+    <subject authfilenumber="sh 85148273" source="lcsh">World War, 1939-1945.</subject>
+    <persname rules="rda" source="local">Ulrich, Antonio M., 1918-1982</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_7542a6809bf7e992ea4d70a20513e20b" level="file"><did><unittitle>Antonio M. Ulrich Prisoner of war recipe book</unittitle><unitdate datechar="creation" type="inclusive">1944-1945</unitdate><container id="aspace_14145380309694080a9f3ca15dcf98c6" label="mixed materials" type="box">267</container><container id="aspace_12cf0ce91350dee453f91d638c8ec297" parent="aspace_14145380309694080a9f3ca15dcf98c6" type="folder">5</container><dao entityref="xt7bvq2s7g37_1_1"/></did></c01></dsc>
+</archdesc>
+</ead>

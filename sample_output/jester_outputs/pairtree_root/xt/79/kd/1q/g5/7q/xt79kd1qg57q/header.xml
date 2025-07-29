@@ -1,0 +1,64 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt79kd1qg57q</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt79kd1qg57q/data/94m1.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The William Elsey Connelley manuscript (dated 1920-1929; 0.23 cubic feet; 1 box) consists of an unpublished novel manuscript by William Elsey Connelley, titled Guerre a Mort or MacGregor of the Kentucky Hills.</abstract>
+  <descriptive_summary>
+    <author>Revised and encoded by Jesse Nau</author>
+    <title>William Elsey Connelley manuscript</title>
+    <source>William Elsey Connelley manuscript</source>
+    <unitdates>
+      <date>1920-1929 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Appalachian authors</subject>
+      <subject>Appalachian Region, Southern -- Fiction.</subject>
+      <subject>Kentucky -- History -- Fiction.</subject>
+      <subject>Bert T. Combs Appalachian Collection</subject>
+      <subject>Kentucky Authors Collection</subject>
+    </subjects>
+    <prefercite>94m1: [identification of item], William Elsey Connelley manuscript, 1920-1929, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>William Elsey Connelley (March 15, 1855-June 1930) was born in Johnson County, Kentucky. Despite being self-educated, he worked as a schoolteacher in Johnson County from 1872-1880. In 1880, he moved to Wyanotte, Kansas where he worked as a farmer, teacher, lawyer and businessman. After developing an interest in historical research, Connelley wrote a number of historical texts and became president of the Kansas State Historical Society in 1912. He went on to serve as its secretary from 1914 till his death in 1930. Connelley's published works include <title>The Provisional Government of Nebraska Territory</title> (1899), <title>Life of John J. Ingalls</title> (1903), <title>Quantrill and the Border Wars</title> (1909), <title>Eastern Kentucky Papers</title> (1910), <title>Life of Preston Plumb</title> (1913), <title>History of Kansas</title> (1917), <title>History of Kentucky</title> (1922) and <title>Indian Myths</title> (1928). Connelley continued to write and publish historical and anthropological books and journal articles throughout his life.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The William Elsey Connelley manuscript (dated 1920-1929; 0.23 cubic feet; 1 box) consists of an unpublished novel manuscript by William Elsey Connelley, titled <title render="italic">Guerre a Mort</title> or <title render="italic">MacGregor of the Kentucky Hills</title>.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle><title render="italic">Guerre a Mort</title> or <title render="italic">MacGregor of the Kentucky Hills</title></unittitle>
+        <unitdate datechar="creation" type="inclusive">1920-1929</unitdate>
+        <container id="aspace_801c3c3dfd5cc93b0945aadca55a02ef" label="mixed materials" type="box">1</container>
+        <container id="aspace_8b40b62bd3a79a01924edbecc7ee1a6a" parent="aspace_801c3c3dfd5cc93b0945aadca55a02ef" type="item">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

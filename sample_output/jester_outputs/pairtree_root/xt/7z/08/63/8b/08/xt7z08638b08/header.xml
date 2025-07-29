@@ -1,0 +1,62 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7z08638b08</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7z08638b08/data/2021ms006.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The 19th century handwritten recipe book (circa 1880; 0.1 cubic feet; 1 folder) comprises one small 54 page notebook that contains personal recipes and homekeeping notes from an unknown Kentucky household.</abstract>
+  <descriptive_summary>
+    <author>Bri Grimsley</author>
+    <title>19th century handwritten recipe book</title>
+    <source>19th century handwritten recipe book</source>
+    <unitdates>
+      <date>circa 1880 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.01 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Cookbooks.</subject>
+      <subject>Cooking -- Kentucky.</subject>
+      <subject>Recipes.</subject>
+    </subjects>
+    <prefercite>2021ms006; [identification of item], 19th century handwritten recipen book, circa 1880, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>Although the author and date of the book are unknown, the author is a Kentucky woman with an interest in cooking and homekeeping from the latter part of the 19th century.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The 19th century handwritten recipe book (circa 1880; 0.1 cubic feet; 1 folder) comprises one small 54 page notebook that contains personal recipes and homekeeping notes from an unknown Kentucky household. The book contains recipes for meat, soups, pickles, cakes, and puddings. There is also a recipe and instructions for disinfectant.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>19th century handwritten recipe book</unittitle>
+        <unitdate datechar="creation" type="inclusive">circa 1880</unitdate>
+        <container id="aspace_adcac4a5faa38c91afdd5f357ef3e172" label="mixed materials" type="box">MS-49</container>
+        <container id="aspace_01eee27e2b2036d958275ed3c9cc5023" parent="aspace_adcac4a5faa38c91afdd5f357ef3e172" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

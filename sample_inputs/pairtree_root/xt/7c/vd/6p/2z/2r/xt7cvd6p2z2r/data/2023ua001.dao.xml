@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2023ua001</eadid><filedesc><titlestmt><titleproper type="filing">Gleason, Howard Sherman State College photograph album, 1901</titleproper><titleproper>Guide to the Howard Sherman Gleason State College photograph album 1901 <num>2023ua001</num></titleproper><author>Ruth E. Bryan</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 February 2</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-10 16:19:22 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Howard Sherman Gleason State College photograph album</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Gleason, Howard Sherman, 1880-1913</persname>
+    </origination>
+    <unitid>2023ua001</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.7 Cubic Feet</extent>
+      <extent altrender="carrier">1 flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+    <abstract id="aspace_21abea1240902549e23e5592ac45bc01">The Howard Sherman Gleason State College photograph album (dated 1901; 0.7 cubic feet; 1 flat box) comprises an album of photographs taken by State College (Lexington, Kentucky) undergraduate student Howard Sherman Gleason during the 1901 academic year.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_0fe66b5c752f5cf2ab4ccb200267a06a">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <acqinfo id="aspace_01c3447b58b7230445f776f0914f8e1e">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2023</p>  </acqinfo>
+  <bioghist id="aspace_2cc6f810ea3089eeea543e6a8abd6c9b">
+    <head>Biographical Note</head>
+<p>Howard <emph render="doublequote">Harry</emph> Sherman Gleason was born on February 18, 1880, in Louisville, Kentucky. His parents were Joseph Meade Gleason (1843–1908) and Mary Howard Miles. He graduated from State College, Lexington, Kentucky, in civil engineering and was a member of the Kappa Sigma fraternity. He married Ruth Crook Norris (1880-1943) on October 24, 1911, in St. Louis, Misouri. He died on October 25, 1913, in Jefferson, Kentucky. His family included his stepson Spencer W. Norris II. </p><p>Source: 
+1. Biographical information sheet supplied by donor. 
+2. Ancestry.com</p>  </bioghist>
+  <prefercite id="aspace_bb6be9788d8e1c90726fda68bfe86552">
+    <head>Preferred Citation</head>
+<p>2023ua001 : [identification of item], Howard Sherman Gleason State College photograph album, 1901, University of Kentucky Libraries Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_3707c21f81f6253479daeedf0e4910f4">
+    <head>Scope and Contents</head>
+<p>The Howard Sherman Gleason State College photograph album (dated 1901; 0.7 cubic feet; 1 flat box) comprises an album of photographs taken by State College (Lexington, Kentucky) undergraduate student Howard Sherman Gleason during the 1901 academic year. Includes photographs of the campus; exterior and interior of the mechanical/engineering buildings and laboratories; as well as other classroom, laboratory, and residence hall interiors; individual men and women students (including Gleason); military drills; and groups of students at social, sporting, or leisure events. Some of the photograph locations or buildings are identified, but many are not. None of the people are identified. Many of the images are faded or overexposed. Includes a photograph of two men each holding a camera; a photograph titled, <emph render="doublequote">Heroes of the Broom</emph> showing three unidentified African American men sitting on steps, perhaps State College janitors, each holding a broom and dustpan; and a photograph of a young man dressed in women's clothing posed with a young man dressed in men's clothing.</p>  </scopecontent>
+  <userestrict id="aspace_d691227ac2206821682d856a85882efd">
+    <head>Conditions Governing Use</head>
+<p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">College students -- Kentucky -- Lexington</subject>
+    <subject source="lcsh">College students -- Social life and customs</subject>
+    <subject authfilenumber="https://lccn.loc.gov/sh2008101189" source="lcsh">College students -- United States -- Conduct of Life</subject>
+    <subject source="local">State universities and colleges -- Kentucky</subject>
+    <genreform source="lcsh">Photograph albums.</genreform>
+    <persname rules="dacs" source="local">Gleason, Howard Sherman, 1880-1913</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_c93a062a965243d4323a87f983ddc612" level="item"><did><unittitle>Howard Sherman Gleason photograph album</unittitle><unitdate datechar="creation" type="inclusive">1901</unitdate><container id="aspace_96bcac2ca1bb661171dfa950634a25b2" label="graphic materials" type="box">1</container><dao entityref="xt7cvd6p2z2r_1_1"/></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,118 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7jws8hj07m</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7jws8hj07m/data/2012ms798.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Horse and livestock collection (dated 1884-circa 1955; 0.05 cubic feet; 1 folder) comprises breeding notices, Jockey Club certificates, and receipts that document select Thoroughbred, Standardbred, Saddlebred, and Jack mule breeding in Kentucky from the late 1800s to the 1930s.</abstract>
+  <descriptive_summary>
+    <author>Carol Street</author>
+    <title>Horse and livestock collection</title>
+    <source>Horse and livestock collection</source>
+    <unitdates>
+      <date>1884-circa 1955 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.05 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Standardbred horse</subject>
+      <subject>Standardbred horse -- Breeding -- Kentucky</subject>
+      <subject>Thoroughbred horse.</subject>
+      <subject>Thoroughbred horse -- Breeding -- Kentucky</subject>
+    </subjects>
+    <prefercite>2012ms798: Horse and livestock collection, 1884-circa 1955, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>Horse breeding has a long history in Kentucky, and includes the breeding of Thoroughbreds and Standardbreds for racing, as well as many other equine breeds. A stallion is said to be standing at stud when he is offered to visiting mares for reproductive purposes. Stallion owners advertised their services through printed cards listing the stallion's physical qualities, lineage, and successful racing history.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Horse and livestock collection (dated 1884-circa 1955; 0.05 cubic feet; 1 folder) comprises breeding notices, Jockey Club certificates, and receipts that document select Thoroughbred, Standardbred, Saddlebred, and Jack mule breeding in Kentucky from the late 1800s to the 1930s. The stallion breeding notices typically contain extensive lineage information about each stallion. The finding aid reflects the name of the stallion and the farm where he stood, as well the names of his sire and dam, if the information is located on the card. In addition, the collection contains a public sale notice that primarily features cattle and oxen, a receipt from a Boston livery and sale stable from 1884, and a guide to registering Illinois Thoroughbreds that is undated, but appears to be from around 1955.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Receipts, sales notice, and advertisement</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">1884-circa 1900</unitdate>
+      </did>
+      <c id="ref2" level="item"/>
+      <c id="ref3" level="item"/>
+      <c id="ref4" level="item"/>
+      <c id="ref5" level="item"/>
+    </c>
+    <c id="ref6" level="series">
+      <did>
+        <unittitle>Breeding notices</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1888-1912</unitdate>
+      </did>
+      <c id="ref7" level="item"/>
+      <c id="ref8" level="item"/>
+      <c id="ref9" level="item"/>
+      <c id="ref10" level="item"/>
+      <c id="ref11" level="item"/>
+      <c id="ref12" level="item"/>
+      <c id="ref13" level="item"/>
+      <c id="ref14" level="item"/>
+      <c id="ref15" level="item"/>
+      <c id="ref16" level="item"/>
+      <c id="ref17" level="item"/>
+      <c id="ref18" level="item"/>
+      <c id="ref19" level="item"/>
+      <c id="ref20" level="item"/>
+      <c id="ref21" level="item"/>
+    </c>
+    <c id="ref22" level="series">
+      <did>
+        <unittitle>Jockey Club certificates</unittitle>
+        <unitid>Series III.</unitid>
+        <unitdate datechar="creation" type="inclusive">1930-1933</unitdate>
+      </did>
+      <c id="ref23" level="item"/>
+      <c id="ref24" level="item"/>
+      <c id="ref25" level="item"/>
+      <c id="ref26" level="item"/>
+      <c id="ref27" level="item"/>
+    </c>
+    <c id="ref28" level="item">
+      <did>
+        <unittitle>Woolford Farms letter with photograph of Insco</unittitle>
+        <unitdate datechar="creation">1938</unitdate>
+        <container id="aspace_9151acb4f4e424c8f5352986aee8930d" label="mixed materials" type="box">MS-10</container>
+        <container id="aspace_a7fa73c5bdb4eba36845c6c09d0145a7" parent="aspace_9151acb4f4e424c8f5352986aee8930d" type="folder">1</container>
+        <container id="aspace_be42d37772aeaa72bc1d1c329d17d2c5" parent="aspace_a7fa73c5bdb4eba36845c6c09d0145a7" type="item">26</container>
+      </did>
+    </c>
+    <c id="ref29" level="item">
+      <did>
+        <unittitle>Illinois Thoroughbreds registration procedure rules and regulations pamphlet</unittitle>
+        <unitdate datechar="creation" type="inclusive">circa 1955</unitdate>
+        <container id="aspace_edbb9a9ca5de9d59fcb3b0d33e781663" label="mixed materials" type="box">MS-10</container>
+        <container id="aspace_9453254355dc384e41bcea95e1c082f0" parent="aspace_edbb9a9ca5de9d59fcb3b0d33e781663" type="folder">1 </container>
+        <container id="aspace_3e9301ebfe89315aa830c944ea3192ce" parent="aspace_9453254355dc384e41bcea95e1c082f0" type="item">27</container>
+      </did>
+    </c>
+  </contents>
+</header>

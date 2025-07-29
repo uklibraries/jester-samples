@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt70zp3vx247">1997MS324</eadid><filedesc><titlestmt><titleproper type="filing">Dagley, Iva Scrapbook</titleproper><titleproper>Guide to the Iva Dagley Scrapbook, 1908-1924 <num>1997MS324</num></titleproper><author>Darby Matusz</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 February 8</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-30 14:24:33 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Iva Dagley scrapbook</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Dagley, Iva, 1898-1982</persname>
+    </origination>
+    <unitid>1997MS324</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/4199</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.17 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1908/1924" type="inclusive">1908-1924</unitdate>
+    <abstract id="aspace_59962b6d6aab82ffc8ff87fd3cf65b7d">The Iva Dagley scrapbook (dated 1908-1924; 0.17 cubic feet; 1 box) contains playbills, concert tickets, and programs from church services, opera houses, choir recitals, and various commencement ceremonies from Kentucky and other places.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_4ef001b602569976b67bbefd9994bdfb">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_db627fc004c2c808682ad45376200cfd">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 1985.</p>  </acqinfo>
+  <arrangement id="aspace_e4f2de844800e4455ef81095a22dc214">
+    <head>Arrangement</head>
+<p>Collection is arranged by format.</p>  </arrangement>
+  <bioghist id="aspace_bb268834cef0f4982cf4c49db61aaf64">
+    <head>Biographical note</head>
+<p>Iva Dagley was born in September 1898 in Kentucky. She taught langagues at Millersburg College before receiving a scholarship to study music in Paris, France. She performed as a rising opera singer at the New York Metropolitan Opera until the Great Depression sent her back to Lexington where she taught music at the University of Kentucky and later Henry Clay High School.</p><p>Iva Dagley lived at Aylesford (Elley Villa) at 320 Linden Walk in Lexington. Aylesford house was built in 1851 and used as a hospital during the Civil War. She had no family and rented the unused upstairs bedrooms to college students. Iva died in February 1982 and was buried in the Lexington Cemetery. She had no surviving relatives, and left a trust for a scholarship to go to a Henry Clay student majoring or minoring in a world language. This $2,000 scholarship is only given out every 4 years and is renewable each year as long as the student continues their studies in a world language.</p>  </bioghist>
+  <prefercite id="aspace_314fd202b687bf364192a7daacd4d9f2">
+    <head>Preferred Citation</head>
+<p>1997MS324: [identification of item], Iva Dagley scrapbook, 1908-1924, University of Kentucky Libraries Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_7b5c19289773dda09a1547bacdb23dc8">
+    <head>Scope and Contents</head>
+<p>The Iva Dagley scrapbook (dated 1908-1924; 0.17 cubic feet, 1 box) contains playbills, concert tickets, and programs from church services, opera houses, choir recitals, and various commencement ceremonies from Kentucky and other places. Local programs document the appearance of Sarah Bernhardt at the Lexington Opera House and John Philip Sousa and his band at the Lexington Auditorium (1908). The collection also includes programs from the National Theatre in Washington D.C. with feature appearances by Rachmaninoff, George Arliss, and Billie Burke.</p>  </scopecontent>
+  <userestrict id="aspace_087a3efdfc84bfe8e9affb4243ad1d68">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Concerts -- Kentucky -- Lexington.</subject>
+    <genreform authfilenumber="gf2014026065" source="lcsh">Concert programs.</genreform>
+    <subject source="lcsh">Opera programs</subject>
+    <subject authfilenumber="sh 93005169" source="lcsh">Programs.</subject>
+    <subject source="lcsh">Theater -- Kentucky -- Lexington.</subject>
+    <subject source="lcsh">Theater -- 20th century</subject>
+    <persname rules="rda" source="local">Dagley, Iva, 1898-1982</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_c9ca55df51966dbaf9c07c58ecabe69d" level="item"><did><unittitle>Scrapbook</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/940595</unitid><unitdate datechar="creation" type="inclusive">1908-1924</unitdate><container id="aspace_2b04638c94fa06088aab5e6bb15ba6e6" label="mixed materials" type="box">1</container><container id="aspace_d127ac403f06b830fde303cfe7edd6a2" parent="aspace_2b04638c94fa06088aab5e6bb15ba6e6" type="item">1</container></did></c01></dsc>
+</archdesc>
+</ead>

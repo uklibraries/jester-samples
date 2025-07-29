@@ -1,0 +1,65 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7z8w38440f</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7z8w38440f/data/2012ms769.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Winfield Scott for President broadside (dated 1852; 0.01 cubic feet; 1 item) comprises a Winfield Scott for President broadside including quotes from Winfield Scott and a list of the district electors for Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Ash Pechon</author>
+    <title>Winfield Scott for President broadside</title>
+    <source>Winfield Scott for President broadside</source>
+    <unitdates>
+      <date>1852</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.01 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Elections -- Kentucky.</subject>
+      <subject>Presidential candidates -- United States -- 19th Century.</subject>
+      <subject>Public policy and politics</subject>
+      <subject>Whig Party</subject>
+    </subjects>
+    <prefercite>2012ms769: [identification of item], Winfield Scott for President broadside, 1852, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Winfield Scott (1786-1866) was born on a plantation in Virginia to Ann Mason and William Scott.  He initially persued law as a profession before joining the United States military in 1807.  Scott had attained the rank of brevet major general by 1815 for his service in the War of 1812.  He led the force which started the Trail of Tears in 1838, forcing Cherokees off their lands in Georgia.  Scott became the Commanding General of the United States Army in 1841 and retained his role until his retirement from the military in 1861.</p><p>After three unsuccessful campaigns for the Whig presidential nomination, Winfield Scott won the nomination in 1852.  Scott was not a popular candidate, and his defeat by the Democratic Franklin Pierce was the worst loss in Whig history.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Winfield Scott for President broadside (dated 1852; 0.01 cubic feet; 1 item) comprises a Winfield Scott for President broadside including quotes from Winfield Scott and a list of the district electors for Kentucky.  Scott ran as a member of the Whig party with William A. Graham as his vice president.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Winfield Scott for President broadside
+    </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/925601</unitid>
+        <unitdate datechar="creation">1852</unitdate>
+        <container id="aspace_a89ce96998aa5a704c7d14fd078f5ac5" label="mixed materials" type="box">MS-10</container>
+        <container id="aspace_980e0830ed8eb270832fce7966bded5f" parent="aspace_a89ce96998aa5a704c7d14fd078f5ac5" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

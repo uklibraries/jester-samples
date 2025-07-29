@@ -1,0 +1,78 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7ttd9n693w</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7ttd9n693w/data/2009ms132.0655.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Shirley Gill Pettus travel diary (dated 1929; 0.04 cubic feet; 1 folder) comprises one diary that documents a trip abroad taken by Shirley Gill Pettus to Europe in 1929.</abstract>
+  <descriptive_summary>
+    <author>Sarah Coblentz</author>
+    <title>Wade Hall Collection of American Letters: Shirley Gill Pettus travel diary</title>
+    <source>Wade Hall Collection of American Letters: Shirley Gill Pettus travel diary</source>
+    <unitdates>
+      <date>1929 (inclusive)</date>
+    </unitdates>
+    <creator>Pettus, Shirley Gill, 1895-1978</creator>
+    <extent>0.04 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</arrangement>
+    <subjects>
+      <subject>Diaries.</subject>
+      <subject>Diaries -- 20th century</subject>
+      <subject>Travel.</subject>
+      <subject>Ocean travel</subject>
+      <subject>Europe</subject>
+      <subject>Europe -- Description and travel.</subject>
+      <subject>Scotland</subject>
+      <subject>England.</subject>
+      <subject>Belgium -- Description and travel.</subject>
+      <subject>Germany.</subject>
+      <subject>Switzerland.</subject>
+      <subject>Italy</subject>
+      <subject>France</subject>
+      <subject>Tourism and museum</subject>
+      <subject>Friendship.</subject>
+      <subject>Hotels.</subject>
+      <subject>Pettus, Shirley Gill, 1895-1978</subject>
+    </subjects>
+    <prefercite>2009ms132.0655: [identification of item], Wade Hall Collection of American Letters: Shirley Gill Pettus travel diary, 1929, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Shirley Gill Pettus (1895-1978) was born in Louisville, Kentucky to Joseph Pettus (1844-1925) and Harriet Mitchell (1860-1946). Shirley worked as a high school teacher, remaining in Louisville her entire life and never married.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Shirley Gill Pettus travel diary (dated 1929; 0.04 cubic feet; 1 folder) comprises one diary that documents a trip abroad taken by Shirley Gill Pettus to Europe in 1929. In the diary, Pettus listed the hotels she stayed at, her friends and persons she met on her trip, and which ship she sailed on to reach Europe. Her entries include descriptions of the ship - her opinions on her lodgings, the food, and company had while onboard. Once in Europe, her tour takes her to Scotland, England, Belgium, Germany, Switzerland, Italy, and France. Pettus details the sights she visited, museums toured, riding trams, meals they ate, friends they met along the way, and opinions of the different cities they visited. Pettus provides good details of the antics she and her friends get up to while traveling to, through, and back from Europe.</p><p>The Shirley Gill Pettus travel diary collection is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Shirley Gill Pettus travel diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/760881</unitid>
+        <unitdate datechar="creation" type="inclusive">1929</unitdate>
+        <container id="aspace_54cffa93ab77fa35af0506f3a8690f5a" label="mixed materials" type="box">WH-64</container>
+        <container id="aspace_17aa216126fed611b6c63dba2aa0d19a" parent="aspace_54cffa93ab77fa35af0506f3a8690f5a" type="folder">10</container>
+        <dao entityref="xt7ttd9n693w_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2021ms031</eadid><filedesc><titlestmt><titleproper type="filing">Reid, James letter</titleproper><titleproper>Guide to the James Reid letters, 1790 February-May <num>2021ms031</num></titleproper><author>Megan Mummey</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2022 June 13</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-06-13 16:52:46 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>James Reid letters</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Reid, James</persname>
+    </origination>
+    <unitid>2021ms031</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.05 Cubic Feet</extent>
+      <extent altrender="carrier">2 items</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1790-02/1790-05" type="inclusive">1790 February-May</unitdate>
+    <abstract id="aspace_aa1191887f700fbba26dea60bacde8ec">The James Reid letters (dated 1790 February-May; 0.05 cubic feet; 2 items) consist of two letters from James Reid  to his wife Mary Reid concerning his arrival in Kentucky and his attempts at homesteading.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_a75e71b172932ee9c5e98f333759acec">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <bioghist id="aspace_0541d519514ee2bc4a0aa695527a749d">
+    <head>Biographical note</head>
+<p>James Reid of New York homesteaded in Kentucky in 1790 and was married to Mary Reid.</p>  </bioghist>
+  <prefercite id="aspace_86f7c28060c032fd2f27380869d1a26c">
+    <head>Preferred Citation</head>
+<p>2021ms031: [identification of item], James Reid letters, 1790 February-May, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_4494b7f3de097c471d975dfcf260e272">
+    <head>Scope and Contents</head>
+<p>The James Reid letters (dated 1790 February-May; 0.05 cubic feet; 2 items) consist of two letters from James Reid  to his wife Mary Reid concerning his arrival in Kentucky and his attempts at homesteading. His letters describe his journey to Kentucky, his lost luggage, the construction of his house, and his current business partnership.</p>  </scopecontent>
+  <userestrict id="aspace_8538fdae7718a0e6a13c9c1ccc492990">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Kentucky -- History -- To 1792.</geogname>
+    <persname rules="rda" source="local">Reid, James</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>James Reid letters</unittitle><unitdate datechar="creation" type="inclusive">1790 February-May</unitdate><container id="aspace_c3ca7a68a79744b71fc413b34ee757cb" label="mixed materials" type="box">MS-49</container><container id="aspace_c447508e5a5001b97c5fefff2f09eb46" parent="aspace_c3ca7a68a79744b71fc413b34ee757cb" type="folder">1</container></did></c></dsc>
+</archdesc>
+</ead>

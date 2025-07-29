@@ -1,0 +1,404 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7k9882p114</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7k9882p114/data/2024av004.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Hyden, Kentucky, lantern slide collection (dated 1895-1903; 0.14 cubic feet; 35 items) comprise glass lantern slides that document Hyden, Kentucky, landscapes and individuals around the turn of the 20th century.</abstract>
+  <descriptive_summary>
+    <author>Kaylee McMunn</author>
+    <title>Hyden, Kentucky, lantern slides collection</title>
+    <source>Hyden, Kentucky, lantern slides collection</source>
+    <unitdates>
+      <date>1895-1903 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.14 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject.</arrangement>
+    <subjects>
+      <subject>Appalachian Region.</subject>
+      <subject>Hyden (Ky.)</subject>
+      <subject>Lantern slides</subject>
+    </subjects>
+    <prefercite>2024av004 : [identification of item], Hyden, Kentucky, lantern slides collection, 1895-1903, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Hyden, seat of Leslie County, Kentucky, was founded in 1878 and named for state Senator John Hyden (1814-1883). Leslie County, organized from parts of Clay, Harlan and Perry Counties in 1878, is named for former Governor Preston H. Leslie. In 1928, the Frontier Nursing Service, under the leadership of Mary Breckenridge, built and dedicated the Hyden Hospital. In the 1930s, multiple schools and a library were built in Hyden as part of the Works Progress Administration (WPA) efforts in Kentucky.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Hyden, Kentucky, lantern slide collection (dated 1895-1903; 0.14 cubic feet; 35 items) comprises glass lantern slides that document Hyden, Kentucky, landscapes and individuals around the turn of the 20th century. Many slides depict scenes from Hyden, Kentucky, as well as nearby <emph render="doublequote">Hell for Sartin/Certain</emph>. The slides depicting Hyden buildings and schools provide a glimpse of the town before WPA changes and additions in the 1930s. Some slides are labeled, identifying places and people's names. No details are known about the photographer.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>A.H. Lindsay portrait</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000122</unitid>
+        <unitdate datechar="creation" normal="1895/1895">1895</unitdate>
+        <container id="aspace_2a97ea62bf47badeb91a1e5cbc22e83d" label="graphic materials" type="box">1</container>
+        <container id="aspace_b4d8d4d39b15c8c47a2d5642dc4e5e5b" parent="aspace_2a97ea62bf47badeb91a1e5cbc22e83d" type="item">1</container>
+        <dao entityref="xt7k9882p114_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Aerial view from South Hill, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000123</unitid>
+        <unitdate datechar="creation" normal="1896/1896">1896</unitdate>
+        <container id="aspace_4def7ad9923b810aa9ff30843de33e23" label="graphic materials" type="box">1</container>
+        <container id="aspace_5e53079e40a5cb12271fb02ffb44c898" parent="aspace_4def7ad9923b810aa9ff30843de33e23" type="item">2</container>
+        <dao entityref="xt7k9882p114_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle>Aerial view of town and creek, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000124</unitid>
+        <unitdate datechar="creation" normal="1898/1898">1898</unitdate>
+        <container id="aspace_be34c2825f7a205ef097bedb6b6ff6ad" label="graphic materials" type="box">1</container>
+        <container id="aspace_3843a70a0bafc5611d37cf80327cb7ca" parent="aspace_be34c2825f7a205ef097bedb6b6ff6ad" type="item">3</container>
+        <dao entityref="xt7k9882p114_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="item">
+      <did>
+        <unittitle>Bridge over creek, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000125</unitid>
+        <unitdate datechar="creation" normal="1898/1898">1898</unitdate>
+        <container id="aspace_28756fbe41aa5c0b89b0955ff7df65e0" label="graphic materials" type="box">1</container>
+        <container id="aspace_ff2c2c7d5e65e39f1c1c3fcb18fd4a40" parent="aspace_28756fbe41aa5c0b89b0955ff7df65e0" type="item">4</container>
+        <dao entityref="xt7k9882p114_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="item">
+      <did>
+        <unittitle>Buildings in Hyden, Kentucky; hotel, parsonage, and church</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000126</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_3d794bb6b2ef0ac71d3b3f628338cd2c" label="graphic materials" type="box">1</container>
+        <container id="aspace_22e7b0758478b56fc9acb7d7f63236c1" parent="aspace_3d794bb6b2ef0ac71d3b3f628338cd2c" type="item">5</container>
+        <dao entityref="xt7k9882p114_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="item">
+      <did>
+        <unittitle>Eversole Hotel, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000127</unitid>
+        <unitdate datechar="creation" normal="1898/1898">1898</unitdate>
+        <container id="aspace_4deb79def6d6432dffe4eadf885cfe58" label="graphic materials" type="box">1</container>
+        <container id="aspace_57839b757811e17982a07bcbd53758af" parent="aspace_4deb79def6d6432dffe4eadf885cfe58" type="item">6</container>
+        <dao entityref="xt7k9882p114_6_1"/>
+      </did>
+    </c>
+    <c id="ref7" level="item">
+      <did>
+        <unittitle>Family home, [Hyden, Kentucky]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000128</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_5eeab4c48cf9b9d3304883df0c3c9976" label="graphic materials" type="box">1</container>
+        <container id="aspace_26478c2743e9bcbe591f33944d1136a2" parent="aspace_5eeab4c48cf9b9d3304883df0c3c9976" type="item">7</container>
+        <dao entityref="xt7k9882p114_7_1"/>
+      </did>
+    </c>
+    <c id="ref8" level="item">
+      <did>
+        <unittitle>Fire on a mountainside</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000129</unitid>
+        <unitdate datechar="creation" normal="1903/1903">1903</unitdate>
+        <container id="aspace_93ef8696bf5c74d64b4a54a021b7e491" label="graphic materials" type="box">1</container>
+        <container id="aspace_ee5b68446b3ddbd89c292f4cda066b70" parent="aspace_93ef8696bf5c74d64b4a54a021b7e491" type="item">8</container>
+        <dao entityref="xt7k9882p114_8_1"/>
+      </did>
+    </c>
+    <c id="ref9" level="item">
+      <did>
+        <unittitle>Foot bridge and church, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000130</unitid>
+        <unitdate datechar="creation" normal="1898/1898">1898</unitdate>
+        <container id="aspace_8de6bcb83686b97632a8299f7d1137c0" label="graphic materials" type="box">1</container>
+        <container id="aspace_b6631759a9f6035bedb9d59aac2700d8" parent="aspace_8de6bcb83686b97632a8299f7d1137c0" type="item">9</container>
+        <dao entityref="xt7k9882p114_9_1"/>
+      </did>
+    </c>
+    <c id="ref10" level="item">
+      <did>
+        <unittitle>Foot race at picnic in Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000131</unitid>
+        <unitdate datechar="creation" normal="1902/1902">1902 September</unitdate>
+        <container id="aspace_e9678da89afd782b67104d92d848044f" label="graphic materials" type="box">1</container>
+        <container id="aspace_4abcd6f21b2e87c539639f1fe9860225" parent="aspace_e9678da89afd782b67104d92d848044f" type="item">10</container>
+        <dao entityref="xt7k9882p114_10_1"/>
+      </did>
+    </c>
+    <c id="ref11" level="item">
+      <did>
+        <unittitle>Group of eight unidentified women</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000132</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_e312ec5d072f85abf33c182bf86dfe6e" label="graphic materials" type="box">1</container>
+        <container id="aspace_7602d424d9840da6fc1c6ba78b558dd5" parent="aspace_e312ec5d072f85abf33c182bf86dfe6e" type="item">11</container>
+        <dao entityref="xt7k9882p114_11_1"/>
+      </did>
+    </c>
+    <c id="ref12" level="item">
+      <did>
+        <unittitle>Group of girls, Esther Walton, two Dixon girls, two unidentified</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000133</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_4c8b5e6f72f69a4cf4e0013033580c0a" label="graphic materials" type="box">1</container>
+        <container id="aspace_f626eb21d45058e887a778a196350e78" parent="aspace_4c8b5e6f72f69a4cf4e0013033580c0a" type="item">12</container>
+        <dao entityref="xt7k9882p114_12_1"/>
+      </did>
+    </c>
+    <c id="ref13" level="item">
+      <did>
+        <unittitle>Group of two women, three men, unidentified</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000134</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_6cf97ea438f687703965adb4b5a8d7bf" label="graphic materials" type="box">1</container>
+        <container id="aspace_6d0d065e38b5730dbd6fca6cb5543374" parent="aspace_6cf97ea438f687703965adb4b5a8d7bf" type="item">13</container>
+        <dao entityref="xt7k9882p114_13_1"/>
+      </did>
+    </c>
+    <c id="ref14" level="item">
+      <did>
+        <unittitle>Group of women and child on porch, [Miss Giddings]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000135</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_3de152d22a20468977c5bba49c4e1e3e" label="graphic materials" type="box">1</container>
+        <container id="aspace_952a383c02651460561f080b59da7d9c" parent="aspace_3de152d22a20468977c5bba49c4e1e3e" type="item">14</container>
+        <dao entityref="xt7k9882p114_14_1"/>
+      </did>
+    </c>
+    <c id="ref15" level="item">
+      <did>
+        <unittitle>Gulley under bridge, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000136</unitid>
+        <unitdate datechar="creation" normal="1896/1896">1896</unitdate>
+        <container id="aspace_383495bbd31c0f8036f7aa504068809d" label="graphic materials" type="box">1</container>
+        <container id="aspace_b52784cae6d7e8131925b7106c7ec7fd" parent="aspace_383495bbd31c0f8036f7aa504068809d" type="item">15</container>
+        <dao entityref="xt7k9882p114_15_1"/>
+      </did>
+    </c>
+    <c id="ref16" level="item">
+      <did>
+        <unittitle>H. Howard, M.C. Begley, Miles, Minnie Lewis, gathering holly</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000137</unitid>
+        <unitdate datechar="creation" normal="1902/1902">1902 December</unitdate>
+        <container id="aspace_9065ad35721b880df8ddbb2d6c354f01" label="graphic materials" type="box">1</container>
+        <container id="aspace_9284179f432df643bff70c502f4ebaa8" parent="aspace_9065ad35721b880df8ddbb2d6c354f01" type="item">16</container>
+        <dao entityref="xt7k9882p114_16_1"/>
+      </did>
+    </c>
+    <c id="ref17" level="item">
+      <did>
+        <unittitle>Hyden Academy students in front of school</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000138</unitid>
+        <unitdate datechar="creation" normal="1899/1899">1899 March</unitdate>
+        <container id="aspace_a79344363b7c32c45218a47dd22f80d7" label="graphic materials" type="box">1</container>
+        <container id="aspace_aadcbf9e328a99e8497bac48f4faace4" parent="aspace_a79344363b7c32c45218a47dd22f80d7" type="item">17</container>
+        <dao entityref="xt7k9882p114_17_1"/>
+      </did>
+    </c>
+    <c id="ref18" level="item">
+      <did>
+        <unittitle>Hyden Chapel, addition</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000139</unitid>
+        <unitdate datechar="creation" normal="1900/1900">1900 summer</unitdate>
+        <container id="aspace_0acb39539a70f8b0601889f82801f014" label="graphic materials" type="box">1</container>
+        <container id="aspace_ee515d04e8be7f3c7b99d4feda92da96" parent="aspace_0acb39539a70f8b0601889f82801f014" type="item">18</container>
+        <dao entityref="xt7k9882p114_18_1"/>
+      </did>
+    </c>
+    <c id="ref19" level="item">
+      <did>
+        <unittitle>Landscape and town buildings, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000140</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_64320766e9770d3db707d571efee328e" label="graphic materials" type="box">1</container>
+        <container id="aspace_78a0a38d0f7f961654df92cceb292a2a" parent="aspace_64320766e9770d3db707d571efee328e" type="item">19</container>
+        <dao entityref="xt7k9882p114_19_1"/>
+      </did>
+    </c>
+    <c id="ref20" level="item">
+      <did>
+        <unittitle>Mahlon Salmond, portrait</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000141</unitid>
+        <unitdate datechar="creation" normal="1902/1902">1902 September</unitdate>
+        <container id="aspace_25053cae8f4f5777059c517c340b5e43" label="graphic materials" type="box">1</container>
+        <container id="aspace_8e58a235c13866d3bb130f5fe0859c5e" parent="aspace_25053cae8f4f5777059c517c340b5e43" type="item">20</container>
+        <dao entityref="xt7k9882p114_20_1"/>
+      </did>
+    </c>
+    <c id="ref21" level="item">
+      <did>
+        <unittitle>Man on horseback in woods of Hyden, Kentucky; Salmond</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000142</unitid>
+        <unitdate datechar="creation" normal="1902/1902">1902 September</unitdate>
+        <container id="aspace_e35ea8362a63d9c1953ff8645dc6d007" label="graphic materials" type="box">1</container>
+        <container id="aspace_71aaec910269447fd433927fe1222c16" parent="aspace_e35ea8362a63d9c1953ff8645dc6d007" type="item">21</container>
+        <dao entityref="xt7k9882p114_21_1"/>
+      </did>
+    </c>
+    <c id="ref22" level="item">
+      <did>
+        <unittitle>Men lined up for foot race at picnic in Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000143</unitid>
+        <unitdate datechar="creation" normal="1902/1902">1902 September</unitdate>
+        <container id="aspace_6b98c02097fe669ed7eba9bd14b5106f" label="graphic materials" type="box">1</container>
+        <container id="aspace_e1237b666cec59905e32e6e3c4df8144" parent="aspace_6b98c02097fe669ed7eba9bd14b5106f" type="item">22</container>
+        <dao entityref="xt7k9882p114_22_1"/>
+      </did>
+    </c>
+    <c id="ref23" level="item">
+      <did>
+        <unittitle>Minnie Morgan, Hyden student</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000144</unitid>
+        <unitdate datechar="creation" normal="1900/1900">1900</unitdate>
+        <container id="aspace_f38a733e6f079ce27ded499a677602bd" label="graphic materials" type="box">1</container>
+        <container id="aspace_8cb24c075e81c26932b93045b6a77c63" parent="aspace_f38a733e6f079ce27ded499a677602bd" type="item">23</container>
+        <dao entityref="xt7k9882p114_23_1"/>
+      </did>
+    </c>
+    <c id="ref24" level="item">
+      <did>
+        <unittitle>Mosley jury and sheriffs</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000145</unitid>
+        <unitdate datechar="creation" normal="1900/1900">1900</unitdate>
+        <container id="aspace_8318f1a4d9db19f6ae3ffbf871d0ef41" label="graphic materials" type="box">1</container>
+        <container id="aspace_99c6d3802b9a9e8259874c612dfe68df" parent="aspace_8318f1a4d9db19f6ae3ffbf871d0ef41" type="item">24</container>
+        <dao entityref="xt7k9882p114_24_1"/>
+      </did>
+    </c>
+    <c id="ref25" level="item">
+      <did>
+        <unittitle>Mother and three children, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000146</unitid>
+        <unitdate datechar="creation" normal="1902/1902">1902 September</unitdate>
+        <container id="aspace_3ceebbb6b754ac691fe51808d7c4dcd2" label="graphic materials" type="box">1</container>
+        <container id="aspace_7da620304d54435398d37ee8f4f4f767" parent="aspace_3ceebbb6b754ac691fe51808d7c4dcd2" type="item">25</container>
+        <dao entityref="xt7k9882p114_25_1"/>
+      </did>
+    </c>
+    <c id="ref26" level="item">
+      <did>
+        <unittitle>Mother and two children, John's Creek, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000147</unitid>
+        <unitdate datechar="creation" normal="1902/1902">1902 September</unitdate>
+        <container id="aspace_b3f04a950bfd5dee30d508ace095bc9d" label="graphic materials" type="box">1</container>
+        <container id="aspace_4c6a9ca7f07116f4033ff8d58225960c" parent="aspace_b3f04a950bfd5dee30d508ace095bc9d" type="item">26</container>
+        <dao entityref="xt7k9882p114_26_1"/>
+      </did>
+    </c>
+    <c id="ref27" level="item">
+      <did>
+        <unittitle>Mouth of Hell for Certain Creek, Kentucky River in distance</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000148</unitid>
+        <unitdate datechar="creation" normal="1900/1900">1900</unitdate>
+        <container id="aspace_27f80c016ffd8b1f6590b24877509016" label="graphic materials" type="box">1</container>
+        <container id="aspace_caab3798c88b28f300569feee4d78095" parent="aspace_27f80c016ffd8b1f6590b24877509016" type="item">27</container>
+        <dao entityref="xt7k9882p114_27_1"/>
+      </did>
+    </c>
+    <c id="ref28" level="item">
+      <did>
+        <unittitle><title render="doublequote">My Soul Be on Thy Guard</title>, with illustration</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000149</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_15c741d14157eee3808906d7c03f7c3f" label="graphic materials" type="box">1</container>
+        <container id="aspace_8ad8345807391016b030d24d33bd127c" parent="aspace_15c741d14157eee3808906d7c03f7c3f" type="item">28</container>
+        <dao entityref="xt7k9882p114_28_1"/>
+      </did>
+    </c>
+    <c id="ref29" level="item">
+      <did>
+        <unittitle>Party of women, Mrs. Salmond, Miss [Giddings]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000150</unitid>
+        <unitdate datechar="creation" normal="1903/1903">1903</unitdate>
+        <container id="aspace_3759c61f4cef2fb043c9f154a0eea801" label="graphic materials" type="box">1</container>
+        <container id="aspace_90a2327ee4faf06a4b4dfa76d5dfd469" parent="aspace_3759c61f4cef2fb043c9f154a0eea801" type="item">29</container>
+        <dao entityref="xt7k9882p114_29_1"/>
+      </did>
+    </c>
+    <c id="ref30" level="item">
+      <did>
+        <unittitle>Polly Wilder North, Hell for Sartin Creek</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000151</unitid>
+        <unitdate datechar="creation" normal="1899/1899">1899</unitdate>
+        <container id="aspace_d454069ef51062910bca86726a5f7433" label="graphic materials" type="box">1</container>
+        <container id="aspace_74681efa643dc8bb5b17a2fa60ae42bb" parent="aspace_d454069ef51062910bca86726a5f7433" type="item">30</container>
+        <dao entityref="xt7k9882p114_30_1"/>
+      </did>
+    </c>
+    <c id="ref31" level="item">
+      <did>
+        <unittitle>Portrait of John Keene, preacher</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000152</unitid>
+        <unitdate datechar="creation" normal="1900/1900">1900</unitdate>
+        <container id="aspace_5ccfcd86bb4f9c531c5738628387acb7" label="graphic materials" type="box">1</container>
+        <container id="aspace_97893d38b6bd1baca0bc482b9d936b58" parent="aspace_5ccfcd86bb4f9c531c5738628387acb7" type="item">31</container>
+        <dao entityref="xt7k9882p114_31_1"/>
+      </did>
+    </c>
+    <c id="ref32" level="item">
+      <did>
+        <unittitle>Street in London, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000153</unitid>
+        <unitdate datechar="creation" normal="1890/1890">1890</unitdate>
+        <container id="aspace_05488b62adad04ebea1ad9f04e433c32" label="graphic materials" type="box">1</container>
+        <container id="aspace_04d9a5c95ae4ffbc2132317d342721ce" parent="aspace_05488b62adad04ebea1ad9f04e433c32" type="item">32</container>
+        <dao entityref="xt7k9882p114_32_1"/>
+      </did>
+    </c>
+    <c id="ref33" level="item">
+      <did>
+        <unittitle>Two women posing with child, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000154</unitid>
+        <unitdate datechar="creation" normal="1902/1902">1902 September</unitdate>
+        <container id="aspace_51f132b27b21fb76a56642eda71dde83" label="graphic materials" type="box">1</container>
+        <container id="aspace_11d32435024afddabce139016f29b3cd" parent="aspace_51f132b27b21fb76a56642eda71dde83" type="item">33</container>
+        <dao entityref="xt7k9882p114_33_1"/>
+      </did>
+    </c>
+    <c id="ref34" level="item">
+      <did>
+        <unittitle>W[illiam] H. Blevins, blacksmith and jeweler, Hyden, Kentucky</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000155</unitid>
+        <unitdate datechar="creation" normal="1895/1895">1895</unitdate>
+        <container id="aspace_f575a562cbff3ca910cc084ca2da9ede" label="graphic materials" type="box">1</container>
+        <container id="aspace_ae8d6a18dd703f2eda934d3249bccc58" parent="aspace_f575a562cbff3ca910cc084ca2da9ede" type="item">34</container>
+        <dao entityref="xt7k9882p114_34_1"/>
+      </did>
+    </c>
+    <c id="ref35" level="item">
+      <did>
+        <unittitle>Woman on porch, unidentified</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000156</unitid>
+        <unitdate datechar="creation">circa 1900</unitdate>
+        <container id="aspace_af20a714e710d180e4c0e0e981600fac" label="graphic materials" type="box">1</container>
+        <container id="aspace_8df6e6d526d2eaf103b418e05e6a840e" parent="aspace_af20a714e710d180e4c0e0e981600fac" type="item">35</container>
+        <dao entityref="xt7k9882p114_35_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

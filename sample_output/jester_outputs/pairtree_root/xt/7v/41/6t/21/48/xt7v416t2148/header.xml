@@ -1,0 +1,83 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7v416t2148</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7v416t2148/data/2022av001.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Patrick Snadon collection on Kentucky historic houses (dated undated; 0.13 cubic feet; 1 box and 1 folder) comprises photographs of the Bronston House in Richmond, Kentucky, built by Matthew Kennedy, and an unknown Victorian house in Louisville, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Megan Mummey</author>
+    <title>Patrick Snadon collection on Kentucky historic houses</title>
+    <source>Patrick Snadon collection on Kentucky historic houses</source>
+    <unitdates>
+      <date>undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.13 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject.</arrangement>
+    <subjects>
+      <subject>Historic buildings -- Kentucky.</subject>
+      <subject>Kentucky -- Genealogy</subject>
+    </subjects>
+    <prefercite>2022av001: [identification of item], Guide to the Patrick Snadon collection on Kentucky historic houses, undated, University of Kentucky Libraries, Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Architectural historian, Patrick Snadon is an associate professor emeritus in the School of Architecture and Interior Design at the University of Cincinnati. He was a consultant on the restoration of historic buildings built by Benjamin Latrobe (Decatur House in Washington, D.C. for the National Trust for Historic Preservation and the Pope Villa in Lexington, KY for the Blue Grass Trust for Historic Preservation).</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Patrick Snadon collection on Kentucky historic houses (dated undated; 0.13 cubic feet; 1 box and 1 folder) comprises photographs of the Bronston House in Richmond, Kentucky, built by Matthew Kennedy, and an unknown Victorian house in Louisville, Kentucky. The photographs of the Victorian house document the interior of the house. Additionally, the collection contains a genealogy of the Pope family, including information on Senator John Pope of the Pope Villa in Lexington, Kentucky.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Bronston House, Richmond, Kentucky photograph</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_c8594ee5a96beff6e21efdd1204c0157" label="graphic materials" type="box">1</container>
+        <container id="aspace_86a2729b6f450c13819edeff97638339" parent="aspace_c8594ee5a96beff6e21efdd1204c0157" type="item">1</container>
+      </did>
+      <scopecontent id="aspace_f2db4784647bc33183f3edcc6d4137ca">
+        <head>Scope and Contents</head>
+        <p>The Bronston House was designed by Matthew Kennedy, Kentucky's first architect.</p>
+      </scopecontent>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Photographs of the interior of a Victorian house, thought to be located in Louisville, Kentucky.</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_bfa7adaf3042ba4f4871854d3c2c511c" label="graphic materials" type="box">1</container>
+        <container id="aspace_93e03d696d8aa377ac3980fe6c95122e" parent="aspace_bfa7adaf3042ba4f4871854d3c2c511c" type="item">2-4</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>
+          <title render="italic">Lt. Colonel Nathaniel Pope Ancestor of Washington and Governors: History of His Descendants</title>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_d6d999a377c6e33ee6321b1edae73fd4" label="mixed materials" type="box">MS-49</container>
+        <container id="aspace_cc4bf6328af86bb85c209ef93fcc53f0" parent="aspace_d6d999a377c6e33ee6321b1edae73fd4" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

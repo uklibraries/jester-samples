@@ -1,0 +1,154 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7xd21rg86f</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7xd21rg86f/data/87m41.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Coal Information Network of Kentucky (CINK) Archives (dated 1982-1986; 0.9 cubic feet; 2 boxes) consist of the administrative and financial records from the Coal Information Network of Kentucky (CINK).</abstract>
+  <descriptive_summary>
+    <author>Revised and encoded by Jesse Nau</author>
+    <title>Coal Information Network of Kentucky (CINK) Archives</title>
+    <source>Coal Information Network of Kentucky (CINK) Archives</source>
+    <unitdates>
+      <date>1982-1986 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.9 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Bibliographies.</subject>
+      <subject>Coal -- Kentucky.</subject>
+      <subject>Coal mines and mining -- Kentucky -- Information services -- Directories.</subject>
+      <subject>Newsletters</subject>
+    </subjects>
+    <prefercite>87m41: [Identification of item], Coal Information Network of Kentucky (CINK) Archives, 1982-1986, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Coal Information Network of Kentucky (CINK) was created to identify sources of information about coal and provide access to that data in the Commonwealth. At a meeting held December 9, 1981 at the Institute for Mining and Minerals Research in Lexington, Ky, CINK was created to <emph render="doublequote">promote communication among groups interested in coal information, identify coal information sources, and improve access to coal information in Kentucky.</emph> Its membership is diverse, including public librarians, representatives from the coal industry and science librarians.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Coal Information Network of Kentucky (CINK) Archives (dated 1982-1986; 0.9 cubic feet; 2 boxes) consist of the administrative and financial records from the Coal Information Network of Kentucky (CINK). They reflect the organization's efforts to identify and disseminate information about coal in the Commonwealth. The administrative records include the constitution and bylaws, meeting minutes, correspondence and membership lists. The financial records consist of treasurer's reports, invoices and receipts for sale of the DIRECTORY OF COAL INFORMATION SOURCES FOR KENTUCKY. Publications include newsletters, bibliographies, the directory, brochures and forms. There are also clippings about CINK and coal-related topics.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Coal Information Network of Kentucky (CINK) constitution</unittitle>
+        <unitdate datechar="publication" type="inclusive">1982 April</unitdate>
+        <container id="aspace_6d42cb1a75940ba5a4a85621ee7b8dce" label="mixed materials" type="box">1</container>
+        <container id="aspace_de228d464cd4824280f38d44b68194a2" parent="aspace_6d42cb1a75940ba5a4a85621ee7b8dce" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Meeting records</unittitle>
+        <unitdate datechar="creation" type="inclusive">1982 December 9 - 1986 September 19</unitdate>
+        <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        <container id="aspace_f55d321de74af331a12bd4747e65ca1e" label="mixed materials" type="box">1</container>
+        <container id="aspace_d0643bdf0a1abb8240d6cf00c26ed942" parent="aspace_f55d321de74af331a12bd4747e65ca1e" type="folder">2-3</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Membership records</unittitle>
+        <unitdate datechar="creation" type="inclusive">1983 April 4 - 1986 August 8</unitdate>
+        <container id="aspace_1d4b84675af1939436456b27210244a7" label="mixed materials" type="box">1</container>
+        <container id="aspace_c8297e6c6d220f52f49102fe82388956" parent="aspace_1d4b84675af1939436456b27210244a7" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitdate datechar="creation" type="inclusive">1984 January 1 - 1986 June 1</unitdate>
+        <container id="aspace_63eeacd015ede9dae13e49ec6bddf6a7" label="mixed materials" type="box">1</container>
+        <container id="aspace_bb50f87c417ea71dd865eec078992581" parent="aspace_63eeacd015ede9dae13e49ec6bddf6a7" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle>Treasury reports</unittitle>
+        <unitdate datechar="creation" type="inclusive">1984 May 2 - 1985 January 3</unitdate>
+        <container id="aspace_f89d453b19f2068f7fae919a1095e8b5" label="mixed materials" type="box">1</container>
+        <container id="aspace_6a57da99378c98f8d7cbb6bc85478db8" parent="aspace_f89d453b19f2068f7fae919a1095e8b5" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle>Invoices and receipts</unittitle>
+        <unitdate datechar="creation" type="inclusive">1984 April 6 - 1984 September 21</unitdate>
+        <container id="aspace_724e2b18a23b2ed8d3f5f2a262f8fa3d" label="mixed materials" type="box">1</container>
+        <container id="aspace_ac7d758bb1b18f81059e131809cf1c3a" parent="aspace_724e2b18a23b2ed8d3f5f2a262f8fa3d" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle>Directory invoices</unittitle>
+        <unitdate datechar="creation" normal="1984-05-04/1984-12-17" type="inclusive">1984 May 4 - 1984 December 17</unitdate>
+        <container id="aspace_032c56c522f6bac28310b52a4cd5035f" label="mixed materials" type="box">1</container>
+        <container id="aspace_508e73c70e27070164337d0c7d3fcdf6" parent="aspace_032c56c522f6bac28310b52a4cd5035f" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref8" level="file">
+      <did>
+        <unittitle>Newsletters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1982 February</unitdate>
+        <container id="aspace_a2cbd0044a25c36d2f1140c19bb2a9e3" label="mixed materials" type="box">1</container>
+        <container id="aspace_c4ce956ca2f203198ea4f6cb2a0cf8ad" parent="aspace_a2cbd0044a25c36d2f1140c19bb2a9e3" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref9" level="file">
+      <did>
+        <unittitle>Coal Finder</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_32b98bf5d77913e35df2cd351cacaf11" label="mixed materials" type="box">2</container>
+        <container id="aspace_c5d532d346c2285d5633c0104632e80a" parent="aspace_32b98bf5d77913e35df2cd351cacaf11" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref10" level="file">
+      <did>
+        <unittitle>
+          <title render="italic">Directory of Coal Information Sources for Kentucky</title>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1984 March 26 - 1984 May 15</unitdate>
+        <container id="aspace_6428551749268934f5c36a6a9ec92673" label="mixed materials" type="box">2</container>
+        <container id="aspace_97ef5156581850f8d62b463a2f5c791f" parent="aspace_6428551749268934f5c36a6a9ec92673" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref11" level="file">
+      <did>
+        <unittitle>Invitations and marketing materials</unittitle>
+        <unitdate datechar="creation" type="inclusive">1984 May 3 - 1984 May 15</unitdate>
+        <container id="aspace_f3ef6697d6b9e2f9fdd4e31ac1524918" label="mixed materials" type="box">2</container>
+        <container id="aspace_cb2ecb13ab6f21499ab8566f5b16da92" parent="aspace_f3ef6697d6b9e2f9fdd4e31ac1524918" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref12" level="file">
+      <did>
+        <unittitle>Publications</unittitle>
+        <unitdate datechar="creation" type="inclusive">1982 June - 1985 September</unitdate>
+        <container id="aspace_a34b8b21b9d3ed23e570f9846071ad18" label="mixed materials" type="box">2</container>
+        <container id="aspace_e67c662d288e18bc6f5d24bef0f1416c" parent="aspace_a34b8b21b9d3ed23e570f9846071ad18" type="folder">4</container>
+      </did>
+    </c>
+  </contents>
+</header>

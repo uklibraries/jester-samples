@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://exploreuk.uky.edu/catalog/xt7w0v89h80x/guide">71m38</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Duncan family letters, 1803-1864
+                    <num>71M38</num>
+                </titleproper>
+                <titleproper type="filing">Duncan family letters</titleproper>
+                <author>Finding aid prepared by Laura A. Hess</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2011 October 21</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-07-28T10:20-0400</date>
+            </creation>
+            <langusage>Description is in English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2015 May 21</date>
+                <item>Accession 2014ms0240 added and description updated by Megan Mummey</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Duncan family letters</unittitle>
+            <unitid>71M38</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.68 Cubic feet</extent>
+                <extent>2 boxes
+</extent>
+            </physdesc>
+            <unitdate>1803-1864</unitdate>
+            <abstract id="ref28" label="Abstract">The Duncan family letters (dated 1803-1864; 0.68 cubic feet; 2 boxes) comprise correspondence to Henry Timberlake Duncan, Jr. from family and friends.</abstract>
+            <origination label="creator">
+                <famname rules="aacr" source="naf">Duncan family</famname>
+            </origination>
+        </did>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open to researchers by appointment.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>71M38: [Identification of item], Duncan family letters, 1803-1864, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <bioghist id="ref7">
+            <head>Biographical note</head>
+            <p>Henry Timberlake Duncan was a farmer and livestock breeder, who owned two farms in Bourbon County, Kentucky, and maintained a family estate, 
+                <emph render="doublequote">Duncannon,</emph> outside Lexington. He also acted as president of the Clay Monument Association in the 1850s. His son, Henry Timberlake Duncan, Jr., attended Harvard and became a major in the United States Army, the founder of the Lexington 
+                <title render="italic">Daily Press</title> in 1870, and the mayor of Lexington twice. His sister, Mary Duncan, attended the Pittsfield Institute for Young Ladies.</p>
+        </bioghist>
+        <scopecontent id="ref8">
+            <head>Scope and Contents note</head>
+            <p>The Duncan family letters (dated 1803-1864; 0.68 cubic feet; 2 boxes) comprise correspondence to Henry Timberlake Duncan, Jr. from family and friends. The letters date from 1803-1863, with the bulk of the letters written during the 1850s while Henry Duncan, Jr. attended Harvard College. The majority of the letters were written by Duncan's father, Henry J. Duncan, Sr.; his mother; his sister, Mary Duncan, while she was at the Pittsfield Institute for Young Ladies; and his cousin, H.D. Jenkins. Duncan's school friends, such as C.W. Horne, J.H. Richardson, and Henry M. Bond, also wrote frequently. Subjects covered include the Civil War, slavery, railroads, lynching, fairs, politics, the depression of 1857, and an Asiatic cholera outbreak in 1832. Some letters written in the 1850s from Henry Duncan, Sr., mention the plans of the Clay Monument Association.</p>
+        </scopecontent>
+        <arrangement id="ref9">
+            <head>Arrangement note</head>
+            <p>Collection is arranged chronologically.</p>
+        </arrangement>
+        <acqinfo id="ref27">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift, 1966</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Beecher, Henry Ward, 1813-1887</persname>
+            <persname rules="aacr" source="local">Brown, John, 1800-1859</persname>
+            <corpname rules="aacr" source="naf">Clay Monument Association.</corpname>
+            <persname rules="aacr" source="naf">Clay, Henry, 1777-1852</persname>
+            <persname rules="aacr" source="naf">Clay, Thomas Hart, 1803-1871 </persname>
+            <persname rules="aacr" source="naf">Davis, Garrett, 1801-1872</persname>
+            <famname rules="aacr" source="naf">Duncan family</famname>
+            <persname rules="aacr" source="local">Duncan, Henry Timberlake, 1800-1880</persname>
+            <persname rules="aacr" source="naf">Duncan, Henry Timberlake, 1836-1912</persname>
+            <corpname rules="aacr" source="naf">Harvard University.</corpname>
+            <corpname rules="aacr" source="local">Pittsfield Institute for Young Ladies.</corpname>
+            <persname rules="aacr" source="naf">Simms, William E.,  (William Elliott), 1822-1898</persname>
+            <subject source="lcsh">Agriculturists.</subject>
+            <subject source="lcsh">Cholera--Kentucky.</subject>
+            <subject source="lcsh">Elections--Kentucky.</subject>
+            <subject source="lcsh">Fairs--Kentucky.</subject>
+            <subject source="lcsh">Lynching.</subject>
+            <subject source="lcsh">Private schools.</subject>
+            <subject source="lcsh">Railroads--Illinois--Chicago.</subject>
+            <subject source="lcsh">Students.</subject>
+            <subject source="lcsh">United States--History--Civil War, 1861-1865.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691001" type="Folder">1</container>
+                    <unitdate>1803, 1852</unitdate>
+                <dao entityref="xt7w0v89h80x_1_1"/></did>
+                <scopecontent id="ref30">
+                    <head>Scope and Contents note</head>
+                    <p>Letter dated 1803 is a photocopy.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref11" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691002" type="Folder">2</container>
+                    <unitdate>1853-1854</unitdate>
+                <dao entityref="xt7w0v89h80x_2_1"/></did>
+            </c01>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691003" type="Folder">3</container>
+                    <unitdate>1855 January-March</unitdate>
+                <dao entityref="xt7w0v89h80x_3_1"/></did>
+            </c01>
+            <c01 id="ref13" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691004" type="Folder">4</container>
+                    <unitdate>1855 April-July</unitdate>
+                <dao entityref="xt7w0v89h80x_4_1"/></did>
+            </c01>
+            <c01 id="ref14" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691005" type="Folder">5</container>
+                    <unitdate>1855 August-December</unitdate>
+                <dao entityref="xt7w0v89h80x_5_1"/></did>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691006" type="Folder">6</container>
+                    <unitdate>1856 January-June</unitdate>
+                <dao entityref="xt7w0v89h80x_6_1"/></did>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691007" type="Folder">7</container>
+                    <unitdate>1856 July-December</unitdate>
+                <dao entityref="xt7w0v89h80x_7_1"/></did>
+            </c01>
+            <c01 id="ref17" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691008" type="Folder">8</container>
+                    <unitdate>1857 January-May</unitdate>
+                <dao entityref="xt7w0v89h80x_8_1"/></did>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691009" type="Folder">9</container>
+                    <unitdate>1857 June-December</unitdate>
+                <dao entityref="xt7w0v89h80x_9_1"/></did>
+            </c01>
+            <c01 id="ref19" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691010" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691010" type="Folder">10</container>
+                    <unitdate>1858 January-June</unitdate>
+                <dao entityref="xt7w0v89h80x_10_1"/></did>
+            </c01>
+            <c01 id="ref20" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691011" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid1691011" type="Folder">11</container>
+                    <unitdate>1858 July-December</unitdate>
+                <dao entityref="xt7w0v89h80x_11_1"/></did>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691012" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid1691012" type="Folder">1</container>
+                    <unitdate>1859 January-March</unitdate>
+                <dao entityref="xt7w0v89h80x_12_1"/></did>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691013" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid1691013" type="Folder">2</container>
+                    <unitdate>1859 April-December</unitdate>
+                <dao entityref="xt7w0v89h80x_13_1"/></did>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691014" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid1691014" type="Folder">3</container>
+                    <unitdate>1860 January-June</unitdate>
+                <dao entityref="xt7w0v89h80x_14_1"/></did>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691015" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid1691015" type="Folder">4</container>
+                    <unitdate>1860 July-December</unitdate>
+                <dao entityref="xt7w0v89h80x_15_1"/></did>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691016" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid1691016" type="Folder">5</container>
+                    <unitdate>1861</unitdate>
+                <dao entityref="xt7w0v89h80x_16_1"/></did>
+            </c01>
+            <c01 id="ref26" level="file">
+                <did>
+                    <unittitle/>
+                    <container id="cid1691017" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid1691017" type="Folder">6</container>
+                    <unitdate>1862 January-March, undated</unitdate>
+                <dao entityref="xt7w0v89h80x_17_1"/></did>
+            </c01>
+            <c01 id="ref29" level="file">
+                <did>
+                    <unittitle>Henry T. Duncan, Jr. letter to wife, Elizabeth Duncan</unittitle>
+                    <container id="cid5029001" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid5029001" type="Folder">7</container>
+                    <unitdate>1864 November 23</unitdate>
+                <dao entityref="xt7w0v89h80x_18_1"/></did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

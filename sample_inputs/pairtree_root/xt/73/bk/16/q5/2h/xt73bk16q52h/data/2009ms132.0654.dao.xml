@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt73bk16q52h">2009ms132.0654</eadid><filedesc><titlestmt><titleproper type="filing">Hall, Wade Collection of American Letters: Reverend William M. Leftwich diary</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: Reverend William M. Leftwich diary, 1866 <num>2009ms132.0654</num></titleproper><author>Sarah Coblentz</author><sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2019 September 17</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-01 11:07:19 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: Reverend William M. Leftwich diary</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="naf">Leftwich, W. M. (William M.), 1828-1901</persname>
+    </origination>
+    <unitid>2009ms132.0654</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.04 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1866/1866" type="inclusive">1866</unitdate>
+    <abstract id="aspace_4d6cc05c15dad4374132145d86c3fa1e">The Reverend William M. Leftwich diary (dated 1866; 0.04 cubic feet; 1 folder) comprises one diary that documents the life and religious work of Methodist reverend William Leftwich in St Joseph, Missouri in 1866.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_cabf0b93f00c6b8ee58daef944631de9">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_05dc2b5de01a2beee8ac7bd7f43a1952">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_7c43eca38225a4944e365096a266ea6b">
+    <head>Arrangement</head>
+<p>Collection is arranged by format. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_4cff4a0971dcd9d2303f7c4482ccdca6">
+    <head>Biographical note</head>
+<p>William Madison Leftwich (1828-1901) was born in Staunton City, Virginia to Thomas Leftwich and Patsey Martha Malvina Stratton. In 1851, Leftwich married Mary Malinda Smith (1831-1916). Together the couple had five children: Lily (1859-1916), Alice (1861-1935), Harry (1863-1916), William Jr. (1865-1946), and Mary (1871-1948). Leftwich was a minister in the Methodist church, practicing in the southern United States for 48 years. </p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_baf44d45b7815e229972b53e4f76fdde">
+    <head>Preferred Citation</head>
+<p>2009ms132.0654: [identification of item], Wade Hall Collection of American Letters: Reverend William M. Leftwich diary, 1866, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_f56b7f96c0b853fa21c2e624644a0b49">
+    <head>Scope and Contents</head>
+<p>The Reverend William M. Leftwich diary (dated 1866; 0.04 cubic feet; 1 folder) comprises one diary that documents the life and religious work of Methodist reverend William Leftwich in St Joseph, Missouri in 1866. In the diary, Leftwich writes about his day-to-day activities, preparing and giving sermons, making social calls, traveling with his wife and family, attending church conferences and meetings, participating in relief efforts, and his personal and mental health. </p><p>The Reverend William M. Leftwich diary collection is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>  </scopecontent>
+  <userestrict id="aspace_cbd38f9692d9186b4206106ced43459d">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform authfilenumber="gf2014026085" source="lcsh">Diaries.</genreform>
+    <subject source="lcsh">Diaries -- 19th Century.</subject>
+    <subject authfilenumber="sh 85112549" source="lcsh">Religion</subject>
+    <subject source="lcsh">Methodist Church -- Clergy</subject>
+    <geogname source="lcsh">Missouri</geogname>
+    <subject source="lcsh">Sermons.</subject>
+    <subject source="lcsh">Church work</subject>
+    <subject source="lcsh">Church management</subject>
+    <subject source="lcsh">Travel.</subject>
+    <subject source="lcsh">Health</subject>
+    <subject source="lcsh">Friendship.</subject>
+    <persname rules="rda" source="naf">Leftwich, W. M. (William M.), 1828-1901</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_fb8cc83c3d40e69cce9e3a49c726ffe5" level="file"><did><unittitle>Reverend William M. Leftwich diary</unittitle><unitdate datechar="creation" type="inclusive">1866</unitdate><container id="aspace_a1489721c10de967432d1aa0e4c949ba" label="mixed materials" type="box">WH-64</container><container id="aspace_dc3782ad6b39697f26141be2811f2825" parent="aspace_a1489721c10de967432d1aa0e4c949ba" type="folder">9</container><dao entityref="xt73bk16q52h_1_1"/></did></c01></dsc>
+</archdesc>
+</ead>

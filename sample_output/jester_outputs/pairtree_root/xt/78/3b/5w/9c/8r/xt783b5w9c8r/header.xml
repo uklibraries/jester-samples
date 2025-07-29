@@ -1,0 +1,182 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt783b5w9c8r</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt783b5w9c8r/data/1997ms198.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Bell Court Neighborhood Association records (dated 1957-1991; 1.1 cubic feet; 1 box, 1 folder) contains the association's articles of incorporation, projects and grants files, surveys, historic district nomination material, correspondence, minutes, reports, financial records, and newspaper clippings, which document operation of the neighborhood association in Lexington, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Ally Ayers</author>
+    <title>Bell Court Neighborhood Association records</title>
+    <source>Bell Court Neighborhood Association records</source>
+    <unitdates>
+      <date>1957-1991 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>1.1 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Bell Place (Lexington, Ky.)</subject>
+      <subject>Historic buildings -- Kentucky -- Lexington.</subject>
+      <subject>Historic preservation -- Kentucky.</subject>
+      <subject>Neighborhood government</subject>
+      <subject>Neighborhoods -- Kentucky -- Lexington</subject>
+    </subjects>
+    <prefercite>1997ms198: Bell Court Neighborhood Association records, 1957-1991, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Bell Court Neighborhood Association was formed in 1962 and incorporated in 1965. Its primary purpose was to further the preservtion and improvement of the Bell Court neighborhood through charitable, educational or scientific activities. The Bell Court neighborhood was defined as including all residences, businesses and other entities bounded by the west side of Walton Avenue, the north side of Main Street, the east side of Indiana Avenue and the north side of Boonesboro Avenue.</p><p>The Bell Court neighborhood was developed around the turn of the 20th century as a middle class neighborhood. There are 157 buildings in the district most of which are homes built in the Victorian or Queen Anne styles. The most notable house in the neighborhood is known as Bell Place, owned and eventually donated to the city of Lexington by Clara Bell Walsh. Bell Place was designed by Lexington architect Thomas Lewinski and combines both Greek Revival and Romanesque features. It was constructed for Henry and Clarissa Bell beginning in 1845.  Other notable pieces of architecture in Bell Court Historic Neighborhood District are the Episcopal Church of Good Shepherd and Clay Villa, the oldest home in the neighborhood. </p><p>
+      Sources: </p><p>Bell Court Historic Neighborhood District, Lexington, Kentucky. Accessed June 27, 2018. https://www.nps.gov/nr/travel/lexington/bel.htm.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Bell Court Neighborhood Association records (dated 1957-1991; 1.1 cubic feet; 1 box, 1 folder) contains the association's articles of incorporation, projects and grants files, surveys, historic district nomination material, correspondence, minutes, reports, financial records, and newspaper clippings, which document operation of the neighborhood association in Lexington, Kentucky. Of particular note in the collection are the records documenting the association's efforts during 1983-1988 to prevent the McDonald's on Main Street from providing drive-up window service.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Administrative files</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">1965-1991</unitdate>
+      </did>
+      <scopecontent id="aspace_0ffa7c054cb04b3c7d553ce9befe1c0b">
+        <head>Scope and Contents</head>
+        <p>The Administrative files series contains articles of incorporation, by-laws, membership and meetings files, reports, and legal documents concerning the Bell Court Neighborhood Association's lawsuit with McDonald's over a property on East Main Street. Series is organized alphabetically.</p>
+      </scopecontent>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+    </c>
+    <c id="ref14" level="series">
+      <did>
+        <unittitle>Affiliated groups</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1981-1990</unitdate>
+      </did>
+      <scopecontent id="aspace_e63f1dc511d84d4dea63a6cc62cd4545">
+        <head>Scope and Contents</head>
+        <p>The Affiliated groups series contains files concerning other related organizations, including the Aylesford Place Neighborhood Association, the Blue Grass Trust for Historic Preservation, the Board of Adjustment, and the Lexington-Fayette Urban County Government. Series is organized alphabetically.</p>
+      </scopecontent>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+      <c id="ref19" level="file"/>
+      <c id="ref20" level="file"/>
+      <c id="ref21" level="file"/>
+    </c>
+    <c id="ref22" level="series">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid>Series III.</unitid>
+        <unitdate datechar="creation" type="inclusive">1978-2002</unitdate>
+      </did>
+      <scopecontent id="aspace_758f7a803d8df655390ee99dd4ecc0ba">
+        <head>Scope and Contents</head>
+        <p>The Correspondence series contains letters between the Bell Court Neighborhood Association and its members or other local organizations. These letters include information on the Kentucky Business College, parking and zoning violations and complaints, and traffic concerns. Series is organized alphabetically.</p>
+      </scopecontent>
+      <c id="ref23" level="file"/>
+      <c id="ref24" level="file"/>
+      <c id="ref25" level="file"/>
+      <c id="ref26" level="file"/>
+      <c id="ref27" level="file"/>
+    </c>
+    <c id="ref28" level="series">
+      <did>
+        <unittitle>Financial information</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitdate datechar="creation" type="inclusive">1976-1990</unitdate>
+      </did>
+      <scopecontent id="aspace_47c5fad740f3c961bf0437b8968082fe">
+        <head>Scope and Contents</head>
+        <p>The Financial information series consists of receipts, tax documents, treasurer reports, and an account and dues book, which document the financial activities of the Bell Court Neighborhood Association. Many of the receipts document local partnerships and informal activities, such as picnics and participation in other Lexington events.</p>
+      </scopecontent>
+      <c id="ref29" level="file"/>
+      <c id="ref30" level="file"/>
+      <c id="ref31" level="file"/>
+      <c id="ref32" level="file"/>
+      <c id="ref33" level="file"/>
+    </c>
+    <c id="ref34" level="series">
+      <did>
+        <unittitle>Printed material</unittitle>
+        <unitid>Series V.</unitid>
+        <unitdate datechar="creation" type="inclusive">1974-1990</unitdate>
+      </did>
+      <scopecontent id="aspace_ddfa08119a44bf3420a4cc6bda79a1d7">
+        <head>Scope and Contents</head>
+        <p>The Printed material series contains development plans, newspaper clippings, maps, programs, and surveys. Series is organized alphabetically.</p>
+      </scopecontent>
+      <c id="ref35" level="file"/>
+      <c id="ref36" level="file"/>
+      <c id="ref37" level="file"/>
+      <c id="ref38" level="file"/>
+      <c id="ref39" level="file"/>
+      <c id="ref40" level="file"/>
+      <c id="ref41" level="file"/>
+      <c id="ref42" level="file"/>
+      <c id="ref43" level="file"/>
+      <c id="ref44" level="file"/>
+      <c id="ref45" level="file"/>
+      <c id="ref46" level="file"/>
+      <c id="ref47" level="file"/>
+      <c id="ref48" level="file"/>
+      <c id="ref49" level="file"/>
+      <c id="ref50" level="file"/>
+      <c id="ref51" level="file"/>
+    </c>
+    <c id="ref52" level="series">
+      <did>
+        <unittitle>Project files</unittitle>
+        <unitid>Series VI.</unitid>
+        <unitdate datechar="creation" type="inclusive">1957-1990</unitdate>
+      </did>
+      <scopecontent id="aspace_c006b05dc16c095eb51ac6fec42178f9">
+        <head>Scope and Contents</head>
+        <p>The Project files series includes material documenting Bell Court Neighborhood Association projects, including festivals, the Bell House restoration, zone changes, historic designation material, home tours, neighborhood watch activities, a Kentucky historic resources inventory, and a tree match grant. Series is organized alphabetically.</p>
+      </scopecontent>
+      <c id="ref53" level="file"/>
+      <c id="ref54" level="file"/>
+      <c id="ref55" level="file"/>
+      <c id="ref56" level="file"/>
+      <c id="ref57" level="file"/>
+      <c id="ref58" level="file"/>
+      <c id="ref59" level="file"/>
+      <c id="ref60" level="file"/>
+      <c id="ref61" level="file"/>
+      <c id="ref62" level="file"/>
+      <c id="ref63" level="file"/>
+      <c id="ref64" level="file"/>
+      <c id="ref65" level="file"/>
+    </c>
+  </contents>
+</header>

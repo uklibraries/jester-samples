@@ -1,0 +1,544 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7gqn5z6m6g</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7gqn5z6m6g/data/PA79W1.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Samuel M. Wilson Photographic Collection (dated circa 1899-1947; 3.33 cubic feet; 4 boxes: 294 images; ) consists of 291 black and white photographs and drawings.</abstract>
+  <descriptive_summary>
+    <author>Processed by: Staff, April Thompson, Evelyn McGill, James Bilan; machine-readable finding aid created by: Jason Flahardy</author>
+    <title>Samuel M. Wilson photographs</title>
+    <source>Samuel M. Wilson photographs</source>
+    <unitdates>
+      <date>circa 1899-1947 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>3.33 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Architecture -- Kentucky</subject>
+      <subject>Kentucky -- Church history.</subject>
+    </subjects>
+    <prefercite>PA79W1: [Identification of item], Samuel M. Wilson Photographic Collection, circa 1899-1947, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Judge Samuel Mackay Wilson (1871-1946) was a Lexington attorney and author, noted for his meticulous scholarship and precise writing style. He was also a collector of books, manuscripts, maps, and photographs. Wilson's main area of interest was early Kentucky history. </p><p>Wilson's most famous case was his defense of Kentucky Secretary of State Caleb Powers. Powers was charged in connection with the assassination of Kentucky Governor William Goebel in 1899. After serving as a judge-advocate during World War I, Wilson returned to Kentucky, where he established a successful law practice. </p><p>Judge Wilson served on numerous civic commissions, where he was active in historical preservation. Wilson played an important role in the preservation of the Henry Clay Estate, Blue Licks Battlefield, and Fort Boonesboro.</p><p>Wilson organized the Cakes and Ale Club, an annual gathering of Lexingtonians interested in book collecting. He was also a member of the Book Thieves, an organization of local historians and educators who were influential in the creation and development of Special Collections and Archives at the University of Kentucky.</p><p>After Wilson's death in 1946, his extensive collection of books, photographs, and personal papers were donated to the University of Kentucky. The Wilson Collection is the foundation on which Special Collections and Archives has been built. Following Mrs. Wilson's death in 1959, the items which she had retained were added to the collection.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Samuel M. Wilson Photographic Collection (dated circa 1899-1947; 3.33 cubic feet; 4 boxes: 294 images) consists photographs and drawings.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Copyright has not been assigned to the University of Kentucky.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Animal</unittitle>
+        <unitid>I</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168220</unitid>
+      </did>
+      <c id="ref2" level="item"/>
+      <c id="ref3" level="item"/>
+      <c id="ref4" level="item"/>
+      <c id="ref5" level="item"/>
+      <c id="ref6" level="item"/>
+    </c>
+    <c id="ref7" level="series">
+      <did>
+        <unittitle>Architecture</unittitle>
+        <unitid>II</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168226</unitid>
+      </did>
+      <c id="ref8" level="item"/>
+      <c id="ref9" level="item"/>
+      <c id="ref10" level="item"/>
+      <c id="ref11" level="item"/>
+      <c id="ref12" level="item"/>
+      <c id="ref13" level="item"/>
+      <c id="ref14" level="item"/>
+      <c id="ref15" level="item"/>
+      <c id="ref16" level="item"/>
+      <c id="ref17" level="item"/>
+      <c id="ref18" level="item"/>
+      <c id="ref19" level="item"/>
+      <c id="ref20" level="item"/>
+      <c id="ref21" level="item"/>
+      <c id="ref22" level="item"/>
+      <c id="ref23" level="item"/>
+      <c id="ref24" level="item"/>
+      <c id="ref25" level="item"/>
+      <c id="ref26" level="item"/>
+      <c id="ref27" level="item"/>
+      <c id="ref28" level="item"/>
+    </c>
+    <c id="ref29" level="series">
+      <did>
+        <unittitle>Artifact</unittitle>
+        <unitid>III</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168248</unitid>
+      </did>
+      <c id="ref30" level="item"/>
+      <c id="ref31" level="item"/>
+      <c id="ref32" level="item"/>
+    </c>
+    <c id="ref33" level="series">
+      <did>
+        <unittitle>Cityscape</unittitle>
+        <unitid>IV</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168252</unitid>
+      </did>
+      <c id="ref34" level="item"/>
+    </c>
+    <c id="ref35" level="series">
+      <did>
+        <unittitle>Dress</unittitle>
+        <unitid>V</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168254</unitid>
+      </did>
+      <c id="ref36" level="item"/>
+    </c>
+    <c id="ref37" level="series">
+      <did>
+        <unittitle>Event</unittitle>
+        <unitid>VI</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168256</unitid>
+      </did>
+      <c id="ref38" level="item"/>
+      <c id="ref39" level="item"/>
+      <c id="ref40" level="item"/>
+      <c id="ref41" level="item"/>
+    </c>
+    <c id="ref42" level="series">
+      <did>
+        <unittitle>Industry</unittitle>
+        <unitid>VII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168261</unitid>
+      </did>
+      <c id="ref43" level="item"/>
+      <c id="ref44" level="item"/>
+      <c id="ref45" level="item"/>
+      <c id="ref46" level="item"/>
+    </c>
+    <c id="ref47" level="series">
+      <did>
+        <unittitle>Landscape</unittitle>
+        <unitid>VIII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168266</unitid>
+      </did>
+      <c id="ref48" level="item"/>
+      <c id="ref49" level="item"/>
+      <c id="ref50" level="item"/>
+      <c id="ref51" level="item"/>
+      <c id="ref52" level="item"/>
+      <c id="ref53" level="item"/>
+      <c id="ref54" level="item"/>
+      <c id="ref55" level="item"/>
+      <c id="ref56" level="item"/>
+      <c id="ref57" level="item"/>
+      <c id="ref58" level="item"/>
+      <c id="ref59" level="item"/>
+      <c id="ref60" level="item"/>
+      <c id="ref61" level="item"/>
+    </c>
+    <c id="ref62" level="series">
+      <did>
+        <unittitle>Occupations</unittitle>
+        <unitid>IX</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168281</unitid>
+      </did>
+      <c id="ref63" level="item"/>
+      <c id="ref64" level="item"/>
+    </c>
+    <c id="ref65" level="series">
+      <did>
+        <unittitle>People</unittitle>
+        <unitid>X</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168284</unitid>
+      </did>
+      <c id="ref66" level="item"/>
+      <c id="ref67" level="item"/>
+      <c id="ref68" level="item"/>
+      <c id="ref69" level="item"/>
+      <c id="ref70" level="item"/>
+      <c id="ref71" level="item"/>
+      <c id="ref72" level="item"/>
+      <c id="ref73" level="item"/>
+      <c id="ref74" level="item"/>
+      <c id="ref75" level="item"/>
+      <c id="ref76" level="item"/>
+      <c id="ref77" level="item"/>
+      <c id="ref78" level="item"/>
+      <c id="ref79" level="item"/>
+      <c id="ref80" level="item"/>
+      <c id="ref81" level="item"/>
+      <c id="ref82" level="item"/>
+      <c id="ref83" level="item"/>
+      <c id="ref84" level="item"/>
+      <c id="ref85" level="item"/>
+      <c id="ref86" level="item"/>
+      <c id="ref87" level="item"/>
+      <c id="ref88" level="item"/>
+      <c id="ref89" level="item"/>
+      <c id="ref90" level="item"/>
+      <c id="ref91" level="item"/>
+      <c id="ref92" level="item"/>
+    </c>
+    <c id="ref93" level="series">
+      <did>
+        <unittitle>Portrait (A)</unittitle>
+        <unitid>XI</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168312</unitid>
+      </did>
+      <c id="ref94" level="item"/>
+      <c id="ref95" level="item"/>
+      <c id="ref96" level="item"/>
+      <c id="ref97" level="item"/>
+      <c id="ref98" level="item"/>
+      <c id="ref99" level="item"/>
+      <c id="ref100" level="item"/>
+      <c id="ref101" level="item"/>
+      <c id="ref102" level="item"/>
+      <c id="ref103" level="item"/>
+    </c>
+    <c id="ref104" level="series">
+      <did>
+        <unittitle>Portrait (B)</unittitle>
+        <unitid>XII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168323</unitid>
+      </did>
+      <c id="ref105" level="item"/>
+      <c id="ref106" level="item"/>
+      <c id="ref107" level="item"/>
+      <c id="ref108" level="item"/>
+      <c id="ref109" level="item"/>
+      <c id="ref110" level="item"/>
+      <c id="ref111" level="item"/>
+      <c id="ref112" level="item"/>
+      <c id="ref113" level="item"/>
+      <c id="ref114" level="item"/>
+      <c id="ref115" level="item"/>
+      <c id="ref116" level="item"/>
+      <c id="ref117" level="item"/>
+      <c id="ref118" level="item"/>
+      <c id="ref119" level="item"/>
+      <c id="ref120" level="item"/>
+      <c id="ref121" level="item"/>
+      <c id="ref122" level="item"/>
+      <c id="ref123" level="item"/>
+    </c>
+    <c id="ref124" level="series">
+      <did>
+        <unittitle>Portrait (C)</unittitle>
+        <unitid>XIII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168343</unitid>
+      </did>
+      <c id="ref125" level="item"/>
+      <c id="ref126" level="item"/>
+      <c id="ref127" level="item"/>
+      <c id="ref128" level="item"/>
+      <c id="ref129" level="item"/>
+      <c id="ref130" level="item"/>
+      <c id="ref131" level="item"/>
+      <c id="ref132" level="item"/>
+    </c>
+    <c id="ref133" level="series">
+      <did>
+        <unittitle>Portrait (D)</unittitle>
+        <unitid>XIV</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168352</unitid>
+      </did>
+      <c id="ref134" level="item"/>
+      <c id="ref135" level="item"/>
+      <c id="ref136" level="item"/>
+      <c id="ref137" level="item"/>
+      <c id="ref138" level="item"/>
+      <c id="ref139" level="item"/>
+    </c>
+    <c id="ref140" level="series">
+      <did>
+        <unittitle>Portrait (E)</unittitle>
+        <unitid>XV</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168359</unitid>
+      </did>
+      <c id="ref141" level="item"/>
+      <c id="ref142" level="item"/>
+      <c id="ref143" level="item"/>
+      <c id="ref144" level="item"/>
+      <c id="ref145" level="item"/>
+      <c id="ref146" level="item"/>
+      <c id="ref147" level="item"/>
+    </c>
+    <c id="ref148" level="series">
+      <did>
+        <unittitle>Portrait (F)</unittitle>
+        <unitid>XVI</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168367</unitid>
+      </did>
+      <c id="ref149" level="item"/>
+      <c id="ref150" level="item"/>
+      <c id="ref151" level="item"/>
+      <c id="ref152" level="item"/>
+      <c id="ref153" level="item"/>
+      <c id="ref154" level="item"/>
+      <c id="ref155" level="item"/>
+    </c>
+    <c id="ref156" level="series">
+      <did>
+        <unittitle>Portrait (G)</unittitle>
+        <unitid>XVII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168375</unitid>
+      </did>
+      <c id="ref157" level="item"/>
+      <c id="ref158" level="item"/>
+      <c id="ref159" level="item"/>
+      <c id="ref160" level="item"/>
+      <c id="ref161" level="item"/>
+      <c id="ref162" level="item"/>
+      <c id="ref163" level="item"/>
+      <c id="ref164" level="item"/>
+      <c id="ref165" level="item"/>
+      <c id="ref166" level="item"/>
+      <c id="ref167" level="item"/>
+      <c id="ref168" level="item"/>
+      <c id="ref169" level="item"/>
+      <c id="ref170" level="item"/>
+      <c id="ref171" level="item"/>
+      <c id="ref172" level="item"/>
+      <c id="ref173" level="item"/>
+      <c id="ref174" level="item"/>
+      <c id="ref175" level="item"/>
+      <c id="ref176" level="item"/>
+      <c id="ref177" level="item"/>
+      <c id="ref178" level="item"/>
+    </c>
+    <c id="ref179" level="series">
+      <did>
+        <unittitle>Portrait (H)</unittitle>
+        <unitid>XVIII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168398</unitid>
+      </did>
+      <c id="ref180" level="item"/>
+      <c id="ref181" level="item"/>
+      <c id="ref182" level="item"/>
+      <c id="ref183" level="item"/>
+      <c id="ref184" level="item"/>
+    </c>
+    <c id="ref185" level="series">
+      <did>
+        <unittitle>Portrait (I)</unittitle>
+        <unitid>XIX</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168404</unitid>
+      </did>
+      <c id="ref186" level="item"/>
+      <c id="ref187" level="item"/>
+      <c id="ref188" level="item"/>
+      <c id="ref189" level="item"/>
+      <c id="ref190" level="item"/>
+    </c>
+    <c id="ref191" level="series">
+      <did>
+        <unittitle>Portrait (J)</unittitle>
+        <unitid>XX</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168410</unitid>
+      </did>
+      <c id="ref192" level="item"/>
+      <c id="ref193" level="item"/>
+      <c id="ref194" level="item"/>
+      <c id="ref195" level="item"/>
+      <c id="ref196" level="item"/>
+      <c id="ref197" level="item"/>
+      <c id="ref198" level="item"/>
+      <c id="ref199" level="item"/>
+      <c id="ref200" level="item"/>
+    </c>
+    <c id="ref201" level="series">
+      <did>
+        <unittitle>Portrait (K)</unittitle>
+        <unitid>XXI</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168420</unitid>
+      </did>
+      <c id="ref202" level="item"/>
+      <c id="ref203" level="item"/>
+      <c id="ref204" level="item"/>
+      <c id="ref205" level="item"/>
+      <c id="ref206" level="item"/>
+      <c id="ref207" level="item"/>
+      <c id="ref208" level="item"/>
+      <c id="ref209" level="item"/>
+    </c>
+    <c id="ref210" level="series">
+      <did>
+        <unittitle>Portrait (L)</unittitle>
+        <unitid>XXII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168429</unitid>
+      </did>
+      <c id="ref211" level="item"/>
+      <c id="ref212" level="item"/>
+      <c id="ref213" level="item"/>
+      <c id="ref214" level="item"/>
+      <c id="ref215" level="item"/>
+      <c id="ref216" level="item"/>
+      <c id="ref217" level="item"/>
+      <c id="ref218" level="item"/>
+      <c id="ref219" level="item"/>
+      <c id="ref220" level="item"/>
+      <c id="ref221" level="item"/>
+      <c id="ref222" level="item"/>
+      <c id="ref223" level="item"/>
+      <c id="ref224" level="item"/>
+      <c id="ref225" level="item"/>
+      <c id="ref226" level="item"/>
+      <c id="ref227" level="item"/>
+    </c>
+    <c id="ref228" level="series">
+      <did>
+        <unittitle>Portrait (M)</unittitle>
+        <unitid>XXIII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168447</unitid>
+      </did>
+      <c id="ref229" level="item"/>
+      <c id="ref230" level="item"/>
+      <c id="ref231" level="item"/>
+      <c id="ref232" level="item"/>
+      <c id="ref233" level="item"/>
+      <c id="ref234" level="item"/>
+      <c id="ref235" level="item"/>
+      <c id="ref236" level="item"/>
+      <c id="ref237" level="item"/>
+      <c id="ref238" level="item"/>
+      <c id="ref239" level="item"/>
+      <c id="ref240" level="item"/>
+    </c>
+    <c id="ref241" level="series">
+      <did>
+        <unittitle>Transportation</unittitle>
+        <unitid>XXIV</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168460</unitid>
+      </did>
+      <c id="ref242" level="item"/>
+    </c>
+    <c id="ref243" level="series">
+      <did>
+        <unittitle>Oversize-Architecture</unittitle>
+        <unitid>XXV</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168462</unitid>
+      </did>
+      <c id="ref244" level="item"/>
+      <c id="ref245" level="item"/>
+      <c id="ref246" level="item"/>
+      <c id="ref247" level="item"/>
+      <c id="ref248" level="item"/>
+    </c>
+    <c id="ref249" level="series">
+      <did>
+        <unittitle>Oversize-Artifact</unittitle>
+        <unitid>XXVI</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168468</unitid>
+      </did>
+      <c id="ref250" level="item"/>
+      <c id="ref251" level="item"/>
+      <c id="ref252" level="item"/>
+    </c>
+    <c id="ref253" level="series">
+      <did>
+        <unittitle>Oversize-Event</unittitle>
+        <unitid>XXVII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168472</unitid>
+      </did>
+      <c id="ref254" level="item"/>
+    </c>
+    <c id="ref255" level="series">
+      <did>
+        <unittitle>Oversize-Portrait</unittitle>
+        <unitid>XXVIII</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/168474</unitid>
+      </did>
+      <c id="ref256" level="item"/>
+      <c id="ref257" level="item"/>
+      <c id="ref258" level="item"/>
+      <c id="ref259" level="item"/>
+      <c id="ref260" level="item"/>
+      <c id="ref261" level="item"/>
+      <c id="ref262" level="item"/>
+      <c id="ref263" level="item"/>
+      <c id="ref264" level="item"/>
+      <c id="ref265" level="item"/>
+      <c id="ref266" level="item"/>
+      <c id="ref267" level="item"/>
+      <c id="ref268" level="item"/>
+      <c id="ref269" level="item"/>
+      <c id="ref270" level="item"/>
+      <c id="ref271" level="item"/>
+      <c id="ref272" level="item"/>
+      <c id="ref273" level="item"/>
+      <c id="ref274" level="item"/>
+      <c id="ref275" level="item"/>
+      <c id="ref276" level="item"/>
+      <c id="ref277" level="item"/>
+      <c id="ref278" level="item"/>
+      <c id="ref279" level="item"/>
+      <c id="ref280" level="item"/>
+      <c id="ref281" level="item"/>
+      <c id="ref282" level="item"/>
+      <c id="ref283" level="item"/>
+      <c id="ref284" level="item"/>
+      <c id="ref285" level="item"/>
+      <c id="ref286" level="item"/>
+      <c id="ref287" level="item"/>
+      <c id="ref288" level="item"/>
+      <c id="ref289" level="item"/>
+      <c id="ref290" level="item"/>
+      <c id="ref291" level="item"/>
+      <c id="ref292" level="item"/>
+      <c id="ref293" level="item"/>
+      <c id="ref294" level="item"/>
+      <c id="ref295" level="item"/>
+      <c id="ref296" level="item"/>
+      <c id="ref297" level="item"/>
+      <c id="ref298" level="item"/>
+      <c id="ref299" level="item"/>
+      <c id="ref300" level="item"/>
+      <c id="ref301" level="item"/>
+      <c id="ref302" level="item"/>
+      <c id="ref303" level="item"/>
+      <c id="ref304" level="item"/>
+      <c id="ref305" level="item"/>
+      <c id="ref306" level="item"/>
+      <c id="ref307" level="item"/>
+      <c id="ref308" level="item"/>
+      <c id="ref309" level="item"/>
+      <c id="ref310" level="item"/>
+      <c id="ref311" level="item"/>
+      <c id="ref312" level="item"/>
+      <c id="ref313" level="item"/>
+      <c id="ref314" level="item"/>
+      <c id="ref315" level="item"/>
+      <c id="ref316" level="item"/>
+      <c id="ref317" level="item"/>
+      <c id="ref318" level="item"/>
+      <c id="ref319" level="item"/>
+      <c id="ref320" level="item"/>
+      <c id="ref321" level="item"/>
+      <c id="ref322" level="item"/>
+      <c id="ref323" level="item"/>
+    </c>
+  </contents>
+</header>

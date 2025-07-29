@@ -1,0 +1,63 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7f7m042367</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7f7m042367/data/2012ms797.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Bennett H. Young statement (dated 1912; 0.01 cubic feet; 1 items) comprises a handwritten statement by Bennett H. Young, a commander-in-chief of the United Confederate Veterans, that documents seeing General Robert E. Lee in Richmond, Virginia, in June 1864 and praises the general.</abstract>
+  <descriptive_summary>
+    <author>Ash Pechon</author>
+    <title>Bennett H. Young statement</title>
+    <source>Bennett H. Young statement</source>
+    <unitdates>
+      <date>1912</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.01 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Military history.</subject>
+      <subject>United States -- History -- Civil War, 1861-1865.</subject>
+    </subjects>
+    <prefercite>2012ms797: [identification of item], Bennet H. Young statement, 1912, University of Kentucky Special Libraries Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Bennett Henderson Young (1843-1919) was an officer in the Confederate Army during the American Civil War.  Following the war, Young studied law at the Queen's University of Ireland and the University of Edinburgh before returning to Kentucky to be an attorney and author in Louisville.  Young founded the first black orphanage in Louisville and helped create the Louisville Free Public Library.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Bennett H. Young statement (dated 1912; 0.01 cubic feet; 1 items) comprises a statement handwritten by Bennett H. Young, a commander-in-chief of the United Confederate Veterans, that documents seeing General Robert E. Lee in Richmond, VA, in June 1864 and praises the general.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Bennett H. Young statement</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/925595</unitid>
+        <unitdate datechar="creation">1912 June 24</unitdate>
+        <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        <container id="aspace_2b36bc282c133386b98500b4cebef122" label="mixed materials" type="box">MS-10</container>
+        <container id="aspace_7bf58604749d3d92889d795b0d7c4230" parent="aspace_2b36bc282c133386b98500b4cebef122" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

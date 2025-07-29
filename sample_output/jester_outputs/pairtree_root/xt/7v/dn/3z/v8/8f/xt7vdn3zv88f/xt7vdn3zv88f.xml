@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="http://exploreuk.uky.edu/catalog/xt7vdn3zv88f/guide">59m28</eadid><filedesc><titlestmt><titleproper type="filing">Tanner, Joseph M. typescript</titleproper><titleproper>Joseph M. Tanner typescript, circa 1925 <num>59m28</num></titleproper><author>Megan Mummey</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2015 February 23</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-08-02 16:25:15 -0400</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Joseph M. Tanner typescript</unittitle>
+    <unitid>59m28</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.15 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation">circa 1925</unitdate>
+    <abstract id="aspace_2fbe0d24c84f03a16b6dfd36b93a70d0">The Joseph M. Tanner typescript (dated circa 1925; 0.15 cubic feet; 1 folder) consists of a typescript written by Tanner, a Lexington, Kentucky, attorney and city treasurer, recording his recollections of Lexington between 1875 and 1925.</abstract>
+    <physloc id="aspace_61897060a7aeb3a70c0a50e7365d668a">Housed with multiple collections.</physloc>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <prefercite id="aspace_802e7e0e94af4545569a60168292debd">
+    <head>Preferred Citation</head>
+<p>59m28: [identification of item], Joseph M. Tanner typescript, circa 1925, University of Kentucky Special Collections.</p>  </prefercite>
+  <userestrict id="aspace_8d41c5860e6d25ed60b45a7796f3ca81">
+    <head>Conditions Governing Use</head>
+<p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact Special Collections.</p>  </userestrict>
+  <bioghist id="aspace_77faba7acc9357133bc0438ae2c8f982">
+    <head>Biographical note</head>
+<p>Joseph M. Tanner was born in Scott County, Kentucky, on May 17, 1846, to Oliver Tanner (1819-1901) and Elizabeth Dearinger Tanner (b. 1826). He attended Transylvania University, Kentucky University Law School (1872-1873), and Princeton (1873). He practiced law in Lexington, Kentucky, for almost 30 years, before working for the Internal Revenue Service in Frankfort, Kentucky, starting in 1905. Additionally, from 1876-1880 Tanner served as the Treasurer of the city of Lexington. He married Lizzie Butler on October 26, 1876; they had six children together.</p>  </bioghist>
+  <acqinfo id="aspace_e721e9968ea48360f3e546ff2b99d9d4">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift</p>  </acqinfo>
+  <accessrestrict id="aspace_a4ddbfe28d2fedb42fe28ff284f76d0d">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <scopecontent id="aspace_5e0fd6b53e079c40516d25cae89ed5dc">
+    <head>Scope and Contents</head>
+<p>The Joseph M. Tanner typescript (dated circa 1925; 0.15 cubic feet; 1 folder) consists of a typescript written by Tanner, a Lexington, Kentucky, attorney and city treasurer, recording his recollections of Lexington between 1875 and 1925. The recollections note houses, businesses, politics, practicing attorneys in the city, and city council members. Many anecdotes about Lexington people and events are included.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Lexington (Ky.) -- History</geogname>
+    <genreform source="lcsh">Manuscripts.</genreform>
+    <geogname source="lcsh">Lexington (Ky.) -- Social life and customs -- History</geogname>
+    <subject source="lcsh">Lawyers -- Kentucky -- Lexington.</subject>
+    <subject source="lcsh">Small business -- Kentucky -- Lexington -- History.</subject>
+    <subject source="lcsh">Lists</subject>
+    <subject source="lcsh">Lawyers.</subject>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle><title render="doublequote">Lexington and its' institutions, 1875-1925</title></unittitle><unitdate datechar="creation">circa 1925</unitdate><container id="aspace_7357a3e3a2596a805f7ae5f5704712c6" label="mixed materials" type="box">MS-40</container><container id="aspace_383f9c11ee2e7f8f0780d37cc371229b" parent="aspace_7357a3e3a2596a805f7ae5f5704712c6" type="folder">1</container><dao entityref="xt7vdn3zv88f_1_1"/></did></c></dsc>
+</archdesc>
+</ead>

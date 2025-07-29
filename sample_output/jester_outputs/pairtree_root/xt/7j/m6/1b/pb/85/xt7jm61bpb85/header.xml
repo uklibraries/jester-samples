@@ -1,0 +1,60 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7jm61bpb85</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7jm61bpb85/data/53M74.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Jewish notebook (dated 1810; 0.3 cubic feet; 1 bound volume) comprises a handwritten, bound notebook dated 1810 that contains notes by an unidentified author on history and religion, and historical fiction related to the time period of Imperial Rome.</abstract>
+  <descriptive_summary>
+    <author>Mason McIntyre, Carol Street</author>
+    <title>Jewish notebook</title>
+    <source>Jewish notebook</source>
+    <unitdates>
+      <date>1810</date>
+    </unitdates>
+    <creator></creator>
+    <extent>.3 Cubic Feet</extent>
+    <arrangement>Collection retains its original order.</arrangement>
+    <subjects>
+      <subject>Jewish historians -- Kentucky.</subject>
+      <subject>Manuscripts -- Kentucky.</subject>
+    </subjects>
+    <prefercite>53m74: [identification of item], Jewish Notebook, 1810, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>The author of this handwritten manuscript is unknown. Though the author is unknown, a few things about them may be discerned from the contents of the manuscript. The author was well educated, understood Latin, and had access to historical writings, namely those of historian Edward Gibbon. The author was particularly interested in early Imperial Roman history, a period in which Greco-Roman, Christian, and Jewish cultures interacted, which is reflected in the notebook.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Jewish notebook (dated 1810; 0.3 cubic feet; 1 bound volume) comprises a handwritten, bound notebook dated 1810 that contains notes by an unidentified author on history and religion, and historical fiction related to the time period of Imperial Rome. The notebook contains a detailed table of contents which correlates page numbers with section topics. Topics in the notebook are centered on culture, religion, and politics related to Imperial Roman history, circa 27 BCE to 476 CE. At the back of the notebook there is a 15-page piece of historical fiction that centers around a Jewish man and his daughter investigating a monument in Egypt and their experience with Jon, the protagonist.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Jewish Notebook</unittitle>
+        <unitdate datechar="creation">1810</unitdate>
+        <container id="aspace_0a2679f73bd2861986fbbe42ffb4d41d" label="mixed materials" type="box">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

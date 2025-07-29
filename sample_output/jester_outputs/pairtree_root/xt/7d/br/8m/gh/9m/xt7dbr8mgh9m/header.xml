@@ -1,0 +1,119 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7dbr8mgh9m</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7dbr8mgh9m/data/65m131.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Hilton family diaries (dated 1840-1904; 0.45 cubic feet; 1 box) includes diaries kept by Martin Tobey Hilton and his daughter, Mary Henrietta Hilton.</abstract>
+  <descriptive_summary>
+    <author>Ida Lucille Sell</author>
+    <title>Hilton family diaries</title>
+    <source>Hilton family diaries</source>
+    <unitdates>
+      <date>1840-1904 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.45 Cubic Feet</extent>
+    <arrangement>This collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Diaries -- 19th Century.</subject>
+      <subject>Diaries.</subject>
+      <subject>Engineers.</subject>
+      <subject>Surveyors.</subject>
+      <subject>Ashland (Ky.) -- History</subject>
+    </subjects>
+    <prefercite>65m131: [identification of item], Hilton family diaries, 1840-1904, University of Kentucky Special Collections.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Surveyor and engineer, Martin Tobey Hilton (1817-1898) was a native of Maine who moved to Kentucky in 1853 to work for the Lexington &amp; and the Big Sandy Railroad Company. He settled in Ashland, Kentucky, in 1855. He was responsible for surveying and laying out the city of Ashland.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Hilton family diaries (dated 1840-1904; 0.45 cubic feet; 1 box) includes diaries kept by Martin Tobey Hilton and his daughter, Mary Henrietta Hilton. The diaries record information on weather conditions, social events, and family matters. Martin Tobey Hilton's diaries contain information about his work as a surveyor and engineer. Two of the diaries, for 1854-1855 and for 1898, contain receipts and other papers.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact Special Collections.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/54843</unitid>
+        <unitdate datechar="creation">1840-1851</unitdate>
+        <container id="aspace_f484b7cfa89187cfd46f20b52a7b4692" label="mixed materials" type="box">1</container>
+        <container id="aspace_2ecc79003e89cc41b1ebc064ef9985a9" parent="aspace_f484b7cfa89187cfd46f20b52a7b4692" type="folder">1</container>
+        <dao entityref="xt7dbr8mgh9m_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/54844</unitid>
+        <unitdate datechar="creation">1851-1855</unitdate>
+        <container id="aspace_13c9a01f62e51a2c6966368783380a53" label="mixed materials" type="box">1</container>
+        <container id="aspace_fe2c6813eacecc0c737bb55c78c1289e" parent="aspace_13c9a01f62e51a2c6966368783380a53" type="folder">2</container>
+        <dao entityref="xt7dbr8mgh9m_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/54845</unitid>
+        <unitdate datechar="creation">1863-1876</unitdate>
+        <container id="aspace_be569a7e1a5ccb6d420ad30d449e5d2d" label="mixed materials" type="box">1</container>
+        <container id="aspace_ca31bd5fefec65511bd8b06326fa64a7" parent="aspace_be569a7e1a5ccb6d420ad30d449e5d2d" type="folder">3</container>
+        <dao entityref="xt7dbr8mgh9m_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/54846</unitid>
+        <unitdate datechar="creation">1880-1892</unitdate>
+        <container id="aspace_6eeb904184fdf1e82f96cfa2df43d61d" label="mixed materials" type="box">1</container>
+        <container id="aspace_46cc725fe71c0100dc03904cd2f99d0a" parent="aspace_6eeb904184fdf1e82f96cfa2df43d61d" type="folder">4</container>
+        <dao entityref="xt7dbr8mgh9m_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/54847</unitid>
+        <unitdate datechar="creation">1892-1895</unitdate>
+        <container id="aspace_fcd6768b58af3e2ffaee4b50d735e49f" label="mixed materials" type="box">1</container>
+        <container id="aspace_310bc49e3105955b051ac4a942244e55" parent="aspace_fcd6768b58af3e2ffaee4b50d735e49f" type="folder">5</container>
+        <dao entityref="xt7dbr8mgh9m_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/54848</unitid>
+        <unitdate datechar="creation">1896-1899</unitdate>
+        <container id="aspace_0f7befe5d3760d965f45fc6412badfad" label="mixed materials" type="box">1</container>
+        <container id="aspace_21ec481fadf3c649df056f6f0cfd1320" parent="aspace_0f7befe5d3760d965f45fc6412badfad" type="folder">6</container>
+        <dao entityref="xt7dbr8mgh9m_6_1"/>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/54849</unitid>
+        <unitdate datechar="creation">1900-1904</unitdate>
+        <container id="aspace_c7492bba46c60ae6f4cb1949bd2b62f8" label="mixed materials" type="box">1</container>
+        <container id="aspace_baa921000bd72adce6e2d245158f8225" parent="aspace_c7492bba46c60ae6f4cb1949bd2b62f8" type="folder">7</container>
+        <dao entityref="xt7dbr8mgh9m_7_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

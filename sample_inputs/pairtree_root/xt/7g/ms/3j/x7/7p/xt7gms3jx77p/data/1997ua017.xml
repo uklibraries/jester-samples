@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>1997ua017</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>University of Kentucky Archives slides, 
+                    <date type="inclusive">circa 1955-1994</date>
+                    <num>1997ua017</num>
+                </titleproper>
+                <author>Finding aid prepared by Processed by University Archives staff.; machine-readable finding aid created by Janice Childers</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2005</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-08-28T15:49-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="Language">English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>University of Kentucky Archives slides</unittitle>
+            <unitid>1997ua017</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>7.0 Cubic feet</extent>
+                <extent>7 boxes</extent>
+            </physdesc>
+            <unitdate>circa 1955-1994</unitdate>
+            <abstract id="ref123" label="Abstract">The University of Kentucky Archives slides contains slides depicting various aspects of campus life, including sports, activities, people, buildings, scientific research, commencements, and award ceremonies.</abstract>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf">University of Kentucky. Libraries. Special Collections and Archives Dept.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref2">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open, with limitations, to researchers by appointment.</p>
+        </accessrestrict>
+        <userestrict id="ref3">
+            <head>Conditions Governing Use note</head>
+            <p>The intellectual rights to the materials in this collection are held by the University of Kentucky Special Collections.</p>
+        </userestrict>
+        <prefercite id="ref4">
+            <head>Preferred Citation note</head>
+            <p>1997ua017: [identification of item], University of Kentucky Archives slides, circa 1955-1994, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The University of Kentucky Archives slides contains slides depicting various aspects of campus life, including sports, activities, people, buildings, scientific research, commencements, and award ceremonies.</p>
+        </scopecontent>
+        <acqinfo id="ref124">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Transfer, 1997</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Pitino, Rick</persname>
+            <persname rules="aacr" source="naf">Smith, Tubby</persname>
+            <corpname rules="aacr" source="naf">University of Kentucky.</corpname>
+            <subject source="lcsh">Basketball--Coaching</subject>
+            <subject source="lcsh">College sports.</subject>
+            <genreform source="aat">Slides (photographs)</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>UK vs. Auburn: Game action</unittitle>
+                    <container id="cid4288460" type="Item" label="Mixed Materials">001-0016</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref8" level="item">
+                <did>
+                    <unittitle>UK vs. Auburn: Game action</unittitle>
+                    <container id="cid4288459" type="Item" label="Mixed Materials">001-0046</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref9" level="item">
+                <did>
+                    <unittitle>UK vs. Auburn: Game action</unittitle>
+                    <container id="cid4288458" type="Item" label="Mixed Materials">001-0078</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>UK vs. Auburn: Game action</unittitle>
+                    <container id="cid4288457" type="Item" label="Mixed Materials">002-0093</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>John Pelphrey, UK vs. Alabama</unittitle>
+                    <container id="cid4288456" type="Item" label="Mixed Materials">078-0057</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>Richie Farmer, UK vs. Alabama</unittitle>
+                    <container id="cid4288455" type="Item" label="Mixed Materials">078-0058</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref13" level="item">
+                <did>
+                    <unittitle>Jeff Brassow, UK vs. Alabama</unittitle>
+                    <container id="cid4288454" type="Item" label="Mixed Materials">078-0061</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>Jeff Brassow, UK vs. Alabama</unittitle>
+                    <container id="cid4288453" type="Item" label="Mixed Materials">078-0063</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>Sean Woods at free throw line, Deron Feldhaus and John Pelphrey watching, UK vs. Alabama</unittitle>
+                    <container id="cid4288452" type="Item" label="Mixed Materials">078-0067</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>Sean Woods, UK vs. Alabama</unittitle>
+                    <container id="cid4288451" type="Item" label="Mixed Materials">078-0068</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>John Pelphrey, UK vs. Alabama</unittitle>
+                    <container id="cid4288450" type="Item" label="Mixed Materials">078-0069</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>Sean Woods, UK vs. Alabama</unittitle>
+                    <container id="cid4288449" type="Item" label="Mixed Materials">078-0070</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref19" level="item">
+                <did>
+                    <unittitle>John Pelphrey, Robert Horry (Alabama), Deron Feldhaus, UK vs. Alabama</unittitle>
+                    <container id="cid4288448" type="Item" label="Mixed Materials">078-0074</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref20" level="item">
+                <did>
+                    <unittitle>Sean Woods, UK vs. Alabama</unittitle>
+                    <container id="cid4288447" type="Item" label="Mixed Materials">078-0075</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref21" level="item">
+                <did>
+                    <unittitle>Richie Farmer, Nehemiah Braddy, UK vs. Auburn</unittitle>
+                    <container id="cid4288446" type="Item" label="Mixed Materials">078-0078</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref22" level="item">
+                <did>
+                    <unittitle>Sean Woods, UK vs. Alabama</unittitle>
+                    <container id="cid4288445" type="Item" label="Mixed Materials">078-0079</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref23" level="item">
+                <did>
+                    <unittitle>John Pelphrey entrance, UK vs. Alabama</unittitle>
+                    <container id="cid4288444" type="Item" label="Mixed Materials">078-0081</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref24" level="item">
+                <did>
+                    <unittitle>Richie Farmer, UK vs. Alabama</unittitle>
+                    <container id="cid4288443" type="Item" label="Mixed Materials">078-0083</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref25" level="item">
+                <did>
+                    <unittitle>Reggie Hanson, UK vs. Auburn</unittitle>
+                    <container id="cid4288442" type="Item" label="Mixed Materials">078_Aub-004</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref26" level="item">
+                <did>
+                    <unittitle>Deron Feldhaus and John Pelphrey in huddle, UK vs. Auburn</unittitle>
+                    <container id="cid4288441" type="Item" label="Mixed Materials">078_Aub-007</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref27" level="item">
+                <did>
+                    <unittitle>John Pelphrey with ball, Gimel Martinez watching, UK vs. Auburn</unittitle>
+                    <container id="cid4288440" type="Item" label="Mixed Materials">078_Aub-015</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref28" level="item">
+                <did>
+                    <unittitle>John Pelphrey, UK vs. Auburn</unittitle>
+                    <container id="cid4288439" type="Item" label="Mixed Materials">078_Aub-018</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref29" level="item">
+                <did>
+                    <unittitle>John Pelphrey, UK vs. Auburn</unittitle>
+                    <container id="cid4288438" type="Item" label="Mixed Materials">078_Aub-024</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref30" level="item">
+                <did>
+                    <unittitle>Jeff Brassow dunking, UK vs. Auburn</unittitle>
+                    <container id="cid4288437" type="Item" label="Mixed Materials">078_Aub-032</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref31" level="item">
+                <did>
+                    <unittitle>Jamal Mashburn entrance, UK vs. Auburn</unittitle>
+                    <container id="cid4288436" type="Item" label="Mixed Materials">078_Aub-042</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref32" level="item">
+                <did>
+                    <unittitle>Deron Feldhaus shooting, UK vs. Auburn</unittitle>
+                    <container id="cid4288435" type="Item" label="Mixed Materials">078_Aub-050</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref33" level="item">
+                <did>
+                    <unittitle>Reggie Hanson shooting, UK vs. Auburn</unittitle>
+                    <container id="cid4288434" type="Item" label="Mixed Materials">078_Aub-053</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref34" level="item">
+                <did>
+                    <unittitle>Jeff Brassow dunking, Rick Pitino in background, Gimel Martinez and Richie Farmer watching, UK vs. Auburn</unittitle>
+                    <container id="cid4288433" type="Item" label="Mixed Materials">078_Aub-060</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref35" level="item">
+                <did>
+                    <unittitle>Jamal Mashburn shooting, Richie Farmer in background, UK vs. Auburn</unittitle>
+                    <container id="cid4288432" type="Item" label="Mixed Materials">078_Aub-067</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref36" level="item">
+                <did>
+                    <unittitle>Rick Pitino cutting down net after UK vs. Auburn game</unittitle>
+                    <container id="cid4288431" type="Item" label="Mixed Materials">078_Aub-069</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref37" level="item">
+                <did>
+                    <unittitle>Deron Feldhaus, John Pelphrey, UK vs. Auburn</unittitle>
+                    <container id="cid4288430" type="Item" label="Mixed Materials">078_Aub-071</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref38" level="item">
+                <did>
+                    <unittitle>Sean Woods defending, Jamal Mashburn in background, UK vs. Auburn</unittitle>
+                    <container id="cid4288429" type="Item" label="Mixed Materials">078_Aub-086</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref39" level="item">
+                <did>
+                    <unittitle>Reggie Hanson entrance, UK vs. Auburn</unittitle>
+                    <container id="cid4288428" type="Item" label="Mixed Materials">078_Aub-087</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref40" level="item">
+                <did>
+                    <unittitle>UK band at basketball game</unittitle>
+                    <container id="cid4288427" type="Item" label="Mixed Materials">078_bccm-005</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref41" level="item">
+                <did>
+                    <unittitle>Wildcat mascot races across Rupp Arena</unittitle>
+                    <container id="cid4288426" type="Item" label="Mixed Materials">078_bccm-009</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref42" level="item">
+                <did>
+                    <unittitle>UK cheerleaders at Rupp Arena</unittitle>
+                    <container id="cid4288425" type="Item" label="Mixed Materials">078_bccm-012</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref43" level="item">
+                <did>
+                    <unittitle>UK cheerleaders at Rupp Arena</unittitle>
+                    <container id="cid4288424" type="Item" label="Mixed Materials">078_bccm-013</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref44" level="item">
+                <did>
+                    <unittitle>UK cheerleaders and mascot with the 'K'</unittitle>
+                    <container id="cid4288423" type="Item" label="Mixed Materials">078_bccm-017</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref45" level="item">
+                <did>
+                    <unittitle>UK vs. Alabama: UK cheerleaders doing stunts</unittitle>
+                    <container id="cid4288422" type="Item" label="Mixed Materials">078_bccm-019</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref46" level="item">
+                <did>
+                    <unittitle>UK cheerleaders at Rupp Arena</unittitle>
+                    <container id="cid4288421" type="Item" label="Mixed Materials">078_bccm-024</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref47" level="item">
+                <did>
+                    <unittitle>UK cheerleaders at Rupp Arena</unittitle>
+                    <container id="cid4288420" type="Item" label="Mixed Materials">078_bccm-025</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref48" level="item">
+                <did>
+                    <unittitle>UK fans in Rupp Arena</unittitle>
+                    <container id="cid4288419" type="Item" label="Mixed Materials">078_bccm-033</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref49" level="item">
+                <did>
+                    <unittitle>UK fans in Rupp Arena</unittitle>
+                    <container id="cid4288418" type="Item" label="Mixed Materials">078_bccm-037</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref50" level="item">
+                <did>
+                    <unittitle>UK fan cheers at Rupp Arena</unittitle>
+                    <container id="cid4288417" type="Item" label="Mixed Materials">078_bccm-050</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref51" level="item">
+                <did>
+                    <unittitle>UK fans in Rupp Arena</unittitle>
+                    <container id="cid4288416" type="Item" label="Mixed Materials">078_bccm-056</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref52" level="item">
+                <did>
+                    <unittitle>UK cheerleaders at Big Blue Madness</unittitle>
+                    <container id="cid4288415" type="Item" label="Mixed Materials">079_mm-004</container>
+                    <unitdate>1990</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref53" level="item">
+                <did>
+                    <unittitle>UK cheerleaders at Big Blue Madness</unittitle>
+                    <container id="cid4288414" type="Item" label="Mixed Materials">079_mm-008</container>
+                    <unitdate>1990</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref54" level="item">
+                <did>
+                    <unittitle>UK fans at Big Blue Madness</unittitle>
+                    <container id="cid4288413" type="Item" label="Mixed Materials">079_mm-016</container>
+                    <unitdate>1990</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref55" level="item">
+                <did>
+                    <unittitle>UK cheerleaders at Big Blue Madness</unittitle>
+                    <container id="cid4288412" type="Item" label="Mixed Materials">079_mm-035</container>
+                    <unitdate>1990</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref56" level="item">
+                <did>
+                    <unittitle>Rick Pitino and Bill Keightley wave to the crowd in UK parade</unittitle>
+                    <container id="cid4288411" type="Item" label="Mixed Materials">079_par-0004</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref57" level="item">
+                <did>
+                    <unittitle>Rick Pitino signs autographs in UK parade</unittitle>
+                    <container id="cid4288410" type="Item" label="Mixed Materials">079_par-0020</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref58" level="item">
+                <did>
+                    <unittitle>Rick Pitino and Bill Keightley in UK parade</unittitle>
+                    <container id="cid4288409" type="Item" label="Mixed Materials">079_par-0032</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref59" level="item">
+                <did>
+                    <unittitle>Rick Pitino and Bill Keightley in UK parade</unittitle>
+                    <container id="cid4288408" type="Item" label="Mixed Materials">079_par-0046</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref60" level="item">
+                <did>
+                    <unittitle>Rick Pitino in UK parade</unittitle>
+                    <container id="cid4288407" type="Item" label="Mixed Materials">079_par-0049</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref61" level="item">
+                <did>
+                    <unittitle>Rick Pitino and Bill Keightley in UK parade</unittitle>
+                    <container id="cid4288406" type="Item" label="Mixed Materials">079_par-0052</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref62" level="item">
+                <did>
+                    <unittitle>Rick Pitino and Bill Keightley in UK parade</unittitle>
+                    <container id="cid4288405" type="Item" label="Mixed Materials">079_par-0078</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref63" level="item">
+                <did>
+                    <unittitle>Rick Pitino and Bill Keightley in UK parade</unittitle>
+                    <container id="cid4288404" type="Item" label="Mixed Materials">079_par-0089</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref64" level="item">
+                <did>
+                    <unittitle>Rick Pitino signs autographs in UK parade</unittitle>
+                    <container id="cid4288403" type="Item" label="Mixed Materials">079_par-0112</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref65" level="item">
+                <did>
+                    <unittitle>Rick Pitino signs autographs in UK parade</unittitle>
+                    <container id="cid4288402" type="Item" label="Mixed Materials">079_par-0122</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref66" level="item">
+                <did>
+                    <unittitle>Rick Pitino and Bill Keightley in UK parade</unittitle>
+                    <container id="cid4288401" type="Item" label="Mixed Materials">079_par-0141</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref67" level="item">
+                <did>
+                    <unittitle>Rick Pitino and Bill Keightley in UK parade</unittitle>
+                    <container id="cid4288400" type="Item" label="Mixed Materials">079_par-0151</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref68" level="item">
+                <did>
+                    <unittitle>Rick Pitino autographs a poster in UK parade</unittitle>
+                    <container id="cid4288399" type="Item" label="Mixed Materials">079_par-0153</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref69" level="item">
+                <did>
+                    <unittitle>Rick Pitino signing autograph in UK Parade</unittitle>
+                    <container id="cid4288398" type="Item" label="Mixed Materials">080-0176</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref70" level="item">
+                <did>
+                    <unittitle>Rick Pitino in UK Parade</unittitle>
+                    <container id="cid4288397" type="Item" label="Mixed Materials">080-0177</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref71" level="item">
+                <did>
+                    <unittitle>Rick Pitino in UK Parade</unittitle>
+                    <container id="cid4288396" type="Item" label="Mixed Materials">080-0178</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref72" level="item">
+                <did>
+                    <unittitle>Rick Pitino and 2 unidentified men in UK Parade</unittitle>
+                    <container id="cid4288395" type="Item" label="Mixed Materials">080-0179</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref73" level="item">
+                <did>
+                    <unittitle>John Pelphrey, Richie Farmer and fans at UK Parade</unittitle>
+                    <container id="cid4288394" type="Item" label="Mixed Materials">080-0181</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref74" level="item">
+                <did>
+                    <unittitle>UK band member in front of fire truck at UK Parade</unittitle>
+                    <container id="cid4288393" type="Item" label="Mixed Materials">080-0183</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref75" level="item">
+                <did>
+                    <unittitle>Sean Woods and other players on fire truck in UK Parade</unittitle>
+                    <container id="cid4288392" type="Item" label="Mixed Materials">080-0185</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref76" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching from bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288391" type="Item" label="Mixed Materials">080_Pit-001</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref77" level="item">
+                <did>
+                    <unittitle>Rick Pitino talking to Reggie Hanson at bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288390" type="Item" label="Mixed Materials">080_Pit-002</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref78" level="item">
+                <did>
+                    <unittitle>Rick Pitino applauding play, Keightley and fans in background; UK vs. Ole Miss,</unittitle>
+                    <container id="cid4288389" type="Item" label="Mixed Materials">080_Pit-005</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref79" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Jeff Brassow on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288388" type="Item" label="Mixed Materials">080_Pit-007</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref80" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288387" type="Item" label="Mixed Materials">080_Pit-008</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref81" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; Davis, Martinez, Braddy, and Farmer on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288386" type="Item" label="Mixed Materials">080_Pit-010</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref82" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; Keightley in background; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288385" type="Item" label="Mixed Materials">080_Pit-011</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref83" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; Pelphrey, Mashburn, Bernadette Locke-Mattox on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288384" type="Item" label="Mixed Materials">080_Pit-013</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref84" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288383" type="Item" label="Mixed Materials">080_Pit-014</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref85" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288382" type="Item" label="Mixed Materials">080_Pit-017</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref86" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; Toomer, Martinez, Braddy on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288381" type="Item" label="Mixed Materials">080_Pit-018</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref87" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching with clenched fists; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288380" type="Item" label="Mixed Materials">080_Pit-021</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref88" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288379" type="Item" label="Mixed Materials">080_Pit-022</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref89" level="item">
+                <did>
+                    <unittitle>Rick Pitino applauding play; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288378" type="Item" label="Mixed Materials">080_Pit-023</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref90" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; Tubby Smith and Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288377" type="Item" label="Mixed Materials">080_Pit-026</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref91" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Reggie Hanson coming in; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288376" type="Item" label="Mixed Materials">080_Pit-028</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref92" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; Tubby Smith and Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288375" type="Item" label="Mixed Materials">080_Pit-031</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref93" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Brassow on floor, Richie Farmer and Bernadette Locke-Mattox on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288374" type="Item" label="Mixed Materials">080_Pit-032</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref94" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; Deron Feldhaus on bench; referee and players on floor; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288373" type="Item" label="Mixed Materials">080_Pit-035</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref95" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288372" type="Item" label="Mixed Materials">080_Pit-038</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref96" level="item">
+                <did>
+                    <unittitle>Deron Feldhaus and Henry Thomas on floor, Mashburn, Braddy, Pelphrey on bench; Rick Pitino in background; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288371" type="Item" label="Mixed Materials">080_Pit-041</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref97" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Tubby Smith and Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288370" type="Item" label="Mixed Materials">080_Pit-048</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref98" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288369" type="Item" label="Mixed Materials">080_Pit-055</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref99" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Tubby Smith and Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288368" type="Item" label="Mixed Materials">080_Pit-058</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref100" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Tubby Smith and Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288367" type="Item" label="Mixed Materials">080_Pit-059</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref101" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching; Gimel Martinez, Todd Bearup and John Pelphrey on bench; UK vs. Old Miss</unittitle>
+                    <container id="cid4288366" type="Item" label="Mixed Materials">080_Pit-062</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref102" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288365" type="Item" label="Mixed Materials">080_Pit-065</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref103" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288364" type="Item" label="Mixed Materials">080_Pit-076</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref104" level="item">
+                <did>
+                    <unittitle>Jamal Mashburn; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288363" type="Item" label="Mixed Materials">080_Pit-080</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref105" level="item">
+                <did>
+                    <unittitle>Rick Pitino coaching, Bill Keightley on bench; UK vs. Ole Miss</unittitle>
+                    <container id="cid4288362" type="Item" label="Mixed Materials">080_Pit-081</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref106" level="item">
+                <did>
+                    <unittitle>Rick Pitino cutting down net after UK vs. Ole Miss game</unittitle>
+                    <container id="cid4288361" type="Item" label="Mixed Materials">080_Pit-085</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref107" level="item">
+                <did>
+                    <unittitle>Rick Pitino cutting down net after UK vs. Ole Miss game</unittitle>
+                    <container id="cid4288360" type="Item" label="Mixed Materials">080_Pit-087</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref108" level="item">
+                <did>
+                    <unittitle>Looking down at Rupp Arena court from stands</unittitle>
+                    <container id="cid4288359" type="Item" label="Mixed Materials">080_ra-002</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref109" level="item">
+                <did>
+                    <unittitle>Entrance to Rupp Arena</unittitle>
+                    <container id="cid4288358" type="Item" label="Mixed Materials">080_ra-004</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref110" level="item">
+                <did>
+                    <unittitle>Looking down at Rupp Arena court during game</unittitle>
+                    <container id="cid4288357" type="Item" label="Mixed Materials">080_ra-008</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref111" level="item">
+                <did>
+                    <unittitle>Entrance to Rupp Arena</unittitle>
+                    <container id="cid4288356" type="Item" label="Mixed Materials">080_ra-010</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref112" level="item">
+                <did>
+                    <unittitle>Looking down at Rupp Arena court during game</unittitle>
+                    <container id="cid4288355" type="Item" label="Mixed Materials">080_ra-012</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref113" level="item">
+                <did>
+                    <unittitle>Reggie Hanson with family at center court on Senior Recognition Day</unittitle>
+                    <container id="cid4288354" type="Item" label="Mixed Materials">080_sr-002</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref114" level="item">
+                <did>
+                    <unittitle>Reggie Hanson</unittitle>
+                    <container id="cid4288353" type="Item" label="Mixed Materials">080_sr-003</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref115" level="item">
+                <did>
+                    <unittitle>Reggie Hanson with family at center court on Senior Recognition Day</unittitle>
+                    <container id="cid4288352" type="Item" label="Mixed Materials">080_sr-004</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref116" level="item">
+                <did>
+                    <unittitle>Reggie Hanson breaking through banner on Senior Recognition Day</unittitle>
+                    <container id="cid4288351" type="Item" label="Mixed Materials">080_sr-006</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref117" level="item">
+                <did>
+                    <unittitle>Reggie Hanson's banner on Senior Recognition Day</unittitle>
+                    <container id="cid4288350" type="Item" label="Mixed Materials">080_sr-008</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref118" level="item">
+                <did>
+                    <unittitle>Johnathon Davis breaking through banner on Senior Recognition Day</unittitle>
+                    <container id="cid4288349" type="Item" label="Mixed Materials">080_sr-010</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref119" level="item">
+                <did>
+                    <unittitle>Johnathon Davis' banner on Senior Recognition Day</unittitle>
+                    <container id="cid4288348" type="Item" label="Mixed Materials">080_sr-011</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref120" level="item">
+                <did>
+                    <unittitle>Johnathon Davis, Reggie Hanson and families on Senior Recognition Day</unittitle>
+                    <container id="cid4288347" type="Item" label="Mixed Materials">080_sr-021</container>
+                    <unitdate>1991</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref121" level="item">
+                <did>
+                    <unittitle>Tubby Smith</unittitle>
+                    <container id="cid4288346" type="Item" label="Mixed Materials">104-1210</container>
+                    <unitdate>2005</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

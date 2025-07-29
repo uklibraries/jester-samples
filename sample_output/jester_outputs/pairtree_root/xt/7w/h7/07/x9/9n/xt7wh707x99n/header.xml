@@ -1,0 +1,176 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7wh707x99n</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7wh707x99n/data/2011ms069.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Alfred Cortot Collection: Handwritten Manuscripts (dated 1718-1782, undated; 375 0.23 cubic feet; 1 box) consists of the handwritten manuscripts collected by pianist and music educator, Alfred Cortot. As a pianist and music educator, Alfred Cortot actively collected materials relevant to his study of the history and theoretical structure of music and music performance. His larger book collection is cataloged in UK's catalog, infokat. This collection contains primarily theoretical and historical treatises from the 15th to the 19th centuries that were once owned by Cortot.</abstract>
+  <descriptive_summary>
+    <author>Revised by Ida Lucille Mangum, 2020 August 7</author>
+    <title>Alfred Cortot Collection: Handwritten Manuscripts</title>
+    <source>Alfred Cortot Collection: Handwritten Manuscripts</source>
+    <unitdates>
+      <date>1718-1782, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Music -- Instruction and study</subject>
+      <subject>Musical instruments -- Early works to 1800</subject>
+      <subject>Music -- History and criticism</subject>
+      <subject>Music -- Theory -- Early works to 1800</subject>
+    </subjects>
+    <prefercite>2011ms069 : [identification of item], Alfred Cortot Collection: Handwritten Manuscripts, 1718-1782, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Alfred Denis Cortot was born in Nyon, Switzerland, September 26, 1877 and died in Lausanne, Switzerland, June 15, 1962. However, he lived most of his life in Paris. Cortot was a well-known pianist both as a soloist and in a trio he formed with Jacques Thibaud (violin) and Pablo Casals ('cello). As an educator, he was Professor of Piano at the Paris Conservatoire and founded, with violinist Adolphe Mangeot, the Ecole Normale de Musique where he served as director until his death. Cortot wrote three books on French piano music and published more than eighty editions of piano music of various composers. He recorded extensively and is regarded as one of the outstanding pianists of the twentieth century. Cortot was also an avid collector of musical autographs, literature, first and early editions, letters portraits, coins and postage stamps, and he published a catalog of his early books on music theory and history. A large percentage of the books in this collection are listed here.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Alfred Cortot Collection: Handwritten Manuscripts (dated 1718-1782, undated; 375 0.23 cubic feet; 1 box) consists of the handwritten manuscripts collected by pianist and music educator, Alfred Cortot. As a pianist and music educator, Alfred Cortot actively collected materials relevant to his study of the history and theoretical structure of music and music performance. His larger book collection is cataloged in UK's catalog, <extref show="new" actuate="onRequest" href="https://saalck-uky.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01SAA_UKY:UKY&amp;collectionId=81449947860002636">infokat</extref>. This collection contains primarily theoretical and historical treatises from the 15th to the 19th centuries that were once owned by Cortot.. The materials consist of monographs, pamphlets, scores, and manuscripts dealing with the theory and history of music composition, performance, aesthetics, and philosophy.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials belong to University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>ANGELINI, Giacomo</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/974185</unitid>
+        <unitdate datechar="creation" type="inclusive">1718</unitdate>
+        <container id="aspace_8e43b7a3a9c073173f291808ca5a7714" label="mixed materials" type="box">1</container>
+        <container id="aspace_3b82ccaf1d21a8f835e64fab5793e290" parent="aspace_8e43b7a3a9c073173f291808ca5a7714" type="folder">1</container>
+      </did>
+      <scopecontent id="aspace_bb42fd1456769869af8478391de32bc7">
+        <head>Scope and Contents</head>
+        <p>Angelini Giancomo | Manoscritto che tratte | delle regole del Contrappunto | (ferm e dat. 1718)</p>
+        <p> manuscript: 62 pp. + 6 ff.; not in Cortot catalog</p>
+      </scopecontent>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>[ANONYMOUS]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/974186</unitid>
+        <unitdate datechar="creation" type="inclusive">circa 1750</unitdate>
+        <container id="aspace_a8b731284cae5504278afd85dc5aea4c" label="mixed materials" type="box">1</container>
+        <container id="aspace_0113c3b7ca89922fd1a36b735d82e58b" parent="aspace_a8b731284cae5504278afd85dc5aea4c" type="folder">2</container>
+      </did>
+      <scopecontent id="aspace_b7ed91bd723bd55d02aa991f58c71855">
+        <head>Scope and Contents</head>
+        <p>Dictionaire | des mots | Italiens &amp; Latins | Employ&#xE9;s | Dans la | Musique fran&#xE7;aise. &#xA6; [ca. 1750.]</p>
+        <p> manuscript: 19 pp.</p>
+        <p> + probl&#xEA;me. | trouver le mode et la tonique | d'une pi&#xE8;ce de Musique | Donn&#xE9;e?</p>
+        <p> manuscript: pp. 21-22.</p>
+        <p> + Valeur des Notes | Relativement &#xE0; la mesure.</p>
+        <p> manuscript: p. 23.</p>
+        <p> not in Cortot catalog</p>
+        <p> (signature on front end sheet: "Zoe Vinet"?)</p>
+      </scopecontent>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle>[ANONYMOUS]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/974187</unitid>
+        <unitdate datechar="creation" type="inclusive">1729</unitdate>
+        <container id="aspace_1526686bd59599ff69b91b8309f44701" label="mixed materials" type="box">1</container>
+        <container id="aspace_3b6716a8e7b153dd9a144840fd830d11" parent="aspace_1526686bd59599ff69b91b8309f44701" type="folder">3</container>
+      </did>
+      <scopecontent id="aspace_ea7967965fd562d068121219022d4ebb">
+        <head>Scope and Contents</head>
+        <p>Examen de la conf&#xE9;rence sur la Musique inser&#xE9;e dans | Le deuxieme volume du Mercure de juin 1729 page 1281.</p>
+        <p> manuscript: 4 ff.</p>
+        <p> + Conference sur la Musique</p>
+        <p> manuscript: 3 ff.</p>
+      </scopecontent>
+    </c>
+    <c id="ref4" level="item">
+      <did>
+        <unittitle>[ANONYMOUS]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/974188</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_1b55d5ec2748de3a4de269b98bd845a2" label="mixed materials" type="box">1</container>
+        <container id="aspace_7282e86f41eba15e52208c7de0e429ff" parent="aspace_1b55d5ec2748de3a4de269b98bd845a2" type="folder">4</container>
+      </did>
+      <scopecontent id="aspace_23ae3dc294b472691fe4af0996e11390">
+        <head>Scope and Contents</head>
+        <p>Plan abreg&#xE9; d'une Methode | nouvelle d'accompagnement | pour le Clavecin.</p>
+        <p> manuscript: 7 ff.; not in Cortot catalog.</p>
+      </scopecontent>
+    </c>
+    <c id="ref5" level="item">
+      <did>
+        <unittitle>[ANONYMOUS]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/974189</unitid>
+        <unitdate datechar="creation" type="inclusive">1782</unitdate>
+        <container id="aspace_4ed0799718b63afd165b84c3061d6f9c" label="mixed materials" type="box">1</container>
+        <container id="aspace_6cb55d8866f9c825445b1368d3837ccd" parent="aspace_4ed0799718b63afd165b84c3061d6f9c" type="folder">5</container>
+      </did>
+      <scopecontent id="aspace_050f53567acc47c71b5cc9f8888033e2">
+        <head>Scope and Contents</head>
+        <p>Principes ou Regles pour apprendre facilement | L'accompagnement de la Basse Contin&#xFC;e | Sur Le Clavecin. &#xA6; (at end): P.A.D. | fecit | 1782</p>
+        <p> manuscript: 12 pp.; not in Cortot catalog.</p>
+      </scopecontent>
+    </c>
+    <c id="ref6" level="item">
+      <did>
+        <unittitle>CASTEL, R.P. [Louis-Bertrand], 1688-1757</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/974190</unitid>
+        <unitdate datechar="creation" type="inclusive">18th century</unitdate>
+        <container id="aspace_e22b435d207a154e1c69646985b83d98" label="mixed materials" type="box">1</container>
+        <container id="aspace_136a5aa4124ff26728c8e41f2834b9dd" parent="aspace_e22b435d207a154e1c69646985b83d98" type="folder">6</container>
+      </did>
+      <scopecontent id="aspace_feb550bddc7fad1dc09ae42281542a94">
+        <head>Scope and Contents</head>
+        <p>Demonstration | Geometrique du Clavecin pour les | yeux et pour tous les sens, avec | l'Eclaircissement de quelques | difficultez, et deux nouvelles | observations, par le R.P. Castel, jesuite. &#xA6; [18th century].</p>
+        <p> manuscript: 9 ff.; not in Cortot catalog.</p>
+      </scopecontent>
+    </c>
+    <c id="ref7" level="item">
+      <did>
+        <unittitle>LIROU, Jean Francois Espic de Lirou, Chevalier de (1740-1806)</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/974191</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_42dd66ab693c46135be37c8ca71ee660" label="mixed materials" type="box">1</container>
+        <container id="aspace_3ea4c385053e2dff5be6bd3a0af369a2" parent="aspace_42dd66ab693c46135be37c8ca71ee660" type="folder">7</container>
+      </did>
+      <scopecontent id="aspace_e4f8197c10898882820e837fc286d363">
+        <head>Scope and Contents</head>
+        <p>Memoire | Sur la Musique | joint a un Livre imprim&#xE9; ayant pour titre | Explication du Systeme d'harmonie | pr&#xE9;sent&#xE9; au Connours indiqu&#xE9; pour juger, | et choisir, les ouvrages destin&#xE9;s a l'enseignement | de la musique, pour les Eleves de l'Ecole, | de l'institution nationale. &#xA6; L'an 2eme de la Republique une et indivisible | pr (possibly 12r) Thermidor</p>
+        <p> (at end): Epic Lirou | ... | auteur et proffesseur de Musique en Requisition | par le Commite de Salut public</p>
+        <p> manuscript: 35 pp.; not in Cortot catalog.</p>
+      </scopecontent>
+    </c>
+    <c id="ref8" level="item">
+      <did>
+        <unittitle>SOUMILLE, Bernard Laurent (d. 1774)</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/974192</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_7aa34f3da465d57c484c5c9cfdf74918" label="mixed materials" type="box">1</container>
+        <container id="aspace_563772447668028c30aba000d1b133f0" parent="aspace_7aa34f3da465d57c484c5c9cfdf74918" type="folder">8</container>
+      </did>
+      <scopecontent id="aspace_3bbaabef337f7380d58a25fe9dfae158">
+        <head>Scope and Contents</head>
+        <p>Observations adress&#xE9;es &#xE0; M Bo&#xEB;ry | Chamoine de Villeneuve-l&#xE8;s-Avignon, touchant | la Machine propos&#xE9;e pour regler les airs de | Musique.</p>
+        <p> manuscript: 14 pp.; not in Cortot catalog.</p>
+      </scopecontent>
+    </c>
+  </contents>
+</header>

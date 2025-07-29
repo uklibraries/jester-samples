@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/catalog/xt7d513tx81v/guide">2017ms004</eadid><filedesc><titlestmt><titleproper type="filing">Woodring, John blacksmith ledger</titleproper><titleproper>Guide to the John Woodring blacksmith ledger, 1799-1822, 1852 <num>2017ms004</num></titleproper><author>Megan Mummey</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2017 February 16</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-15 15:55:07 -0500</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>John Woodring blacksmith ledger</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Woodring, John Daniel, 1770-1849</persname>
+    </origination>
+    <unitid>2017ms004</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.23 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1799/1852" type="inclusive">1799-1822, 1852</unitdate>
+    <abstract id="aspace_21523e6c13aa084088dc35bdd54768ef">The John Woodring blacksmith ledger (dated 1799-1822, 1852; 0.23 cubic feet; 1 box) consists of an accounting ledger for the Bardstown, Kentucky, blacksmiths John Woodring and Henry Beckett.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_aec51420ebb6a867ae7e2db2461cef55">
+    <head>Scope and Contents</head>
+<p>The John Woodring blacksmith ledger (dated 1799-1822, 1852; 0.23 cubic feet; 1 box) consists of an accounting ledger for the Bardstown, Kentucky, blacksmiths John Woodring and Henry Beckett. The ledger is organized by customer name and includes information such as the services provided and items purchased. Items purchased includes hose shoes, chains, hooks, sharpening augers, hooping barrels, mending kettles and pans, axle for a windmill, furnace door to a malt kiln, compass plates, knives, and plows. The ledger shows how the account was settled. Many times customers settled their accounts with food such as bacon, barrels of whiskey, and money. Local names mentioned in the ledger include Doctor Burr Harrison, Doctor Walter Brashear, Alexander McCown, Thomas Langley, Joseph Lewis, James Bard (son of Bardstown founder William Bard), Armistead Churchwell, Michael Couchman, Christian Miller, and James Clark. There is substantial marginalia made in 1852 by the granddaughters of Woodring, Lovina and Martina, the daughters of Jack Woodring.</p>  </scopecontent>
+  <accessrestrict id="aspace_e26b6ca3e2762b3c8ec33f54c71e0c23">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <userestrict id="aspace_54b71c7491fb3dea10921aaf729e6795">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <prefercite id="aspace_1182befbdc156a490d3713917d216ee3">
+    <head>Preferred Citation</head>
+<p>2017ms004: [identification of item], John Woodring blacksmith ledger, 1799-1822, 1852, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <bioghist id="aspace_18eb58e54010a17248df2b41be426166">
+    <head>Biographical note</head>
+<p>John Daniel Woodring (1770-1849) was a blacksmith in Bardstown, Kentucky, in partnership with Henry Beckett. He married Christena Wolf Woodring (1777-1843) in 1796.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Blacksmithing</subject>
+    <geogname source="lcsh">Bardstown (Ky.)</geogname>
+    <geogname source="lcsh">Kentucky -- History.</geogname>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <persname rules="aacr" source="local">Woodring, John Daniel, 1770-1849</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="item"><did><unittitle>John Woodring blacksmith ledger</unittitle><unitdate datechar="creation" type="inclusive">1799-1822, 1852</unitdate><container id="aspace_74de9e5af8c87cc5fae81d5d6e9a7b0d" label="mixed materials" type="box">1</container><container id="aspace_8647cf8c083bdb9c2e365d44cfb7512e" parent="aspace_74de9e5af8c87cc5fae81d5d6e9a7b0d" type="item">1</container><dao entityref="xt7d513tx81v_1_1"/></did></c></dsc>
+</archdesc>
+</ead>

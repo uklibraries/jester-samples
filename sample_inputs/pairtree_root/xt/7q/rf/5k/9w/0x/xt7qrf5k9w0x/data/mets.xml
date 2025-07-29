@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:bib="http://www.loc.gov/mets/profiles/bibRecord" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="64m1" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" PROFILE="lc:bibRecord">
+<metsHdr CREATEDATE="2011-03-07T00:00:00" LASTMODDATE="2011-03-07T00:00:00" RECORDSTATUS="Production">
+<mets:agent ROLE="CREATOR" TYPE="REPOSITORY">
+<mets:name>University of Kentucky</mets:name>
+<mets:note>SIP METS submitted to KDL.</mets:note>
+</mets:agent>
+<mets:agent ROLE="PRESERVATION" TYPE="ORGANIZATION">
+<mets:name>University of Kentucky</mets:name>
+<mets:note>SIP METS and associated file(s) submitted in University of Kentucky Preservation Repository.</mets:note>
+</mets:agent>
+<mets:altRecordID TYPE="DLXS">64m1</mets:altRecordID>
+</metsHdr>
+<mets:dmdSec ID="DMD1">
+<mets:mdWrap MIMETYPE="text/xml" MDTYPE="OAI_DC">
+<mets:xmlData>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xml:lang="en">  George H. Goodman and Edwin J. Paxton papers, 1911-1950</dc:title>
+  <dc:source>  George H. Goodman and Edwin J. Paxton papers, 1911-1950</dc:source>
+  <dc:creator>Goodman, George H., 1876-1961.</dc:creator>
+  <dc:publisher>University of Kentucky</dc:publisher>
+  <dc:date>1911-1950</dc:date>
+  <dc:format>collections</dc:format>
+  <dc:type>text</dc:type>
+  <dc:identifier/>
+  <dc:language>english</dc:language>
+  <dc:rights xml:lang="en">Copyright has not been assigned to the University of Kentucky.  Contact the Special Collections Research Center for information regarding rights and use of this collection.</dc:rights>
+  <dc:description>  5 cu. ft.     This collection contains the papers and photographs of George H. Goodman and Edwin J. Paxton, consecutive owners of the Paducah News-Democrat.  The collection includes just a small amount of Edwin Paxton's correspondence, with most of the materials pertaining to George Goodman and his tenure as director of the Works Progress Administration (WPA) in Kentucky from 1934 through 1941.  Included are correspondence, clippings, photographs, financial statements for the News-Democrat, and testimony and affidavits concerning charges made by Governor A.B. Chandler that the Kentucky WPA pressured its employees to support Alben Barkley in the 1938 Democratic Senatorial primary.</dc:description>
+</oai_dc:dc>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:amdSec>
+  <mets:rightsMD ID="RMD1">
+    <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="RIGHTSMD">
+      <mets:xmlData>
+        <mets:versionStatement>2005</mets:versionStatement>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:rightsMD>
+<mets:rightsMD ID="ADMRTS1">
+<mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRights">
+<mets:xmlData>
+<mets:RightsDeclarationMD RIGHTSCATEGORY="">
+<mets:Context CONTEXTCLASS="GENERAL PUBLIC">
+<mets:Constraints CONSTRAINTTYPE="RE-USE">
+<mets:ConstraintDescription>View Collection Guide to obtain rights information.</mets:ConstraintDescription>
+</mets:Constraints>
+</mets:Context>
+</mets:RightsDeclarationMD>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:rightsMD>
+</mets:amdSec>
+<mets:fileSec>
+  <mets:fileGrp ID="FileGrpFindingAid" USE="Finding Aid">
+    <mets:file ID="MasterFindingAid" USE="master" MIMETYPE="application/xml">
+      <mets:FLocat xlink:href="64m1.xml" LOCTYPE="OTHER"/>
+    </mets:file>
+   <mets:file ID="AccessFindingAid" USE="access" MIMETYPE="application/xml">
+     <mets:FLocat xlink:href="64m1.xml" LOCTYPE="OTHER"/>
+   </mets:file>
+  <mets:file ID="AccessFindingAid" MIMETYPE="application/xml" USE="access"><mets:FLocat LOCTYPE="OTHER" xlink:href="64m1.dao.xml"/></mets:file></mets:fileGrp>
+</mets:fileSec>
+<mets:structMap/></mets:mets>

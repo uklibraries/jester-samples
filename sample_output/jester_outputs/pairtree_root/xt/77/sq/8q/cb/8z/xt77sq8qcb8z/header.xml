@@ -1,0 +1,256 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt77sq8qcb8z</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt77sq8qcb8z/data/77pa102.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Camp Nelson photographic collection (dated 1864; 0.23 cubic feet; 1 box) consists of 16 albumen prints taken by G.W. Foster of Camp Nelson in Nicholasville, Kentucky, during the Civil War.</abstract>
+  <descriptive_summary>
+    <author>Processed by: Staff, Antonio Thompson; machine-readable finding aid created by:Eric Weig</author>
+    <title>Camp Nelson photographic collection</title>
+    <source>Camp Nelson photographic collection</source>
+    <unitdates>
+      <date>1864</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Freedmen -- Kentucky</subject>
+      <subject>National cemeteries -- Kentucky</subject>
+      <subject>Camp Nelson (Ky.)</subject>
+      <subject>Military camps -- Kentucky</subject>
+      <subject>United States -- History -- Civil War, 1861-1865 -- Hospitals</subject>
+    </subjects>
+    <prefercite>77pa102 : [identification of item], Camp Nelson Photographic Collection, 1864, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>Camp Nelson, founded on June 12, 1863, in Jessamine County, Kentucky, served Union forces as a supply base and training center. Camp Nelson, named for Major-General William Nelson, was founded to assist Major-General Ambrose Burnside's advance into Tennessee. Union Army planners chose the site for its easily defendable location. Camp Nelson is best known for its role as the nation's third largest recruitment center for U.S. Colored Troops, helping to recruit, train, and equip eleven regiments. It also served as a recruitment and training facility for men drawn from Kentucky and Tennessee, but troops from nearly every state in the Union were stationed in or passed through Camp Nelson. At its height, Camp Nelson contained over 300 buildings and could garrison over 3,000 men.</p><p>African-Americans brought their families with them to Camp Nelson. The camp was overwhelmed with refugees. Without clear orders on how to respond to this situation camp commanders were forced to take matters into their own hands. In 1864, Brigadier General Speed S. Fry, commander of Camp Nelson, burned refugee housing and forced them to leave. Without shelter or food many succumbed to disease and perished. Union Army officials and African-American soldiers balked at this treatment and Fry was forced to rescind these orders and establish a refugee camp.</p><p>Missionaries helped administer the camp, providing schools and church services. Most notable among the missionaries was Reverend John G. Fee. Fee, an abolitionist, who also founded Berea College, which he encouraged refugees to attend.</p><p>By June of 1866 Camp Nelson Military Depot was officially closed. The Camp Nelson cemetery was created in 1863 and was named a National Cemetery in 1866. The remnants of the Camp and Cemetery have been preserved in Nicholasville, Kentucky. It is now used as an archeological site and is open for tours.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Camp Nelson photographic collection (dated 1864; 0.23 cubic feet; 1 box) consists of 16 albumen prints taken by G.W. Foster of Camp Nelson in Nicholasville, Kentucky, during the Civil War. G.W. Foster published the photographs in book form in 1864. The book is badly damaged, but front and back covers and frontispiece have been preserved. The photographs depict various structures and buildings in the camp, including the quartermasters office, the post office, the convalescent camp, pump houses, and the reservoir. The photographs include many African-American refugees.</p><p>Collection was previously housed in Photograph Archives Department of Special Collections and Digital Programs, University of Kentucky Libraries, as collection number 77PA102, Camp Nelson Photographic Collection. This item is now housed in Rare Books OVERSIZE F459.C35 F67 1864</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Front cover and title page</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1008878</unitid>
+        <unitdate datechar="creation" type="inclusive">circa 1864</unitdate>
+        <container id="aspace_e9ff6b62df8fbe3f7dd818db584bb4ac" label="graphic materials" type="box">1</container>
+        <container id="aspace_e6e9487cb1cd70c39b12519e320c4749" parent="aspace_e9ff6b62df8fbe3f7dd818db584bb4ac" type="item">0a-0b</container>
+        <dao entityref="xt77sq8qcb8z_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Large posed group photograph; African-American men and women, some men in military uniform in front of large wooden white building</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157885</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_940845a82319eacb5275f3db905c5898">Albumen</physdesc>
+        <container id="aspace_82083ab5c5c029c582e1fc54ccccb4d6" label="graphic materials" type="box">1</container>
+        <container id="aspace_b9c02e5f1b4ba52b60403a96fe2eafd9" parent="aspace_82083ab5c5c029c582e1fc54ccccb4d6" type="item">1</container>
+        <dao entityref="xt77sq8qcb8z_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle>Refugee camp; Street scene; dirt road with small white wooden houses lining both sides far into the distance, crowd of African-American women and children posing in street around man on horse</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157886</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_8eac679471bfc50d14685b47a4156e4d">Albumen</physdesc>
+        <container id="aspace_717f88d281fca0167c5693a87912ed27" label="graphic materials" type="box">1</container>
+        <container id="aspace_a1e658a5f1f6c4539084f8bec664e76e" parent="aspace_717f88d281fca0167c5693a87912ed27" type="item">2</container>
+        <dao entityref="xt77sq8qcb8z_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="item">
+      <did>
+        <unittitle>Exterior of building; large white wooden sided building flanked by smaller buildings, two African-American men in front, one on horseback</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157887</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_1508d3b00080d80ea0a66183e7649643">Albumen</physdesc>
+        <container id="aspace_633f24f71732112210df1bb1c6885879" label="graphic materials" type="box">1</container>
+        <container id="aspace_b74dcde872db47b515bb4e3c88b0743a" parent="aspace_633f24f71732112210df1bb1c6885879" type="item">3</container>
+        <dao entityref="xt77sq8qcb8z_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="item">
+      <did>
+        <unittitle>Boone's Knob near the Kentucky River; view from Jessamine County facing south towards Garrard County; mountain in background with river running in front, Hickman covered bridge to the left, trees in foreground, wagons near creek</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157888</unitid>
+        <unitdate datechar="creation">1864</unitdate>
+        <physdesc id="aspace_eb084cb17d24c55ef658beb864c5447b">Albumen</physdesc>
+        <container id="aspace_7590330ff95e405fe82d133e5b74dc58" label="graphic materials" type="box">1</container>
+        <container id="aspace_dc47342ac5aa4337bab602d1ab23a89f" parent="aspace_7590330ff95e405fe82d133e5b74dc58" type="item">4</container>
+        <dao entityref="xt77sq8qcb8z_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="item">
+      <did>
+        <unittitle>The Hickman Covered Bridge over the Kentucky River</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157889</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_20363bda363547bbfe702edf99f1050e">Albumen</physdesc>
+        <container id="aspace_0ff89d8d91776f5405df3cbbf36098c2" label="graphic materials" type="box">1</container>
+        <container id="aspace_b047c3e07ed45adac872424ad35aa66c" parent="aspace_0ff89d8d91776f5405df3cbbf36098c2" type="item">5</container>
+        <dao entityref="xt77sq8qcb8z_6_1"/>
+      </did>
+      <scopecontent id="aspace_d3b3df32477c3720b6ba9a41020738f8">
+        <head>Scope and Contents</head>
+        <p>Constructed in 1838 over the Kentucky River; it was replaced with a steel bridge in the 1930's. A skirmish between the Union and Confederate soldiers occurred at the bridge on March 28, 1863.</p>
+      </scopecontent>
+    </c>
+    <c id="ref7" level="item">
+      <did>
+        <unittitle>The Oliver Perry House, also known as the White House, the house is a large white wooden sided building with two floors and columns, there are various African-Americans siting on upstairs and downstairs porches, Caucasian man in military uniform sitting on porch, horse, and horse and buggy in front of house, dirt road in foreground, with trees in the background</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157890</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_322a5786d75b088b9244236e7249c40a">Albumen</physdesc>
+        <container id="aspace_47fc1f56996d26b64053e6b93036f95b" label="graphic materials" type="box">1</container>
+        <container id="aspace_33efcd49a47ae08a4d28fc2152bd0ff0" parent="aspace_47fc1f56996d26b64053e6b93036f95b" type="item">6</container>
+        <dao entityref="xt77sq8qcb8z_7_1"/>
+      </did>
+    </c>
+    <c id="ref8" level="item">
+      <did>
+        <unittitle>The Post Headquarters; wooden building with two floors and cupola, two men are standing on sidewalk near wooden fence in foreground, trees and house with wooden fence in background</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157891</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_bb54ea89255288291c59a37d236e3fb4">Albumen</physdesc>
+        <container id="aspace_a216b93b8f30412b07d704f7b048d82c" label="graphic materials" type="box">1</container>
+        <container id="aspace_e80c1754ba19728e8bacfbafed32c97a" parent="aspace_a216b93b8f30412b07d704f7b048d82c" type="item">7</container>
+        <dao entityref="xt77sq8qcb8z_8_1"/>
+      </did>
+    </c>
+    <c id="ref9" level="item">
+      <did>
+        <unittitle>Camp Nelson convalescent camp; eight rows of four white tents each, small group of people sitting in front of them, trees and more tents in background, cleared area and tree stumps in foreground, written on back in pencil, upper left corner, <emph render="doublequote">Harmsfeld (?) No 2,</emph> on lower left <emph render="doublequote">8 Phelps 3a (?)</emph></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157892</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_e7076ebedba535653bbaa9f6907605e3">Albumen</physdesc>
+        <container id="aspace_c277ec01236330989ffee701b19b3d23" label="graphic materials" type="box">1</container>
+        <container id="aspace_e497058ef97d8ec3464ebce70e55c04d" parent="aspace_c277ec01236330989ffee701b19b3d23" type="item">8</container>
+        <dao entityref="xt77sq8qcb8z_9_1"/>
+      </did>
+    </c>
+    <c id="ref10" level="item">
+      <did>
+        <unittitle>Landscape with building; three rows of white tents with wooden buildings behind them and two floor white wooden buildings adjacent, field in foreground and trees in background</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157893</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_2d25e799c563a79ff37fdb7d6bc5b081">Albumen</physdesc>
+        <container id="aspace_b20a7931b408907beb8b16f42fc0888c" label="graphic materials" type="box">1</container>
+        <container id="aspace_f6d6929a66c849a367527025aab76d20" parent="aspace_b20a7931b408907beb8b16f42fc0888c" type="item">9</container>
+        <dao entityref="xt77sq8qcb8z_10_1"/>
+      </did>
+    </c>
+    <c id="ref11" level="item">
+      <did>
+        <unittitle>Reservoir; large reservoir on raised ground surrounded by a wooden fence with three people standing on dirt road in foreground, buildings and trees in background. Water is pumped to the reservoir from the Kentucky River. There is a gazebo within the fence for officers</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157894</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_6931dd1683b727f551f0828a4d628f03">Albumen</physdesc>
+        <container id="aspace_25d0597d4581308e619076b297f0d81b" label="graphic materials" type="box">1</container>
+        <container id="aspace_62ae631f7d0091b5a034649e92fefb6e" parent="aspace_25d0597d4581308e619076b297f0d81b" type="item">10</container>
+        <dao entityref="xt77sq8qcb8z_11_1"/>
+      </did>
+    </c>
+    <c id="ref12" level="item">
+      <did>
+        <unittitle>Exterior of building; large white wooden building, sign on building reads <emph render="doublequote">U.S. Sanitary Commission, Soldier's Home,</emph> large group of men standing in front, white wooden fence with men resting in foreground, dirt road leading to buildings in background</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157895</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_64c85476389aaa75a966135d61e80242">Albumen</physdesc>
+        <container id="aspace_1031f1b48321167b52c6725933914608" label="graphic materials" type="box">1</container>
+        <container id="aspace_9b849f0be1577c6ba4e95b921adfaca4" parent="aspace_1031f1b48321167b52c6725933914608" type="item">11</container>
+        <dao entityref="xt77sq8qcb8z_12_1"/>
+      </did>
+    </c>
+    <c id="ref13" level="item">
+      <did>
+        <unittitle>Office of the quartermaster and commissary; large wooden building with porch and two floors, three men riding in wagon pulled by horses while other men stand in front of building, dirt road and trees in foreground, trees in background</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157896</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_0ae292aca055c3cfa96798b37f00f8fd">Albumen</physdesc>
+        <container id="aspace_fc4713185785dd466f9238d4e7c7017e" label="graphic materials" type="box">1</container>
+        <container id="aspace_c2b5050ea2ad7cbff72fc54ffe2485b7" parent="aspace_fc4713185785dd466f9238d4e7c7017e" type="item">12</container>
+        <dao entityref="xt77sq8qcb8z_13_1"/>
+      </did>
+    </c>
+    <c id="ref14" level="item">
+      <did>
+        <unittitle>Steam powered pump house; wooden house built on mountainside raised with a concrete structure and wooden beams above the Kentucky River, three people looking out of window, men sitting on porch, trees and wooden staircase going over mountainside in background, creek in foreground</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157897</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_e29e08a489f9dd9de486b3a3f16f9824">Albumen</physdesc>
+        <container id="aspace_5778e6bc4d61da794d8b9bbe8b45e86d" label="graphic materials" type="box">1</container>
+        <container id="aspace_ef49459578cd56d7e3ffeb195f9f76a0" parent="aspace_5778e6bc4d61da794d8b9bbe8b45e86d" type="item">13</container>
+        <dao entityref="xt77sq8qcb8z_14_1"/>
+      </did>
+    </c>
+    <c id="ref15" level="item">
+      <did>
+        <unittitle>Landscape; steam powered pump house from #13 above in center, surrounded by trees, creek in foreground, trees and clearing in background</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157898</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_b361cd78db81078bc5f937f7e240fa77">Albumen</physdesc>
+        <container id="aspace_06a66b1cab86f6168f9b223fe03aa7c0" label="graphic materials" type="box">1</container>
+        <container id="aspace_b908c050b8c467c6a7fb36a92d8be2bf" parent="aspace_06a66b1cab86f6168f9b223fe03aa7c0" type="item">14</container>
+        <dao entityref="xt77sq8qcb8z_15_1"/>
+      </did>
+    </c>
+    <c id="ref16" level="item">
+      <did>
+        <unittitle>Posed group photo; six men, four kneeling, two standing, all wearing coat and tie, bottom of photo reads <emph render="doublequote">Isaac Damon, E.P. Knight, F.W. Boyden, J.B. Earnshaw, A.W. Waite, A.A. Livermore</emph></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157899</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_113968397bd79ce63e30b7fc80ce5164">Albumen</physdesc>
+        <container id="aspace_08763dbe2de8f62bad53cfc624cafbb3" label="graphic materials" type="box">1</container>
+        <container id="aspace_9e09daf9584ebfcda272ffc30147d196" parent="aspace_08763dbe2de8f62bad53cfc624cafbb3" type="item">15</container>
+        <dao entityref="xt77sq8qcb8z_16_1"/>
+      </did>
+    </c>
+    <c id="ref17" level="item">
+      <did>
+        <unittitle>Posed group photo, Approximately fifty-five African-American girls being taught outside by a Caucasian female while two bearded Caucasian men look on, white wooden building in background</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/157900</unitid>
+        <unitdate datechar="creation">circa 1864</unitdate>
+        <physdesc id="aspace_f956f533a637e32a3bf0a0f3d7ab2c74">Albumen</physdesc>
+        <container id="aspace_34cf15081de7f921a2ec9019458d5dd7" label="graphic materials" type="box">1</container>
+        <container id="aspace_e72d6b482913c413965f7a20f3259a34" parent="aspace_34cf15081de7f921a2ec9019458d5dd7" type="item">16</container>
+        <dao entityref="xt77sq8qcb8z_17_1"/>
+      </did>
+    </c>
+    <c id="ref18" level="item">
+      <did>
+        <unittitle>Back cover</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1008877</unitid>
+        <unitdate datechar="creation" type="inclusive">circa 1864</unitdate>
+        <container id="aspace_161266e4f150f332074c11718ff2a83a" label="graphic materials" type="box">1</container>
+        <container id="aspace_f1879b47af788eafdd854b47c2131a3b" parent="aspace_161266e4f150f332074c11718ff2a83a" type="item">17</container>
+        <dao entityref="xt77sq8qcb8z_18_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

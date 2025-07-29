@@ -1,0 +1,75 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7k9882ns8v</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7k9882ns8v/data/2009ms132.0656.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The European travel diary (dated 1927; 0.04 cubic feet; 1 folder) comprises one diary that documents the travels of a young woman and her friends in Europe in the Summer of 1927.</abstract>
+  <descriptive_summary>
+    <author>Sarah Coblentz</author>
+    <title>Wade Hall Collection of American Letters: European travel diary</title>
+    <source>Wade Hall Collection of American Letters: European travel diary</source>
+    <unitdates>
+      <date>1927 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.04 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</arrangement>
+    <subjects>
+      <subject>Diaries.</subject>
+      <subject>Diaries -- 20th century</subject>
+      <subject>Travel.</subject>
+      <subject>Ocean travel</subject>
+      <subject>Europe</subject>
+      <subject>Europe -- Description and travel.</subject>
+      <subject>France</subject>
+      <subject>Italy</subject>
+      <subject>Switzerland.</subject>
+      <subject>Germany.</subject>
+      <subject>Friendship.</subject>
+      <subject>Female friendship -- United States.</subject>
+      <subject>Hotels.</subject>
+      <subject>Tourism and museum</subject>
+    </subjects>
+    <prefercite>2009ms132.0656: [identification of item], Wade Hall Collection of American Letters: European travel diary, 1927, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>No biographical information available on European travel diary author.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The European travel diary (dated 1927; 0.04 cubic feet; 1 folder) comprises one diary that documents the travels of a young woman and her friends in Europe in the Summer of 1927. In the diary, the author details their ocean journey to France, describing their neighbors on the ship, inside jokes they made while on board, assistance from staff, and opinions on activities and meals provided to them. Once in Europe, the author details sights visited, hotels stayed in, making friends, driving through the countryside, meals eaten, and little gaffes that occurred throughout their trip. The tour consisted of France, Italy, Switzerland, and Germany. The diary does not conclude with the end of the trip, it is cut-off halfway through part of the author's stay in Germany.</p><p>The European travel diary collection is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>European travel diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/760886</unitid>
+        <unitdate datechar="creation" type="inclusive">1927</unitdate>
+        <container id="aspace_7fa3866d806856fc973a0ee9c75b0e45" label="mixed materials" type="box">WH-64</container>
+        <container id="aspace_132398c1090e78e6990bfe3b7d20e64c" parent="aspace_7fa3866d806856fc973a0ee9c75b0e45" type="folder">11</container>
+        <dao entityref="xt7k9882ns8v_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

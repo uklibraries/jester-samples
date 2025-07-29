@@ -1,0 +1,107 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7000002v58</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7000002v58/data/2020ms005.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Van Meter family recipe book and autograph albums (dated 1845-1913; 0.23 cubic feet; 1 box) consists of a recipe book, three autograph albums, a census book, and a pamphlet.</abstract>
+  <descriptive_summary>
+    <author>Megan Mummey</author>
+    <title>Van Meter family recipe book and autograph albums</title>
+    <source>Van Meter family recipe book and autograph albums</source>
+    <unitdates>
+      <date>1845-1913 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Autograph albums.</subject>
+      <subject>Cooking, American -- Kentucky -- Lexington</subject>
+      <subject>Kentucky -- Census.</subject>
+      <subject>Recipes.</subject>
+      <subject>Stanford (Ky.)</subject>
+      <subject>Van Meter family</subject>
+    </subjects>
+    <prefercite>2020ms005 : [identification of item], Van Meter family recipe book and autograph albums, 1845-1913, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical / Historical</head>
+      <p>Mabelle Van Meter (1868-1967) and Emma Van Meter (1857-1942) of Lexington, Kentucky, were the children of stock farmer Benjamin Franklin Van Meter (1834-1927) and Amelia Clay Lewis Van Meter (1836-1921). Mabelle Van Meter never married. Emma Van Meter married Archibald Logan Hamilton in 1877.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Van Meter family recipe book and autograph albums (dated 1845-1913; 0.23 cubic feet; 1 box) consists of a recipe book, three autograph albums, a census book, and a pamphlet. Mabelle Van Meter, who remained unmarried during her life, kept the handwritten recipe book. The three autograph albums belonged to Emma Van Meter, Amelia Servis, and Mattie Pettit. Additionally, the collection contains a census book for Stanford, Kentucky, from 1896, and a Legion of Honor pamphlet.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Mabelle Van Meter recipe book</unittitle>
+        <unitdate datechar="creation" type="inclusive">1913</unitdate>
+        <container id="aspace_f3d846dca6eaaf4a37f3827bc79e50b5" label="mixed materials" type="box">1</container>
+        <container id="aspace_fd9e903991d9e8fd9a947107a7bd0d18" parent="aspace_f3d846dca6eaaf4a37f3827bc79e50b5" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Amelia Servis autograph album</unittitle>
+        <unitdate datechar="creation" type="inclusive">1845</unitdate>
+        <container id="aspace_33cc0ace1a02bf5cf21a36dd2a5118e3" label="mixed materials" type="box">1</container>
+        <container id="aspace_ed9c48e47278a4eeac132627ead637e5" parent="aspace_33cc0ace1a02bf5cf21a36dd2a5118e3" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Emma Van Meter autograph album</unittitle>
+        <unitdate datechar="creation" type="inclusive">1874</unitdate>
+        <container id="aspace_cb11012690ffc9798901fcfa8d9f798d" label="mixed materials" type="box">1</container>
+        <container id="aspace_719f089e9291b6b6e2808419d71f3af4" parent="aspace_cb11012690ffc9798901fcfa8d9f798d" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Mattie E. Pettit autograph album</unittitle>
+        <unitdate datechar="creation" type="inclusive">1882</unitdate>
+        <container id="aspace_b77593329f6572ecb5647560cf69a1e8" label="mixed materials" type="box">1</container>
+        <container id="aspace_0a2dfd2bb04d25fdcec4ff8999605a4b" parent="aspace_b77593329f6572ecb5647560cf69a1e8" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle>Census book for Stanford, Kentucky</unittitle>
+        <unitdate datechar="creation" type="inclusive">1896</unitdate>
+        <container id="aspace_90e16a53f37586770901cb07efc8929a" label="mixed materials" type="box">1</container>
+        <container id="aspace_74cf2d9d4ea971a20342d76c82ef794f" parent="aspace_90e16a53f37586770901cb07efc8929a" type="folder">5</container>
+        <container id="aspace_8e632e123103ae9f0edeed75140afa10" parent="aspace_74cf2d9d4ea971a20342d76c82ef794f" type="item">1</container>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle>Legion of Honor pamphlet</unittitle>
+        <unitdate datechar="creation" type="inclusive">1890</unitdate>
+        <container id="aspace_5d1b17c90a8380eda5fbc8fc811815c7" label="mixed materials" type="box">1</container>
+        <container id="aspace_29c6868409c06c176c136ae5aba2b7ba" parent="aspace_5d1b17c90a8380eda5fbc8fc811815c7" type="folder">5</container>
+        <container id="aspace_cb838db014e8c319c51bdc00547e9f52" parent="aspace_29c6868409c06c176c136ae5aba2b7ba" type="item">2</container>
+      </did>
+    </c>
+  </contents>
+</header>

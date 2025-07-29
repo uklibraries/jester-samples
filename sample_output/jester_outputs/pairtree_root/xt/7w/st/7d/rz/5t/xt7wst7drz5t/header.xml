@@ -1,0 +1,104 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7wst7drz5t</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7wst7drz5t/data/47M14.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract></abstract>
+  <descriptive_summary>
+    <author>Desiree' H. Perry</author>
+    <title>Thomas Dye Owings papers</title>
+    <source>Thomas Dye Owings papers</source>
+    <unitdates>
+      <date>1817-1850, 1923-1933</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.78 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Businessmen -- Kentucky.</subject>
+      <subject>Kentucky -- History -- 19th Century.</subject>
+      <subject>Owingsville (Ky.) -- Economic conditions.</subject>
+      <subject>Furnaces.</subject>
+      <subject>Flour mills -- Kentucky -- Owingsville.</subject>
+      <subject>Business records -- Kentucky -- Bath County.</subject>
+      <subject>Blacksmithing -- Kentucky -- Owingsville.</subject>
+    </subjects>
+    <prefercite>47M14: [Identification of item], Thomas Dye Owings papers, 1817-1850, 1923-1933, University of Kentucky Special Collections.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Thomas Dye Owings operated several furnaces in Bath County, Kentucky, as well as a furnace store, grist mill, and blacksmith shop in Owingsville. One of Owings' furnaces, Slate Creek furnace, operated from 1798 to 1818, and another, Maria Forge, operated from 1810 to 1840. The furnace store was moved to Owingsville in 1814.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Thomas Dye Owings papers comprise three ledgers, one daybook, and one folder from his business enterprises covering the years 1817-1825, 1848-1850, 1923, 1926-1927, and 1930-1933. In addition to recording business transactions, one volume includes a few records of furniture repairs for the accounts of Hess &amp;amp, Snediger and Stress &amp;amp, and Young. The folder contains ledger accounts for two of his customers and scraps of paper with his business expenditures.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Thomas Dye Owings - General accounts</unittitle>
+        <unitdate datechar="creation">1818 August 10 - 1825 May 19</unitdate>
+        <physloc id="aspace_493d18eb7ac3802d7153dcc20259fb82">Folder is housed with multiple collections.</physloc>
+        <container id="aspace_d047a1d2e61b9bfb29dce2d2095a91db" label="mixed materials" type="box">1</container>
+        <container id="aspace_17d85c23b5eea1127b2d8d4c8ab528e5" parent="aspace_d047a1d2e61b9bfb29dce2d2095a91db" type="folder">1</container>
+        <dao entityref="xt7wst7drz5t_1_1"/>
+      </did>
+      <scopecontent id="aspace_2e1a15466b45aa28f336623a14f018ba">
+        <head>Scope and Contents</head>
+        <p>The Thomas Dye Owings papers, in this folder, are comprised of two loose ledger accounts for the business, Slate Creek Furnace, some scraps of paper with business orders, and a clipping of an article from <title render="italic">The Spirit of '76</title>.</p>
+      </scopecontent>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Ledger</unittitle>
+        <unitdate datechar="creation">1817-1820</unitdate>
+        <container id="aspace_79210c92dd73cf4928eab47e6efe45b9" label="mixed materials" type="item">1</container>
+        <dao entityref="xt7wst7drz5t_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle>Ledger</unittitle>
+        <unitdate datechar="creation">1820-1825</unitdate>
+        <container id="aspace_d07b7750969a1d81fffb530a03a4dafb" label="mixed materials" type="item">2</container>
+        <dao entityref="xt7wst7drz5t_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="item">
+      <did>
+        <unittitle>Ledger</unittitle>
+        <unitdate datechar="creation">1848-1850, 1923, 1926-1927, 1930-1933</unitdate>
+        <container id="aspace_c3f329c2247e45314668536d3573cd12" label="mixed materials" type="item">3</container>
+        <dao entityref="xt7wst7drz5t_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="item">
+      <did>
+        <unittitle>Daybook</unittitle>
+        <unitdate datechar="creation">1817 January 1 - 1817 June 20</unitdate>
+        <container id="aspace_64400930802b46d11243bb8de083f57f" label="mixed materials" type="item">4</container>
+        <dao entityref="xt7wst7drz5t_5_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

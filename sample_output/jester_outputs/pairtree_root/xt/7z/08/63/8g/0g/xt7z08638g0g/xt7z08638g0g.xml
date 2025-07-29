@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2023ua017</eadid><filedesc><titlestmt><titleproper type="filing">Ulmer, S. Sidney correspondence</titleproper><titleproper>Guide to the S. Sidney Ulmer correspondence, 1970, 1992, undated <num>2023ua017</num></titleproper><author>Ruth E. Bryan; Anu Kasarabada</author><sponsor>Processing partially made possible by the John G. Heyburn II Initiative for Excellence in the Federal Judiciary.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 July</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-23 16:28:33 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>S. Sidney Ulmer correspondence</unittitle>
+    <origination label="Creator">
+      <persname>Ulmer, S. Sidney</persname>
+    </origination>
+    <origination label="source">
+      <persname rules="dacs" source="local">Blake, Susan Ulmer</persname>
+    </origination>
+    <unitid>2023ua017</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/4239</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">0.23 Cubic Feet</extent>
+      <extent altrender="carrier">1 slim document box (24 items)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1970/1992" type="inclusive">1970, 1992, undated</unitdate>
+    <abstract id="aspace_43c7bed89dde4d2c1ca65d31cea7293d">The S. Sidney Ulmer correspondence (dated 1970, 1992, undated; 0.23 cubic feet; 1 box) primarily comprises 16 letters (18 pages) documenting communications in 1970 between University of Kentucky Political Science Professor Sidney Ulmer and Supreme Court Justice Hugo L. Black. Also included are four letters (five pages) to and from Ulmer and Chief Justice William H. Rehnquist in 1992, as well as a bound diploma cover from Furman University, Ulmer's alma mater, in which all the letters were originally stored by the donor.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_0d35673373b7850a56b83c23ba1664cf">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_ccf6486e9735f01f945337468f29a9b2">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2023</p>  </acqinfo>
+  <bioghist id="aspace_7335066446b30f7e15c826dfa0f6f5cf">
+    <head>Biographical note</head>
+<p>S. Sidney Ulmer was a professor of political science at the University of Kentucky from 1963 until his retirement in 1988.* In 2003, Ulmer received a "Lifetime Achievement Award" from the Law &amp; Courts Section of the American Political Science Association.</p><p>Ulmer was born in North, South Carolina, on April 15, 1923, to Shirley S. and Anna Reed Ulmer. During World War Two, he served in the U.S. Army Air Force as a tail gunner in the South Pacific theater, earning numerous medals and citations between 1943 and 1945. In 1946, Ulmer married Margaret Lipscomb of Greenville, South Carolina.** The two attended Furman University for their undergraduate degrees, with Sidney Ulmer graduating in 1952. He then attended Duke University for his master's degree (1954) and Ph.D. (1956) in political science.</p><p>Ulmer then taught at Michigan State University for seven years before joining the University of Kentucky as chair of the Political Science Department in 1963. During his six years in office, he doubled the department's size, bringing nine faculty members on board in one year alone. In 1969, Ulmer stepped down as chair and returned to his research on judicial decision-making at the Supreme Court. Over the next twenty years, he served as president of the Southern Political Science Association, program chair for the Midwest Political Association, and as an editorial board member for several professional journals. Ulmer retired from UK in 1988 at age 65, but he continued to attend departmental annual awards banquets for the next two decades. In 2012, Ulmer's wife Margaret passed away. Six years later, Ulmer died on January 19, 2018, at his home in Lexington, Kentucky. He and Margaret Ulmer had five children: Margaret Moye, Mary Ulmer-Jones, William Emmett Ulmer, Susan Blake, and John Lipscomb Ulmer.</p><p>*Biographical information based on an obituary by Bradley Canon, UK Professor Emeritus of Political Science, https://polisci.as.uky.edu/memorium-prof-sidney-ulmer (accessed 2023 July 12). </p><p>**Biographical information for Margaret Ulmer is based on the following obituary, https://www.legacy.com/us/obituaries/greenvilleonline/name/margaret-ulmer-obituary?id=20946296 (accessed September 5, 2023).</p>  </bioghist>
+  <prefercite id="aspace_64fe373c2f0280b47095d39ad1176312">
+    <head>Preferred Citation</head>
+<p>2023ua017: [identification of item], S. Sidney Ulmer correspondence, 1970, 1992, undated, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <relatedmaterial id="aspace_5bdb37cec2ae82ff617506591737f178">
+    <head>Related Materials</head>
+<p>81M3, Stanley Forman Reed papers, 1926-1977, University of Kentucky Special Collections Research Center.</p><p>72m2, Frederick Moore Vinson papers, 1864-1953, University of Kentucky Special Collections Research Center.</p>  </relatedmaterial>
+  <scopecontent id="aspace_4f0ff67dbe5440d725676be3d558a6f3">
+    <head>Content Description</head>
+<p>The S. Sidney Ulmer correspondence (dated 1970, 1992, undated; 0.23 cubic feet; 1 box) primarily comprises 16 letters (18 pages) documenting communications in 1970 between University of Kentucky Political Science Professor Sidney Ulmer and Supreme Court Justice Hugo L. Black. Also included are four letters (five pages) to and from Ulmer and Chief Justice William H. Rehnquist in 1992, as well as a bound diploma cover from Furman University, Ulmer's alma mater, in which all the letters were originally stored by the donor.</p><p>Ulmer corresponded with Black in 1970 to request permission to quote from and/or to provide insight on notes and letters of Black's found in the Library of Congress collections of Justice Harold H. Burton and Chief Justice Earl Warren; he made the requests for purposes of writing an article and giving two presentations on the Court's decision-making processes in racial segregation cases. Ulmer corresponded with Rehnquist to request first-hand information about the Court's decision-making processes in certiorari applications for the purpose of writing a book review of <emph render="italic">Deciding to Decide</emph> by H.W. Perry. Ulmer's letters reveal his belief in the importance of understanding the inner workings of the Court's decision processes and the utility of the justices' unpublished letters and notes in that endeavor. Black's letters document his opinion that unpublished sources are not reliable, do not reflect the workings of the entire Court, and give a false impression of the Court. The letters also demonstrate Black's willingness to debate and disagree with others whom he respected. Rehnquist's letters document his willingness to provide background information on how the Court's decisions are made. Two of Ulmer's letters are copies of holdings in the Library of Congress.</p>  </scopecontent>
+  <userestrict id="aspace_34675ae411e8e0139db2a9f3617dc4db">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject authfilenumber="sh85070899" source="lcsh">Judges -- Attitudes</subject>
+    <occupation source="local">Judges -- United States -- Correspondence</occupation>
+    <occupation source="local">Political scientists -- United States -- Correspondence</occupation>
+    <persname>Ulmer, S. Sidney</persname>
+    <persname role="fmo" rules="dacs" source="local">Blake, Susan Ulmer</persname>
+    <persname>Rehnquist, William H. (William Hubbs), 1924-2005</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Black-Ulmer correspondence</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/946692</unitid><unitdate datechar="creation" type="inclusive">1970 April 22-October 22</unitdate><container id="aspace_c2139d5f451a5efa943e307822ac7bff" label="mixed materials" type="box">1</container><container id="aspace_5791a70fe2943f799e5a4bbf65f28f50" parent="aspace_c2139d5f451a5efa943e307822ac7bff" type="folder">1</container></did></c><c id="ref2" level="file"><did><unittitle>Rehnquist-Ulmer correspondence</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/946693</unitid><unitdate datechar="creation" type="inclusive">1992 March 23-May 13</unitdate><container id="aspace_53a8739b358b33ce5d1aaa23bb4ef5af" label="mixed materials" type="box">1</container><container id="aspace_d1b41b460e46d46da962e1bbe7c573ba" parent="aspace_53a8739b358b33ce5d1aaa23bb4ef5af" type="folder">2</container></did></c><c id="ref3" level="file"><did><unittitle>Furman University diploma cover</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/946694</unitid><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_9fa0f53681a46bf28cabdfcf9c92aafa" label="mixed materials" type="box">1</container><container id="aspace_ff33ab747990969a8062414375d43f75" parent="aspace_9fa0f53681a46bf28cabdfcf9c92aafa" type="folder">3</container></did></c></dsc>
+</archdesc>
+</ead>

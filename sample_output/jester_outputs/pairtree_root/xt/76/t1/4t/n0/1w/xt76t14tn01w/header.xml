@@ -1,0 +1,60 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt76t14tn01w</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt76t14tn01w/data/2012ms742.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The R.S. Strader Public Sale broadside (dated 1884 April 25; 0.01 cubic feet; 1 items) comprises a broadside announcing the sale of a two and a half story home on Nicholasville Pike in Lexington, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Ash Pechon</author>
+    <title>R.S. Strader &quot;Public Sale&quot; broadside</title>
+    <source>R.S. Strader &quot;Public Sale&quot; broadside</source>
+    <unitdates>
+      <date>1884 April 25</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.01 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Houses -- Kentucky</subject>
+    </subjects>
+    <prefercite>2012ms742: [identification of item], R.S. Strader Public Sale broadside, 1884 April 25, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Colonel Robert S. Strader (1836-1891) owned a farm in Boone County where he was a horse breeder before moving to Lexington, Kentucky, to operate a stable and the Lexington trotting track.  He was a horse dealer before starting R.S. Strader and Son distillers with his son Wilson Peter Strader in 1890.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The R.S. Strader <emph render="doublequote">Public Sale</emph> broadside (dated 1884 April 25; 0.01 cubic feet; 1 items) comprises a broadside announcing the sale of a two and a half story home on Nicholasville Pike in Lexington, Kentucky.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>R.S. Strader <emph render="doublequote">Public Sale</emph> broadside</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/925599</unitid>
+        <unitdate datechar="creation">1884</unitdate>
+        <container id="aspace_109fcb4c1e847fd17d1f49cef87aa543" label="mixed materials" type="box">MS-10</container>
+      </did>
+    </c>
+  </contents>
+</header>

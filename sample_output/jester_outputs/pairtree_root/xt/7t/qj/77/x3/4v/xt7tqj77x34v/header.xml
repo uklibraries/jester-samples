@@ -1,0 +1,77 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7tqj77x34v</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7tqj77x34v/data/2009ms132.0879.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The John Louis Martin sketchbook (dated 1908-1918, 1989, undated; 0.03 cubic feet; 2 folders) comprises a single sketchbook belonging to John Louis Martin, a stagehand and set designer at the Buckingham Theatre in Louisville, Kentucky during the first part of the twentieth century.</abstract>
+  <descriptive_summary>
+    <author>Hanna Rumbarger</author>
+    <title>Wade Hall Collection of American Letters: John Louis Martin sketchbook</title>
+    <source>Wade Hall Collection of American Letters: John Louis Martin sketchbook</source>
+    <unitdates>
+      <date>1908-1918, 1989, undated (inclusive)</date>
+    </unitdates>
+    <creator>Martin, John Louis, 1877-1952</creator>
+    <extent>0.03 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</arrangement>
+    <subjects>
+      <subject>Sketches.</subject>
+      <subject>sketchbooks</subject>
+      <subject>Drawing.</subject>
+      <subject>Clippings (Books, newspapers, etc.)</subject>
+      <subject>Theaters -- Kentucky -- Louisville.</subject>
+      <subject>Louisville (Ky.)</subject>
+      <subject>Kentucky.</subject>
+      <subject>Steamboats.</subject>
+      <subject>Martin, John Louis, 1877-1952</subject>
+    </subjects>
+    <prefercite>2009ms132.0879: [identification of item], Wade Hall Collection of American Letters: John Louis Martin sketchbook, 1908-1918, 1989, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>John Louis Martin (1877-1952) was born and raised in Louisville, Kentucky. He married Mary Caroline Woetring (1881-1989) in 1905, and the couple had three children together, John Raymond Martin (1915-1978), Edward Martin (1915-1946) and Sarah Jane Martin (1920-1987).  John worked at The Buckingham Theatre from around 1910-1940, according to US Census records. </p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The John Louis Martin sketchbook (dated 1908-1918, 1989, undated; 0.03 cubic feet; 2 folders) comprises a single sketchbook belonging to John Louis Martin, a stagehand and set designer at the Buckingham Theatre in Louisville, Kentucky during the first part of the twentieth century. The sketchbook features vibrant sketches and paintings of various stage designs, architectural designs, nature sketches, landscape paintings and sketches of steamboats. The sketches are either in color or simple pencil. The stage designs, landscapes and steamboat sketches are very detailed and intricate for their small size. One of the sketches is of a rough head steamboat on the Cincinnati River near Louisville. Also featured are multiple sketches of downtown Louisville and the outside of The Buckingham Theatre. Also included in this collection are two newspaper clippings from the Louisville Courier-Journal about the history of The Buckingham Theatre, renamed The Savoy Theatre in 1894, and the permanent closing of the theater in 1989.</p><p>The John Louis Martin sketchbook collection is part of the Wade Hall Collection of American letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>John L. Martin sketchbook</unittitle>
+        <unitdate datechar="creation" type="inclusive">1908-1918</unitdate>
+        <container id="aspace_afd1c93b99628310358215a2da4f7971" label="mixed materials" type="box">WH-102</container>
+        <container id="aspace_d8e418796f4acdb26398f4b77e17f089" parent="aspace_afd1c93b99628310358215a2da4f7971" type="folder">10</container>
+        <dao entityref="xt7tqj77x34v_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Louisville Courier-Journal newspaper clippings</unittitle>
+        <unitdate datechar="creation" type="inclusive">1989, undated</unitdate>
+        <container id="aspace_bfda3b19c4fd85b023790dd233cac78d" label="mixed materials" type="box">WH-102</container>
+        <container id="aspace_dd348fbeb74e8637faaf4ff76700342d" parent="aspace_bfda3b19c4fd85b023790dd233cac78d" type="folder">11</container>
+      </did>
+    </c>
+  </contents>
+</header>

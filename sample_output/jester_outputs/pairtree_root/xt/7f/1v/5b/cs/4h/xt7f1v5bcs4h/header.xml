@@ -1,0 +1,2321 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7f1v5bcs4h</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7f1v5bcs4h/data/72m15.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The and Catherine and Howard Evans papers (dated 1728-1968, undated; 12.76 cubic feet; 26 boxes, 1 item, 1 folder) primarily consist of the papers of the Peter family of Lexington.</abstract>
+  <descriptive_summary>
+    <author>Heather J. Burke</author>
+    <title>Catherine and Howard Evans papers</title>
+    <source>Catherine and Howard Evans papers</source>
+    <unitdates>
+      <date>1728-1968, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>12.76 Cubic Feet</extent>
+    <arrangement>Collection is organized by family member.</arrangement>
+    <subjects>
+      <subject>Lexington (Ky.) -- Buildings, structures, etc.</subject>
+      <subject>Gold mines and mining -- Colorado</subject>
+      <subject>Europe -- Description and travel.</subject>
+      <subject>Slavery -- United States.</subject>
+      <subject>Kentucky -- History -- Civil War, 1861-1865</subject>
+      <subject>Kentucky -- Genealogy</subject>
+    </subjects>
+    <prefercite>72m15: [Identification of item], Catherine and Howard Evans papers, 1728-1968, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Farmer, engineer. Howard Evans, a native of Lebanon, Ky, was a graduate of the University of Kentucky and a prominent engineer and farmer. His wife, Catherine Peter Evans, was a granddaughter of Dr. Robert Peter, a nineteenth-century Lexington physician, scientist, and professor in the Medical Department of Transylvania and in the Louisville Medical School. Dr. Peter married Frances Dallam in 1835; among their children were Robert Jr, Benjamin Dudley, Frances Dallam and Johanna.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Catherine and Howard Evans papers (dated 1728-1968, undated; 12.76 cubic feet; 26 boxes, 1 item, 1 folder) primarily consist of the papers of the Peter family of Lexington. These include the papers of Dr. Robert Peter and his wife, Frances Dallam, including the correspondences of Peter, his brother Arthur, and their friend William Shinn, dating from 1828-1865; correspondence, notebooks, and memorabilia related to Peter's 1834 trip to Europe to purchase equipment for Transylvania; Peter's personal financial records; correspondence with his wife, Frances Dallam Peter, and other family members; notebooks containing travel experiences and scientific observations; and plans related to the remodeling of the Winton Estate.</p><p>Also included in the Peter family papers are two Civil War-era diaries, one kept by Dr. Peter's daughter, Frances Dallam Peter, and the other by Miriam Gratz, a friend of Frances'. Also included are letters from Peter's sons, Benjamin and Robert, both of whom were involved in gold mining in Colorado. Papers of the Dallam family include a 1794-1795 diary kept by Maj. William S. Dallam during a year-long trip to Europe; Dallam's correspondence with his father, Richard Dallam, which dates from 1802-1820; other correspondence of Richard, William S., and Letitia Paca Dallam; and family business records from 1792-1830. These papers frequently relate to the family's ownership and sale of slaves. Other materials present include wash drawings, cost estimates, and specifications by architect Thomas Lewinski for a villa to be built in Lexington for the Peter family; and correspondence and business records of Samuel Meredith and other Meredith family members.</p><p>Additionally, the collection contains the personal papers of Howard and Catherine Peter Evans, including manuscript short stories; genealogical information on the Peter, Dallam, Dudley, Frazier, Garland and Gratz families; and correspondence dating from 1915-1941 related to the sale of papers from the Winton Estate Library. Transcripts of family diaries made by Catherine Evans are found throughout the collection.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter biography</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56163</unitid>
+        <unitdate datechar="creation">1928 August</unitdate>
+        <container id="aspace_36dfdc488f04163bb6dc88f64e58e89d" label="mixed materials" type="box">1</container>
+        <container id="aspace_1a1b286d2ed8d396365c344e412c94b0" parent="aspace_36dfdc488f04163bb6dc88f64e58e89d" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Peter family genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56164</unitid>
+        <unitdate datechar="creation">1874-1908, 1927-1949, undated</unitdate>
+        <container id="aspace_b197271e558cb58e15660f4cc8bfe7c4" label="mixed materials" type="box">1</container>
+        <container id="aspace_df4d2975adce9c8b76e3f4639f0c3971" parent="aspace_b197271e558cb58e15660f4cc8bfe7c4" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter naturalization paper</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56165</unitid>
+        <unitdate datechar="creation">1828</unitdate>
+        <container id="aspace_5a692dda6377385419e578f6ce5e48cd" label="mixed materials" type="box">1</container>
+        <container id="aspace_33a214bb93eda929869fe27f674872c2" parent="aspace_5a692dda6377385419e578f6ce5e48cd" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter social invitations</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56166</unitid>
+        <unitdate datechar="creation" type="inclusive">1833-1851</unitdate>
+        <container id="aspace_efc67046b911d9f98bcff4834865a7bb" label="mixed materials" type="box">1</container>
+        <container id="aspace_8cfb530d7dfd7023c4d9534b49477a39" parent="aspace_efc67046b911d9f98bcff4834865a7bb" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter phrenological chart</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56167</unitid>
+        <unitdate datechar="creation">1842</unitdate>
+        <container id="aspace_73712ec38a526f242550c0d8964873af" label="mixed materials" type="box">1</container>
+        <container id="aspace_3bd446b9454ab106612c259e5cbaed0e" parent="aspace_73712ec38a526f242550c0d8964873af" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter honors</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56168</unitid>
+        <unitdate datechar="creation" type="inclusive">1852-1853, 1892</unitdate>
+        <container id="aspace_b39f046c8a0677e9d2186679796c95db" label="mixed materials" type="box">1</container>
+        <container id="aspace_06fc9274ed55e203117362b975014d9e" parent="aspace_b39f046c8a0677e9d2186679796c95db" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter as army surgeon</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56169</unitid>
+        <unitdate datechar="creation" type="inclusive">1862-1867</unitdate>
+        <container id="aspace_a09089792302ba70f3a3076aeb1d8447" label="mixed materials" type="box">1</container>
+        <container id="aspace_9803a83b235a41786adb1b3cd4cc074d" parent="aspace_a09089792302ba70f3a3076aeb1d8447" type="folder">7</container>
+        <container id="aspace_02f7358e5f0f72955a2a8bca89a875e1" label="mixed materials" type="box">20</container>
+        <container id="aspace_9a93ef5804d1a2e529f621d9146a79b6" parent="aspace_02f7358e5f0f72955a2a8bca89a875e1" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref8" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter lecture, library, commencement programs, and concert tickets</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56170</unitid>
+        <unitdate datechar="creation" type="inclusive">1829-1899, 1930</unitdate>
+        <container id="aspace_85132d3beeb21e727e1eeb584bb1da3c" label="mixed materials" type="box">1</container>
+        <container id="aspace_0884c303312a09bce7cb26b25100f8ba" parent="aspace_85132d3beeb21e727e1eeb584bb1da3c" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref9" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter correspondence as scientist and doctor</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56171</unitid>
+        <unitdate datechar="creation" type="inclusive">1841-1886, 1940-1944</unitdate>
+        <container id="aspace_13379c22a671c0da22814e148ebf494e" label="mixed materials" type="box">1</container>
+        <container id="aspace_2aa12489b18ca794b7cad31258157b84" parent="aspace_13379c22a671c0da22814e148ebf494e" type="folder">9</container>
+        <container id="aspace_d1a7ae5716bbdc0682114da1e30972c6" label="mixed materials" type="box">20</container>
+        <container id="aspace_b2d0183545be62427f00bcccac21349f" parent="aspace_d1a7ae5716bbdc0682114da1e30972c6" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref10" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter medical practice correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56172</unitid>
+        <unitdate datechar="creation" type="inclusive">1837-1838</unitdate>
+        <container id="aspace_40fddbacfb389fb2c7dc5fb616e038e8" label="mixed materials" type="box">1</container>
+        <container id="aspace_ed60ad0d42a69f3f3692292132acf30e" parent="aspace_40fddbacfb389fb2c7dc5fb616e038e8" type="folder">10</container>
+        <container id="aspace_81dc4f6ecd6176819d2ef6ceeedef113" label="mixed materials" type="box">20</container>
+        <container id="aspace_58069273b88070b240532b0ea8294822" parent="aspace_81dc4f6ecd6176819d2ef6ceeedef113" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref11" level="file">
+      <did>
+        <unittitle>Maps - Kentucky geological, New York, Africa</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56173</unitid>
+        <unitdate datechar="creation" type="inclusive">1728, 1875, 1915-1922</unitdate>
+        <container id="aspace_e274841d9c4b20fbc2d139bb4bc855bc" label="mixed materials" type="box">1</container>
+        <container id="aspace_07b0395a2be0df276fe8ad37ab46942e" parent="aspace_e274841d9c4b20fbc2d139bb4bc855bc" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref12" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter <emph render="doublequote">Index of Subjects</emph></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56174</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_90658f9f580a48c4ce4043cc8dc1d0f3" label="mixed materials" type="box">1</container>
+        <container id="aspace_6ff622848458e3386ea099164a158b88" parent="aspace_90658f9f580a48c4ce4043cc8dc1d0f3" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref13" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter science notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56175</unitid>
+        <unitdate datechar="creation">1849, undated</unitdate>
+        <container id="aspace_40dfecc0f4625e73721612fbfb6eda3a" label="mixed materials" type="box">1</container>
+        <container id="aspace_3747b43273fbb251a57ef1de3af9bc43" parent="aspace_40dfecc0f4625e73721612fbfb6eda3a" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref14" level="file">
+      <did>
+        <unittitle>Horace Holley letters and related materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56176</unitid>
+        <unitdate datechar="creation" type="inclusive">1818, 1839, undated</unitdate>
+        <container id="aspace_09a04e0dc4768317568bed565c6b8d4c" label="mixed materials" type="box">1</container>
+        <container id="aspace_ceb3e86826f7860cf610ea2c50bbc1d9" parent="aspace_09a04e0dc4768317568bed565c6b8d4c" type="folder">14</container>
+        <container id="aspace_7e3ce219dbb1bec0fb87629727a61adb" label="mixed materials" type="box">20</container>
+        <container id="aspace_7bebd65cc7d4916b740099f43cf07518" parent="aspace_7e3ce219dbb1bec0fb87629727a61adb" type="folder">4</container>
+      </did>
+      <scopecontent id="aspace_b974505c8871cfe140f18664118d982d">
+        <head>Scope and Contents</head>
+        <p>Letters are extracts from originals and concern the early history of Transylvania University.</p>
+      </scopecontent>
+    </c>
+    <c id="ref15" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter articles, lectures, essays and bibliography</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56177</unitid>
+        <unitdate datechar="creation" type="inclusive">1826-1829, undated</unitdate>
+        <container id="aspace_2b22e7c921459a3977dd42c11176c962" label="mixed materials" type="box">1</container>
+        <container id="aspace_b645bdb81c89273747a77108f81cc3ce" parent="aspace_2b22e7c921459a3977dd42c11176c962" type="folder">15-16</container>
+      </did>
+      <scopecontent id="aspace_1671545086ee7dd3773dcd930699c036">
+        <head>Scope and Contents</head>
+        <p>Includes Peter bibliography.</p>
+      </scopecontent>
+    </c>
+    <c id="ref16" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter poetic expression and interest</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56179</unitid>
+        <unitdate datechar="creation" type="inclusive">1826-1835</unitdate>
+        <container id="aspace_cb149fd1a7861fba9b4a60d984479cab" label="mixed materials" type="box">2</container>
+        <container id="aspace_a8150551a8198eca08e7b3bdec37cbc6" parent="aspace_cb149fd1a7861fba9b4a60d984479cab" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref17" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter correspondence on literary matters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56180</unitid>
+        <unitdate datechar="creation" type="inclusive">1866-1868</unitdate>
+        <container id="aspace_86c1748ca945c9716afdab5d24e02b29" label="mixed materials" type="box">2</container>
+        <container id="aspace_7bf5120edf6c2d7e043df665a7ae13bb" parent="aspace_86c1748ca945c9716afdab5d24e02b29" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref18" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter school notebook</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56181</unitid>
+        <unitdate datechar="creation">1821</unitdate>
+        <container id="aspace_17f71fe991ce28cdab25277d18e512fd" label="mixed materials" type="box">2</container>
+        <container id="aspace_796eb06b30373429663d82495f28f80c" parent="aspace_17f71fe991ce28cdab25277d18e512fd" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref19" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter travel experiences and scientific observation notebooks</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56182</unitid>
+        <unitdate datechar="creation" type="inclusive">1831-1850</unitdate>
+        <container id="aspace_a14f84e05f1acbaa2360443f60fc6f6f" label="mixed materials" type="box">2</container>
+        <container id="aspace_9f246346e040671d27766597bc55f26f" parent="aspace_a14f84e05f1acbaa2360443f60fc6f6f" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref20" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter personal notebooks</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56183</unitid>
+        <unitdate datechar="creation" type="inclusive">1868-1885</unitdate>
+        <container id="aspace_07fd687edbf9b791d042fc2ffc86cc72" label="mixed materials" type="box">2</container>
+        <container id="aspace_7ec1e323ca13fb83ab7d1f0d3be33f66" parent="aspace_07fd687edbf9b791d042fc2ffc86cc72" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref21" level="file">
+      <did>
+        <unittitle>Proposed remodeling plans (post Civil War) for winter estate home</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56184</unitid>
+        <unitdate datechar="creation">after 1865</unitdate>
+        <container id="aspace_e010b51babe4fba57350d1708476419d" label="mixed materials" type="box">2</container>
+        <container id="aspace_87932510d9546fba5a081f0e95733414" parent="aspace_e010b51babe4fba57350d1708476419d" type="folder">6</container>
+        <container id="aspace_596b25a58447d1b78535a283daf18c27" label="mixed materials" type="box">20</container>
+        <container id="aspace_2d0b31f6558f6f5f1798bbddc4954d23" parent="aspace_596b25a58447d1b78535a283daf18c27" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref22" level="file">
+      <did>
+        <unittitle>Assorted construction plans</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56185</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_d3e52e801c2c40cf077a93a0e4211c9b" label="mixed materials" type="box">2</container>
+        <container id="aspace_102487376ca896ab1eba16c73ff03e82" parent="aspace_d3e52e801c2c40cf077a93a0e4211c9b" type="folder">7</container>
+        <container id="aspace_c848a7199639ecf025b3db5bcc8b3235" label="mixed materials" type="box">20</container>
+        <container id="aspace_8742676c478f157dd36af67af4cbc47a" parent="aspace_c848a7199639ecf025b3db5bcc8b3235" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref23" level="file">
+      <did>
+        <unittitle>Plans for Lexington house (never built)</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56186</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_9f2d75d2fe4d834e6f87aca5081b2dab" label="mixed materials" type="box">2</container>
+        <container id="aspace_642b28096a9ac739c768cbcf2a2da43a" parent="aspace_9f2d75d2fe4d834e6f87aca5081b2dab" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref24" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter letters to wife Frances Peter (European trip)</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56187</unitid>
+        <unitdate datechar="creation">1839</unitdate>
+        <container id="aspace_7ccfb21e1ff92f2f26810bd6aa63404a" label="mixed materials" type="box">2</container>
+        <container id="aspace_1f2171faef61fe21369141a5da0a3948" parent="aspace_7ccfb21e1ff92f2f26810bd6aa63404a" type="folder">9</container>
+        <container id="aspace_fce256f209ac8bab48ff28f883731db0" label="mixed materials" type="box">20</container>
+        <container id="aspace_8dadd4eea90acb31764c554d972e573c" parent="aspace_fce256f209ac8bab48ff28f883731db0" type="folder">7-9</container>
+      </did>
+    </c>
+    <c id="ref25" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter letters from wife Frances Peter (European trip)</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56188</unitid>
+        <unitdate datechar="creation">1839</unitdate>
+        <container id="aspace_98ee2b3884061a82dfddf019ada81809" label="mixed materials" type="box">2</container>
+        <container id="aspace_11deeb60136d0625b239eed42d65e69b" parent="aspace_98ee2b3884061a82dfddf019ada81809" type="folder">10</container>
+        <container id="aspace_01692843cdf0c6e773ca98c948a1eaba" label="mixed materials" type="box">20</container>
+        <container id="aspace_3f18ff16ed2a55ac650c2b498994d59e" parent="aspace_01692843cdf0c6e773ca98c948a1eaba" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref26" level="file">
+      <did>
+        <unittitle>Transcripts of letters (European trip)</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56189</unitid>
+        <unitdate datechar="creation">1839</unitdate>
+        <container id="aspace_200909092648a388d4364bc53f5fe929" label="mixed materials" type="box">2</container>
+        <container id="aspace_c5be03b4b632f4f7969c92f77b2fc304" parent="aspace_200909092648a388d4364bc53f5fe929" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref27" level="file">
+      <did>
+        <unittitle>Bills (European trip)</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56190</unitid>
+        <unitdate datechar="creation">1839</unitdate>
+        <container id="aspace_7b472a852e069292e668f3647920af23" label="mixed materials" type="box">2</container>
+        <container id="aspace_b227182e434ebc2afdc5e89683df3092" parent="aspace_7b472a852e069292e668f3647920af23" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref28" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter passport</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56191</unitid>
+        <unitdate datechar="creation">1839</unitdate>
+        <container id="aspace_70f746ca816aa1a3f1bff1466b9db827" label="mixed materials" type="box">2</container>
+        <container id="aspace_38c4762a2e70a2d002a8b0be6c1e75ee" parent="aspace_70f746ca816aa1a3f1bff1466b9db827" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref29" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter letters to wife Frances Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56192</unitid>
+        <unitdate datechar="creation" type="inclusive">1841-1880</unitdate>
+        <container id="aspace_172cafb89f56dd837dcf5edea716e70d" label="mixed materials" type="box">3</container>
+        <container id="aspace_cfdf47cbee65ea315e62b3693aac2187" parent="aspace_172cafb89f56dd837dcf5edea716e70d" type="folder">1</container>
+        <container id="aspace_e128fea70f0be433df729081abf12ee2" label="mixed materials" type="box">20</container>
+        <container id="aspace_2aa6e37df26ba0457311392830aff7da" parent="aspace_e128fea70f0be433df729081abf12ee2" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref30" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter letters to children</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56193</unitid>
+        <unitdate datechar="creation" type="inclusive">1851-1880</unitdate>
+        <container id="aspace_4f17a415cbc1c4f255a3a481b744a168" label="mixed materials" type="box">3</container>
+        <container id="aspace_5b946abce24bc99c05912eb0256bba15" parent="aspace_4f17a415cbc1c4f255a3a481b744a168" type="folder">2</container>
+        <container id="aspace_4dce903aa265eba8777a1cfac4269cd5" label="mixed materials" type="box">20</container>
+        <container id="aspace_4f99164c2126894fa6e8c2432a28594b" parent="aspace_4dce903aa265eba8777a1cfac4269cd5" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref31" level="file">
+      <did>
+        <unittitle>Peter children's school report cards</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56194</unitid>
+        <unitdate datechar="creation" type="inclusive">1855-1872</unitdate>
+        <container id="aspace_54ba01ccdfe10354bb4a037be9227c2b" label="mixed materials" type="box">3</container>
+        <container id="aspace_89c863dac3f5976c061ed362dfcee01e" parent="aspace_54ba01ccdfe10354bb4a037be9227c2b" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref32" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter farm deeded to Peter children</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56195</unitid>
+        <unitdate datechar="creation">1908</unitdate>
+        <container id="aspace_c5e8640c741a878a2f9272b3e9cc5d3d" label="mixed materials" type="box">3</container>
+        <container id="aspace_658e42975a51889889481f0230b872f5" parent="aspace_c5e8640c741a878a2f9272b3e9cc5d3d" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref33" level="file">
+      <did>
+        <unittitle>Letters to Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56196</unitid>
+        <unitdate datechar="creation" type="inclusive">1834-1890</unitdate>
+        <container id="aspace_99dbe791c9c4cab21c63824e18dcf8d3" label="mixed materials" type="box">3</container>
+        <container id="aspace_7ad58d6ef855061636c332ebb785b773" parent="aspace_99dbe791c9c4cab21c63824e18dcf8d3" type="folder">5</container>
+        <container id="aspace_7b4335e013354dcf8281d3733cc524ad" label="mixed materials" type="box">20</container>
+        <container id="aspace_7ba0049680001d6252688cfc5c42f932" parent="aspace_7b4335e013354dcf8281d3733cc524ad" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref34" level="file">
+      <did>
+        <unittitle>Letters about family deaths</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56197</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_4eaf0fa94b268395cdfce39bdf3df8bf" label="mixed materials" type="box">3</container>
+        <container id="aspace_ae81a43ee3e785ca83aa4e5bbf4b5996" parent="aspace_4eaf0fa94b268395cdfce39bdf3df8bf" type="folder">6</container>
+      </did>
+      <scopecontent id="aspace_2ab665f445ef68b83b5255b0a21e02b9">
+        <head>Scope and Contents</head>
+        <p>Includes letter about the death of Dr. Peter.including Dr. Peter's)</p>
+      </scopecontent>
+    </c>
+    <c id="ref35" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter memorials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56198</unitid>
+        <unitdate datechar="creation" type="inclusive">1954 February 17-18</unitdate>
+        <container id="aspace_ff467d1d32e46179ce09fb8e51d10491" label="mixed materials" type="box">3</container>
+        <container id="aspace_0d7e95a6c89e659c47458dcd5ada330a" parent="aspace_ff467d1d32e46179ce09fb8e51d10491" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref36" level="file">
+      <did>
+        <unittitle>Dr. Robert Peters business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56199</unitid>
+        <unitdate datechar="creation" type="inclusive">1812-1826</unitdate>
+        <container id="aspace_ac0ff34c5141532142939918d52aa7a2" label="mixed materials" type="box">3</container>
+        <container id="aspace_5bc364d38dbc517ac76c694075504368" parent="aspace_ac0ff34c5141532142939918d52aa7a2" type="folder">8</container>
+        <container id="aspace_1eeb4e43f99c3a9ce89d5f22c5c2fca6" label="mixed materials" type="box">20</container>
+        <container id="aspace_bb8df61b826a7da4fe847480b366d9a0" parent="aspace_1eeb4e43f99c3a9ce89d5f22c5c2fca6" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref37" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56200</unitid>
+        <unitdate datechar="creation" type="inclusive">1827-1836</unitdate>
+        <container id="aspace_c40e7aa5ba3bf40bae84b712f27f8654" label="mixed materials" type="box">3</container>
+        <container id="aspace_d09e8e5fb00a9026d71823526b337dc8" parent="aspace_c40e7aa5ba3bf40bae84b712f27f8654" type="folder">9</container>
+        <container id="aspace_fcd20a2c8bd983341622175b24f1e6e0" label="mixed materials" type="box">20</container>
+        <container id="aspace_3910a86358151faf08469cd90136db80" parent="aspace_fcd20a2c8bd983341622175b24f1e6e0" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref38" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56201</unitid>
+        <unitdate datechar="creation">1837</unitdate>
+        <container id="aspace_f317d49b6617b4e80b93f83bd0d56943" label="mixed materials" type="box">3</container>
+        <container id="aspace_250d9c90eef5d69f224074f9610cca56" parent="aspace_f317d49b6617b4e80b93f83bd0d56943" type="folder">10</container>
+        <container id="aspace_de1933d5d18e1de3a3b258f43802ea40" label="mixed materials" type="box">20</container>
+        <container id="aspace_7816d58fc5255c5fe7577f16a98d1eb0" parent="aspace_de1933d5d18e1de3a3b258f43802ea40" type="folder">14</container>
+      </did>
+    </c>
+    <c id="ref39" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56202</unitid>
+        <unitdate datechar="creation">1838</unitdate>
+        <container id="aspace_422bf4f922029fd900ce75a3dd0c6b60" label="mixed materials" type="box">4</container>
+        <container id="aspace_dc7a5a128d816f2f888afddac6ad83dc" parent="aspace_422bf4f922029fd900ce75a3dd0c6b60" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref40" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56203</unitid>
+        <unitdate datechar="creation" type="inclusive">1839-1842</unitdate>
+        <container id="aspace_09a6a565446f9332c29e764057717323" label="mixed materials" type="box">4</container>
+        <container id="aspace_f32610c53607e819afc6f30807ae9025" parent="aspace_09a6a565446f9332c29e764057717323" type="folder">2</container>
+        <container id="aspace_997e642c4952878f20b2af432ca397cc" label="mixed materials" type="box">20</container>
+        <container id="aspace_68ca8edf639408440c5c742d34f59664" parent="aspace_997e642c4952878f20b2af432ca397cc" type="folder">15</container>
+      </did>
+    </c>
+    <c id="ref41" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56204</unitid>
+        <unitdate datechar="creation" type="inclusive">1843-1844</unitdate>
+        <container id="aspace_4c20c78cdd4d11954de513fef26b3c76" label="mixed materials" type="box">4</container>
+        <container id="aspace_512ce2ea1e80f243efd18121e10becd9" parent="aspace_4c20c78cdd4d11954de513fef26b3c76" type="folder">3</container>
+        <container id="aspace_ce577409883101519f825c44e57633a0" label="mixed materials" type="box">21</container>
+        <container id="aspace_92286cc22a7ef46db96f6b0e5826099b" parent="aspace_ce577409883101519f825c44e57633a0" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref42" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56205</unitid>
+        <unitdate datechar="creation" type="inclusive">1845-1846</unitdate>
+        <container id="aspace_137b67a1eb52bc206bdc2ecfa173f547" label="mixed materials" type="box">4</container>
+        <container id="aspace_1dcaac458365b33fe39f4fd8d5059b06" parent="aspace_137b67a1eb52bc206bdc2ecfa173f547" type="folder">4</container>
+        <container id="aspace_3f47093a0c9a73cfd4e9af3fe2357350" label="mixed materials" type="box">21</container>
+        <container id="aspace_fab5fbe476112b1bf36f7a089ab1bdc5" parent="aspace_3f47093a0c9a73cfd4e9af3fe2357350" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref43" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56206</unitid>
+        <unitdate datechar="creation" type="inclusive">1847-1848</unitdate>
+        <container id="aspace_d04cee36fe703919aa5c90c66a580ae4" label="mixed materials" type="box">4</container>
+        <container id="aspace_188560331a3b9fd00835fcfeabf9e1eb" parent="aspace_d04cee36fe703919aa5c90c66a580ae4" type="folder">5</container>
+        <container id="aspace_2a0cc6701a022bbd167a9fa61ee94fb2" label="mixed materials" type="box">21</container>
+        <container id="aspace_819822ef73e5241228d24ed4bde5568b" parent="aspace_2a0cc6701a022bbd167a9fa61ee94fb2" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref44" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56207</unitid>
+        <unitdate datechar="creation" type="inclusive">1849-1850</unitdate>
+        <container id="aspace_347f1473954e14f90e9caed0d05e467b" label="mixed materials" type="box">4</container>
+        <container id="aspace_c0dec79c5f2b73d9001db4832d659ce6" parent="aspace_347f1473954e14f90e9caed0d05e467b" type="folder">6</container>
+        <container id="aspace_d72f2bdb1e7306f6017e41c9c9d8b2ce" label="mixed materials" type="box">21</container>
+        <container id="aspace_59432dcc8e6c9af12052725e7c5b40d9" parent="aspace_d72f2bdb1e7306f6017e41c9c9d8b2ce" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref45" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56208</unitid>
+        <unitdate datechar="creation" type="inclusive">1851-1852</unitdate>
+        <container id="aspace_a5064d4f83080a04f3cce4ec5c79e3ba" label="mixed materials" type="box">5</container>
+        <container id="aspace_0824ed4b73f677e351eb763480c66956" parent="aspace_a5064d4f83080a04f3cce4ec5c79e3ba" type="folder">1</container>
+        <container id="aspace_7135b90e2133375cd14ac07630bc63c4" label="mixed materials" type="box">21</container>
+        <container id="aspace_c17c47ca0735ff2d629852250c6314f4" parent="aspace_7135b90e2133375cd14ac07630bc63c4" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref46" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56209</unitid>
+        <unitdate datechar="creation" type="inclusive">1853-1855</unitdate>
+        <container id="aspace_0ec9916c2f14c9a6043f9de95b65f71c" label="mixed materials" type="box">5</container>
+        <container id="aspace_2e23d5da0ac3bee5992bfdecad9578ea" parent="aspace_0ec9916c2f14c9a6043f9de95b65f71c" type="folder">2</container>
+        <container id="aspace_6f8ee9669831756e36973ca7716a83ce" label="mixed materials" type="box">21</container>
+        <container id="aspace_7be523dc841a1cec1340eeab7a172ffe" parent="aspace_6f8ee9669831756e36973ca7716a83ce" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref47" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56210</unitid>
+        <unitdate datechar="creation" type="inclusive">1856-1858</unitdate>
+        <container id="aspace_e0a6e021d8db64535158824db7c1d9a7" label="mixed materials" type="box">5</container>
+        <container id="aspace_663cf47a8ba7dba2cd8ab878f37e278f" parent="aspace_e0a6e021d8db64535158824db7c1d9a7" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref48" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56211</unitid>
+        <unitdate datechar="creation" type="inclusive">1859-1861</unitdate>
+        <container id="aspace_16378754d12bb29eea50ad45ab543e5b" label="mixed materials" type="box">5</container>
+        <container id="aspace_1db9615e08c693d963aefe139389a1e0" parent="aspace_16378754d12bb29eea50ad45ab543e5b" type="folder">4</container>
+        <container id="aspace_c8b1acb1716993dd7ac8adee31e61806" label="mixed materials" type="box">21</container>
+        <container id="aspace_8017b67263dc3e01eb09b9640523730b" parent="aspace_c8b1acb1716993dd7ac8adee31e61806" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref49" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56212</unitid>
+        <unitdate datechar="creation" type="inclusive">1862-1891</unitdate>
+        <container id="aspace_517ead15797c0d97d49fb0b2c67f31c9" label="mixed materials" type="box">5</container>
+        <container id="aspace_78b3f8920866d33ae0f9bd93e6135c2b" parent="aspace_517ead15797c0d97d49fb0b2c67f31c9" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref50" level="file">
+      <did>
+        <unittitle>Real estate Lexington, Kentucky - Market Street lot</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56213</unitid>
+        <unitdate datechar="creation" type="inclusive">1832-1912</unitdate>
+        <container id="aspace_327158a4930d6cad420c0a1fe37e85d7" label="mixed materials" type="box">5</container>
+        <container id="aspace_d608d7d852f0a0331bdddbfcb3fd2455" parent="aspace_327158a4930d6cad420c0a1fe37e85d7" type="folder">6</container>
+        <container id="aspace_28e0af41833a7013694659862ce103ab" label="mixed materials" type="box">21</container>
+        <container id="aspace_491b3e95d2e7f77734f82a2016cd108c" parent="aspace_28e0af41833a7013694659862ce103ab" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref51" level="file">
+      <did>
+        <unittitle>Real estate Kentucky properties</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56214</unitid>
+        <unitdate datechar="creation" type="inclusive">1848-1859</unitdate>
+        <container id="aspace_0432097bd846232b9f66d44051b67814" label="mixed materials" type="box">5</container>
+        <container id="aspace_2a2bb684088e1ae71812df5ba97d94d9" parent="aspace_0432097bd846232b9f66d44051b67814" type="folder">7</container>
+        <container id="aspace_465e3b532af09e1533534581fedeaa47" label="mixed materials" type="box">21</container>
+        <container id="aspace_00b698f1824ed34713728971b55d920e" parent="aspace_465e3b532af09e1533534581fedeaa47" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref52" level="file">
+      <did>
+        <unittitle>Real estate Wisconsin properties</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56215</unitid>
+        <unitdate datechar="creation" type="inclusive">1837-1858</unitdate>
+        <container id="aspace_337bf0a8fe9e5d262a7d76d9e6c55123" label="mixed materials" type="box">5</container>
+        <container id="aspace_4586f4f1fa03812119d771a9c24d9c7d" parent="aspace_337bf0a8fe9e5d262a7d76d9e6c55123" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref53" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter ice bills</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56216</unitid>
+        <unitdate datechar="creation" type="inclusive">1852-1859</unitdate>
+        <container id="aspace_8e71b782d7742fd08f75167d22dbb3f5" label="mixed materials" type="box">5</container>
+        <container id="aspace_3fc38450afc58d400bd56128a0376adf" parent="aspace_8e71b782d7742fd08f75167d22dbb3f5" type="folder">9</container>
+        <container id="aspace_c4c243f9c30baa8e9ed20bd0ea1b82f2" label="mixed materials" type="box">21</container>
+        <container id="aspace_6c56915e7c75daea53113ef1fca396ed" parent="aspace_c4c243f9c30baa8e9ed20bd0ea1b82f2" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref54" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter milling operations</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56217</unitid>
+        <unitdate datechar="creation" type="inclusive">1861-1866</unitdate>
+        <container id="aspace_c03ea49476590962e442b450d0b2c3d4" label="mixed materials" type="box">5</container>
+        <container id="aspace_e2c2395327dc305da6602d6640907da8" parent="aspace_c03ea49476590962e442b450d0b2c3d4" type="folder">10</container>
+        <container id="aspace_ac09ac4adc240e9301a65ca4dfe77d72" label="mixed materials" type="box">21</container>
+        <container id="aspace_d93f460e2636a8622911435a002d9f3e" parent="aspace_ac09ac4adc240e9301a65ca4dfe77d72" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref55" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter burial lot</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56218</unitid>
+        <unitdate datechar="creation">1864</unitdate>
+        <container id="aspace_9df4ee830062ddb89fa0ef923fcd8dc6" label="mixed materials" type="box">5</container>
+        <container id="aspace_06296192846ca4be00c4e74d9a494174" parent="aspace_9df4ee830062ddb89fa0ef923fcd8dc6" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref56" level="file">
+      <did>
+        <unittitle>Decisions on Mrs. Coleman's farm</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56219</unitid>
+        <unitdate datechar="creation" type="inclusive">1864-1869</unitdate>
+        <container id="aspace_ca31a889244a2e441824f68744665748" label="mixed materials" type="box">5</container>
+        <container id="aspace_d2e0221458c2fe9fd8d51c1768252be0" parent="aspace_ca31a889244a2e441824f68744665748" type="folder">12</container>
+        <container id="aspace_5276db36c627c4e6872637400a67c769" label="mixed materials" type="box">21</container>
+        <container id="aspace_bcfd95202967d88075d1fa49ff72799b" parent="aspace_5276db36c627c4e6872637400a67c769" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref57" level="file">
+      <did>
+        <unittitle>Land tract purchased by Dr. Robert Peter and William Warfield</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56220</unitid>
+        <unitdate datechar="creation">1874</unitdate>
+        <container id="aspace_d23428d54fe38748f5524e99a8d9e91a" label="mixed materials" type="box">5</container>
+        <container id="aspace_5184a430091f7541422c48c1e8881f1a" parent="aspace_d23428d54fe38748f5524e99a8d9e91a" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref58" level="file">
+      <did>
+        <unittitle>Letter discussing commercial use of clay</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56221</unitid>
+        <unitdate datechar="creation">1889</unitdate>
+        <container id="aspace_683b53b78a98ea15898c98b3add518c2" label="mixed materials" type="box">5</container>
+        <container id="aspace_869fbc190cb5756ce2659251de105010" parent="aspace_683b53b78a98ea15898c98b3add518c2" type="folder">14</container>
+      </did>
+    </c>
+    <c id="ref59" level="file">
+      <did>
+        <unittitle>Swift's silver mine</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56222</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_396aeb0bd24a412fb768bd3bbc1cb7c9" label="mixed materials" type="box">5</container>
+        <container id="aspace_f133ddea5caef74ff4658ebcc2b19b96" parent="aspace_396aeb0bd24a412fb768bd3bbc1cb7c9" type="folder">15</container>
+      </did>
+    </c>
+    <c id="ref60" level="file">
+      <did>
+        <unittitle>Bush estate portrait list</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56223</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_beb0961f1d5322317ee061d5956d52c7" label="mixed materials" type="box">5</container>
+        <container id="aspace_a4621fa53a171cdbd841970a4daf3842" parent="aspace_beb0961f1d5322317ee061d5956d52c7" type="folder">16</container>
+      </did>
+    </c>
+    <c id="ref61" level="file">
+      <did>
+        <unittitle>Frances Peters letters to Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56226</unitid>
+        <unitdate datechar="creation" type="inclusive">1841-1851</unitdate>
+        <container id="aspace_ec8676b61b6cf9ce57c7f85abcfa0561" label="mixed materials" type="box">5</container>
+        <container id="aspace_b552b84268a48dc822f08e0d29f83b97" parent="aspace_ec8676b61b6cf9ce57c7f85abcfa0561" type="folder">17</container>
+        <container id="aspace_aa606dff89542b67f0f80b59d853dadb" label="mixed materials" type="box">21</container>
+        <container id="aspace_380506f776d1a3bf7f3982d6227fc390" parent="aspace_aa606dff89542b67f0f80b59d853dadb" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref62" level="file">
+      <did>
+        <unittitle>Frances Peter letters to daughters, Letitia and Johanna</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56227</unitid>
+        <unitdate datechar="creation" type="inclusive">1852-1879</unitdate>
+        <container id="aspace_4001c13a416aeec18b7431e08043014c" label="mixed materials" type="box">5</container>
+        <container id="aspace_2a1fd6c68e846be8ff95d5c6b02b7dfa" parent="aspace_4001c13a416aeec18b7431e08043014c" type="folder">18</container>
+        <container id="aspace_ac1c70689de768777d8e49da5793af8f" label="mixed materials" type="box">21</container>
+        <container id="aspace_8272ad16ac457bf16f4b444b103d203e" parent="aspace_ac1c70689de768777d8e49da5793af8f" type="folder">14</container>
+      </did>
+    </c>
+    <c id="ref63" level="file">
+      <did>
+        <unittitle>Frances Dallam letters to sister, Letitia Dallam</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56228</unitid>
+        <unitdate datechar="creation">1849</unitdate>
+        <container id="aspace_39ff3e4a8ed078816355d49c8cc67044" label="mixed materials" type="box">5</container>
+        <container id="aspace_3f66893be182d5a584e0ce46e7137fe0" parent="aspace_39ff3e4a8ed078816355d49c8cc67044" type="folder">19</container>
+        <container id="aspace_7530e63177ac92f25feb5feb7ecaad79" label="mixed materials" type="box">21</container>
+        <container id="aspace_3cc032c819f59f997285885d790ea559" parent="aspace_7530e63177ac92f25feb5feb7ecaad79" type="folder">15</container>
+      </did>
+    </c>
+    <c id="ref64" level="file">
+      <did>
+        <unittitle>Frances Peter list of slaves and property</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56229</unitid>
+        <unitdate datechar="creation" type="inclusive">1815-1838</unitdate>
+        <container id="aspace_b21824726e01035b7a90caad947c485e" label="mixed materials" type="box">5</container>
+        <container id="aspace_af2e9dc0606410b1e6b5d58df902d1ac" parent="aspace_b21824726e01035b7a90caad947c485e" type="folder">20</container>
+        <container id="aspace_992c91b6c02e01dd693f985e62da1886" label="mixed materials" type="box">21</container>
+        <container id="aspace_7f721894873e3f30bc5471abb04e97dc" parent="aspace_992c91b6c02e01dd693f985e62da1886" type="folder">16</container>
+      </did>
+    </c>
+    <c id="ref65" level="file">
+      <did>
+        <unittitle>Frances Peter childhood souvenirs</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56230</unitid>
+        <unitdate datechar="creation" type="inclusive">1815, 1823, undated</unitdate>
+        <container id="aspace_16fc7ff8205e2f560e4eb8c504bbc0d9" label="mixed materials" type="box">5</container>
+        <container id="aspace_6abfab4189bf95f92470bdb67011da53" parent="aspace_16fc7ff8205e2f560e4eb8c504bbc0d9" type="folder">21</container>
+      </did>
+    </c>
+    <c id="ref66" level="file">
+      <did>
+        <unittitle>Frances Peter provision of will</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56231</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_4dbdfea103eb548831e57f7bc8e658c5" label="mixed materials" type="box">5</container>
+        <container id="aspace_fdb2006f1312699e404a22b9f1719a0c" parent="aspace_4dbdfea103eb548831e57f7bc8e658c5" type="folder">22</container>
+        <container id="aspace_7a123d98b818bd4196547ecfdb537f03" label="mixed materials" type="box">21</container>
+        <container id="aspace_13e5926ad3b3c2fcaf81e87b82aff706" parent="aspace_7a123d98b818bd4196547ecfdb537f03" type="folder">17</container>
+      </did>
+    </c>
+    <c id="ref67" level="file">
+      <did>
+        <unittitle>Letitia Peter letters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56241</unitid>
+        <unitdate datechar="creation" type="inclusive">1850-1893</unitdate>
+        <container id="aspace_a41538a9d3756ecdd5e0f1a2bd93a3f2" label="mixed materials" type="box">5</container>
+        <container id="aspace_51db56a3b7801304663c4da5eeec8839" parent="aspace_a41538a9d3756ecdd5e0f1a2bd93a3f2" type="folder">23</container>
+        <container id="aspace_f7a5b8ba34b264e29386445c368cd5a7" label="mixed materials" type="box">21</container>
+        <container id="aspace_6e4061d56d676a39eb684282ad6c449c" parent="aspace_f7a5b8ba34b264e29386445c368cd5a7" type="folder">17</container>
+      </did>
+    </c>
+    <c id="ref68" level="file">
+      <did>
+        <unittitle>Letitia Peter <emph render="doublequote">Rules for Social-Musical Associations in Lexington, Kentucky</emph></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56242</unitid>
+        <unitdate datechar="creation">1885</unitdate>
+        <container id="aspace_76e516f8f56b5c4952bd48aeda12a785" label="mixed materials" type="box">5</container>
+        <container id="aspace_153c6b0962e1414c493cf2c24b0e72f9" parent="aspace_76e516f8f56b5c4952bd48aeda12a785" type="folder">24</container>
+      </did>
+    </c>
+    <c id="ref69" level="file">
+      <did>
+        <unittitle>Letitia Peter will</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56243</unitid>
+        <unitdate datechar="creation" type="inclusive">1914-1916</unitdate>
+        <container id="aspace_1e21885a0c169bade064d89caf90b06f" label="mixed materials" type="box">5</container>
+        <container id="aspace_37f04e5485eff13beec118036fee3c8c" parent="aspace_1e21885a0c169bade064d89caf90b06f" type="folder">25</container>
+      </did>
+    </c>
+    <c id="ref70" level="file">
+      <did>
+        <unittitle>Letitia Peter general</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56244</unitid>
+        <unitdate datechar="creation" type="inclusive">1849-1854, 1878</unitdate>
+        <container id="aspace_76b8b77ee37379dc0a4e870303fdd184" label="mixed materials" type="box">5</container>
+        <container id="aspace_682ecd90ebd53efcc227c9fab3d2cf6e" parent="aspace_76b8b77ee37379dc0a4e870303fdd184" type="folder">26</container>
+      </did>
+      <scopecontent id="aspace_937f466029f06a685d6bca4293eba170">
+        <head>Scope and Contents</head>
+        <p>The general folder for Letitia Peter's series contains a letter from a French gentleman (written in French) and other correspondence from various individuals, the <emph render="doublequote">Phrenological Character of Miss Letitia Peter</emph> by A.D. Leary, and teaching cards for pianoforte lessons (taught by Letitia Peter).</p>
+      </scopecontent>
+    </c>
+    <c id="ref71" level="file">
+      <did>
+        <unittitle>Benjamin Peter letters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56246</unitid>
+        <unitdate datechar="creation" type="inclusive">1863-1895</unitdate>
+        <container id="aspace_09975bede0346eb753005b5257f4ab01" label="mixed materials" type="box">6</container>
+        <container id="aspace_ffc9c295f50cdc9feefdb9cf3b5f1b00" parent="aspace_09975bede0346eb753005b5257f4ab01" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref72" level="file">
+      <did>
+        <unittitle>Benjamin Peter land deed</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56247</unitid>
+        <unitdate datechar="creation">1875</unitdate>
+        <container id="aspace_61946708d532da3cbee638353f190d4b" label="mixed materials" type="box">6</container>
+        <container id="aspace_2490fead287252ea131594f4546161b7" parent="aspace_61946708d532da3cbee638353f190d4b" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref73" level="file">
+      <did>
+        <unittitle>Benjamin Peter letters to father, Dr. Robert Peter from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56248</unitid>
+        <unitdate datechar="creation" type="inclusive">1878-1881</unitdate>
+        <container id="aspace_a8516633246bcb1e5202fabad3b06c17" label="mixed materials" type="box">6</container>
+        <container id="aspace_5c216147d6f22350daf4b2256a75b3ac" parent="aspace_a8516633246bcb1e5202fabad3b06c17" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref74" level="file">
+      <did>
+        <unittitle>Benjamin Peter letters to family from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56249</unitid>
+        <unitdate datechar="creation" type="inclusive">1878-1881</unitdate>
+        <container id="aspace_8f54e76113632f30517ac5d99c2e584c" label="mixed materials" type="box">6</container>
+        <container id="aspace_96e54a0ba513ba96493f23fd9d65f48e" parent="aspace_8f54e76113632f30517ac5d99c2e584c" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref75" level="file">
+      <did>
+        <unittitle>Benjamin Peter will</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56250</unitid>
+        <unitdate datechar="creation">1907</unitdate>
+        <container id="aspace_77981bc1f6c24f34c44904f2d76173d2" label="mixed materials" type="box">6</container>
+        <container id="aspace_429c6f629f5de3f6b702eab152d39be9" parent="aspace_77981bc1f6c24f34c44904f2d76173d2" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref76" level="file">
+      <did>
+        <unittitle>Johanna Peter letters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56252</unitid>
+        <unitdate datechar="creation" type="inclusive">1862-1874</unitdate>
+        <container id="aspace_3274eebc136ba6aac24792cb8551c627" label="mixed materials" type="box">6</container>
+        <container id="aspace_88b7bdcaa06d7077dc41d9f21708870e" parent="aspace_3274eebc136ba6aac24792cb8551c627" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref77" level="file">
+      <did>
+        <unittitle>Johanna Peter letters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56253</unitid>
+        <unitdate datechar="creation" type="inclusive">1877-1931</unitdate>
+        <container id="aspace_4b5fed43983d9e1959b02127de116021" label="mixed materials" type="box">6</container>
+        <container id="aspace_7c2dde2e6f04f971820db7518ca167b6" parent="aspace_4b5fed43983d9e1959b02127de116021" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref78" level="file">
+      <did>
+        <unittitle>Johanna Peter short stories</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56254</unitid>
+        <unitdate datechar="creation">1888, undated</unitdate>
+        <container id="aspace_1cc047d7b1731fec0bb5068639fb0d25" label="mixed materials" type="box">6</container>
+        <container id="aspace_a2e63b65e1d7bfc36aae9afc2b848ae7" parent="aspace_1cc047d7b1731fec0bb5068639fb0d25" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref79" level="file">
+      <did>
+        <unittitle>Johanna short stories</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56255</unitid>
+        <unitdate datechar="creation" type="inclusive">1886, 1922, undated</unitdate>
+        <container id="aspace_6cfcedc1c7c76208233fd5adc7541f46" label="mixed materials" type="box">6</container>
+        <container id="aspace_a2e056e1c5b0e0b212d5aea3b5fefe30" parent="aspace_6cfcedc1c7c76208233fd5adc7541f46" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref80" level="file">
+      <did>
+        <unittitle>Johanna poetry</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56256</unitid>
+        <unitdate datechar="creation">1931, undated</unitdate>
+        <container id="aspace_eb1b26c1c88f87b2314873f183f5a6e0" label="mixed materials" type="box">6</container>
+        <container id="aspace_b558aaa1a74fdce13cbc27bc193cea96" parent="aspace_eb1b26c1c88f87b2314873f183f5a6e0" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref81" level="file">
+      <did>
+        <unittitle>Johanna Peter general</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56257</unitid>
+        <unitdate datechar="creation" type="inclusive">1888-1933, undated</unitdate>
+        <container id="aspace_cf3f3aa5c4f95fd3ff332670b1e3c6ba" label="mixed materials" type="box">6</container>
+        <container id="aspace_31b3ea609f25a2faf4be224e276b8c79" parent="aspace_cf3f3aa5c4f95fd3ff332670b1e3c6ba" type="folder">11</container>
+      </did>
+      <scopecontent id="aspace_356089600a674aa0179c209f96ced30c">
+        <head>Scope and Contents</head>
+        <p>The Johanna Peter general folder contains a short story called <emph render="doublequote">Winter and its Treasures</emph> written for the Bradford Club, receipts, writing notes and page drafts.</p>
+      </scopecontent>
+    </c>
+    <c id="ref82" level="file">
+      <did>
+        <unittitle>Frances Dallam Peter Civil War letters to siblings</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56232</unitid>
+        <unitdate datechar="creation">1864, undated</unitdate>
+        <container id="aspace_7d6420137e93c9bb17c52b7b9329ccfe" label="mixed materials" type="box">7</container>
+        <container id="aspace_e8e307da34a8a61bbfe5e479df771029" parent="aspace_7d6420137e93c9bb17c52b7b9329ccfe" type="folder">1</container>
+        <container id="aspace_048de9fc3c27cc27169fb45d03e3557e" label="mixed materials" type="box">21</container>
+        <container id="aspace_8fbb409b2885c69d10a3170993469b64" parent="aspace_048de9fc3c27cc27169fb45d03e3557e" type="folder">18</container>
+      </did>
+    </c>
+    <c id="ref83" level="file">
+      <did>
+        <unittitle>Frances Dallam Peter daily journal</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56233</unitid>
+        <unitdate datechar="creation" type="inclusive">1852 September 30-November 18</unitdate>
+        <container id="aspace_09c6afc9c7850b3eefbfd22c44f905fd" label="mixed materials" type="box">7</container>
+        <container id="aspace_d663f5a9aee0ac54a4e6aae6489de3c7" parent="aspace_09c6afc9c7850b3eefbfd22c44f905fd" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref84" level="file">
+      <did>
+        <unittitle>Frances Dallam Peter diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56234</unitid>
+        <unitdate datechar="creation" type="inclusive">1862 January-1863 June</unitdate>
+        <container id="aspace_a50922dda39799f6ec1f5256e5639a61" label="mixed materials" type="box">7</container>
+        <container id="aspace_e898b946d0918acde8ffce4750854cb0" parent="aspace_a50922dda39799f6ec1f5256e5639a61" type="folder">3</container>
+        <dao entityref="xt7f1v5bcs4h_1_1"/>
+      </did>
+    </c>
+    <c id="ref85" level="file">
+      <did>
+        <unittitle>Frances Dallam Peter diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56235</unitid>
+        <unitdate datechar="creation" type="inclusive">1863 June-1864 April</unitdate>
+        <container id="aspace_2692a75137da4e95c916f016c3acac75" label="mixed materials" type="box">7</container>
+        <container id="aspace_3e425e6e3baa2e8a9ea78e4fd83518b7" parent="aspace_2692a75137da4e95c916f016c3acac75" type="folder">4</container>
+        <dao entityref="xt7f1v5bcs4h_2_1"/>
+      </did>
+    </c>
+    <c id="ref86" level="file">
+      <did>
+        <unittitle>Frances Dallam Peter diary transcript</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56236</unitid>
+        <unitdate datechar="creation" type="inclusive">1862 January-1862 December</unitdate>
+        <container id="aspace_9fc4c79b50d88d7ba0e43c1e066ae778" label="mixed materials" type="box">7</container>
+        <container id="aspace_ced6f1c3c448557c858760de6b77f0c9" parent="aspace_9fc4c79b50d88d7ba0e43c1e066ae778" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref87" level="file">
+      <did>
+        <unittitle>Frances Dallam Peter diary transcript</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56237</unitid>
+        <unitdate datechar="creation" type="inclusive">1863 January-1863 November</unitdate>
+        <container id="aspace_fad3bab72ece6bd2b68068512bfc8d62" label="mixed materials" type="box">7</container>
+        <container id="aspace_e346a43873bbf6b0daeec38d2fe42bc1" parent="aspace_fad3bab72ece6bd2b68068512bfc8d62" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref88" level="file">
+      <did>
+        <unittitle>Frances Dallam Peter poetry and prose</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56238</unitid>
+        <unitdate datechar="creation" type="inclusive">1852-1859</unitdate>
+        <container id="aspace_1d0ca2649d962174a55ac6bf40704ce3" label="mixed materials" type="box">7</container>
+        <container id="aspace_d205fc6c31c94efdf9e9acd321e3873a" parent="aspace_1d0ca2649d962174a55ac6bf40704ce3" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref89" level="file">
+      <did>
+        <unittitle>Frances Dallam Peter drawing books</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56239</unitid>
+        <unitdate datechar="creation" type="inclusive">1856-1861</unitdate>
+        <container id="aspace_cde76a0dca4363eb3891235d3e9d20ac" label="mixed materials" type="box">7</container>
+        <container id="aspace_0e62515f8c1f388dadaf889445b06852" parent="aspace_cde76a0dca4363eb3891235d3e9d20ac" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref90" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to mother, Frances Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56259</unitid>
+        <unitdate datechar="creation" type="inclusive">1873-1904</unitdate>
+        <container id="aspace_2ad07cd840665b0eb60817da1d684f9c" label="mixed materials" type="box">7</container>
+        <container id="aspace_f319e2d19e775ab62c55de366670813e" parent="aspace_2ad07cd840665b0eb60817da1d684f9c" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref91" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to father, Dr. Robert Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56260</unitid>
+        <unitdate datechar="creation" type="inclusive">1873-1893</unitdate>
+        <container id="aspace_069d45f8fd2524dd627f8c476bb15a74" label="mixed materials" type="box">8</container>
+        <container id="aspace_209c0944126daa2b3fd5af4cd596c23b" parent="aspace_069d45f8fd2524dd627f8c476bb15a74" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref92" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to sister, Letitia Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56261</unitid>
+        <unitdate datechar="creation" type="inclusive">1874-1910</unitdate>
+        <container id="aspace_75ed46db10a47bd66506e6d0e0c3fb3f" label="mixed materials" type="box">8</container>
+        <container id="aspace_65bc46e54352c78dbf4070aeb7e9534c" parent="aspace_75ed46db10a47bd66506e6d0e0c3fb3f" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref93" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to brother, Benjamin Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56262</unitid>
+        <unitdate datechar="creation" type="inclusive">1880-1910</unitdate>
+        <container id="aspace_d7bdb210f01ba16331505b876c3e2b8f" label="mixed materials" type="box">8</container>
+        <container id="aspace_32d7980254f225177961edf9d2efd09d" parent="aspace_d7bdb210f01ba16331505b876c3e2b8f" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref94" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to sister, Johanna Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56263</unitid>
+        <unitdate datechar="creation" type="inclusive">1873-1912</unitdate>
+        <container id="aspace_806ba9722a4809707c217b28cf3f52b4" label="mixed materials" type="box">8</container>
+        <container id="aspace_481a1927169f17fc8ec905a59696624c" parent="aspace_806ba9722a4809707c217b28cf3f52b4" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref95" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to sister, Sallie Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56264</unitid>
+        <unitdate datechar="creation">1874</unitdate>
+        <container id="aspace_43c5f995059c08f526ccd63fedff1283" label="mixed materials" type="box">8</container>
+        <container id="aspace_fc5fc4e38510072877eb68476dfc1fa6" parent="aspace_43c5f995059c08f526ccd63fedff1283" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref96" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to brother, Arthur Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56265</unitid>
+        <unitdate datechar="creation" type="inclusive">1874-1893</unitdate>
+        <container id="aspace_e8e4c377f1a05cce4a485cf54aa60188" label="mixed materials" type="box">8</container>
+        <container id="aspace_4645f18e80d8c3607c0086037211fbad" parent="aspace_e8e4c377f1a05cce4a485cf54aa60188" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref97" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to brother, Hugh Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56266</unitid>
+        <unitdate datechar="creation" type="inclusive">1874-1878</unitdate>
+        <container id="aspace_44897ef49a90f231336d92aa86b8d51b" label="mixed materials" type="box">8</container>
+        <container id="aspace_2978918e9d7c1cb4b4085917680f712f" parent="aspace_44897ef49a90f231336d92aa86b8d51b" type="folder">7</container>
+        <container id="aspace_9c6779edf8c913e7d16568f94840cf16" label="mixed materials" type="box">21</container>
+        <container id="aspace_e8a845630d5a46a57edfd06bb42cdf9e" parent="aspace_9c6779edf8c913e7d16568f94840cf16" type="folder">19</container>
+      </did>
+    </c>
+    <c id="ref98" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to brother, Alfred Peter, from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56267</unitid>
+        <unitdate datechar="creation" type="inclusive">1874-1887</unitdate>
+        <container id="aspace_1ffe41a99cc9ca27591b59c530538edc" label="mixed materials" type="box">8</container>
+        <container id="aspace_db65c4f5a34b2b7d4715f7e8eb386b22" parent="aspace_1ffe41a99cc9ca27591b59c530538edc" type="folder">8</container>
+        <container id="aspace_8a78c435845d42d2ed14ed80e49e2992" label="mixed materials" type="box">21</container>
+        <container id="aspace_2eb23f7b8d0a9e18606a61ff5299d0e8" parent="aspace_8a78c435845d42d2ed14ed80e49e2992" type="folder">20</container>
+      </did>
+    </c>
+    <c id="ref99" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. letters to uncles and aunts from Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56268</unitid>
+        <unitdate datechar="creation" type="inclusive">1878-1882</unitdate>
+        <container id="aspace_61add957a82327bdea408489ca019d74" label="mixed materials" type="box">8</container>
+        <container id="aspace_d7a40c9919ac96ddefa9497275f6361c" parent="aspace_61add957a82327bdea408489ca019d74" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref100" level="file">
+      <did>
+        <unittitle>Colorado mining prospectus and certificate</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56269</unitid>
+        <unitdate datechar="creation">1878</unitdate>
+        <container id="aspace_e35d5b0668f49e5998af09621b3a4f4b" label="mixed materials" type="box">8</container>
+        <container id="aspace_c723659bedaa166673722580a335c546" parent="aspace_e35d5b0668f49e5998af09621b3a4f4b" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref101" level="file">
+      <did>
+        <unittitle>Robert Peter, Jr. newspaper articles from Springsdale, Colorado</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56270</unitid>
+        <unitdate datechar="creation" type="inclusive">1886-1889</unitdate>
+        <container id="aspace_82d099c524efe7f07ea6328c99e3262d" label="mixed materials" type="box">8</container>
+        <container id="aspace_afd3bb0aac9d3cba64ed0fec41416fd6" parent="aspace_82d099c524efe7f07ea6328c99e3262d" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref102" level="file">
+      <did>
+        <unittitle>Letters from Colorado friends about Robert Peter, Jr.'s death</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56271</unitid>
+        <unitdate datechar="creation" type="inclusive">1915-1916</unitdate>
+        <container id="aspace_9e22cff51f6db3c13b7a49f0ff4c8910" label="mixed materials" type="box">8</container>
+        <container id="aspace_f3460102bdfc5b48eae6583791999165" parent="aspace_9e22cff51f6db3c13b7a49f0ff4c8910" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref103" level="file">
+      <did>
+        <unittitle>Sallie Peter letter to sister, Letitia Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56272</unitid>
+        <unitdate datechar="creation">1879</unitdate>
+        <container id="aspace_47a8f8c9247c7c21a072dcd0f30ea013" label="mixed materials" type="box">8</container>
+        <container id="aspace_b93cc5a339f1d44d8e1ff10947207633" parent="aspace_47a8f8c9247c7c21a072dcd0f30ea013" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref104" level="file">
+      <did>
+        <unittitle>Arthur Peter letter to brother, Alfred Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56274</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_24813c0b39fe598559fa0c67da27440e" label="mixed materials" type="box">8</container>
+        <container id="aspace_8c3a5da98b4363b7459eb7f1b675d79b" parent="aspace_24813c0b39fe598559fa0c67da27440e" type="folder">14</container>
+      </did>
+    </c>
+    <c id="ref105" level="file">
+      <did>
+        <unittitle>Hugh Peter letters and diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56284</unitid>
+        <unitdate datechar="creation" type="inclusive">1873-1887</unitdate>
+        <container id="aspace_b02f58003b203584039a75b0b4b81cc9" label="mixed materials" type="box">8</container>
+        <container id="aspace_00f5ebfbcbb393b570503a6b0fee7ac1" parent="aspace_b02f58003b203584039a75b0b4b81cc9" type="folder">15</container>
+      </did>
+    </c>
+    <c id="ref106" level="file">
+      <did>
+        <unittitle>Alfred Peter letters to family</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56286</unitid>
+        <unitdate datechar="creation" type="inclusive">1877-1900</unitdate>
+        <container id="aspace_a7bdf02bbb5f65123b0238e7c8ab6640" label="mixed materials" type="box">8</container>
+        <container id="aspace_70a99d947ec6efbc45112e4f2b7fef6f" parent="aspace_a7bdf02bbb5f65123b0238e7c8ab6640" type="folder">16</container>
+      </did>
+    </c>
+    <c id="ref107" level="file">
+      <did>
+        <unittitle>Alfred Peter general</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56287</unitid>
+        <unitdate datechar="creation" type="inclusive">1893-1949</unitdate>
+        <container id="aspace_2c17166322f2467040229b96a36aab62" label="mixed materials" type="box">8</container>
+        <container id="aspace_7277a672a1f65c0d645e9720ae984f3f" parent="aspace_2c17166322f2467040229b96a36aab62" type="folder">17</container>
+      </did>
+      <scopecontent id="aspace_441207f951388e59499b3f7d67ff8bd1">
+        <head>Scope and Contents</head>
+        <p>The Alfred Peter general folder contains  a small notebook, a certificate entitling Alfred Peter to a lifetime Alumni Association membership at the University of Kentucky, biographical notes, annotated newsclippings, an "American Contemporaries" biography of Alfred Peter reprinted from the American Chemical Society's Industrial and Engineering Chemistry periodical, a typescript of the original text of an article published by The Leader, letter and presenter's notes from Alfred Peter's commencement appearance on June 5, 1913, correspondence concerning Mary Breckinridge McCauley Peter's application to join the Daughters of the American Revolution society, notes, tallies, receipts, and an E.V.T.C. "Ode to Dr. Peter" typed song lyrics.</p>
+      </scopecontent>
+    </c>
+    <c id="ref108" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter letters to brother, Arthur Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56275</unitid>
+        <unitdate datechar="creation" type="inclusive">1833-1855</unitdate>
+        <container id="aspace_03255e9f18148c3a30330dcd4f4c7dff" label="mixed materials" type="box">8</container>
+        <container id="aspace_367adad8b6a172994287e2dcb65e74ae" parent="aspace_03255e9f18148c3a30330dcd4f4c7dff" type="folder">18</container>
+        <container id="aspace_649a01c3f7b7a4ddaa3587ccb0902b29" label="mixed materials" type="box">21</container>
+        <container id="aspace_6543840d9d33f1e63ffef2b01b6167bb" parent="aspace_649a01c3f7b7a4ddaa3587ccb0902b29" type="folder">21</container>
+      </did>
+    </c>
+    <c id="ref109" level="file">
+      <did>
+        <unittitle>Dr. Robert Peter letters to brother, Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56276</unitid>
+        <unitdate datechar="creation" type="inclusive">1856-1868</unitdate>
+        <container id="aspace_82d00d630c4c602e8f5e6e2ee08c9dc2" label="mixed materials" type="box">9</container>
+        <container id="aspace_0140637dc1f2c0ac40fa67935879ee9f" parent="aspace_82d00d630c4c602e8f5e6e2ee08c9dc2" type="folder">1</container>
+        <container id="aspace_7050a386db4c2f7bbdb96953609e085c" label="mixed materials" type="box">21</container>
+        <container id="aspace_055d8046e379186a2c15c1d02a1fcbb2" parent="aspace_7050a386db4c2f7bbdb96953609e085c" type="folder">22</container>
+      </did>
+    </c>
+    <c id="ref110" level="file">
+      <did>
+        <unittitle>Arthur Peter letters to brother, Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56277</unitid>
+        <unitdate datechar="creation" type="inclusive">1826-1849</unitdate>
+        <container id="aspace_4be4d2e5376561c110c70410e9adac04" label="mixed materials" type="box">9</container>
+        <container id="aspace_3fc406a0eeeada6e763a9a8a9d72869d" parent="aspace_4be4d2e5376561c110c70410e9adac04" type="folder">2</container>
+        <container id="aspace_b8720de034a07fc41bf39d446ae5b9d0" label="mixed materials" type="box">22</container>
+        <container id="aspace_e57f096af7ad1e3a5a3e306111b746b8" parent="aspace_b8720de034a07fc41bf39d446ae5b9d0" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref111" level="file">
+      <did>
+        <unittitle>Arthur Peter letters to brother, Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56278</unitid>
+        <unitdate datechar="creation" type="inclusive">1850-1858</unitdate>
+        <container id="aspace_075c98fef1ba108222972823c032a696" label="mixed materials" type="box">9</container>
+        <container id="aspace_3379352b7b60348055815210fe6a8836" parent="aspace_075c98fef1ba108222972823c032a696" type="folder">3</container>
+        <container id="aspace_b2f21a0b5089c5ae245a3409ddf86baa" label="mixed materials" type="box">22</container>
+        <container id="aspace_da0669a7494fc78f261bf54df32cb495" parent="aspace_b2f21a0b5089c5ae245a3409ddf86baa" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref112" level="file">
+      <did>
+        <unittitle>Arthur Peter letters to brother, Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56279</unitid>
+        <unitdate datechar="creation" type="inclusive">1859-1864</unitdate>
+        <container id="aspace_ea21b47fdc74061894fe30bdfc203ad6" label="mixed materials" type="box">9</container>
+        <container id="aspace_2546bafd3b5b50342cf9feefae519e72" parent="aspace_ea21b47fdc74061894fe30bdfc203ad6" type="folder">4</container>
+        <container id="aspace_798582a181d3f949dfbb0731787da7b3" label="mixed materials" type="box">22</container>
+        <container id="aspace_303aaf25a7cf2ec98dabc53622fd90a8" parent="aspace_798582a181d3f949dfbb0731787da7b3" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref113" level="file">
+      <did>
+        <unittitle>Arthur Peter letters to brother, Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56280</unitid>
+        <unitdate datechar="creation" type="inclusive">1865-1872</unitdate>
+        <container id="aspace_221c5a559b25928c6dcc39ae296df904" label="mixed materials" type="box">9</container>
+        <container id="aspace_47ab8eb7b8a4d11a5d85b79c663114c4" parent="aspace_221c5a559b25928c6dcc39ae296df904" type="folder">5</container>
+        <container id="aspace_888fa8892b9aa576d64e70744a126f5c" label="mixed materials" type="box">22</container>
+        <container id="aspace_8622c9befa37df35a67d8ddf89b065c8" parent="aspace_888fa8892b9aa576d64e70744a126f5c" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref114" level="file">
+      <did>
+        <unittitle>Arthur Peter letters to brother, Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56281</unitid>
+        <unitdate datechar="creation" type="inclusive">1873-1892</unitdate>
+        <container id="aspace_9e126ff37a9c2505470eb33fdfa58954" label="mixed materials" type="box">10</container>
+        <container id="aspace_c43167a796da3e488e47d3f36a714629" parent="aspace_9e126ff37a9c2505470eb33fdfa58954" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref115" level="file">
+      <did>
+        <unittitle>Arthur Peter general letters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56282</unitid>
+        <unitdate datechar="creation" type="inclusive">1834-1902</unitdate>
+        <container id="aspace_54bf2fb04c3c35ab59031cf9fdc6a9e5" label="mixed materials" type="box">10</container>
+        <container id="aspace_a0eece396019d19835b2ea53cf91578d" parent="aspace_54bf2fb04c3c35ab59031cf9fdc6a9e5" type="folder">2</container>
+        <container id="aspace_b474f3d5fecd0b05d0ff4516796a87a1" label="mixed materials" type="box">22</container>
+        <container id="aspace_e12aea3fbba2fde2388898e6b506a013" parent="aspace_b474f3d5fecd0b05d0ff4516796a87a1" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref116" level="file">
+      <did>
+        <unittitle>Mrs. Arthur Peter correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56283</unitid>
+        <unitdate datechar="creation" type="inclusive">1844-1880</unitdate>
+        <container id="aspace_004b43156c679c7fd9b84a0047b71641" label="mixed materials" type="box">10</container>
+        <container id="aspace_4e1aa65e3b50d39a5a2acf3a2499bb1f" parent="aspace_004b43156c679c7fd9b84a0047b71641" type="folder">3</container>
+        <container id="aspace_55b67b89b76d3cfb32c3ec3b0a9fa576" label="mixed materials" type="box">22</container>
+        <container id="aspace_72dbc2b64125773deb147bf05aa0e568" parent="aspace_55b67b89b76d3cfb32c3ec3b0a9fa576" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref117" level="file">
+      <did>
+        <unittitle>Robert Peter, Sr. letters to son, Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56288</unitid>
+        <unitdate datechar="creation">1834</unitdate>
+        <container id="aspace_fcff7dc65257b6b98b81710f7fecc6c6" label="mixed materials" type="box">10</container>
+        <container id="aspace_67df6898f5a2805de51c86f54679f933" parent="aspace_fcff7dc65257b6b98b81710f7fecc6c6" type="folder">4</container>
+        <container id="aspace_b46a2fb1b89d33e9aed5cdcaf8e8ec34" label="mixed materials" type="box">22</container>
+        <container id="aspace_5e88f77a896b1a2a69adf8a1f3a9d9ea" parent="aspace_b46a2fb1b89d33e9aed5cdcaf8e8ec34" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref118" level="file">
+      <did>
+        <unittitle>William D. Peter letters to brothers</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56289</unitid>
+        <unitdate datechar="creation" type="inclusive">1826-1841</unitdate>
+        <container id="aspace_c7f9141dbbf87d931264486becfdd14e" label="mixed materials" type="box">10</container>
+        <container id="aspace_39ed709c3d5463f9f8603a4ed602a284" parent="aspace_c7f9141dbbf87d931264486becfdd14e" type="folder">5</container>
+        <container id="aspace_0e7afb34f8bacff7cfd038b29af40910" label="mixed materials" type="box">22</container>
+        <container id="aspace_20ef8c5438bf6dbc4e4b37406f820546" parent="aspace_0e7afb34f8bacff7cfd038b29af40910" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref119" level="file">
+      <did>
+        <unittitle>Dr. Robert Peters letters from sisters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56224</unitid>
+        <unitdate datechar="creation" type="inclusive">1825-1889</unitdate>
+        <container id="aspace_34c0974848ec4428678f188e4ddc4aa3" label="mixed materials" type="box">10</container>
+        <container id="aspace_880b0028dbe7da6a05bf2b530c2df16d" parent="aspace_34c0974848ec4428678f188e4ddc4aa3" type="folder">6</container>
+        <container id="aspace_ad36951d12a5dca4e7e6542fcd8d16b5" label="mixed materials" type="box">22</container>
+        <container id="aspace_4848320a3827850a6c75c9b08f66713d" parent="aspace_ad36951d12a5dca4e7e6542fcd8d16b5" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref120" level="file">
+      <did>
+        <unittitle>Richard Peter letters to Johanna and Arthur Peter from England</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56290</unitid>
+        <unitdate datechar="creation" type="inclusive">1897-1909</unitdate>
+        <container id="aspace_d0be13e6ee815e6308bdd56c79f4ef6a" label="mixed materials" type="box">10</container>
+        <container id="aspace_9545701ebb6b66c00cfb86b9455d0894" parent="aspace_d0be13e6ee815e6308bdd56c79f4ef6a" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref121" level="file">
+      <did>
+        <unittitle>Claude H. Peter letters to Johanna Peter from England</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56292</unitid>
+        <unitdate datechar="creation" type="inclusive">1907-1925</unitdate>
+        <container id="aspace_9775e5a7b987131d8ad7b0c4a29563cd" label="mixed materials" type="box">10</container>
+        <container id="aspace_5edec973dfab91a9666ecbd627163061" parent="aspace_9775e5a7b987131d8ad7b0c4a29563cd" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref122" level="file">
+      <did>
+        <unittitle>Newspaper articles about Peter family of Launceston, England</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56293</unitid>
+        <unitdate datechar="creation" type="inclusive">1903-1927</unitdate>
+        <container id="aspace_96a283ea0b4dc1e7f6225a7dd8e02f43" label="mixed materials" type="box">10</container>
+        <container id="aspace_6181138721245122307c1f7e635bbdd7" parent="aspace_96a283ea0b4dc1e7f6225a7dd8e02f43" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref123" level="file">
+      <did>
+        <unittitle>William Shinn letters to Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56295</unitid>
+        <unitdate datechar="creation" type="inclusive">1828-1833</unitdate>
+        <container id="aspace_0d86498d67c38b0c67e0dcee9dbc223f" label="mixed materials" type="box">10</container>
+        <container id="aspace_b8ba3e77808f00927860e2beb1edde1d" parent="aspace_0d86498d67c38b0c67e0dcee9dbc223f" type="folder">10</container>
+        <container id="aspace_9b1de03ea2f9578667dbd7b3e5cc12cb" label="mixed materials" type="box">23</container>
+        <container id="aspace_c55ea41f9e10f6fe93f9cc62ee456683" parent="aspace_9b1de03ea2f9578667dbd7b3e5cc12cb" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref124" level="file">
+      <did>
+        <unittitle>William Shinn letters to Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56296</unitid>
+        <unitdate datechar="creation" type="inclusive">1834-1839</unitdate>
+        <container id="aspace_b488bc721602973b3d77ad6d66511aed" label="mixed materials" type="box">11</container>
+        <container id="aspace_41c98f3484f3e8906a0434f18bfdae20" parent="aspace_b488bc721602973b3d77ad6d66511aed" type="folder">1</container>
+        <container id="aspace_b167b4d84b3c3613b8e15015fab30f21" label="mixed materials" type="box">23</container>
+        <container id="aspace_cf5fbe437c2128c26193efe2b78568e0" parent="aspace_b167b4d84b3c3613b8e15015fab30f21" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref125" level="file">
+      <did>
+        <unittitle>William Shinn letters to Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56297</unitid>
+        <unitdate datechar="creation" type="inclusive">1840-1877</unitdate>
+        <container id="aspace_6101bd8f8c0f97a8a6e3a5db460a860b" label="mixed materials" type="box">11</container>
+        <container id="aspace_b2b4d8acac25d8f791ec6c58448a895f" parent="aspace_6101bd8f8c0f97a8a6e3a5db460a860b" type="folder">2</container>
+        <container id="aspace_42bf06d457b27ce67139b7270ea779fc" label="mixed materials" type="box">23</container>
+        <container id="aspace_7d484c19324155c1bdc24b41a8ce9f7f" parent="aspace_42bf06d457b27ce67139b7270ea779fc" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref126" level="file">
+      <did>
+        <unittitle>William Shinn letters from Dr. Robert Peter</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56298</unitid>
+        <unitdate datechar="creation" type="inclusive">1861-1865</unitdate>
+        <container id="aspace_65cb20aa22b51dcb4f4ccb559c1b9edf" label="mixed materials" type="box">11</container>
+        <container id="aspace_7a8a6bff887d59dccea104297e9edba5" parent="aspace_65cb20aa22b51dcb4f4ccb559c1b9edf" type="folder">3</container>
+        <container id="aspace_61f2334609ed4ee238515969ab2f6bd0" label="mixed materials" type="box">23</container>
+        <container id="aspace_c48e12a72a6c78fa5420b850047ba661" parent="aspace_61f2334609ed4ee238515969ab2f6bd0" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref127" level="file">
+      <did>
+        <unittitle>Dallam family genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56314</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_37095b6d956dec246a74b05f2c5b3c64" label="mixed materials" type="box">11</container>
+        <container id="aspace_0f41342008516beaac8d706d4dfa5f63" parent="aspace_37095b6d956dec246a74b05f2c5b3c64" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref128" level="file">
+      <did>
+        <unittitle>Dallam family general</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56315</unitid>
+        <unitdate datechar="creation" type="inclusive">1801-1845</unitdate>
+        <container id="aspace_7e8db92fd936d53453cf0283261f1ba4" label="mixed materials" type="box">11</container>
+        <container id="aspace_5d03ff7cc4f1a2bffec95ae8d87ae0d8" parent="aspace_7e8db92fd936d53453cf0283261f1ba4" type="folder">5</container>
+        <container id="aspace_5bd9c1fa118ddccb4c7c63c2867ff5d1" label="mixed materials" type="box">23</container>
+        <container id="aspace_6193c6e2b0832c64613a95dc9e363e41" parent="aspace_5bd9c1fa118ddccb4c7c63c2867ff5d1" type="folder">5</container>
+      </did>
+      <scopecontent id="aspace_e25daf928ce4d4b307b342d559157bbd">
+        <head>Scope and Contents</head>
+        <p>The first general folder in the Dallam family series comprises various items of correspondence including an 1818 letter from Henry Clay and another 1824 letter addressed to him, notes on the affairs of William S. Dallam written in Dr. Robert Peter's hand, an 1824 Logan County Circuit Court order regarding the execution of William S. Dallam's land, a list of his deeds in the Circuit Courthouse, and assorted guest lists.</p>
+      </scopecontent>
+    </c>
+    <c id="ref129" level="file">
+      <did>
+        <unittitle>Major William S. Dallam diary, transcript</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56300</unitid>
+        <unitdate datechar="creation" type="inclusive">1794-1795</unitdate>
+        <container id="aspace_52f3adfca7aee60b6c0f6325a2ca6615" label="mixed materials" type="box">11</container>
+        <container id="aspace_46f793acc3f5840192e9b9a8bd4e16b2" parent="aspace_52f3adfca7aee60b6c0f6325a2ca6615" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref130" level="file">
+      <did>
+        <unittitle>Major William S. Dallam diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56301</unitid>
+        <unitdate datechar="creation" type="inclusive">1794-1795</unitdate>
+        <container id="aspace_792b071d08c3c043c30a261b2feb9a22" label="mixed materials" type="box">11</container>
+        <container id="aspace_8db7e0d100151de45df0d5474a2f0d34" parent="aspace_792b071d08c3c043c30a261b2feb9a22" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref131" level="file">
+      <did>
+        <unittitle>Major William S. Dallam diary of Paris visit</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56302</unitid>
+        <unitdate datechar="creation">1795</unitdate>
+        <container id="aspace_fa996e4d9003f8044e116286c26bc951" label="mixed materials" type="box">11</container>
+        <container id="aspace_9edce0b01221befe7563488c965bb22f" parent="aspace_fa996e4d9003f8044e116286c26bc951" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref132" level="file">
+      <did>
+        <unittitle>Major William S. Dallam correspondence with Colonel Richard Dallam</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56303</unitid>
+        <unitdate datechar="creation" type="inclusive">1802-1820</unitdate>
+        <container id="aspace_acde3a0947f2e4a9219c9f9efe401e25" label="mixed materials" type="box">12</container>
+        <container id="aspace_c28b4f39c5f87e5a0256cca07caba4cc" parent="aspace_acde3a0947f2e4a9219c9f9efe401e25" type="folder">1</container>
+        <container id="aspace_795b5c02db80e471e1914b3ad1d795d0" label="mixed materials" type="box">23</container>
+        <container id="aspace_cf68580537fffa8812fbfce8fea0ba53" parent="aspace_795b5c02db80e471e1914b3ad1d795d0" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref133" level="file">
+      <did>
+        <unittitle>Major William S. Dallam correspondence with immediate family</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56304</unitid>
+        <unitdate datechar="creation" type="inclusive">1808-1845</unitdate>
+        <container id="aspace_6db6ea04bb7ba7bff9f0d3fe8e323e0e" label="mixed materials" type="box">12</container>
+        <container id="aspace_edc89f96ef2b81f1b0b2355289696983" parent="aspace_6db6ea04bb7ba7bff9f0d3fe8e323e0e" type="folder">2</container>
+        <container id="aspace_0413cf16a505aba7272503eff37e61e7" label="mixed materials" type="box">23</container>
+        <container id="aspace_419883ab173f8ee1ec6ebadeb169c359" parent="aspace_0413cf16a505aba7272503eff37e61e7" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref134" level="file">
+      <did>
+        <unittitle>Richard B. Dallam letters to cousin, Major William S. Dallam</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56307</unitid>
+        <unitdate datechar="creation" type="inclusive">1806-1843</unitdate>
+        <container id="aspace_82e0cfd4c58e55bd8bbae25affb39853" label="mixed materials" type="box">12</container>
+        <container id="aspace_63a51316f93419530844a0a0a638d770" parent="aspace_82e0cfd4c58e55bd8bbae25affb39853" type="folder">3</container>
+        <container id="aspace_675e40e06d4d49b8a07d62cdff9b0721" label="mixed materials" type="box">23</container>
+        <container id="aspace_223974db637aa6c46c68f6cbc865a3bd" parent="aspace_675e40e06d4d49b8a07d62cdff9b0721" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref135" level="file">
+      <did>
+        <unittitle>Richard B. Dallam correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56308</unitid>
+        <unitdate datechar="creation" type="inclusive">1832-1856</unitdate>
+        <container id="aspace_86f114bedf30690a90f6664f9d03e5c5" label="mixed materials" type="box">12</container>
+        <container id="aspace_abd540cc9dd8514b4803a198c8717fa2" parent="aspace_86f114bedf30690a90f6664f9d03e5c5" type="folder">4</container>
+        <container id="aspace_01def172d13cedbfdc07da6d156877d8" label="mixed materials" type="box">24</container>
+        <container id="aspace_7f04d9c2ba3834e860a215b9ce0e9b8a" parent="aspace_01def172d13cedbfdc07da6d156877d8" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref136" level="file">
+      <did>
+        <unittitle>Major William S. Dallam correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56305</unitid>
+        <unitdate datechar="creation" type="inclusive">1803-1845</unitdate>
+        <container id="aspace_54209b65bba51020d36ae11deb563b6a" label="mixed materials" type="box">12</container>
+        <container id="aspace_7a6a4d14315be5e997c7f04d6e24c654" parent="aspace_54209b65bba51020d36ae11deb563b6a" type="folder">5</container>
+        <container id="aspace_13353211abcac0607865e34b334b6d75" label="mixed materials" type="box">24</container>
+        <container id="aspace_4ae029a83fae00d1a0c508a849090f5f" parent="aspace_13353211abcac0607865e34b334b6d75" type="folder">2-3</container>
+      </did>
+    </c>
+    <c id="ref137" level="file">
+      <did>
+        <unittitle>Letitia P. (Dallam) Robb correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56310</unitid>
+        <unitdate datechar="creation" type="inclusive">1842-1850</unitdate>
+        <container id="aspace_adf719b1e574526395062f8223ff87b4" label="mixed materials" type="box">12</container>
+        <container id="aspace_8f4f20854d34bd3743eaef7ad90a046e" parent="aspace_adf719b1e574526395062f8223ff87b4" type="folder">6</container>
+        <container id="aspace_12e6667412b635f5488b6c785f5dcaca" label="mixed materials" type="box">24</container>
+        <container id="aspace_23a58d50dafd8f04faf243ef78291f03" parent="aspace_12e6667412b635f5488b6c785f5dcaca" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref138" level="file">
+      <did>
+        <unittitle>Dallam family general</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56316</unitid>
+        <unitdate datechar="creation" type="inclusive">1839-1897</unitdate>
+        <container id="aspace_86c4f323d7bd566024bf89a5dfad80e3" label="mixed materials" type="box">12</container>
+        <container id="aspace_b5349d4ed9a4f600c32c66e1de6c6023" parent="aspace_86c4f323d7bd566024bf89a5dfad80e3" type="folder">7</container>
+        <container id="aspace_b9ad4fd5b8d0afe28477a45247f30d4e" label="mixed materials" type="box">24</container>
+        <container id="aspace_189cdf6d43eeea8e48901813bfe0fe5b" parent="aspace_b9ad4fd5b8d0afe28477a45247f30d4e" type="folder">5</container>
+      </did>
+      <scopecontent id="aspace_a1503190a8266ab5076993ef17bad6dc">
+        <head>Scope and Contents</head>
+        <p>The second general folder in the Dallam family series comprises various items of correspondence, a certificate appointing H.D. Bulskley as the Maryland delegate at the State Railroad Commission Annual Convention, a short fiction piece called "Hellvellun" and a memorandum of William S. Dallam's finances.</p>
+      </scopecontent>
+    </c>
+    <c id="ref139" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56317</unitid>
+        <unitdate datechar="creation" type="inclusive">1792-1807</unitdate>
+        <container id="aspace_c37ef10c57997ecd1f37ed68b413d06b" label="mixed materials" type="box">12</container>
+        <container id="aspace_a0c42b535cc3f98259b0fce89042c01c" parent="aspace_c37ef10c57997ecd1f37ed68b413d06b" type="folder">8</container>
+        <container id="aspace_fdfed160abed67e8ad86f1af93670264" label="mixed materials" type="box">24</container>
+        <container id="aspace_f2c8d0d9d554e622061b9968dbd61e71" parent="aspace_fdfed160abed67e8ad86f1af93670264" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref140" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56318</unitid>
+        <unitdate datechar="creation" type="inclusive">1808-1810</unitdate>
+        <container id="aspace_e0a47fd933979b5a10b957b1b0f01921" label="mixed materials" type="box">12</container>
+        <container id="aspace_a15bfc888e236f903763cbe19c5ee67b" parent="aspace_e0a47fd933979b5a10b957b1b0f01921" type="folder">9</container>
+        <container id="aspace_549880a44c35951340d87ca0f2ac95d6" label="mixed materials" type="box">24</container>
+        <container id="aspace_99f917a73ceb6a1323601633b00455dc" parent="aspace_549880a44c35951340d87ca0f2ac95d6" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref141" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56319</unitid>
+        <unitdate datechar="creation" type="inclusive">1811-1812</unitdate>
+        <container id="aspace_9485fdf679a90f49241cf340d11450f3" label="mixed materials" type="box">13</container>
+        <container id="aspace_ec001176396ed5ced1fe3212a5d27546" parent="aspace_9485fdf679a90f49241cf340d11450f3" type="folder">1</container>
+        <container id="aspace_60fc55be8b4b2ebba4e217e6d5989d6f" label="mixed materials" type="box">24</container>
+        <container id="aspace_253143a8f691bee789f72401e08e4e58" parent="aspace_60fc55be8b4b2ebba4e217e6d5989d6f" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref142" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56320</unitid>
+        <unitdate datechar="creation" type="inclusive">1813-1814</unitdate>
+        <container id="aspace_65423b047735616b36c327072f74683f" label="mixed materials" type="box">13</container>
+        <container id="aspace_81b264dc7225aea6cec53da2f2b2b6ce" parent="aspace_65423b047735616b36c327072f74683f" type="folder">2</container>
+        <container id="aspace_159a68e482466a0b10058e333b7e5faa" label="mixed materials" type="box">25</container>
+        <container id="aspace_61c1d77fba00efc6ef158e6c1137207f" parent="aspace_159a68e482466a0b10058e333b7e5faa" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref143" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56321</unitid>
+        <unitdate datechar="creation">1815</unitdate>
+        <container id="aspace_ec0966cafa94c7ff6eefe9592907c98b" label="mixed materials" type="box">13</container>
+        <container id="aspace_45bd905c4b06ca25f25b03cc963a54a0" parent="aspace_ec0966cafa94c7ff6eefe9592907c98b" type="folder">3-4</container>
+        <container id="aspace_1d8ef6c75238f1021759956849657a51" label="mixed materials" type="box">25</container>
+        <container id="aspace_810b927f884985389921e8191d4197a7" parent="aspace_1d8ef6c75238f1021759956849657a51" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref144" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56323</unitid>
+        <unitdate datechar="creation">1816</unitdate>
+        <container id="aspace_eced3f01a06983f870631719c5440a7f" label="mixed materials" type="box">13</container>
+        <container id="aspace_1eb2e80ad06b5b38d1da803b575fb0ba" parent="aspace_eced3f01a06983f870631719c5440a7f" type="folder">5</container>
+        <container id="aspace_6a1f5329d5314fb2ced4054bac46b8ac" label="mixed materials" type="box">25</container>
+        <container id="aspace_63730087ad2ac08e1c17bd958408ac8f" parent="aspace_6a1f5329d5314fb2ced4054bac46b8ac" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref145" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56324</unitid>
+        <unitdate datechar="creation">1817</unitdate>
+        <container id="aspace_3938fcdc0c4cefe37c1832400f48ccdf" label="mixed materials" type="box">13</container>
+        <container id="aspace_d1ef38b565717811d7f0aa1f138e8dc6" parent="aspace_3938fcdc0c4cefe37c1832400f48ccdf" type="folder">6</container>
+        <container id="aspace_c3f55c2bad6671b22afcb816a3752370" label="mixed materials" type="box">25</container>
+        <container id="aspace_c9090acfad7be9d6f4e1962487c1a3a5" parent="aspace_c3f55c2bad6671b22afcb816a3752370" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref146" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56325</unitid>
+        <unitdate datechar="creation" type="inclusive">1818-1819</unitdate>
+        <container id="aspace_5af300de7b5e359588d4f7f2367866f9" label="mixed materials" type="box">13</container>
+        <container id="aspace_74e28c97e90dcadfe5b7ba30c2bc82bb" parent="aspace_5af300de7b5e359588d4f7f2367866f9" type="folder">7</container>
+        <container id="aspace_90985ef999db0e63e807dd87a5219dc4" label="mixed materials" type="box">25</container>
+        <container id="aspace_f802ddc2e4c5838b5f52a3bab6442e8f" parent="aspace_90985ef999db0e63e807dd87a5219dc4" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref147" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56326</unitid>
+        <unitdate datechar="creation" type="inclusive">1820-1821</unitdate>
+        <container id="aspace_350a675a48315f4e475202cc92b94d4c" label="mixed materials" type="box">14</container>
+        <container id="aspace_0c29834b2661ddbe9fd07da3fdccf5e3" parent="aspace_350a675a48315f4e475202cc92b94d4c" type="folder">1</container>
+        <container id="aspace_a4f442f7fddfb5f1f7306709a39746b4" label="mixed materials" type="box">25</container>
+        <container id="aspace_add3c8ccb588b072bad53e5436b6db23" parent="aspace_a4f442f7fddfb5f1f7306709a39746b4" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref148" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56327</unitid>
+        <unitdate datechar="creation" type="inclusive">1822-1824</unitdate>
+        <container id="aspace_de4508fecfc2e7e0fa466391d1ac5488" label="mixed materials" type="box">14</container>
+        <container id="aspace_32c40a62d9c03f21ad053f30f7560d79" parent="aspace_de4508fecfc2e7e0fa466391d1ac5488" type="folder">2</container>
+        <container id="aspace_d16432d60f53ebdd5a65f6efaae51f50" label="mixed materials" type="box">25</container>
+        <container id="aspace_7439a113b8a7ce5d11d6051b3ff812d4" parent="aspace_d16432d60f53ebdd5a65f6efaae51f50" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref149" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56328</unitid>
+        <unitdate datechar="creation" type="inclusive">1825-1827</unitdate>
+        <container id="aspace_18c9142e4deb6210f8c4ab7ad40ff3f7" label="mixed materials" type="box">14</container>
+        <container id="aspace_c1f301eb0a2365df4ad4b0a434fd6d92" parent="aspace_18c9142e4deb6210f8c4ab7ad40ff3f7" type="folder">3</container>
+        <container id="aspace_df42d9e835812bfb2830e050e3deb1d4" label="mixed materials" type="box">25</container>
+        <container id="aspace_55c778ae5166f5b4762eb97b9e8b11e7" parent="aspace_df42d9e835812bfb2830e050e3deb1d4" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref150" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56329</unitid>
+        <unitdate datechar="creation" type="inclusive">1828-1832</unitdate>
+        <container id="aspace_86fba6b0291c335d1eca0e456560d58e" label="mixed materials" type="box">14</container>
+        <container id="aspace_6b94bf8689954b2aea6fe363f0aadfeb" parent="aspace_86fba6b0291c335d1eca0e456560d58e" type="folder">4</container>
+        <container id="aspace_2bfc55c0d0ba5daf4e2352d247802d48" label="mixed materials" type="box">25</container>
+        <container id="aspace_1d02a1265b16d57bd6b255c6159740bb" parent="aspace_2bfc55c0d0ba5daf4e2352d247802d48" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref151" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56330</unitid>
+        <unitdate datechar="creation" type="inclusive">1833-1836</unitdate>
+        <container id="aspace_e709ffae8e6c86d3db5d7a88fe8610d4" label="mixed materials" type="box">14</container>
+        <container id="aspace_a0b16eb7b00d31c051e4aeffc049e307" parent="aspace_e709ffae8e6c86d3db5d7a88fe8610d4" type="folder">5</container>
+        <container id="aspace_6fca3c82d6156effe34c5752b28351d0" label="mixed materials" type="box">25</container>
+        <container id="aspace_32917076d5f31b528d1ac6cc3ad039b3" parent="aspace_6fca3c82d6156effe34c5752b28351d0" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref152" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56331</unitid>
+        <unitdate datechar="creation" type="inclusive">1837-1839</unitdate>
+        <container id="aspace_be878702fba3e6dd18312b623576c7bf" label="mixed materials" type="box">14</container>
+        <container id="aspace_708f9b375e926dc0ddda3d2feda0ca40" parent="aspace_be878702fba3e6dd18312b623576c7bf" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref153" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56332</unitid>
+        <unitdate datechar="creation" type="inclusive">1840-1850</unitdate>
+        <container id="aspace_a4c16e6d74fa9ce6198b63f1add3f904" label="mixed materials" type="box">15</container>
+        <container id="aspace_39aa451a3ad3ba9e5e650ff76a6abc55" parent="aspace_a4c16e6d74fa9ce6198b63f1add3f904" type="folder">1</container>
+        <container id="aspace_25c330e0237eaaa4b63f0027b5d580e8" label="mixed materials" type="box">25</container>
+        <container id="aspace_daa1481fcbf3e01956723a76a37de392" parent="aspace_25c330e0237eaaa4b63f0027b5d580e8" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref154" level="file">
+      <did>
+        <unittitle>Dallam family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56333</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_55ac813cd0df4d5b79ac80e66e17c052" label="mixed materials" type="box">15</container>
+        <container id="aspace_d9d6f9ae46f5e6497cc4674abc41f981" parent="aspace_55ac813cd0df4d5b79ac80e66e17c052" type="folder">2-3</container>
+        <container id="aspace_3b2d469c3ec77624912ec3e982f9e301" label="mixed materials" type="box">25</container>
+        <container id="aspace_154c2da3ac1531b27100ff63ffe6f7fe" parent="aspace_3b2d469c3ec77624912ec3e982f9e301" type="folder">12-13</container>
+      </did>
+    </c>
+    <c id="ref155" level="file">
+      <did>
+        <unittitle>Dallam family account books</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56335</unitid>
+        <unitdate datechar="creation" type="inclusive">1805, 1848-1850</unitdate>
+        <container id="aspace_b6e156777d940cfe28c21e393eb3928e" label="mixed materials" type="box">15</container>
+        <container id="aspace_ec445a60a611c73e96d52603ccc70e9c" parent="aspace_b6e156777d940cfe28c21e393eb3928e" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref156" level="file">
+      <did>
+        <unittitle>Dallam family materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56311</unitid>
+        <unitdate datechar="creation" type="inclusive">1839-1897</unitdate>
+        <container id="aspace_90644ca6ab1faa65fdb3ae88d48dad7c" label="mixed materials" type="box">15</container>
+        <container id="aspace_be5231c31ac310a75218d588259dd550" parent="aspace_90644ca6ab1faa65fdb3ae88d48dad7c" type="folder">5</container>
+        <container id="aspace_3e8fb50871d6b4d7b84d3b77ada2632d" label="mixed materials" type="box">25</container>
+        <container id="aspace_3db704918bec7cc1178461f8df618181" parent="aspace_3e8fb50871d6b4d7b84d3b77ada2632d" type="folder">14</container>
+      </did>
+    </c>
+    <c id="ref157" level="file">
+      <did>
+        <unittitle>William Robb materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56312</unitid>
+        <unitdate datechar="creation" type="inclusive">1839-1896</unitdate>
+        <container id="aspace_1797f5fb624ed6af6d151063dc86d65b" label="mixed materials" type="box">15</container>
+        <container id="aspace_960d02efafdd361399489e6d6afde7d2" parent="aspace_1797f5fb624ed6af6d151063dc86d65b" type="folder">6</container>
+        <container id="aspace_6a7cbe7c1e6bb0615786414858251b6d" label="mixed materials" type="box">25</container>
+        <container id="aspace_879b2028c5bb91b0d7b61dbe4413205c" parent="aspace_6a7cbe7c1e6bb0615786414858251b6d" type="folder">15</container>
+      </did>
+    </c>
+    <c id="ref158" level="file">
+      <did>
+        <unittitle>Meredith family genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56337</unitid>
+        <unitdate datechar="creation" type="inclusive">1892-1966, undated</unitdate>
+        <container id="aspace_f3b41495d9787fef9d3c3d9550a5692f" label="mixed materials" type="box">15</container>
+        <container id="aspace_a209fff3a4497f1ec254f3b3fc4b693d" parent="aspace_f3b41495d9787fef9d3c3d9550a5692f" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref159" level="file">
+      <did>
+        <unittitle>Meredith family business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56338</unitid>
+        <unitdate datechar="creation" type="inclusive">1786-1839</unitdate>
+        <container id="aspace_fb356f5c066cda4f031629bd4825e5a0" label="mixed materials" type="box">15</container>
+        <container id="aspace_1f19f8c9cfec6454486492f30743ee34" parent="aspace_fb356f5c066cda4f031629bd4825e5a0" type="folder">8</container>
+        <container id="aspace_83305664b28b802a24ef1fb14d37511c" label="mixed materials" type="box">25</container>
+        <container id="aspace_80f13c033ea0881c1b6b5459f9e60c9a" parent="aspace_83305664b28b802a24ef1fb14d37511c" type="folder">16</container>
+      </did>
+    </c>
+    <c id="ref160" level="file">
+      <did>
+        <unittitle>Colonel Samuel Meredith correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56341</unitid>
+        <unitdate datechar="creation" type="inclusive">1791-1797</unitdate>
+        <container id="aspace_9f9d82ae4ed4dac9e1df70f96da4dfa1" label="mixed materials" type="box">15</container>
+        <container id="aspace_440464fc2164bc5ecef3c37ba50c32a4" parent="aspace_9f9d82ae4ed4dac9e1df70f96da4dfa1" type="folder">9</container>
+        <container id="aspace_863350db3eca924f02ff0aec19485827" label="mixed materials" type="box">25</container>
+        <container id="aspace_a9b2624635a1f1b54cc81c69ac4806ab" parent="aspace_863350db3eca924f02ff0aec19485827" type="folder">17</container>
+      </did>
+    </c>
+    <c id="ref161" level="file">
+      <did>
+        <unittitle>Jane (Henry) Meredith correspondence and will</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56342</unitid>
+        <unitdate datechar="creation" type="inclusive">1790-1819</unitdate>
+        <container id="aspace_3e9182f81a7aeef17db2a693b850574e" label="mixed materials" type="box">15</container>
+        <container id="aspace_4c079584995b4b2847d5eb42d608de17" parent="aspace_3e9182f81a7aeef17db2a693b850574e" type="folder">10</container>
+        <container id="aspace_81c4c90b64e2c2d62932faa1d026639d" label="mixed materials" type="box">25</container>
+        <container id="aspace_1e86dc6991858bff4c6cd54f9fc34f1d" parent="aspace_81c4c90b64e2c2d62932faa1d026639d" type="folder">18</container>
+      </did>
+    </c>
+    <c id="ref162" level="file">
+      <did>
+        <unittitle>Patrick Henry materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56343</unitid>
+        <unitdate datechar="creation" type="inclusive">1916-1953</unitdate>
+        <container id="aspace_dd84ca1d21708efcb1e684d65b7de4aa" label="mixed materials" type="box">15</container>
+        <container id="aspace_1799a8b65031fc9b71e0e9387505a373" parent="aspace_dd84ca1d21708efcb1e684d65b7de4aa" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref163" level="file">
+      <did>
+        <unittitle>Major Samuel Meredith materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56344</unitid>
+        <unitdate datechar="creation" type="inclusive">1790-1841, 1958-1968</unitdate>
+        <container id="aspace_24baddf3811746dfe35fcd93cf575bec" label="mixed materials" type="box">16</container>
+        <container id="aspace_53e2de9e87f12a6bf57922be062c400f" parent="aspace_24baddf3811746dfe35fcd93cf575bec" type="folder">1</container>
+        <container id="aspace_04f1d2d3a20ad85790fe3221ba6b1f31" label="mixed materials" type="box">25</container>
+        <container id="aspace_fe422912d1aba500a7f8c5b1c9703cbf" parent="aspace_04f1d2d3a20ad85790fe3221ba6b1f31" type="folder">19</container>
+      </did>
+    </c>
+    <c id="ref164" level="file">
+      <did>
+        <unittitle>Elizabeth Meredith correspondence and death notice</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56345</unitid>
+        <unitdate datechar="creation" type="inclusive">1808-1838</unitdate>
+        <container id="aspace_e62e34c26089da089ab0fb6fbf8c6f6e" label="mixed materials" type="box">16</container>
+        <container id="aspace_9f9d7cc6f62cf6a6cc9d72c68d156da7" parent="aspace_e62e34c26089da089ab0fb6fbf8c6f6e" type="folder">2</container>
+        <container id="aspace_6a4218e74230f34532bedc28e37aa667" label="mixed materials" type="box">25</container>
+        <container id="aspace_03a79940321d4e9a5f221fefd73b0d01" parent="aspace_6a4218e74230f34532bedc28e37aa667" type="folder">20</container>
+      </did>
+    </c>
+    <c id="ref165" level="file">
+      <did>
+        <unittitle>Meredith family correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56339</unitid>
+        <unitdate datechar="creation" type="inclusive">1819-1854</unitdate>
+        <container id="aspace_840bc61f8b8d8d481acc11b03a97fe1e" label="mixed materials" type="box">16</container>
+        <container id="aspace_ac27f37535c3328508b4d3078235234f" parent="aspace_840bc61f8b8d8d481acc11b03a97fe1e" type="folder">3</container>
+        <container id="aspace_4a8632711391c72b61e0fb1939794502" label="mixed materials" type="box">25</container>
+        <container id="aspace_496602b530d5400826785dfe8d6287b0" parent="aspace_4a8632711391c72b61e0fb1939794502" type="folder">21</container>
+      </did>
+    </c>
+    <c id="ref166" level="file">
+      <did>
+        <unittitle>Meredith - Breckinridge correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56340</unitid>
+        <unitdate datechar="creation" type="inclusive">1786-1837</unitdate>
+        <container id="aspace_1f9ec7d5e7e29446f92a603443f9fa81" label="mixed materials" type="box">16</container>
+        <container id="aspace_60f5505bb77a4ae7d2f6cd5796b0f12f" parent="aspace_1f9ec7d5e7e29446f92a603443f9fa81" type="folder">4</container>
+        <container id="aspace_d43690cc6f8b864ca51ee74719b81b46" label="mixed materials" type="box">25</container>
+        <container id="aspace_7a242af1048cd2d9883ec63b8bfa040d" parent="aspace_d43690cc6f8b864ca51ee74719b81b46" type="folder">22</container>
+      </did>
+    </c>
+    <c id="ref167" level="file">
+      <did>
+        <unittitle>Coleman family business transactions and correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56346</unitid>
+        <unitdate datechar="creation" type="inclusive">1812-1865</unitdate>
+        <container id="aspace_1042691f9d6e0c0406ce1ee73b028155" label="mixed materials" type="box">16</container>
+        <container id="aspace_1d75bbd626e8553a30ebbe089120f37d" parent="aspace_1042691f9d6e0c0406ce1ee73b028155" type="folder">5</container>
+        <container id="aspace_c8d59873b5bfdc0f2fac4ab61232bd9c" label="mixed materials" type="box">25</container>
+        <container id="aspace_1a8f92003bc605edde25935920d8f46b" parent="aspace_c8d59873b5bfdc0f2fac4ab61232bd9c" type="folder">23</container>
+      </did>
+    </c>
+    <c id="ref168" level="file">
+      <did>
+        <unittitle>Breckinridge family materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56347</unitid>
+        <unitdate datechar="creation" type="inclusive">1789-1926</unitdate>
+        <container id="aspace_481ef7d6dfb3fc0c8fdc21e5f1694c59" label="mixed materials" type="box">16</container>
+        <container id="aspace_329e3638f0f0c2fdbaa7d3b029bc102a" parent="aspace_481ef7d6dfb3fc0c8fdc21e5f1694c59" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref169" level="file">
+      <did>
+        <unittitle>Dr. William Cabell genealogy</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56348</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_7af3ee4357f0838ca92d93fd1b841c52" label="mixed materials" type="box">16</container>
+        <container id="aspace_531b386fc7b0754314b863e599ed70ae" parent="aspace_7af3ee4357f0838ca92d93fd1b841c52" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref170" level="file">
+      <did>
+        <unittitle>Carlile family materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56349</unitid>
+        <unitdate datechar="creation" type="inclusive">1793-1818</unitdate>
+        <container id="aspace_c76b13b84ca6cb34f8a1c550207d0382" label="mixed materials" type="box">16</container>
+        <container id="aspace_74092140be56a912c08169758c042ec8" parent="aspace_c76b13b84ca6cb34f8a1c550207d0382" type="folder">8</container>
+        <container id="aspace_a9db1fbd0bc755fc7028b08afebe9b17" label="mixed materials" type="box">25</container>
+        <container id="aspace_a159a27af6b96f53b9644ebd70ace599" parent="aspace_a9db1fbd0bc755fc7028b08afebe9b17" type="folder">24</container>
+      </did>
+      <scopecontent id="aspace_b4c2fea2ee68ec06237f471cf6db58ca">
+        <head>Scope and Contents</head>
+        <p>The Corbile family materials mostly relate to General James Corbile.</p>
+      </scopecontent>
+    </c>
+    <c id="ref171" level="file">
+      <did>
+        <unittitle>Mary Fairfax Child poetry</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56350</unitid>
+        <unitdate datechar="creation">1923</unitdate>
+        <container id="aspace_3727f5ef2bd21b564d6fd7b06f134f71" label="mixed materials" type="box">16</container>
+        <container id="aspace_2176b47d2106928ab1ff650d44bc4e0f" parent="aspace_3727f5ef2bd21b564d6fd7b06f134f71" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref172" level="file">
+      <did>
+        <unittitle>Daugherty family genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56351</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_2a1fcee420e49ba053437b24932d06c4" label="mixed materials" type="box">16</container>
+        <container id="aspace_b306251811c484d25afb1ab4e6cbcd43" parent="aspace_2a1fcee420e49ba053437b24932d06c4" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref173" level="file">
+      <did>
+        <unittitle>Ambrose Dudley genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56352</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_98894ce9024629c1745936b30a779f6d" label="mixed materials" type="box">16</container>
+        <container id="aspace_b05df868cbe64d4eee3a5de63a5b5b7b" parent="aspace_98894ce9024629c1745936b30a779f6d" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref174" level="file">
+      <did>
+        <unittitle>Garland family genealogy</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56353</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_d310d56917106132598591fef49bce3f" label="mixed materials" type="box">16</container>
+        <container id="aspace_a8d10f4738e2d7dd3bb3669161be17f3" parent="aspace_d310d56917106132598591fef49bce3f" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref175" level="file">
+      <did>
+        <unittitle>Virginia Durbin copies of letters located in Congressional Library</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56354</unitid>
+        <unitdate datechar="creation" type="inclusive">1784-1800s</unitdate>
+        <container id="aspace_2b10d2a33a23c20283f1a77c99235268" label="mixed materials" type="box">16</container>
+        <container id="aspace_e8bc8ac2e7a80a9aaa96c5fb019e7eee" parent="aspace_2b10d2a33a23c20283f1a77c99235268" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref176" level="file">
+      <did>
+        <unittitle>Frazer (Fraser) family materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56355</unitid>
+        <unitdate datechar="creation" type="inclusive">1840-1944</unitdate>
+        <container id="aspace_c14332a216a30571dc2dfdb83324ce95" label="mixed materials" type="box">16</container>
+        <container id="aspace_ddbebd570f065247df55d6871c847f35" parent="aspace_c14332a216a30571dc2dfdb83324ce95" type="folder">14</container>
+      </did>
+    </c>
+    <c id="ref177" level="file">
+      <did>
+        <unittitle>Gratz family materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56356</unitid>
+        <unitdate datechar="creation">1859-1862, 1958, undated</unitdate>
+        <container id="aspace_80008a3309112ae04688bc6cc2bf9808" label="mixed materials" type="box">16</container>
+        <container id="aspace_f99cf23b27bbe58748f5296d47c8ab27" parent="aspace_80008a3309112ae04688bc6cc2bf9808" type="folder">15</container>
+      </did>
+      <scopecontent id="aspace_08f5f5716799fbe3c170809dd966fbef">
+        <head>Scope and Contents</head>
+        <p>The Gratz family materials include Miriam Gratz' diary from 1857 to 1862 as well as a copy of Benjamin Gratz' will.</p>
+      </scopecontent>
+    </c>
+    <c id="ref178" level="file">
+      <did>
+        <unittitle>Johnson family genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56357</unitid>
+        <unitdate datechar="creation">1828, 1890s, undated</unitdate>
+        <container id="aspace_f0d5785a6b8c5cb07b8f10a7f79fda26" label="mixed materials" type="box">16</container>
+        <container id="aspace_d5f00adb45e3bacbea7d7fdaaa1cf0e8" parent="aspace_f0d5785a6b8c5cb07b8f10a7f79fda26" type="folder">16</container>
+      </did>
+      <scopecontent id="aspace_d8e85ef65c472f9319b4f0d1bfffcbba">
+        <head>Scope and Contents</head>
+        <p>The Johnson family's Genealogical Materials series concerns the Johnson family of Somerset, Kentucky.</p>
+      </scopecontent>
+    </c>
+    <c id="ref179" level="file">
+      <did>
+        <unittitle>Major Thomas Lewinski materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56358</unitid>
+        <unitdate datechar="creation" type="inclusive">1961-1968</unitdate>
+        <container id="aspace_edbbf8415f9513dcde108fd5c2557942" label="mixed materials" type="box">16</container>
+        <container id="aspace_99159ef7848545653671b3869e77dc0e" parent="aspace_edbbf8415f9513dcde108fd5c2557942" type="folder">17</container>
+      </did>
+    </c>
+    <c id="ref180" level="file">
+      <did>
+        <unittitle>Paca family genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56359</unitid>
+        <unitdate datechar="creation" type="inclusive">1900-1901, undated</unitdate>
+        <container id="aspace_2c1049b9bd9b6e0339c6beebf78bd87f" label="mixed materials" type="box">17</container>
+        <container id="aspace_985cec2e79023b232c34b73a5047ceeb" parent="aspace_2c1049b9bd9b6e0339c6beebf78bd87f" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref181" level="file">
+      <did>
+        <unittitle>Smith family genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56360</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_866d522e7c6d97968c1cd4b8abdf604e" label="mixed materials" type="box">17</container>
+        <container id="aspace_4e24bbc9d98c409a5c592d4e706a8500" parent="aspace_866d522e7c6d97968c1cd4b8abdf604e" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref182" level="file">
+      <did>
+        <unittitle>Joshua Wood business transactions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56361</unitid>
+        <unitdate datechar="creation" type="inclusive">1724-1812</unitdate>
+        <container id="aspace_5745f6cc3f2b416e67ef8255a3220cd7" label="mixed materials" type="box">17</container>
+        <container id="aspace_20a92046d5e538f2e2a6eacd807729af" parent="aspace_5745f6cc3f2b416e67ef8255a3220cd7" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref183" level="file">
+      <did>
+        <unittitle>Genealogical materials general</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56362</unitid>
+        <unitdate datechar="creation" type="inclusive">1874-1898, undated</unitdate>
+        <container id="aspace_9239ebf62797d383c9f0deaa9924a88d" label="mixed materials" type="box">17</container>
+        <container id="aspace_efc286eaabd16df1d70caaa08dad52d5" parent="aspace_9239ebf62797d383c9f0deaa9924a88d" type="folder">4</container>
+        <container id="aspace_5670d41ee2a81648cbaa831b6dc2b19c" label="mixed materials" type="box">25</container>
+        <container id="aspace_4bcec86a3fc4223f615371cb76a0676c" parent="aspace_5670d41ee2a81648cbaa831b6dc2b19c" type="folder">25</container>
+      </did>
+      <scopecontent id="aspace_afcc460eadf8a19b8145f30604469831">
+        <head>Scope and Contents</head>
+        <p>The general Genealogical Materials series contains various correspondence, notes, chronologies, and funerary programs used for the Evans family's genealogical research.</p>
+      </scopecontent>
+    </c>
+    <c id="ref184" level="file">
+      <did>
+        <unittitle>Howard Evans materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56364</unitid>
+        <unitdate datechar="creation" type="inclusive">1940-1951</unitdate>
+        <container id="aspace_7aa9db2cfc86461191a8b57fbaafa189" label="mixed materials" type="box">17</container>
+        <container id="aspace_f23cfda12978156dda81cc582056af73" parent="aspace_7aa9db2cfc86461191a8b57fbaafa189" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref185" level="file">
+      <did>
+        <unittitle>Howard Evans drawings</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56365</unitid>
+        <unitdate datechar="creation">1939, 1950, undated</unitdate>
+        <container id="aspace_04911cfeeff511cfe1e742ecc833c274" label="mixed materials" type="box">17</container>
+        <container id="aspace_9402fa2d018b4664a1a49bc8a2deb7af" parent="aspace_04911cfeeff511cfe1e742ecc833c274" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref186" level="file">
+      <did>
+        <unittitle>Howard Evans <emph render="doublequote">Cause for Murder</emph> play</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56366</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_8c3c132f39f20fe640f28e1561545b08" label="mixed materials" type="box">17</container>
+        <container id="aspace_fa909c14356470e0d1e9126acbfc6098" parent="aspace_8c3c132f39f20fe640f28e1561545b08" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref187" level="file">
+      <did>
+        <unittitle>Howard Evans <emph render="doublequote">Dearborn Delin</emph> manuscript</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56367</unitid>
+        <unitdate datechar="creation">1947</unitdate>
+        <container id="aspace_09e1047e519e877b7bb505b2d9a0dc7c" label="mixed materials" type="box">17</container>
+        <container id="aspace_ec3a334392d4c2cd5ada220c881e790a" parent="aspace_09e1047e519e877b7bb505b2d9a0dc7c" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref188" level="file">
+      <did>
+        <unittitle>Howard Evans <emph render="doublequote">Strike it Rich</emph> manuscript</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56368</unitid>
+        <unitdate datechar="creation">1954</unitdate>
+        <container id="aspace_7488c47cc724a2714caa20711cfa9c7f" label="mixed materials" type="box">17</container>
+        <container id="aspace_3b6ab9154e95263880461ad2a2d6f7d7" parent="aspace_7488c47cc724a2714caa20711cfa9c7f" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref189" level="file">
+      <did>
+        <unittitle>Howard Evans untitled short story</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56369</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_d8aa7c387029802460661f1e419d3b0a" label="mixed materials" type="box">17</container>
+        <container id="aspace_f92e16c0e266c1cf8f90c99440dbc287" parent="aspace_d8aa7c387029802460661f1e419d3b0a" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref190" level="file">
+      <did>
+        <unittitle>Catherine Evans genealogical materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56371</unitid>
+        <unitdate datechar="creation" type="inclusive">1884-1895, 1918</unitdate>
+        <container id="aspace_61c1a30031e623d5cacaa1899734f1e0" label="mixed materials" type="box">17</container>
+        <container id="aspace_58d252f60e24d839385be62505b30e78" parent="aspace_61c1a30031e623d5cacaa1899734f1e0" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref191" level="file">
+      <did>
+        <unittitle>Catherine Evans <emph render="doublequote">Who Am I?</emph> genealogy book</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56372</unitid>
+        <unitdate datechar="creation">1926</unitdate>
+        <container id="aspace_9e3938198996178e1dfe55bcf36939e9" label="mixed materials" type="box">17</container>
+        <container id="aspace_2f3af73e055bbad5a17c45b9e838a258" parent="aspace_9e3938198996178e1dfe55bcf36939e9" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref192" level="file">
+      <did>
+        <unittitle>Catherine Evans short stories</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56373</unitid>
+        <unitdate datechar="creation">1941, undated</unitdate>
+        <container id="aspace_5a447c7cf6a935d578a45b3eadcbe359" label="mixed materials" type="box">17</container>
+        <container id="aspace_0b9aa485220cf2f40974ffe254b2398a" parent="aspace_5a447c7cf6a935d578a45b3eadcbe359" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref193" level="file">
+      <did>
+        <unittitle>Catherine Evans book reviews</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56374</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_3131256848f005224d427c945cd3d42f" label="mixed materials" type="box">17</container>
+        <container id="aspace_f1601afbf7b2518261fbd0e81ac44e0d" parent="aspace_3131256848f005224d427c945cd3d42f" type="folder">14</container>
+      </did>
+    </c>
+    <c id="ref194" level="file">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Chronologies of Redbirds</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56375</unitid>
+        <unitdate datechar="creation">1926</unitdate>
+        <container id="aspace_dffda46dd50e32c60edab51891f2ac83" label="mixed materials" type="box">17</container>
+        <container id="aspace_0e6655b26762d310f954033eaa840e88" parent="aspace_dffda46dd50e32c60edab51891f2ac83" type="folder">15</container>
+      </did>
+    </c>
+    <c id="ref195" level="file">
+      <did>
+        <unittitle>Garden</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56376</unitid>
+        <unitdate datechar="creation" type="inclusive">1943-1953</unitdate>
+        <container id="aspace_9ed4c6b8668c653212710ec5a8005521" label="mixed materials" type="box">17</container>
+        <container id="aspace_8348c6c7c033d9a7914bbc4463dd6662" parent="aspace_9ed4c6b8668c653212710ec5a8005521" type="folder">16</container>
+      </did>
+    </c>
+    <c id="ref196" level="file">
+      <did>
+        <unittitle>Attempt to sell Winton Estate Library books</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56378</unitid>
+        <unitdate datechar="creation" type="inclusive">1932-1941</unitdate>
+        <container id="aspace_4b4eb7df3b6fc97c433eb7ca8aa141a3" label="mixed materials" type="box">18</container>
+        <container id="aspace_c606888b228941419d55bc4703600562" parent="aspace_4b4eb7df3b6fc97c433eb7ca8aa141a3" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref197" level="file">
+      <did>
+        <unittitle>Attempts to sell autographs</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56379</unitid>
+        <unitdate datechar="creation">1935</unitdate>
+        <container id="aspace_93b257b478d34c76fdf292d224507630" label="mixed materials" type="box">18</container>
+        <container id="aspace_cdd010eddc29062b577b8a8b292401db" parent="aspace_93b257b478d34c76fdf292d224507630" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref198" level="file">
+      <did>
+        <unittitle>Attempts to sell diaries</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56380</unitid>
+        <unitdate datechar="creation" type="inclusive">1922-1936</unitdate>
+        <container id="aspace_355105e96f32e71274aab705b509c8d4" label="mixed materials" type="box">18</container>
+        <container id="aspace_c792ea1bdd37ef7a9a0e065a14527591" parent="aspace_355105e96f32e71274aab705b509c8d4" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref199" level="file">
+      <did>
+        <unittitle>Attempts to sell Winton Estate items</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56381</unitid>
+        <unitdate datechar="creation" type="inclusive">1915-1968</unitdate>
+        <container id="aspace_15bd35add762fa0091fe6ad78357b8f7" label="mixed materials" type="box">18</container>
+        <container id="aspace_1d96897cd1ebbb66d6815ba55aecb306" parent="aspace_15bd35add762fa0091fe6ad78357b8f7" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref200" level="file">
+      <did>
+        <unittitle>Catalogs and lists of books and publications in the Winton Estate</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56382</unitid>
+        <unitdate datechar="creation" type="inclusive">1920-1935</unitdate>
+        <container id="aspace_6270ffa1be54f122a8bc77ca6fb86ecc" label="mixed materials" type="box">18</container>
+        <container id="aspace_d02f20eb62f48e9201d180ab75f490a4" parent="aspace_6270ffa1be54f122a8bc77ca6fb86ecc" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref201" level="file">
+      <did>
+        <unittitle>Expenditure ledger no. 3</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56383</unitid>
+        <unitdate datechar="creation" type="inclusive">1906-1912</unitdate>
+        <container id="aspace_d9570132a97f34526233e6f70a407c64" label="mixed materials" type="box">18</container>
+        <container id="aspace_8ea465588b917e5ffa3b1e0901078e84" parent="aspace_d9570132a97f34526233e6f70a407c64" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref202" level="file">
+      <did>
+        <unittitle>Expenditure ledger no. 4</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56384</unitid>
+        <unitdate datechar="creation" type="inclusive">1912-1915</unitdate>
+        <container id="aspace_cc627a492151ae7c14152289aa8f38ff" label="mixed materials" type="box">18</container>
+        <container id="aspace_6a465aaf6bf939c527625757251495c8" parent="aspace_cc627a492151ae7c14152289aa8f38ff" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref203" level="file">
+      <did>
+        <unittitle>Expenditure ledger no. 5</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56385</unitid>
+        <unitdate datechar="creation" type="inclusive">1915-1921</unitdate>
+        <container id="aspace_abd5ea9789970b0c1c56d7030b82d264" label="mixed materials" type="box">18</container>
+        <container id="aspace_b10195492ebf6e46796e355e89224f3f" parent="aspace_abd5ea9789970b0c1c56d7030b82d264" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref204" level="file">
+      <did>
+        <unittitle>Recipes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56386</unitid>
+        <unitdate datechar="creation" type="inclusive">1916-1929, undated</unitdate>
+        <container id="aspace_900c86610919bbbcae44e09324cf54f8" label="mixed materials" type="box">18</container>
+        <container id="aspace_7605d73171ba6746aa0950b2a732cf63" parent="aspace_900c86610919bbbcae44e09324cf54f8" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref205" level="file">
+      <did>
+        <unittitle>Recipe book</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56387</unitid>
+        <unitdate datechar="creation">circa 1914</unitdate>
+        <container id="aspace_13b9f56534206232ad3f3cb76ff94097" label="mixed materials" type="box">18</container>
+        <container id="aspace_3ec1b756bc7d21155db0fb4e2625083c" parent="aspace_13b9f56534206232ad3f3cb76ff94097" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref206" level="file">
+      <did>
+        <unittitle>Civil War materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56388</unitid>
+        <unitdate datechar="creation" type="inclusive">circa 1860-1865</unitdate>
+        <container id="aspace_0eb9e856a5191a4d17047a9a7d1c78d8" label="mixed materials" type="box">18</container>
+        <container id="aspace_42a88cfdb9ad2b68cb968ea97b2465d9" parent="aspace_0eb9e856a5191a4d17047a9a7d1c78d8" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref207" level="file">
+      <did>
+        <unittitle>Notebook notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56389</unitid>
+        <unitdate datechar="creation" type="inclusive">1823-1824</unitdate>
+        <container id="aspace_22d108365c9b788b587c8b9829120cea" label="mixed materials" type="box">19</container>
+        <container id="aspace_c16125366a273d6122b327ef7c9a965a" parent="aspace_22d108365c9b788b587c8b9829120cea" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref208" level="file">
+      <did>
+        <unittitle>Spiral notebooks</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56390</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_2d1ec74ac767c077950809ac4ae45d06" label="mixed materials" type="box">19</container>
+        <container id="aspace_037d6b140ba51b908ca2ee527f944286" parent="aspace_2d1ec74ac767c077950809ac4ae45d06" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref209" level="file">
+      <did>
+        <unittitle>Annotated newsclippings</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56391</unitid>
+        <unitdate datechar="creation">1901, 1910</unitdate>
+        <container id="aspace_18dd39537cf9ae03ff67ca50ef4fc062" label="mixed materials" type="box">19</container>
+        <container id="aspace_a3997f6a15778d27674c6fdd2edd393b" parent="aspace_18dd39537cf9ae03ff67ca50ef4fc062" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref210" level="file">
+      <did>
+        <unittitle>Artwork</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56392</unitid>
+        <unitdate datechar="creation">1818, undated</unitdate>
+        <container id="aspace_2fd3a6c21c932166ee5000b50d2e036f" label="mixed materials" type="box">19</container>
+        <container id="aspace_a8da2ea9c49b9222674f097751cd6328" parent="aspace_2fd3a6c21c932166ee5000b50d2e036f" type="folder">4</container>
+      </did>
+      <scopecontent id="aspace_136931971ccb3a8e5e73fa943e4cca2e">
+        <head>Scope and Contents</head>
+        <p>One picture in the artwork folder for the Evan family series is signed by Edward Hunter and is dated 1818.</p>
+      </scopecontent>
+    </c>
+    <c id="ref211" level="file">
+      <did>
+        <unittitle>Pen and pencil sketches from the Robert Peter materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56393</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_06e61f4759c5d1a1c838581a9416979e" label="mixed materials" type="box">19</container>
+        <container id="aspace_56ba30505549f15a956082d9da6af406" parent="aspace_06e61f4759c5d1a1c838581a9416979e" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref212" level="file">
+      <did>
+        <unittitle>Copied diary entries</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56394</unitid>
+        <unitdate datechar="creation">1802, 1806</unitdate>
+        <container id="aspace_4754189b932ee1c5620b9a380d6a4174" label="mixed materials" type="box">19</container>
+        <container id="aspace_588d742054a187a21c7ad889890d7572" parent="aspace_4754189b932ee1c5620b9a380d6a4174" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref213" level="file">
+      <did>
+        <unittitle>Rauck, <emph render="doublequote">History of Lexington</emph> and <emph render="doublequote">Chronology of Lexington</emph> notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56395</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_ebfdfce72854fa8450f1d6657615b528" label="mixed materials" type="box">19</container>
+        <container id="aspace_6d59e2b061151f4eea5d2bc6d57f08ca" parent="aspace_ebfdfce72854fa8450f1d6657615b528" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref214" level="file">
+      <did>
+        <unittitle>Loose diary pages (possibly Catherine Peter's)</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56396</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_8e5d781aba95b6166587ec608f92a330" label="mixed materials" type="box">19</container>
+        <container id="aspace_f321b9a0821d01f50e70f783e5b64f0c" parent="aspace_8e5d781aba95b6166587ec608f92a330" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref215" level="file">
+      <did>
+        <unittitle>General</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56397</unitid>
+        <unitdate datechar="creation" type="inclusive">1800-1928</unitdate>
+        <container id="aspace_b3eec67d650b1b8bd866db8b5f5590ce" label="mixed materials" type="box">19</container>
+        <container id="aspace_1819e66de0b7e6e82c38d40042ee86c6" parent="aspace_b3eec67d650b1b8bd866db8b5f5590ce" type="folder">9</container>
+      </did>
+      <scopecontent id="aspace_4088a59635f0e2e8296847110b9f3020">
+        <head>Scope and Contents</head>
+        <p>The Evans family general folder contains an 1800 land tract contract for property on Raven Creek, an 1802 land tract contract for property in Maryland, statements from register's and auditor's offices, Latonia Jockey Club tickets, instructions for medical remedies, a painter's palette, pamphlets, business cards, a map of Cincinnati and Chattanooga railroads, poems, recipes, magazine clippings, various notes including accounting notes and a small notebook.</p>
+      </scopecontent>
+    </c>
+    <c id="ref216" level="file">
+      <did>
+        <unittitle>Written plans for Dr. Peter's proposed villa, by Major Thomas Lewinski </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56399</unitid>
+        <unitdate datechar="creation">1847</unitdate>
+        <container id="aspace_c091af78dbfd66b278ace3bb87c9cf25" label="mixed materials" type="box">19</container>
+        <container id="aspace_f14c5e4f2596a6e5680dd25f4a057797" parent="aspace_c091af78dbfd66b278ace3bb87c9cf25" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref217" level="file">
+      <did>
+        <unittitle>Lewinski's drawing materials</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56400</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_cff3eaaa4196e1e57faded9b77f01cf6" label="mixed materials" type="box">19</container>
+        <container id="aspace_6f68acdd387360afb8118258c8fbf29e" parent="aspace_cff3eaaa4196e1e57faded9b77f01cf6" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref218" level="file">
+      <did>
+        <unittitle>Unidentified floor plan</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56401</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_cec4e5244ce5604bf4b0d5ad99f60cff" label="mixed materials" type="box">26</container>
+        <container id="aspace_c008aa4bf9a82ba8e3dde715f0dff2e7" parent="aspace_cec4e5244ce5604bf4b0d5ad99f60cff" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref219" level="file">
+      <did>
+        <unittitle>Log cabins, drawn by Howard Evans</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56402</unitid>
+        <unitdate datechar="creation">1945</unitdate>
+        <container id="aspace_8181712819d582c46fa9eca5daefc2fa" label="mixed materials" type="box">26</container>
+        <container id="aspace_bb151ef2d97e9c8f5d70453935af63cc" parent="aspace_8181712819d582c46fa9eca5daefc2fa" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref220" level="file">
+      <did>
+        <unittitle>Little College Lot, and Gratz Park area drawn by Howard Evans</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56403</unitid>
+        <unitdate datechar="creation">1933</unitdate>
+        <container id="aspace_e28bcd34f2b79482574f67f4ecd8bfd8" label="mixed materials" type="box">26</container>
+        <container id="aspace_67f4420b6e2fce38f0a768155d396d4b" parent="aspace_e28bcd34f2b79482574f67f4ecd8bfd8" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref221" level="file">
+      <did>
+        <unittitle>House for Dr. Robert Peter, northeast elevation</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56404</unitid>
+        <unitdate datechar="creation">1847</unitdate>
+        <container id="aspace_922de22fbe4745ed015c44aac2e5ce00" label="mixed materials" type="box">26</container>
+        <container id="aspace_add020b184103920e0fa9e0d94902fd3" parent="aspace_922de22fbe4745ed015c44aac2e5ce00" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref222" level="file">
+      <did>
+        <unittitle>House for Dr. Robert Peter, section</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56405</unitid>
+        <unitdate datechar="creation">1847</unitdate>
+        <container id="aspace_1be72ae877117eb3df22a991a9716039" label="mixed materials" type="box">26</container>
+        <container id="aspace_366e243aadc9bfd258a47f5fc857d98b" parent="aspace_1be72ae877117eb3df22a991a9716039" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref223" level="file">
+      <did>
+        <unittitle>House for Dr. Robert Peter, ground plan</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56406</unitid>
+        <unitdate datechar="creation">1847</unitdate>
+        <container id="aspace_f9306c92a071f96f5cb92010476d65f8" label="mixed materials" type="box">26</container>
+        <container id="aspace_5a784ff41d4a7037bca6f72b35d5abb0" parent="aspace_f9306c92a071f96f5cb92010476d65f8" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref224" level="file">
+      <did>
+        <unittitle>Design for Dr. Robert Peter's proposed villa, by Major Thomas Lewinski</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56407</unitid>
+        <unitdate datechar="creation">1847</unitdate>
+        <container id="aspace_8db6e842b23c1b1304ad822720b57e21" label="mixed materials" type="box">26</container>
+        <container id="aspace_7e13720f70cf0e2cf0d306551e5f789d" parent="aspace_8db6e842b23c1b1304ad822720b57e21" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref225" level="file">
+      <did>
+        <unittitle><title render="italic">S.M. Meglone, Leading Hatter and Coats Furnisher</title>, broadside</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56408</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_96ceecdb50ffc61f7e0db535e43539ef" label="mixed materials" type="box">OVF-25</container>
+      </did>
+    </c>
+    <c id="ref226" level="item">
+      <did>
+        <unittitle>Scrapbook</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/56398</unitid>
+        <unitdate datechar="creation">1900s</unitdate>
+        <container id="aspace_9d3be9beffd8c137b10022682900bc5b" label="mixed materials" type="item">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

@@ -1,0 +1,141 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7pg44hqz2w</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7pg44hqz2w/data/2023ua050.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Joseph Jefferson Slomer Papers (dated 1919-1966, undated; 0.7 cubic feet, 2 boxes) comprise letters, photographs, event materials, articles, writings and speeches, patents, publications, technical diagrams, and biographical materials that document the career of University of Kentucky alumnus Joseph Jefferson Slomer, a hydraulics engineer for the Goodman Manufacturing Company stationed in Chicago, Illinois.</abstract>
+  <descriptive_summary>
+    <author>Emily B. Collier</author>
+    <title>Joseph Jefferson Slomer Papers</title>
+    <source>Joseph Jefferson Slomer Papers</source>
+    <unitdates>
+      <date>1919-1966, undated (inclusive)</date>
+    </unitdates>
+    <creator>Slomer, J.J. (Joseph Jefferson), 1897-1965</creator>
+    <extent>0.7 Cubic Feet</extent>
+    <arrangement>Collection is arranged by organization name or format into 6 series: Bibliographical Files; Goodman Manufacturing Company; American Society of Lubrication Engineers; National Congerence on Institutional Hydraulics; Other Professional Organizations; and Patents, Publications, and Writing. Within series, organized chronologically.</arrangement>
+    <subjects>
+      <subject>Engineering</subject>
+      <subject>Engineering -- Kentucky.</subject>
+      <subject>Mining engineering -- Kentucky.</subject>
+      <subject>Patents -- United States.</subject>
+      <subject>Hydraulics</subject>
+      <subject>Engineering -- Illinois -- Chicago</subject>
+      <subject>Hydraulic engineers</subject>
+      <subject>Slomer, J.J. (Joseph Jefferson), 1897-1965</subject>
+      <subject>Goodman Manufacturing Company</subject>
+      <subject>American Society of Lubrication Engineers</subject>
+    </subjects>
+    <prefercite>2023ua050 : [identification of item], Jospeph Jefferson Papers, 1919-1966, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical Note</head>
+      <p>Joseph Jefferson Slomer was born in Covington, Kentucky, on August 16, 1897. He started work for Goodman Manufacturing Company, Cinicinnati, Ohio, in 1914 while also studying mechanical drawing, shop, algebra and geometry at the Ohio Mechanics Institute. In November 1918, he began studying radio at the University of Kentucky during World War I as part of the vocational section of the U.S. Army. After the armistice was signed on November 11, 1918, Slomer stayed at the University of Kentucky, enrolling in engineering, and graduated in 1922 with a Bachelor of Science in Mechanical Engineering. He moved to Chicago, Illinois, and returned to Goodman Manufacturing Company in 1923, where he worked as an engineer and inventor on mining machinery, hydraulics, and lubrication for over 30 years. He was issued over 30 patents and was an active member of several professional organizations, including as Chairman for the Chicago Section of the American Society of Lubricantion Engineers and Director for the 1951 National Conference on Institutional Hydraulics. He married Lee Mae Christerson on July 22, 1924. They had two children, Joseph Gayle Slomer and Emma Laune Slomer. He died in Chicago in 1965.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Joseph Jefferson Slomer papers (dated 1919-1966, undated; 0.7 cubic feet, 2 boxes) comprise letters, photographs, event materials, articles, writings and speeches, patents, publications, technical diagrams, and biographical materials that document the career of University of Kentucky alumnus Joseph Jefferson Slomer, a hydraulics engineer for the Goodman Manufacturing Company stationed in Chicago, Illinois. The bulk of the materials document his work on mining machinery, hydraulics, and lubricants at Goodman Manufacturing Company, including his roles as a lecturer, engineer, supervisor and inventor. Also documented is his participation and leadership within the American Society of Lubrication Engineers and the National Conference on Institutional Hydraulics. Also included are several publications where his picture was printed and/or work discussed.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Biographical Files</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968557</unitid>
+        <unitdate datechar="creation" type="inclusive">(1943?)-1966, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_b73a3b768bbf60d6b2d2c48c3088aaf2">
+        <head>Scope and Contents</head>
+        <p>Biographical Files contain typed and handwritten biographies; correspondence to the University of Kentucky; correspondence related to job-seeking; printed materials realted to Slomer; and documents related to death and estate settlement.</p>
+      </scopecontent>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+    </c>
+    <c id="ref8" level="series">
+      <did>
+        <unittitle>Goodman Manufacturing Company</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968690</unitid>
+        <unitdate datechar="creation" type="inclusive">1919-1960</unitdate>
+      </did>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+    </c>
+    <c id="ref15" level="series">
+      <did>
+        <unittitle>American Society of Lubrication Engineers</unittitle>
+        <unitid>Series III.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968564</unitid>
+        <unitdate datechar="creation" type="inclusive">1947-1960</unitdate>
+      </did>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+    </c>
+    <c id="ref19" level="series">
+      <did>
+        <unittitle>National Conference on Institutional Hydraulics</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968565</unitid>
+        <unitdate datechar="creation" type="inclusive">1947-1961</unitdate>
+      </did>
+      <c id="ref20" level="file"/>
+      <c id="ref21" level="file"/>
+      <c id="ref22" level="file"/>
+      <c id="ref23" level="file"/>
+      <c id="ref24" level="file"/>
+    </c>
+    <c id="ref25" level="series">
+      <did>
+        <unittitle>Other Professional Orgaizations</unittitle>
+        <unitid>Series V.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968886</unitid>
+        <unitdate datechar="creation" type="inclusive">1944-1960</unitdate>
+      </did>
+      <c id="ref26" level="file"/>
+      <c id="ref27" level="file"/>
+      <c id="ref28" level="file"/>
+      <c id="ref29" level="file"/>
+    </c>
+    <c id="ref30" level="series">
+      <did>
+        <unittitle>Patents, Publications, and Writing</unittitle>
+        <unitid>Series VI.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968562</unitid>
+        <unitdate datechar="creation" type="inclusive">1925-1960</unitdate>
+      </did>
+      <c id="ref31" level="file"/>
+      <c id="ref32" level="file"/>
+      <c id="ref33" level="file"/>
+      <c id="ref34" level="file"/>
+    </c>
+  </contents>
+</header>

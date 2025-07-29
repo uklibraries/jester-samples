@@ -1,0 +1,83 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7d251fnd0n</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7d251fnd0n/data/2020ms102.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The William Natcher papers (dated 1953-1995, undated; 1.23 cubic feet; 5 boxes) comprise congressional correspondence generated throughout Natcher's career in the U.S. House of Representatives as well as photographs of events and politicians.</abstract>
+  <descriptive_summary>
+    <author>Kaylee McMunn</author>
+    <title>William Natcher papers</title>
+    <source>William Natcher papers</source>
+    <unitdates>
+      <date>1953-1995, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>1.23 Cubic Feet</extent>
+    <arrangement>Collection retains its original order.  Where possible original folder names were retained.</arrangement>
+    <subjects>
+      <subject>Legislators -- Correspondence.</subject>
+      <subject>Legislators -- Kentucky.</subject>
+      <subject>Public policy and politics</subject>
+      <subject>Wendell H. Ford Public Policy Research Center</subject>
+    </subjects>
+    <prefercite>2020ms102: [identification of item], William Natcher papers, 1953-1995, undated, University of Kentucky Libraries, Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>William Huston Natcher was born on September 11, 1909, in Bowling Green, Kentucky. He earned a B.A. from Western Kentucky State College in 1930, and an LL.B. from Ohio State University in 1933. Natcher was admitted to the bar in 1934 and practiced law in Bowling Green. He was the Federal Conciliation Commissioner for the Western District of Kentucky from 1936 to 1937, and County Attorney of Warren County from 1938 to 1950. In 1940, he was a delegate to the Democratic National Convention. He was also the president of the Young Democratic Clubs of Kentucky between 1941 and 1946 and served in the U.S. Navy between 1942 and 1945. He was the Commonwealth Attorney for the Eighth Judicial District of Kentucky from 1951 to 1953. </p><p>In 1953, Natcher was elected as a Democrat to the Eighty-third Congress, by special election to fill the vacancy caused by the death of Garrett L. Withers. He was reelected to the next twenty Congresses, making him the second longest-serving member ever of the United States House of Representatives from the Commonwealth of Kentucky. Natcher is known for never accepting campaign contributions and never missing a vote during his 41-year career in Congress. In 1992, he was elected Chairman of the Appropriations Committee.  </p><p>Natcher died on March 29, 1994, in the naval hospital at Bethesda, Md., and is buried in Fairview Cemetery in Bowling Green.  </p><p>Sources: 
+      U. S. House of Representatives: History, Art, and Archives. <emph render="doublequote">Natcher, William Huston.</emph> Accessed September 27, 2022. https://history.house.gov/People/Detail?id=18848 
+      WKMS. <emph render="doublequote">Influential Kentucky politicians series: William Natcher.</emph> Accessed September 27, 2022. https://www.wkms.org/2010-06-07/influential-kentucky-politicians-series-william-natcher 
+      The Washington Post. <emph render="doublequote">Rep. William H Natcher Dies at 84.</emph> Accessed September 27, 2022. https://www.washingtonpost.com/archive/local/1994/03/31/rep-william-h-natcher-dies-at-84/0d130e54-9fef-4cc0-8bff-90ea6a168290/ </p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The William Natcher papers (dated 1953-1995, undated; 1.23 cubic feet; 5 boxes) comprise congressional correspondence generated throughout Natcher's career in the U.S. House of Representatives as a respresentative from Kentucky as well as photographs of events and politicians.  </p><p>The collection retains its original order and labeling where possible and is arranged into two series. The correspondence series includes letters of appreciation, congratulations, and requests for support, memos, invitations, programs, and brochures. The photographs series is arranged into three subseries according to content. The events subseries contains photographs of the groundbreaking ceremony of the William H. Natcher Building as well as various White House events. The portraits subseries contains primarily head shots of politicians. The personal subseries contains photographs of unidentified individuals, presumed to be Natcher relatives.  </p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" normal="1953/1995" type="inclusive">1953-1995, undated</unitdate>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+      <c id="ref15" level="file"/>
+      <c id="ref22" level="file"/>
+      <c id="ref23" level="file"/>
+      <c id="ref24" level="file"/>
+    </c>
+    <c id="ref30" level="series">
+      <did>
+        <unittitle>Photographs</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" normal="1965/1992" type="inclusive">1965-1992, undated</unitdate>
+      </did>
+      <c id="ref31" level="subseries"/>
+      <c id="ref48" level="subseries"/>
+      <c id="ref63" level="subseries"/>
+    </c>
+  </contents>
+</header>

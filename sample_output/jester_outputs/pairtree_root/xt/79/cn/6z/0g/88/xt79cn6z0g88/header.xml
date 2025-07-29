@@ -1,0 +1,83 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt79cn6z0g88</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt79cn6z0g88/data/2014ua001.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Jacqueline P. Bull Writings and Certificate (dated 1948-1983, undated; 0.68 cubic feet; 2 document boxes) primarily comprise typed manuscripts of two of Bull's writings, bibliography of Kentucky history sources and a biographical sketch of Margaret I. King, the first librarian of the University of Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Ruth E. Bryan</author>
+    <title>Jacqueline P. Bull Writings and Certificate</title>
+    <source>Jacqueline P. Bull Writings and Certificate</source>
+    <unitdates>
+      <date>1948-1983, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.68 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Manuscripts, American -- Kentucky.</subject>
+      <subject>Women archivists</subject>
+    </subjects>
+    <prefercite>2014ua001 : [identification of item],Jacqueline P. Bull Writings and Certificate, 1948-1983, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical Note</head>
+      <p>Jacqueline Page Bull was born in Greenville, Mississippi, on April 24, 1911 to parents  William Averill Bull and Elizabeth Crowe Bull.  Bull graduated from Henry Clay High School in 1929.  A graduate of the University of Kentucky, she received her undergraduate degree in history in 1934 and her doctorate in history in 1948.  She began work as a secretary and cataloging typist in the office of the Librarian, Margaret I. King, in September 1934.  In 1937, she was promoted to assistant reference librarian.  Between 1945-1946, Bull founded the University of Kentucky Libraries Special Collections and Archives Department, a joint effort of the Libraries and the University of Kentucky Bureau of Source Material in Higher Education and initially funded by the General Education Board.  In 1945, Bull was appointed as archivist.  In 1954, she was promoted to Archivist and Head of Special Collections, and in 1961, became Head of Special Collections.  She retired in 1976.  She died in Lexington, Kentucky, on September 30, 1987. </p><p>Bull was awarded a 1944-1945 Rockerfeller Scholarship to study the history of the southern United States and was co-editor with Frances L.S. Dugan of the publications <title render="italic">Writings in Kentucky History</title> (published starting in 1948 and updated through 1967, and <title render="italic">Bluegrass Craftsman:  Being the Reminiscences of Ebenezer Hiram Stedman</title>, 1959.</p><p>Bull's sister was Elizabeth Bull Howard, and her aunt was Mary Thomas (Mayme) Bull, companion to artist Paul Sawyier.</p><p>Source:  2018ua031: <title render="doublequote">Bull, Jacqueline.</title> University of Kentucky Special Collections Research Center. University Archives General Reference Faculty/Staff Biographical Files. University of Kentucky Libraries Special Collections Research Center.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Jacqueline P. Bull Writings and Certificate (dated 1948-1983, undated; 0.68 cubic feet; 2 document boxes) primarily comprise typed manuscripts of two of Bull's writings, bibliography of Kentucky history sources and a biographical sketch of Margaret I. King, the first librarian of the University of Kentucky.  There is also a certificate of completion for the preservation and administration of archives intensive training course at The American University, 1949.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle><title render="doublequote">Writings on Kentucky History</title> (bibliography) manuscript (2 copies with notes)</unittitle>
+        <unitdate datechar="creation" type="inclusive">1948?</unitdate>
+        <container id="aspace_3e554601d8ef89867accb0d8e9663ba4" label="mixed materials" type="box">1</container>
+        <container id="aspace_8841979436cbd73a530a7ffab9127d3b" parent="aspace_3e554601d8ef89867accb0d8e9663ba4" type="folder">1-6</container>
+        <container id="aspace_3bee3c2bfc3db7b88df865a95e714098" label="mixed materials" type="box">2</container>
+        <container id="aspace_796cad6e46df8801e2d1c8eea694df3e" parent="aspace_3bee3c2bfc3db7b88df865a95e714098" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle><title render="doublequote">Margaret I. King:  University of Kentucky's First Librarian</title> manuscripts and publication correspondence </unittitle>
+        <unitdate datechar="creation" type="inclusive">1983 March 7, undated</unitdate>
+        <container id="aspace_1a7e261f0cee3f2508636b24730ae626" label="mixed materials" type="box">2</container>
+        <container id="aspace_9ae01daab624d1956147143070dca59c" parent="aspace_1a7e261f0cee3f2508636b24730ae626" type="folder">2</container>
+      </did>
+      <scopecontent id="aspace_971d0ba4cec3f9e569b993a80f80e1c6">
+        <head>Scope and Contents</head>
+        <p>Includes <emph render="doublequote">reflection</emph> on Margaret I. King by Emilie Varden Smith, undated.</p>
+      </scopecontent>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Certificate of completion, Preservation and Administration of Archives intensive training course, The American University</unittitle>
+        <unitdate datechar="creation" type="inclusive">1949</unitdate>
+        <container id="aspace_b1680eadcce039778a331438a38de263" label="mixed materials" type="box">2</container>
+        <container id="aspace_739e643054023ca69b591cefe58f2aa6" parent="aspace_b1680eadcce039778a331438a38de263" type="folder">3</container>
+      </did>
+    </c>
+  </contents>
+</header>

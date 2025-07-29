@@ -1,0 +1,63 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7g7940w86w</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7g7940w86w/data/2012ms741.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Winchester and Lexington Telephone Company cash book (dated 1898-1906; 0.05 cubic feet; 1 items) comprises a cash book owned by Horace Coleman, secretary and treasurer, that documents all receipts of cash and disbursements for the company.</abstract>
+  <descriptive_summary>
+    <author>Ash Pechon</author>
+    <title>Winchester and Lexington Telephone Company cash book</title>
+    <source>Winchester and Lexington Telephone Company cash book</source>
+    <unitdates>
+      <date>1898-1906 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.05 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Business enterprises -- Kentucky</subject>
+      <subject>Financial statements.</subject>
+      <subject>Telephone companies -- United States</subject>
+    </subjects>
+    <prefercite>2012ms741: [identification of item], Winchester and Lexington Telephone Company cash book, 1898-1906, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Winchester and Lexington Telephone Company was a regional telephone company operating in Kentucky in the late nineteenth and early twentieth centuries.  The secretary and treasurer was Horace Coleman.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Winchester and Lexington Telephone Company cash book (dated 1898-1906; 0.05 cubic feet; 1 items) comprises a cash book owned by Horace Coleman, secretary and treasurer, that documents all receipts of cash and disbursements for the company from 1898-1906.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Winchester and Lexington Telephone Company cash book</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/925598</unitid>
+        <unitdate datechar="creation" type="inclusive">1898-1906</unitdate>
+        <container id="aspace_3c59f58d4505f2aa438777666fec9b63" label="mixed materials" type="box">MS-10</container>
+        <container id="aspace_dfa16b0928360bf766bd66781c5cc992" parent="aspace_3c59f58d4505f2aa438777666fec9b63" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

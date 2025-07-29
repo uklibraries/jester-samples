@@ -1,0 +1,67 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7pc824fr4x</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7pc824fr4x/data/2023ms010.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The diary of an unidentified nurse in Dayton, Ky. (dated 1938; 0.1 cubic feet; 1 folder) comprises a handwritten diary that documents a nurse learning and performing psychiatric care between the Speers Memorial Hospital Training School in Dayton, Kentucky, and the Longview Hospital in Cincinnati, Ohio.</abstract>
+  <descriptive_summary>
+    <author>Megan J. Bordner</author>
+    <title>Diary of an unidentified nurse in Dayton, Ky.</title>
+    <source>Diary of an unidentified nurse in Dayton, Ky.</source>
+    <unitdates>
+      <date>1938</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Diaries.</subject>
+      <subject>Nursing -- Kentucky.</subject>
+      <subject>Mental illness</subject>
+      <subject>Psychiatric hospital care -- Kentucky.</subject>
+      <subject>Psychiatric hospitals -- Kentucky</subject>
+      <subject>Speers Memorial Hospital Training School (Dayton, Ky.)</subject>
+      <subject>Longview Hospital (Cincinnati, Ohio)</subject>
+    </subjects>
+    <prefercite>2023ms010: [identification of item], Diary of an unidentified nurse in Dayton, Ky., 1938, University of Kentucky Libraries Special Collection Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>No biographical information available on diary author other than she trained as a nurse in the Speers memorial Hospital Training School in Dayton Kentucky, and the Longview Hospital in Cincinnati, Ohio.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The diary of an unidentified nurse in Dayton, Ky. (dated 1938; 0.1 cubic feet; 1 folder) comprises a handwritten diary that documents a nurse learning and performing psychiatric care between the Speers Memorial Hospital Training School in Dayton, Kentucky, and the Longview Hospital in Cincinnati, Ohio. The nurse remains unidentified, but the composition notebook suggests these could be her notes for class and some pages received grades in red ink. The nurse describes physical and mental attributes of depression, hysteria, schizophrenia, syphillis, and paranoia through case studies and class notes. An included clipping regarding the graduating class of Speers Hospital in 1938 might provide possibilities for the notebook's author. The women listed are Ophelia Gardner, Gertrude L. Scales, Peggy Pabst, Anna Mary Posey, Sylvia Gillam, Bernice Clift, Betty Lee Sigler, Gertrude Wofford, Ruth Francis Moran, and Velta Floyd. This collection gives an intimate look inside the world of insane asylums and of Depression-era psychiatric care seen from the perspective of young nurse training hands-on in two institutional settings.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Diary of an unidentified nurse in Dayton, Ky.</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/965047</unitid>
+        <unitdate datechar="creation">1938</unitdate>
+        <container id="aspace_4613f079e66d949e1a6bf2e9698c4823" label="mixed materials" type="box">MS-50</container>
+        <container id="aspace_7180494bff44baca723595473b4e78c5" parent="aspace_4613f079e66d949e1a6bf2e9698c4823" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

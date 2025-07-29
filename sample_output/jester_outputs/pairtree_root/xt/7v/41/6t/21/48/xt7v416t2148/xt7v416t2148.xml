@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2022av001</eadid><filedesc><titlestmt><titleproper type="filing">Snadon, Patrick collection on Kentucky historic houses</titleproper><titleproper>Guide to the Patrick Snadon collection on Kentucky historic houses, undated <num>2022av001</num></titleproper><author>Megan Mummey</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2022 February 11</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-06-13 09:20:15 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Patrick Snadon collection on Kentucky historic houses</unittitle>
+    <unitid>2022av001</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.13 Cubic Feet</extent>
+      <extent altrender="carrier">1 box and 1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">undated</unitdate>
+    <abstract id="aspace_14c449328b6f26ceada2e160d7ed5e15">The Patrick Snadon collection on Kentucky historic houses (dated undated; 0.13 cubic feet; 1 box and 1 folder) comprises photographs of the Bronston House in Richmond, Kentucky, built by Matthew Kennedy, and an unknown Victorian house in Louisville, Kentucky.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_323d3a590cb2627bf471556352bc5663">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <acqinfo id="aspace_eb9d5c40cade45575942e45244226866">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2022</p>  </acqinfo>
+  <arrangement id="aspace_85d485e28cc2c90a78cf93a87ced65f2">
+    <head>Arrangement</head>
+<p>Collection is arranged by subject.</p>  </arrangement>
+  <bioghist id="aspace_e2638393956d994454c0afe02529d0e1">
+    <head>Biographical note</head>
+<p>Architectural historian, Patrick Snadon is an associate professor emeritus in the School of Architecture and Interior Design at the University of Cincinnati. He was a consultant on the restoration of historic buildings built by Benjamin Latrobe (Decatur House in Washington, D.C. for the National Trust for Historic Preservation and the Pope Villa in Lexington, KY for the Blue Grass Trust for Historic Preservation).</p>  </bioghist>
+  <prefercite id="aspace_b2c2d723b793ba39a047ea66a1a3c1ad">
+    <head>Preferred Citation</head>
+<p>2022av001: [identification of item], Guide to the Patrick Snadon collection on Kentucky historic houses, undated, University of Kentucky Libraries, Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_f4e3545bd0a7070d814d8c85aa9d3a93">
+    <head>Scope and Contents</head>
+<p>The Patrick Snadon collection on Kentucky historic houses (dated undated; 0.13 cubic feet; 1 box and 1 folder) comprises photographs of the Bronston House in Richmond, Kentucky, built by Matthew Kennedy, and an unknown Victorian house in Louisville, Kentucky. The photographs of the Victorian house document the interior of the house. Additionally, the collection contains a genealogy of the Pope family, including information on Senator John Pope of the Pope Villa in Lexington, Kentucky.</p>  </scopecontent>
+  <userestrict id="aspace_344d382f007343287be140dd3564b2b0">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Historic buildings -- Kentucky.</subject>
+    <geogname authfilenumber="sh2008115692" source="lcsh">Kentucky -- Genealogy</geogname>
+  </controlaccess>
+  <dsc><c id="ref1" level="item"><did><unittitle>Bronston House, Richmond, Kentucky photograph</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_c8594ee5a96beff6e21efdd1204c0157" label="graphic materials" type="box">1</container><container id="aspace_86a2729b6f450c13819edeff97638339" parent="aspace_c8594ee5a96beff6e21efdd1204c0157" type="item">1</container></did><scopecontent id="aspace_f2db4784647bc33183f3edcc6d4137ca"><head>Scope and Contents</head><p>The Bronston House was designed by Matthew Kennedy, Kentucky's first architect.</p></scopecontent></c><c id="ref2" level="item"><did><unittitle>Photographs of the interior of a Victorian house, thought to be located in Louisville, Kentucky.</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_bfa7adaf3042ba4f4871854d3c2c511c" label="graphic materials" type="box">1</container><container id="aspace_93e03d696d8aa377ac3980fe6c95122e" parent="aspace_bfa7adaf3042ba4f4871854d3c2c511c" type="item">2-4</container></did></c><c id="ref3" level="file"><did><unittitle><title render="italic">Lt. Colonel Nathaniel Pope Ancestor of Washington and Governors: History of His Descendants</title></unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_d6d999a377c6e33ee6321b1edae73fd4" label="mixed materials" type="box">MS-49</container><container id="aspace_cc4bf6328af86bb85c209ef93fcc53f0" parent="aspace_d6d999a377c6e33ee6321b1edae73fd4" type="folder">1</container></did></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,77 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt77m03xw90j</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt77m03xw90j/data/2009ms132.0031.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Esther Minton letters (dated 1925-1926; 0.38 cubic feet; 2 boxes) comprise correspondence that documents the courtship between Esther Minton and her future husband, George Bruce McIntyre, from 1925 to 1926.</abstract>
+  <descriptive_summary>
+    <author>Sarah Coblentz</author>
+    <title>Wade Hall Collection of American Letters: Esther Minton letters</title>
+    <source>Wade Hall Collection of American Letters: Esther Minton letters</source>
+    <unitdates>
+      <date>1925-1926 (inclusive)</date>
+    </unitdates>
+    <creator>Minton, Esther, 1902-1984</creator>
+    <extent>0.38 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>United States -- Social life and customs.</subject>
+      <subject>Courtship -- 1890-1930</subject>
+      <subject>Georgia.</subject>
+      <subject>Letters.</subject>
+      <subject>Women teachers.</subject>
+      <subject>Minton, Esther, 1902-1984</subject>
+    </subjects>
+    <prefercite>2009ms132.0031: [identification of item], Wade Hall Collection of American Letters: Esther Minton letters, 1925-1926, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Esther Minton was born March 31, 1902 in Georgia to William Joshua Minton (1875-1952) and Hattie Wiggins (1879-1965). Prior to her marriage Minton worked as a schoolteacher in Cobbtown, Georgia. In 1927, Minton married George Bruce McIntyre (1890-1963), a postmaster in Ailey, Georgia, with whom she had one son, George Bruce McIntyre, Jr. (1936-1973). Esther passed away in Montgomery, Georgia on February 5, 1984.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Esther Minton letters (dated 1925-1926; 0.38 cubic feet;, 2 boxes) comprise correspondence that documents the courtship between Esther Minton and her future husband, George Bruce McIntyre, from 1925 to 1926. The letters provide detail on their courting relationship, as well as on community life, social connections, and Minton's concern over her teaching career and finding housing.</p><p>The Esther Minton papers are part of the Wade Hall Collection of American letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.  </p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>The collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Esther Minton letters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/687358</unitid>
+        <unitdate datechar="creation" type="inclusive">1925 January-1926 February</unitdate>
+        <container id="aspace_3a1dd39ea24a017e4dc94cf676c275d8" label="mixed materials" type="box">124</container>
+        <container id="aspace_c784e15a291e28dc6789531a65e70db4" parent="aspace_3a1dd39ea24a017e4dc94cf676c275d8" type="folder">7-15</container>
+        <dao entityref="xt77m03xw90j_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Esther Minton letters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/695601</unitid>
+        <unitdate datechar="creation" type="inclusive">1926 March-October</unitdate>
+        <container id="aspace_f770684e60daca197efe7430c06938b2" label="mixed materials" type="box">125</container>
+        <container id="aspace_c01148d3631654e960500423ba373c60" parent="aspace_f770684e60daca197efe7430c06938b2" type="folder">1-9</container>
+        <dao entityref="xt77m03xw90j_2_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

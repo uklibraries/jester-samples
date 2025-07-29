@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2021ms002</eadid><filedesc><titlestmt><titleproper type="filing">Floyd, John survey</titleproper><titleproper>Guide to the John Floyd survey, 1782 January 20 <num>2021ms002</num></titleproper><author>Megan Mummey</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2021 September 22</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-06-13 12:16:36 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>John Floyd survey</unittitle>
+    <unitid>2021ms002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.05 Cubic Feet</extent>
+      <extent altrender="carrier">1 item</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1782-01-20/1782-01-20">1782 January 20</unitdate>
+    <abstract id="aspace_6179fc9ab32c29c9ad2ad761161d4ec4">The John Floyd suvey (dated 1782 January 20; 0.05 cubic feet; 1 item) comprises a land surey performed by George May, surveyor of Jefferson County, Kentucky, for John Floyd of settlement and preemption lands acquired from Stephen Trigg.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_96670fe36f14d889d213324b89d59d01">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <bioghist id="aspace_f2a41502052069c040d3253443275aba">
+    <head>Biographical note</head>
+<p>John James Floyd [1750-1783] came to Kentucky in 1774 as a surveyor; he helped lay out the new town of Louisville. During the American Revolution he was a privateer. Captured by the British in the West Indies, he escaped to France and, through the help of American Minister Benamin Franklin, made his way back to Kentucky. He was a colonel in the Kentucky Militia, served with George Rogers Clark, and was one of the first two judges of the Kentucky Territory.</p>  </bioghist>
+  <prefercite id="aspace_4b36bd72fc38920e0c26fe0c3a2627a3">
+    <head>Preferred Citation</head>
+<p>2021ms002: [identification of item], John Floyd survey, 1782 January 20, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_dc20add73966b54754404eff3954a8d1">
+    <head>Scope and Contents</head>
+<p>The John Floyd suvey (dated 1782 January 20; 0.05 cubic feet; 1 item) comprises a land surey performed by George May, surveyor of Jefferson County, Kentucky, for John Floyd of settlement and preemption lands acquired from Stephen Trigg. The land consisted of 400 acres in Jefferson County on the south branches of Harrod's Creek. The survey includes a pen and ink sketch.</p>  </scopecontent>
+  <userestrict id="aspace_dda70b700525a7d783410bab7fe6df8e">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Surveying -- Kentucky</subject>
+    <geogname source="lcsh">Jefferson County (Ky.)</geogname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>John Floyd survey</unittitle><unitdate datechar="creation" type="inclusive">1782 January 20</unitdate><container id="aspace_bbf7b73e3af176066e25d8b1407f6c46" label="mixed materials" type="box">MS-48</container><container id="aspace_8016ac902adf81750ebf1c3a1723aa0e" parent="aspace_bbf7b73e3af176066e25d8b1407f6c46" type="folder">1</container></did></c></dsc>
+</archdesc>
+</ead>

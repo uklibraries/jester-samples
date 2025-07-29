@@ -1,0 +1,101 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7mw6693n04</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7mw6693n04/data/59M31.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Jesse Stuart papers (dated 1933-1979; 1.35 cubic feet; 5 boxes) consist of letters, manuscripts of short stories and poems, photographs, and biographical materials, documenting Stuart's career as a poet and author.</abstract>
+  <descriptive_summary>
+    <author>Ida Sell</author>
+    <title>Jesse Stuart papers</title>
+    <source>Jesse Stuart papers</source>
+    <unitdates>
+      <date>1933-1979 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>1.35 Cubic Feet</extent>
+    <arrangement>Collection is arranged alphabetically.</arrangement>
+    <subjects>
+      <subject>American literature -- Appalachian Region.</subject>
+      <subject>Greenup (Ky.)</subject>
+      <subject>Poets.</subject>
+      <subject>Poets laureate -- Kentucky.</subject>
+      <subject>Bert T. Combs Appalachian Collection</subject>
+      <subject>Kentucky Authors Collection</subject>
+    </subjects>
+    <prefercite>59M31: [Identification of item], Jesse Stuart papers, 1933-1979,  University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Jesse Hilton Stuart was born in W-Hollow near Riverton in Greenup County, Kentucky, in 1907. The son of an illiterate farmer, Stuart is recognized as an outstanding regional author. In 1929 he received an A.B. degree from Lincoln Memorial University and attended Vanderbilt University in 1931-1932, studying there when <emph render="doublequote">The Fugitive Poets,</emph> a group of poets and scholars, were active. When his 19 stanza poem <title render="italic">Elegy for Mitch Stewart</title> was published by the <title render="italic">American Mercury</title> magazine in 1933, Stuart credited Robert Penn Warren and Donald Davidson for encouraging him to submit his work. Stuart had a distinguished career in Kentucky as a school teacher, principal and eventually superintendent of Greenup County Schools. He achieved fame, however, as a poet and writer of short stories, novels and articles. Stuart was honored by Lincoln Memorial University in 1942 with a Ph.D. in Human Letters and in 1954 was named poet laureate of eastern Kentucky by the Kentucky legislature. Jesse Stuart married Naomi Dean Norris and they had one daughter, Jane.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Jesse Stuart papers (dated 1933-1979; 1.35 cubic feet; 5 boxes) consist of letters, manuscripts of short stories and poems, photographs, and biographical materials, documenting Stuart's career as a poet and author. Included are the poem <title render="italic">Elegy for Mith Stuart</title> and the short stories <title render="italic">Three Hundred Acres of Elbow Room</title>, published in the <title render="italic">American Mercury,</title> 1934 and the <title render="italic">Yale Review</title>, 1935; <title render="italic">Hair</title> appeared in the <title render="italic">Best Short Stories of 1937</title>; and that same year the short story <title render="italic">Toes</title> was translated into Russian while Stuart was studying in Europe as a Guggenheim fellow, previously it had been published in Stuart's <title render="italic">Head O'W-Hollow</title>. The letters consist of correspondence with Bruce Denbo, Carlton Wells, Lawrence Thompson, Joseph Houlihan, Jim Presgraves, Paul Neal, and William Seward.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Biographical</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/920818</unitid>
+        <unitdate datechar="creation" type="inclusive">1936-1970</unitdate>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+    </c>
+    <c id="ref7" level="series">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/920819</unitid>
+        <unitdate datechar="creation" type="inclusive">1935-1979</unitdate>
+      </did>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+      <c id="ref19" level="file"/>
+      <c id="ref20" level="file"/>
+    </c>
+    <c id="ref21" level="series">
+      <did>
+        <unittitle>Writings</unittitle>
+        <unitid>Series III.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/920820</unitid>
+        <unitdate datechar="creation" type="inclusive">1933-1979</unitdate>
+      </did>
+      <c id="ref22" level="subseries"/>
+      <c id="ref27" level="subseries"/>
+    </c>
+  </contents>
+</header>

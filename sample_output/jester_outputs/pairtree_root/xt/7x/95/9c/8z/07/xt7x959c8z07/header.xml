@@ -1,0 +1,67 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7x959c8z07</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7x959c8z07/data/2013ms0362.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The John C. Davis notebook and photograph album (dated 1944; 0.1 cubic feet; 1 item) comprises a notebook that documents the United States military's campaign on the island of Okinawa, Japan in 1944 as told from the perspective of Corporal John C. Davis, an African-American soldier from Louisville, Kentucky who served in the army in the 2284th quartermaster truck company.</abstract>
+  <descriptive_summary>
+    <author>Christopher J. Mattingly</author>
+    <title>John C. Davis notebook and photograph album</title>
+    <source>John C. Davis notebook and photograph album</source>
+    <unitdates>
+      <date>1944</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement>Collection arranged chronologically.</arrangement>
+    <subjects>
+      <subject>African Americans -- Kentucky -- Louisville</subject>
+      <subject>African American soldiers.</subject>
+      <subject>Air pilots, Military</subject>
+      <subject>Atomic bomb.</subject>
+      <subject>World War, 1939-1945 -- Campaigns -- Pacific Area</subject>
+      <subject>World War, 1939-1945 -- Japan</subject>
+      <subject>World War, 1939-1945 -- Photography</subject>
+    </subjects>
+    <prefercite>2013ms0362: [identification of item], John C. Davis notebook and photograph album, 1944, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>John Cicle Davis was an African-American soldier from Louisville, Kentucky. He served as Corporal in the 2284th Quartermaster Trucking Company in the Pacific theater during World War II.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The John C. Davis notebook and photograph album (dated 1944; 0.1 cubic feet; 1 folder) comprises a notebook that documents the United States military's campaign on the island of Okinawa, Japan, in 1944 as told from the perspective of Corporal John C. Davis, an African-American soldier from Louisville, Kentucky, who served in the army in the 2284th quartermaster truck company. It contains newspaper and magazine clippings, twenty-three photographs that illustrate camaraderie among fellow soldiers and the realities of war facing the civilians of Japan, seven pages of written goodbyes from twenty-five soldiers in his company, and a graphic four-page desciption about hand-to-hand combat during a mission to destroy a fuel dump located in Suicide Bay. This notebook contains harmful language and graphic depictions of violence.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>John C Davis notebook and photograph album</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945044</unitid>
+        <unitdate datechar="creation">1944</unitdate>
+        <container id="aspace_e9e414eff868897d178dd261c52e1224" label="mixed materials" type="box">MS-24</container>
+        <container id="aspace_ea5841354b82989ba82f1c23a2f6530b" parent="aspace_e9e414eff868897d178dd261c52e1224" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

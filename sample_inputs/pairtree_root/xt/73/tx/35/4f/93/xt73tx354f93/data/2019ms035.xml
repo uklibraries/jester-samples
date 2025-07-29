@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2019ms035</eadid><filedesc><titlestmt><titleproper type="filing">Goodwin, Dr. John M. medical ledgers, 1850-1859 </titleproper><titleproper>Guide to the Dr. John M. Goodwin medical ledgers, 1850-1859 <num>2019ms035</num></titleproper><author>Carol Street</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>13 June 2023</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr xlink:href="https://libraries.uky.edu/SC" xlink:show="new" xlink:title="https://libraries.uky.edu/SC" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 11:47:46 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Dr. John M. Goodwin medical ledgers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Goodwin, John M., Dr., 1822-1863</persname>
+    </origination>
+    <unitid>2019ms035</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1850/1859" type="inclusive">1850-1859</unitdate>
+    <abstract id="aspace_d86333f75ec960d109df649ee871b8c4">The Dr. John M. Goodwin medical ledgers (dated 1850-1859; 0.5 cubic feet; 1 box) comprise accounting ledgers that document Dr. Goodwin's medical practice financials in Warren County, Kentucky during the 1850s.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_116d12228fffd116e954d5c5cc18f985">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_81abae5782df895562eb83dd60d2e9da">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2019</p>  </acqinfo>
+  <arrangement id="aspace_f52dc3933d0b9070300e2be915af5bea">
+    <head>Arrangement</head>
+<p>Collection is arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_c43e1905c4e4865992aa69e7e61c191c">
+    <head>Biographical note</head>
+<p>Dr. John M. Goodwin was born in 1822 in Clark County, Indiana. He married Delia B. La Rue in 1858 and they had two children, Clarence La Rue Goodwin (b. 1859) and John M. Goodwin (b. 1861). He graduated from the Louisville Medical College and practiced medicine in Warren County, Kentucky, from 1852 to his death in 1863.</p>  </bioghist>
+  <prefercite id="aspace_8bba02e25a5c5f73313848c5ec2a2a83">
+    <head>Preferred Citation</head>
+<p>2019ms035 : [identification of item], Dr. John M. Goodwin medical ledgers, 1850-1859, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_aa784c13cb80475f937403b74271de47">
+    <head>Scope and Contents</head>
+<p>The Dr. John M. Goodwin medical ledgers (dated 1850-1859; 0.5 cubic feet; 1 box) comprise accounting ledgers that document Dr. Goodwin's medical practice financials in Warren County, Kentucky during the 1850s. The ledgers record names, medical visits, medicine, and the costs of treatment. African American patients are identified in the ledger by the term <emph render="doublequote">negro</emph>, and the ledgers include entries of medical care for enslaved people. The ledgers are interleaved with notes, correspondence, and newspaper clippings. The ledgers include a medicinal note concerning the use of quinine in those with flux.</p>  </scopecontent>
+  <userestrict id="aspace_dda81254a96c737b958086780ef79678">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <subject source="lcsh">Medical care -- Kentucky</subject>
+    <subject source="local">Medicine -- Documentation -- Finance.</subject>
+    <persname rules="dacs" source="local">Goodwin, John M., Dr., 1822-1863</persname>
+  </controlaccess>
+  <dsc><c id="aspace_3c3f4ab0f922aa2026f403dad8f7ec30" level="item"><did><unittitle>Medical ledger</unittitle><unitdate datechar="creation" type="inclusive">1850-1859</unitdate><container id="aspace_d058bdfb7b3377aedbfdb93297a0a78c" label="mixed materials" type="box">1</container><container id="aspace_29f598033c550721fe5ebae131c5ece7" parent="aspace_d058bdfb7b3377aedbfdb93297a0a78c" type="folder">1</container></did></c><c id="aspace_5ab589d8595e4a55454c10865ba35595" level="item"><did><unittitle>Medical ledger</unittitle><unitdate datechar="creation" type="inclusive">1853-1857</unitdate><container id="aspace_645de47b7b5625c04737e49c5192ad29" label="mixed materials" type="box">1</container><container id="aspace_57d1012459a4f2803cf6a6d7f70987c2" parent="aspace_645de47b7b5625c04737e49c5192ad29" type="folder">2</container></did></c></dsc>
+</archdesc>
+</ead>

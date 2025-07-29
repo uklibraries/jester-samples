@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt7xgx44v57t">2009ms132.0767</eadid><filedesc><titlestmt><titleproper type="filing">Hall, Wade Collection of American Letters: George Willard letters</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: George Willard letters, 1885 <num>2009ms132.0767</num></titleproper><author>Sarah Coblentz</author><sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2019 October 28</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-07-26 17:31:13 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: George Willard letters</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Willard, George F. B., 1853-1912</persname>
+    </origination>
+    <unitid>2009ms132.0767</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1885/1885" type="inclusive">1885</unitdate>
+    <abstract id="aspace_e371059e3a2a1677cae06d662218ae24">The George Willard letters (dated 1885; 0.01 cubic feet; 1 folder) comprises two letters sent from George Willard that document his relationship with extended family members in Vermont in the late nineteenth century.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_ea0c7a600c34a6c44b9f205b35afa89a">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_07b4e224dadd6cf4972125674957f420">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_67f83eddeb3cbaf3b4be6ab4785174ae">
+    <head>Arrangement</head>
+<p>Collection is arranged chronologically. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_d95600c26f8cfde72931d6166f505bb4">
+    <head>Biographical note</head>
+<p>George Frank Belden Willard (1853-1912) was born in Boston, Massachusetts to George Willard and Delana D. Lake. He attended Middlebury College and graduated in 1876, becoming a physician. In 1883, he married Harriet Ada Vedder (1851-1895) and together the couple had three children, Delana Elizabeth (1885-1943), Lucy Amelia (b. 1890), and Sarah L. (1892-1974). After the death of his first wife, he married Minnie Vedder (1854-1914) about 1901.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_4b13196601a536a359ec26ac619d9bfe">
+    <head>Preferred Citation</head>
+<p>2009ms132.0767: [identification of item], Wade Hall Collection of American Letters: George Willard letters, 1885, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_3900f401b6973571c7b6e9f8995a5f60">
+    <head>Scope and Contents</head>
+<p>The George Willard letters (dated 1885; 0.01 cubic feet; 1 folder) comprises two letters sent from George Willard that document his relationship with extended family members in Vermont in the late nineteenth century. In the letters he discusses returning money they offered for him giving medical advice, the health of his wife a newborn daughter, and an invitation for his relatives to visit the new family.</p><p>The George Willard letters collection is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>  </scopecontent>
+  <userestrict id="aspace_624e24d1a5995e0d18513105a60d8e9f">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject authfilenumber="sh 85076240" source="lcsh">Letters.</subject>
+    <subject authfilenumber="sh 85033035" source="lcsh">Correspondence.</subject>
+    <subject source="lcsh">Families. </subject>
+    <geogname source="lcsh">Vermont.</geogname>
+    <subject source="lcsh">Health</subject>
+    <subject source="lcsh">Children</subject>
+    <genreform source="lcsh">Money.</genreform>
+    <persname rules="dacs" source="local">Willard, George F. B., 1853-1912</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>George Willard to family</unittitle><unitdate datechar="creation" type="inclusive">1885</unitdate><container id="aspace_a9f2efbf188f1467ff9d701817c40cff" label="mixed materials" type="box">WH-82</container><container id="aspace_91d328386b1f2492e68aca1a9a28fc59" parent="aspace_a9f2efbf188f1467ff9d701817c40cff" type="folder">27</container><dao entityref="xt7xgx44v57t_1_1"/></did></c></dsc>
+</archdesc>
+</ead>

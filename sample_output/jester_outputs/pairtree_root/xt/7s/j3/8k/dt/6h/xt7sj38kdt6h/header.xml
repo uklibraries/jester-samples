@@ -1,0 +1,124 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7sj38kdt6h</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7sj38kdt6h/data/51m12.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The John Winston Coleman, Jr. Stagecoach days in the Bluegrass papers (dated 1804-1935, undated; 0.45 cubic feet; 1 box) contain J. Winston Coleman's papers related to his book, Stagecoach days in the Bluegrass, published in 1935.</abstract>
+  <descriptive_summary>
+    <author>Logan McGuire</author>
+    <title>John Winston Coleman, Jr. Stagecoach Days in the Bluegrass papers</title>
+    <source>John Winston Coleman, Jr. Stagecoach Days in the Bluegrass papers</source>
+    <unitdates>
+      <date>1804-1935, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.45 Cubic Feet</extent>
+    <arrangement>Collection is organized alphabetically by subject.</arrangement>
+    <subjects>
+      <subject>Bars (Drinking establishments) -- Kentucky.</subject>
+      <subject>Coach drivers -- Kentucky.</subject>
+      <subject>Coaching -- Kentucky.</subject>
+      <subject>Historians.</subject>
+      <subject>Kentucky -- History.</subject>
+      <subject>Proofs (Printing)</subject>
+      <subject>Roads -- Design and construction -- Kentucky -- 19th Century.</subject>
+      <subject>Taverns (Inns) -- Kentucky.</subject>
+      <subject>Kentucky Authors Collection</subject>
+    </subjects>
+    <prefercite>51m12: [Identification of item], John Winston Coleman, Jr. Stagecoach Days in the Bluegrass papers, 1804-1935, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>John Winston Coleman, Jr. was a native of Lexington, Kentucky. He received degrees in mechanical engineering from the University of Kentucky and was president of the general contracting firm of Coleman &amp; Davis, Inc. In the 1930s his interest turned toward Kentucky history. His first book, <title render="italic">Masonry in the Bluegrass</title>, was published in 1933. In 1936 Coleman retired to Winburn, his Lexington farm, in order to devote time to historic research and writing. He wrote more than a dozen books and pamphlets, including <title render="italic">Stagecoach days in the Bluegrass</title>(1935), <title render="italic">Slavery times in Kentucky</title>(1940), <title render="italic">A bibliography of Kentucky history</title>(1940), <title render="italic">Lexington during the Civil War</title>(1968), and <title render="italic">Historic Kentucky</title>(1967).</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The John Winston Coleman, Jr. <title render="italic">Stagecoach days in the Bluegrass</title> papers (dated 1804-1935, undated; 0.45 cubic feet; 1 box) contain J. Winston Coleman's papers related to his book, <title render="italic">Stagecoach days in the Bluegrass</title>, published in 1935. Included is correspondence, a typed draft of the text, the first proof, photographs, and printed material. Correspondence from 1934 to 1935 consists of reminiscences by Fred K. Irvine (d. 1935), the editor of <title render="italic">American Stone Trade</title>. Irvine's father, a stagecoach driver, first came to Lexington, Kentucky in 1836. Irvine provides accounts of stage drivers in Kentucky, the fine carriage given to Henry Clay by the citizens of Trenton, New Jersey in 1833, road improvements and stagecoach inns and taverns. Original documents dating from 1804 to 1861 include certificates, lists of tavern keepers in Lexington and Fayette County (1830s), correspondence to Col. S. R. Mc Nair, a stagecoach proprietor in Louisville, business records and receipts, legal documents, bills and a printed copy of specifications for early turnpikes in Kentucky (1839).</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Correspondence (78)</unittitle>
+        <unitdate datechar="creation" type="inclusive">1804-1861</unitdate>
+        <container id="aspace_dd89adda7342af4fdd54371a21c74276" label="mixed materials" type="box">1</container>
+        <container id="aspace_326086026f82bf9bbbc9d9422d713af4" parent="aspace_dd89adda7342af4fdd54371a21c74276" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>"Forest Retreat" photograph</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_318207d99cd5e4690f0a13d44554989d" label="graphic materials" type="box">1</container>
+        <container id="aspace_5f0a7aec5b0b033ace431ee2458f402b" parent="aspace_318207d99cd5e4690f0a13d44554989d" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Irvine, Fred. K correspondence</unittitle>
+        <unitdate datechar="creation" type="inclusive">1934-1935</unitdate>
+        <container id="aspace_36ea2adec151431245bffcb3dcf15b23" label="mixed materials" type="box">1</container>
+        <container id="aspace_63a41d22d884a7d0f93742aa6c4dc3f9" parent="aspace_36ea2adec151431245bffcb3dcf15b23" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Modern ads and menus featuring stage coaches (8)</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_1a46eea8154003d116196bc70339205a" label="mixed materials" type="box">1</container>
+        <container id="aspace_0904e781fd812a805323b39e7eacbea6" parent="aspace_1a46eea8154003d116196bc70339205a" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle><title render="italic">Stagecoach days in the Bluegrass</title> first proof</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_b6c35648e4f59e8d95d6f9231bf38b66" label="mixed materials" type="box">1</container>
+        <container id="aspace_bbb790a3e3767a9320df6672f9ba4cfd" parent="aspace_b6c35648e4f59e8d95d6f9231bf38b66" type="folder">5-6</container>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle><title render="italic">Stagecoach days in the Bluegrass</title> manuscript</unittitle>
+        <unitdate datechar="creation" type="inclusive">1933-1935</unitdate>
+        <container id="aspace_f33af69dbaac14d1546a04f28f94f615" label="mixed materials" type="box">1</container>
+        <container id="aspace_db9a27adac082d2dffbbf584a097b0f7" parent="aspace_f33af69dbaac14d1546a04f28f94f615" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle><title render="italic">Stagecoach days in the Bluegrass</title> pages from proofs</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_f829149a5e30aeeef53b2cd77ed553fc" label="mixed materials" type="box">1</container>
+        <container id="aspace_8d4672e081f06f31714e3206027d758f" parent="aspace_f829149a5e30aeeef53b2cd77ed553fc" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref8" level="file">
+      <did>
+        <unittitle><title render="italic">Stagecoach days in the Bluegrass</title> photographs and broadsides (37)</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_e4f9a4eb62a66625113752a54519f2a1" label="graphic materials" type="box">1</container>
+        <container id="aspace_175811f08ba6f90c73f9ea8aa0842d8b" parent="aspace_e4f9a4eb62a66625113752a54519f2a1" type="folder">9</container>
+      </did>
+    </c>
+  </contents>
+</header>

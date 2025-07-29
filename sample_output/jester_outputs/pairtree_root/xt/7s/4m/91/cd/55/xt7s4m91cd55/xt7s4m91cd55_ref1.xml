@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<c id="ref1" level="item"> <did> <unittitle>Medicine recipe book</unittitle> <unitdate datechar="creation" type="inclusive">1876-1892</unitdate> <container id="aspace_159c0ac3db8d64f376f7996c27bf067e" label="mixed materials" type="box">1</container> <container id="aspace_619ff75cd3f251809d7e8039ca4f281e" parent="aspace_159c0ac3db8d64f376f7996c27bf067e" type="item">1</container> <dao entityref="xt7s4m91cd55_1_1"/> </did> </c>

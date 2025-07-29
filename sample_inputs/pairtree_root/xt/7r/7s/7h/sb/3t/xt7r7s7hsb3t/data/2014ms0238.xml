@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>2014ms0238</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>James King Ashley Civil War manuscript
+                    <num>2014ms0238</num>
+                </titleproper>
+                <titleproper type="filing">Ashley, James King Civil War manuscript</titleproper>
+                <author>Finding aid prepared by Megan Mummey</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2014 October 28</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-04-09T14:54-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>James King Ashley civil war manuscript</unittitle>
+            <unitid>2014ms0238</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.15 Cubic feet</extent>
+                <extent>1 box</extent>
+            </physdesc>
+            <unitdate>undated</unitdate>
+            <physloc id="ref15" label="Location note">Housed with multiple collections.</physloc>
+            <abstract id="ref13" label="Abstract">The James King Ashley Civil War manuscript (undated; 0.15 cubic feet; 1 box) comprises a handwritten memoir written by James King Ashley of the 20th Indiana Battery, recounting his experiences during the Civil War.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Ashley, James King, 1845-1926</persname>
+            </origination>
+        </did>
+        <prefercite id="ref12">
+            <head>Preferred Citation note</head>
+            <p>2014ms0238: [identification of item], James King Ashley Civil War manuscript, undated, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <userestrict id="ref11">
+            <head>Conditions Governing Use note</head>
+            <p>Property rights reside with the University of Kentucky. The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky. For information about permission to reproduce or publish, please contact Special Collections.</p>
+        </userestrict>
+        <accessrestrict id="ref10">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open to researchers by appointment.</p>
+        </accessrestrict>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift, 2014</p>
+        </acqinfo>
+        <bioghist id="ref14">
+            <head>Biographical note</head>
+            <p>James King Ashley (1845-1926) was born in Pulaski County, Kentucky. He served as a Union soldier in the 20th Indiana Battery during the Civil War. He was captured and imprisoned in Cahaba prison in Alabama for nine months. After his parole, he was placed on the Confederate steamship 
+                <emph render="doublequote">Sultana</emph> which exploded. Ashley survived the explosion and returned to Indiana and later Pulaski County, Kentucky.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>The James King Ashley Civil War manuscript (undated; 0.15 cubic feet; 1 box) comprises a handwritten memoir written by James King Ashley of the 20th Indiana Battery, recounting his experiences during the Civil War. The memoir describes his enlistment; camp life; his imprisonment in the Confederate prison at Cahaba, Alabama; his eventual parole; and the explosion of the steamship 
+                <emph render="doublequote">Sultana</emph>.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname rules="aacr" source="local">Ashley, James King, 1845-1926</persname>
+            <corpname rules="aacr" source="naf">Cahaba Federal Prison. (Cahaba, Ala.)</corpname>
+            <persname rules="aacr" source="local" role="Donor (dnr)">Thompson, Helen Dees</persname>
+            <subject source="ingest">United States--History--Civil War, 1861-1865--Prisoners and prisons, Confederate.</subject>
+            <subject source="lcsh">United States--History--Civil War, 1861-1865.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">The small hoosier in the big blue clothes</title>, Chapter I - War for the Union - Slavery - Southern hatred - And low tide in American politics</unittitle>
+                    <container id="cid4442001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4442001" type="Folder">1</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref5" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">The small hoosier in the big blue clothes</title>, Chapter II - Enlistment - Life in Camp - War reminiscence - Capture by the Enemy</unittitle>
+                    <container id="cid4442002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4442002" type="Folder">2</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref6" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">The small hoosier in the big blue clothes</title>, Chapter III - Captivity and terrors of Cahaba prison</unittitle>
+                    <container id="cid4442003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4442003" type="Folder">3</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref7" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">The small hoosier in the big blue clothes</title>, Chapter IV - Failure of the insurrection - High water mark - And parole</unittitle>
+                    <container id="cid4442004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4442004" type="Folder">4</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref8" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">The small hoosier in the big blue clothes</title>, Chapter V - Last days of the Confederacy - Fatal explosion of the Steamer Sultana - And lights out</unittitle>
+                    <container id="cid4442005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid4442005" type="Folder">5</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

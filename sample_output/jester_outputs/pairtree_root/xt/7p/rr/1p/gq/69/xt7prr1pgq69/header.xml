@@ -1,0 +1,118 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7prr1pgq69</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7prr1pgq69/data/M224.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Lexington, Kentucky Board of Trustees records (dated 1782-1854; 0.1 cubic feet; 3 reels) consists of microfilmed copies of early records of the city of Lexington's governing body.</abstract>
+  <descriptive_summary>
+    <author>Processed by: Archives Staff ; machine-readable finding aid created by:Eric Weig. Paper finding aid encoded by Ida Sell Mangum.</author>
+    <title>Lexington, Kentucky Board of Trustees records</title>
+    <source>Lexington, Kentucky Board of Trustees records</source>
+    <unitdates>
+      <date>1782-1854 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement>Collection is arranged in chronologically.</arrangement>
+    <subjects>
+      <subject>Deeds.</subject>
+      <subject>Lexington (Ky.) -- Genealogy</subject>
+      <subject>Lexington (Ky.) -- Politics and government.</subject>
+      <subject>Minutes (Records)</subject>
+      <subject>Public records -- Kentucky -- Lexington.</subject>
+    </subjects>
+    <prefercite>M-224: [Identification of item], Lexington, Kentucky Board of Trustees records, 1781-1854, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The first cabin in Lexington was built in 1775 by a party of hunters helping William McConnell establish a claim. It was named after Lexington, Massachusetts, where the first battle of the Revolutionary War had just taken place. However the first settlers, led by Colonel Robert Patterson, arrived in 1779. They built a stockade, and in the spring of 1781 laid out Main Street. Also in 1781 they elected the first Board of Trustees, whose first meeting took place on March 26, 1781.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Lexington, Kentucky Board of Trustees records (dated 1782-1854; 0.1 cubic feet; 3 reels) consists of microfilmed copies of early records of the city of Lexington's governing body. Reel 1 contains 3 volumes of minutes, dating from 1781-1830. Reel 2 contains 3 volumes of minutes, covering 1830-1836, 1840-1843, and 1851-1854, respectively. The minutes detail information on lots bought, sold, and rented; the election of officers; town taxes and tithes; improvements made in the town; and the passing of laws and ordinances. Reel 3 contains an incomplete deed book dating from 1782-1806. Minute books 2 and 3 are labeled incorrectly on the microfilm, although the books themselves are in correct chronological order.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Minute book</unittitle>
+        <unitdate datechar="creation" type="inclusive">1782-1811</unitdate>
+        <container id="aspace_29b45e4de8b63eac9afba1f8bff25d8e" label="Microform" type="reel">1</container>
+        <container id="aspace_e3a227e5885919326a1ec69298e30735" parent="aspace_29b45e4de8b63eac9afba1f8bff25d8e" type="item">1</container>
+        <dao entityref="xt7prr1pgq69_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Minute book</unittitle>
+        <unitdate datechar="creation" type="inclusive">1811-1817</unitdate>
+        <container id="aspace_df016dd37e21c346d7c2ff9b6098aedf" label="Microform" type="reel">1</container>
+        <container id="aspace_67ba8053f5e130519228bdcd79d56a4d" parent="aspace_df016dd37e21c346d7c2ff9b6098aedf" type="item">2</container>
+        <dao entityref="xt7prr1pgq69_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle>Minute book</unittitle>
+        <unitdate datechar="creation" type="inclusive">1818-1830</unitdate>
+        <container id="aspace_6c5cd7aa025a4ee5bf2c5f2489bfec48" label="Microform" type="reel">1</container>
+        <container id="aspace_b86879b5908687f4505042ec07b8ef82" parent="aspace_6c5cd7aa025a4ee5bf2c5f2489bfec48" type="item">3</container>
+        <dao entityref="xt7prr1pgq69_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="item">
+      <did>
+        <unittitle>Records of Lexington</unittitle>
+        <unitdate datechar="creation" type="inclusive">1830-1836</unitdate>
+        <container id="aspace_c0c15231ef9f684cae6f06ce9608bf0a" label="Microform" type="reel">2</container>
+        <container id="aspace_f95eb2b14617bab97a2dbe9440a2680d" parent="aspace_c0c15231ef9f684cae6f06ce9608bf0a" type="item">1</container>
+        <dao entityref="xt7prr1pgq69_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="item">
+      <did>
+        <unittitle>Minute book</unittitle>
+        <unitdate datechar="creation" type="inclusive">1840-1843</unitdate>
+        <container id="aspace_05c9f4474e339ce3f2bc27a7637f9c53" label="Microform" type="reel">2</container>
+        <container id="aspace_c228fbf3fd9e5bbaf44e32897be3906d" parent="aspace_05c9f4474e339ce3f2bc27a7637f9c53" type="item">2</container>
+        <dao entityref="xt7prr1pgq69_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="item">
+      <did>
+        <unittitle>Minute book</unittitle>
+        <unitdate datechar="creation" type="inclusive">1851-1854</unitdate>
+        <container id="aspace_baf723874fbb1d657221b92da6d7814b" label="Microform" type="reel">2</container>
+        <container id="aspace_b635071a8383105d089c0d19517ca3d8" parent="aspace_baf723874fbb1d657221b92da6d7814b" type="item">3</container>
+        <dao entityref="xt7prr1pgq69_6_1"/>
+      </did>
+    </c>
+    <c id="ref7" level="item">
+      <did>
+        <unittitle>Deed book (incomplete)</unittitle>
+        <unitdate datechar="creation" type="inclusive">1782-1806</unitdate>
+        <container id="aspace_43aa24d65fc5c05a9748c459303d4edf" label="Microform" type="reel">3</container>
+        <dao entityref="xt7prr1pgq69_7_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

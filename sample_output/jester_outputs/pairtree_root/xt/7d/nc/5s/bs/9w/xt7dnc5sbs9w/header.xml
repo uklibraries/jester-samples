@@ -1,0 +1,898 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7dnc5sbs9w</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7dnc5sbs9w/data/2009ms156.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Richard Wilson papers (dated 1900-1999, bulk 1961-1999; 8 cubic feet; 8 boxes) consist of news articles, notes, research, and correspondence documenting Wilson's career as a reporter at the Kentucky Kernel, The Lexington Leader, The Frankfort State Journal, and The Louisville Courier-Journal.</abstract>
+  <descriptive_summary>
+    <author>Lacey Stewart, Anu Kasarabada</author>
+    <title>Richard Wilson Papers</title>
+    <source>Richard Wilson Papers</source>
+    <unitdates>
+      <date>1900-1999 (inclusive)</date>
+      <date>1961-1999 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>8 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically by date. One folder, located at the end of the collection, consists of historic front pages from the Louisville Courier Journal over time. Original folder names were retained when possible.</arrangement>
+    <subjects>
+      <subject>Education--Kentucky</subject>
+      <subject>Educational law and legislation</subject>
+      <subject>Journalism -- Kentucky</subject>
+      <subject>Kentucky -- Politics and government -- 20th century</subject>
+      <subject>Universities and colleges -- Kentucky.</subject>
+      <subject>Kentucky Kernel</subject>
+    </subjects>
+    <prefercite>2009ms156: [identification of item], Richard Wilson papers, 1900-1999, bulk 1961-1900, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical / Historical</head>
+      <p>Richard <emph render="doublequote">Dick</emph> Wilson was born on July 11, 1937, in Towanda, Pennsylvania. He attended both Morehead State University and the University of Kentucky (UK), ultimately graduating from UK in 1966. As a student at UK, Wilson began writing for the <title render="italic">Kentucky Kernel</title> while studying in the College of Journalism and Media. After graduation, he worked as a reporter for <title render="italic">The Lexington Leader</title> in 1963 and then <title render="italic">The Frankfort State Journal</title> in 1964. In 1967, Wilson joined the <title render="italic">Louisville Courier-Journal</title> (The C-J), where he remained until his retirement as a bureau chief in 1999. During his years with The C-J, Wilson wrote about a variety of issues, but he became known for his coverage of education policy throughout Kentucky, from county school systems to colleges and universities across the Commonwealth. After retirement, Wilson was interim director of the UK School of Journalism and Media from 2002-2003. He also served as the coordinator for a state government internship based in Frankfort. On April 4, 2023, Wilson passed away in Lexington, Kentucky, where he had lived since the beginning of his long career.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Richard Wilson papers (dated 1900-1999, bulk 1961-1999; 8 cubic feet; 8 boxes) consist of news articles, notes, research, and correspondence documenting Wilson's career as a reporter at the <title render="italic">Kentucky Kernel</title>, <title render="italic">The Lexington Leader</title>, <title render="italic">The Frankfort State Journal</title>, and <title render="italic">The Louisville Courier-Journal</title>. The notes and research include interview transcripts, court filings, and typed and handwritten information that Wilson used to write his articles. There are also <emph render="doublequote">string books,</emph> a collection of clippings and notes for editing purposes, that span his entire career. The correspondence documents communications with C-J colleagues regarding Wilson's articles and his position at the publication; also included are some personal letters addressed to both Wilson and his wife Deborah (Debbie). One folder located at the end of the collection consists of historic front pages published by The C-J from 1900 to 1969, including the Moon Landing and the assassination of President John F. Kennedy, Jr.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>
+          <title render="italic">Kentucky Kernel</title>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004694</unitid>
+        <unitdate datechar="creation" type="inclusive">1961-1963</unitdate>
+        <container id="aspace_57e5c2c65f0d1c584fb351797bbb09b4" label="mixed materials" type="box">1</container>
+        <container id="aspace_2fcb80098eb0c49186109578bebdfcd8" parent="aspace_57e5c2c65f0d1c584fb351797bbb09b4" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>String book, <title render="italic">Lexington Leader</title></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004695</unitid>
+        <unitdate datechar="creation" type="inclusive">1963 June-August</unitdate>
+        <container id="aspace_b2394e3645190dfb07cc66597a554d2a" label="mixed materials" type="box">1</container>
+        <container id="aspace_88baedf67221f5e3f6c9ad9ab9d68473" parent="aspace_b2394e3645190dfb07cc66597a554d2a" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>String book, <title render="italic">Lexington Herald-Leader</title></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004696</unitid>
+        <unitdate datechar="creation" type="inclusive">1963</unitdate>
+        <container id="aspace_14d2578edf25b83f0b6b495c89df49a3" label="mixed materials" type="box">1</container>
+        <container id="aspace_367198f427012da16f5715289f018a2b" parent="aspace_14d2578edf25b83f0b6b495c89df49a3" type="folder">3-4</container>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>String book, <title render="italic">Frankfort State Journal</title></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004697</unitid>
+        <unitdate datechar="creation" type="inclusive">1963-1964</unitdate>
+        <container id="aspace_85398ebdd63b98038fa9abc9db9c9073" label="mixed materials" type="box">1</container>
+        <container id="aspace_7cc19173d7bff222aeedec05d45273a0" parent="aspace_85398ebdd63b98038fa9abc9db9c9073" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle><title render="italic">Frankfort State Journal</title> clips</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004698</unitid>
+        <unitdate datechar="creation" type="inclusive">1963-1964</unitdate>
+        <container id="aspace_1efa056cacd78656e67b653e3435c76c" label="mixed materials" type="box">1</container>
+        <container id="aspace_4c6152d9e4dc93086f21c217da52fcd3" parent="aspace_1efa056cacd78656e67b653e3435c76c" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle><title render="italic">Louisville Courier-Journal</title> first year</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004699</unitid>
+        <unitdate datechar="creation" type="inclusive">1967</unitdate>
+        <container id="aspace_8f0be7ba9b364598dad81b2f086941f3" label="mixed materials" type="box">1</container>
+        <container id="aspace_16b82c354f5bb79a2e964d5e5d6145b3" parent="aspace_8f0be7ba9b364598dad81b2f086941f3" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004700</unitid>
+        <unitdate datechar="creation" type="inclusive">1967</unitdate>
+        <container id="aspace_af6668da0df05fb324f7d5d5742f4669" label="mixed materials" type="box">1</container>
+        <container id="aspace_02a703d48b2341fbcdd86a7680a0b00c" parent="aspace_af6668da0df05fb324f7d5d5742f4669" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref8" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004701</unitid>
+        <unitdate datechar="creation" type="inclusive">1968 January-1969 August</unitdate>
+        <container id="aspace_70c86e880c3e9910e347a9a16cdc4ddf" label="mixed materials" type="box">1</container>
+        <container id="aspace_914b85b88e17521dc642f584cb8722ba" parent="aspace_70c86e880c3e9910e347a9a16cdc4ddf" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref9" level="file">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004702</unitid>
+        <unitdate datechar="creation" type="inclusive">1968-1969</unitdate>
+        <container id="aspace_87849066d772c19b04cc27c870b0a3ea" label="mixed materials" type="box">1</container>
+        <container id="aspace_8b7e0758cccfbf34c80ffcddee16796f" parent="aspace_87849066d772c19b04cc27c870b0a3ea" type="folder">10-11</container>
+      </did>
+    </c>
+    <c id="ref10" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004703</unitid>
+        <unitdate datechar="creation" type="inclusive">1963-1969</unitdate>
+        <container id="aspace_b10862cc55943fee6caa13a189129ed1" label="mixed materials" type="box">1</container>
+        <container id="aspace_2857eaf0fa4f45b47fc4b50dc5ce1349" parent="aspace_b10862cc55943fee6caa13a189129ed1" type="folder">12-13</container>
+      </did>
+    </c>
+    <c id="ref11" level="file">
+      <did>
+        <unittitle>
+          <emph render="doublequote">1st 2 years in the Courie-Journal Frankfort Bureau</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004704</unitid>
+        <unitdate datechar="creation" type="inclusive">1969 August-1971 August</unitdate>
+        <container id="aspace_deb0662855fed711b834fdd85a453c90" label="mixed materials" type="box">1</container>
+        <container id="aspace_7325ce75b91ba2aee8f7525d7a6f0440" parent="aspace_deb0662855fed711b834fdd85a453c90" type="folder">14-18</container>
+      </did>
+    </c>
+    <c id="ref12" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004705</unitid>
+        <unitdate datechar="creation" type="inclusive">1971 August-1973 August</unitdate>
+        <container id="aspace_1e20d7abdae956d2210eebe35681cecd" label="mixed materials" type="box">1</container>
+        <container id="aspace_788a4812baea359f460377da70272ad6" parent="aspace_1e20d7abdae956d2210eebe35681cecd" type="folder">19-23</container>
+      </did>
+    </c>
+    <c id="ref13" level="file">
+      <did>
+        <unittitle>Neiman application</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004706</unitid>
+        <unitdate datechar="creation" type="inclusive">1972 December-1973 March</unitdate>
+        <container id="aspace_75f0f9a5ae693fff16522853893b087e" label="mixed materials" type="box">1</container>
+        <container id="aspace_91fd79fffbe91adb5287509d15dff79c" parent="aspace_75f0f9a5ae693fff16522853893b087e" type="folder">24</container>
+      </did>
+    </c>
+    <c id="ref14" level="file">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004707</unitid>
+        <unitdate datechar="creation" type="inclusive">1972-1973</unitdate>
+        <container id="aspace_c508645240ad5d3761729f225da755fe" label="mixed materials" type="box">1</container>
+        <container id="aspace_54b79b72416bee4fa8fac381cd03eada" parent="aspace_c508645240ad5d3761729f225da755fe" type="folder">25</container>
+      </did>
+    </c>
+    <c id="ref15" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004708</unitid>
+        <unitdate datechar="creation" type="inclusive">1973 August-1975 August</unitdate>
+        <container id="aspace_7c4934ca402eca5e0856de28600be6d7" label="mixed materials" type="box">1</container>
+        <container id="aspace_55d73386654636fd89e7c77c46686d74" parent="aspace_7c4934ca402eca5e0856de28600be6d7" type="folder">26-27</container>
+        <container id="aspace_bd04c9a4f5855aa212beb9cebdcb83bf" label="mixed materials" type="box">2</container>
+        <container id="aspace_21df39c023b3ab0c42beea683c5df8e8" parent="aspace_bd04c9a4f5855aa212beb9cebdcb83bf" type="folder">1-3</container>
+      </did>
+    </c>
+    <c id="ref16" level="file">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004709</unitid>
+        <unitdate datechar="creation" type="inclusive">1974</unitdate>
+        <container id="aspace_2875c2ea1fd39f085b950e85fd23066d" label="mixed materials" type="box">2</container>
+        <container id="aspace_e236491d0b5312d91c3807705c303d2f" parent="aspace_2875c2ea1fd39f085b950e85fd23066d" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref17" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004710</unitid>
+        <unitdate datechar="creation" type="inclusive">1975 August-1977 February</unitdate>
+        <container id="aspace_473aff86981b732feee078ccaa4f73d7" label="mixed materials" type="box">2</container>
+        <container id="aspace_bf6a6d098d90ba6fc3ac48c3bd8a3334" parent="aspace_473aff86981b732feee078ccaa4f73d7" type="folder">5-8</container>
+      </did>
+    </c>
+    <c id="ref18" level="file">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004711</unitid>
+        <unitdate datechar="creation" type="inclusive">1975-1978</unitdate>
+        <container id="aspace_73a3be8fa851f261f3d65d689bbafea1" label="mixed materials" type="box">2</container>
+        <container id="aspace_23a4f659adec78564540c1ea90f04505" parent="aspace_73a3be8fa851f261f3d65d689bbafea1" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref19" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004712</unitid>
+        <unitdate datechar="creation" type="inclusive">1977 April-1979 December</unitdate>
+        <container id="aspace_6e78b0f3d8aa55814450c91909e85b9a" label="mixed materials" type="box">2</container>
+        <container id="aspace_4c8ce1cdfc4b8d8066a89b02cc219fcd" parent="aspace_6e78b0f3d8aa55814450c91909e85b9a" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref20" level="file">
+      <did>
+        <unittitle>UK speech</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004713</unitid>
+        <unitdate datechar="creation" type="inclusive">1979 October 16</unitdate>
+        <container id="aspace_4be78f794787234f5437c37184c1cf23" label="mixed materials" type="box">2</container>
+        <container id="aspace_77cb6b5add7a3ed7d0e0cfb5df1c8566" parent="aspace_4be78f794787234f5437c37184c1cf23" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref21" level="file">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004714</unitid>
+        <unitdate datechar="creation" type="inclusive">1979-1984</unitdate>
+        <container id="aspace_4ef89697a5ea1fd6ed27e702f50cba86" label="mixed materials" type="box">2</container>
+        <container id="aspace_72b3c229fd1a6d4c85bce29a378e4fbc" parent="aspace_4ef89697a5ea1fd6ed27e702f50cba86" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref22" level="file">
+      <did>
+        <unittitle>Assorted articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004715</unitid>
+        <unitdate datechar="creation" type="inclusive">1980</unitdate>
+        <container id="aspace_6abd28298fe99b7ea0fc2eac37f6401d" label="mixed materials" type="box">2</container>
+        <container id="aspace_2cc5d0b299b6858985a986dc7365f06f" parent="aspace_6abd28298fe99b7ea0fc2eac37f6401d" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref23" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004716</unitid>
+        <unitdate datechar="creation" type="inclusive">1981 April-July</unitdate>
+        <container id="aspace_2a7ba01a0cb4683f5fff0021637162c4" label="mixed materials" type="box">2</container>
+        <container id="aspace_cfeb23c0ead260f2a6df9b322ab36418" parent="aspace_2a7ba01a0cb4683f5fff0021637162c4" type="folder">14-16</container>
+      </did>
+    </c>
+    <c id="ref24" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004717</unitid>
+        <unitdate datechar="creation" type="inclusive">1982 January-April</unitdate>
+        <container id="aspace_cc0272336e83c9ea403bc74e0722df35" label="mixed materials" type="box">2</container>
+        <container id="aspace_b06d3b371263128cc923ed9cd4e22909" parent="aspace_cc0272336e83c9ea403bc74e0722df35" type="folder">17</container>
+      </did>
+    </c>
+    <c id="ref25" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004718</unitid>
+        <unitdate datechar="creation" type="inclusive">1982 July-October</unitdate>
+        <container id="aspace_b17e64aa3f13beb80ce7ffb1ef885f2f" label="mixed materials" type="box">2</container>
+        <container id="aspace_8160e5f2e26fbb85fdace3f7cde82bb5" parent="aspace_b17e64aa3f13beb80ce7ffb1ef885f2f" type="folder">18-22</container>
+      </did>
+    </c>
+    <c id="ref26" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004719</unitid>
+        <unitdate datechar="creation" type="inclusive">1982 October-December</unitdate>
+        <container id="aspace_08e2686f70e283d28e3196bd469fc826" label="mixed materials" type="box">2</container>
+        <container id="aspace_91e7582b986308feb2290dbc175f2b90" parent="aspace_08e2686f70e283d28e3196bd469fc826" type="folder">23-26</container>
+      </did>
+    </c>
+    <c id="ref27" level="file">
+      <did>
+        <unittitle><emph render="doublequote">Report Card Unsatisfactory</emph> series</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004720</unitid>
+        <unitdate datechar="creation" type="inclusive">1983 October-November</unitdate>
+        <container id="aspace_37ad3e8611b0c2d52386a774ac606aaf" label="mixed materials" type="box">2</container>
+        <container id="aspace_369dab3474b26327029c357ad9306ae7" parent="aspace_37ad3e8611b0c2d52386a774ac606aaf" type="folder">27-29</container>
+      </did>
+    </c>
+    <c id="ref28" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004721</unitid>
+        <unitdate datechar="creation" type="inclusive">1983</unitdate>
+        <container id="aspace_781121c326686959fd5b4b74fb2860c8" label="mixed materials" type="box">2</container>
+        <container id="aspace_8ea031b739933cdd6782ce293a40d12b" parent="aspace_781121c326686959fd5b4b74fb2860c8" type="folder">30</container>
+      </did>
+    </c>
+    <c id="ref29" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004722</unitid>
+        <unitdate datechar="creation" type="inclusive">1984 January-June</unitdate>
+        <container id="aspace_a401693fd66e4d1f97bdfe04367582b6" label="mixed materials" type="box">3</container>
+        <container id="aspace_215fed9cd8fcd9432e25fb761ac40bfb" parent="aspace_a401693fd66e4d1f97bdfe04367582b6" type="folder">1-7</container>
+      </did>
+    </c>
+    <c id="ref30" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004723</unitid>
+        <unitdate datechar="creation" type="inclusive">1984 July-October</unitdate>
+        <container id="aspace_4a9cafbe3dc8b784d5f5f5882543cf85" label="mixed materials" type="box">3</container>
+        <container id="aspace_64399b7abe2cab33795cb2d6b90eb793" parent="aspace_4a9cafbe3dc8b784d5f5f5882543cf85" type="folder">8-12</container>
+      </did>
+    </c>
+    <c id="ref31" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004724</unitid>
+        <unitdate datechar="creation" type="inclusive">1984 November</unitdate>
+        <container id="aspace_588fde53e82b10d39cb3a779faca0da1" label="mixed materials" type="box">3</container>
+        <container id="aspace_6e94c4f79270885bafd12ff04f610691" parent="aspace_588fde53e82b10d39cb3a779faca0da1" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref32" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004725</unitid>
+        <unitdate datechar="creation" type="inclusive">1984 December</unitdate>
+        <container id="aspace_077d229a1f0e38e1abe0757e5f401e06" label="mixed materials" type="box">3</container>
+        <container id="aspace_8a21039224c3b4a008db0aa36ba5b87c" parent="aspace_077d229a1f0e38e1abe0757e5f401e06" type="folder">14-15</container>
+      </did>
+    </c>
+    <c id="ref33" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004726</unitid>
+        <unitdate datechar="creation" type="inclusive">1984-1999</unitdate>
+        <container id="aspace_628b60a41693ff0a8e779f3b80e3afe1" label="mixed materials" type="box">3</container>
+        <container id="aspace_7efdb7dec00460a6c40090dee4003501" parent="aspace_628b60a41693ff0a8e779f3b80e3afe1" type="folder">16</container>
+      </did>
+    </c>
+    <c id="ref34" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004727</unitid>
+        <unitdate datechar="creation" type="inclusive">1985 January-February</unitdate>
+        <container id="aspace_acb1ce17a4fa9b1cabdb2b63a5fa655d" label="mixed materials" type="box">3</container>
+        <container id="aspace_34431f56aaea23227689efed4eb2d699" parent="aspace_acb1ce17a4fa9b1cabdb2b63a5fa655d" type="folder">17-18</container>
+      </did>
+    </c>
+    <c id="ref35" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004728</unitid>
+        <unitdate datechar="creation" type="inclusive">1985 March-April</unitdate>
+        <container id="aspace_eb97c1ce0373361418edda41c7ae64d5" label="mixed materials" type="box">3</container>
+        <container id="aspace_0ef9cab551f54e9490a1bfe9fca7b778" parent="aspace_eb97c1ce0373361418edda41c7ae64d5" type="folder">19-20</container>
+      </did>
+    </c>
+    <c id="ref36" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004729</unitid>
+        <unitdate datechar="creation" type="inclusive">1985 May-June</unitdate>
+        <container id="aspace_8c1dcf77c79828457aab0083c848d5c1" label="mixed materials" type="box">3</container>
+        <container id="aspace_87238feb18a4b5bceace9db77d61c51a" parent="aspace_8c1dcf77c79828457aab0083c848d5c1" type="folder">21-23</container>
+      </did>
+    </c>
+    <c id="ref37" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004785</unitid>
+        <unitdate datechar="creation" type="inclusive">1985 July-December</unitdate>
+        <container id="aspace_de4ed2f897e658ae6e518609dad0d37a" label="mixed materials" type="box">3</container>
+        <container id="aspace_e50a9b7e0580fa8b71bca659f36bd85b" parent="aspace_de4ed2f897e658ae6e518609dad0d37a" type="folder">24-25</container>
+        <container id="aspace_e6989970a4b69271a98fa34e64656e7b" label="mixed materials" type="box">4</container>
+        <container id="aspace_a8395294c219c00f52f0605a85d97065" parent="aspace_e6989970a4b69271a98fa34e64656e7b" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref38" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004730</unitid>
+        <unitdate datechar="creation" type="inclusive">1986 January-April</unitdate>
+        <container id="aspace_aca47711d74e9a218b3e41b3fc933428" label="mixed materials" type="box">4</container>
+        <container id="aspace_2bb5dc0a1c76ba1691cc8ec192d8de20" parent="aspace_aca47711d74e9a218b3e41b3fc933428" type="folder">2-6</container>
+      </did>
+    </c>
+    <c id="ref39" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004731</unitid>
+        <unitdate datechar="creation" type="inclusive">1986 April-June</unitdate>
+        <container id="aspace_b5442399e84f7bbc0bb2967281a45d62" label="mixed materials" type="box">4</container>
+        <container id="aspace_d69e3ddd1ef902276f1d119dd50d2646" parent="aspace_b5442399e84f7bbc0bb2967281a45d62" type="folder">7-9</container>
+      </did>
+    </c>
+    <c id="ref40" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004732</unitid>
+        <unitdate datechar="creation" type="inclusive">1986 July-December</unitdate>
+        <container id="aspace_0ee07b3eb718191875b48a8031e63226" label="mixed materials" type="box">4</container>
+        <container id="aspace_1f481d5a739acd3a55e3d379606c0d1a" parent="aspace_0ee07b3eb718191875b48a8031e63226" type="folder">10-14</container>
+      </did>
+    </c>
+    <c id="ref41" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004733</unitid>
+        <unitdate datechar="creation" type="inclusive">1987 January-April</unitdate>
+        <container id="aspace_a818ac1623bffeb1f85707dd6135eb79" label="mixed materials" type="box">4</container>
+        <container id="aspace_48126be204fd1c0cbc1632db2868c05d" parent="aspace_a818ac1623bffeb1f85707dd6135eb79" type="folder">15-18</container>
+      </did>
+    </c>
+    <c id="ref42" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004734</unitid>
+        <unitdate datechar="creation" type="inclusive">1987 April-June</unitdate>
+        <container id="aspace_5916a5e13ab7c5dd86c88ef599583dce" label="mixed materials" type="box">4</container>
+        <container id="aspace_90bea0593e01a7aea8bce5f165bfd85e" parent="aspace_5916a5e13ab7c5dd86c88ef599583dce" type="folder">19-20</container>
+      </did>
+    </c>
+    <c id="ref43" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004735</unitid>
+        <unitdate datechar="creation" type="inclusive">1987 July-September</unitdate>
+        <container id="aspace_24efa5b70c9ca6d2bf3e5b670c44cfbf" label="mixed materials" type="box">4</container>
+        <container id="aspace_a2cf81f6ae5210e6eed41cf1bc1bc788" parent="aspace_24efa5b70c9ca6d2bf3e5b670c44cfbf" type="folder">21-23</container>
+      </did>
+    </c>
+    <c id="ref44" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004736</unitid>
+        <unitdate datechar="creation" type="inclusive">1987 October-December</unitdate>
+        <container id="aspace_dda012dbc4dab235f4bb8f7ecb93e1a4" label="mixed materials" type="box">4</container>
+        <container id="aspace_8d313038f98f29c5a56295e0f92f7da6" parent="aspace_dda012dbc4dab235f4bb8f7ecb93e1a4" type="folder">24</container>
+        <container id="aspace_c6626e0d2e590c9a5d2a5b8670123b36" label="mixed materials" type="box">5</container>
+        <container id="aspace_f958f5a90c0cc4ed1e321640166864d5" parent="aspace_c6626e0d2e590c9a5d2a5b8670123b36" type="folder">1-2</container>
+      </did>
+    </c>
+    <c id="ref45" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004737</unitid>
+        <unitdate datechar="creation" type="inclusive">1988 January-March</unitdate>
+        <container id="aspace_c6ea59a9c4582574f36514dbf87e8ebd" label="mixed materials" type="box">5</container>
+        <container id="aspace_b12aa2b569d4182713d382dca419d9ea" parent="aspace_c6ea59a9c4582574f36514dbf87e8ebd" type="folder">3-6</container>
+      </did>
+    </c>
+    <c id="ref46" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004738</unitid>
+        <unitdate datechar="creation" type="inclusive">1988 April-June</unitdate>
+        <container id="aspace_ca8071c4c5a9381ce06ac8d2f2a94f0c" label="mixed materials" type="box">5</container>
+        <container id="aspace_6a4027672be245c87b3e663aac7e04fd" parent="aspace_ca8071c4c5a9381ce06ac8d2f2a94f0c" type="folder">7-10</container>
+      </did>
+    </c>
+    <c id="ref47" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004739</unitid>
+        <unitdate datechar="creation" type="inclusive">1988 July-September</unitdate>
+        <container id="aspace_faa9c95ed44dd52bb28b7894f97d44d5" label="mixed materials" type="box">5</container>
+        <container id="aspace_b39ca1af01de758fc072314388bd6da5" parent="aspace_faa9c95ed44dd52bb28b7894f97d44d5" type="folder">11-13</container>
+      </did>
+    </c>
+    <c id="ref48" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004740</unitid>
+        <unitdate datechar="creation" type="inclusive">1988 October-December</unitdate>
+        <container id="aspace_3d248e50674b108d88cac187121727f2" label="mixed materials" type="box">5</container>
+        <container id="aspace_c17a8b62a00417dd8f99d71d49e4d931" parent="aspace_3d248e50674b108d88cac187121727f2" type="folder">14-16</container>
+      </did>
+    </c>
+    <c id="ref49" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004741</unitid>
+        <unitdate datechar="creation" type="inclusive">1989 January</unitdate>
+        <container id="aspace_ae6e160861b5e13d9c002868087a0d58" label="mixed materials" type="box">5</container>
+        <container id="aspace_cb367b06099eec3ed66ebba8e6c04d20" parent="aspace_ae6e160861b5e13d9c002868087a0d58" type="folder">17</container>
+      </did>
+    </c>
+    <c id="ref50" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004742</unitid>
+        <unitdate datechar="creation" type="inclusive">1989 January-March</unitdate>
+        <container id="aspace_886b1ba01b74fb4ef5330dcd646199d1" label="mixed materials" type="box">5</container>
+        <container id="aspace_fc05449885f820c05179b67cec2b936b" parent="aspace_886b1ba01b74fb4ef5330dcd646199d1" type="folder">18-21</container>
+      </did>
+    </c>
+    <c id="ref51" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004743</unitid>
+        <unitdate datechar="creation" type="inclusive">1989 April-June</unitdate>
+        <container id="aspace_d9af025be89454919469a449d5dec697" label="mixed materials" type="box">5</container>
+        <container id="aspace_672d5d5ea337fddee4957a01fd286460" parent="aspace_d9af025be89454919469a449d5dec697" type="folder">22-23</container>
+      </did>
+    </c>
+    <c id="ref52" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004744</unitid>
+        <unitdate datechar="creation" type="inclusive">1990 January-March</unitdate>
+        <container id="aspace_40aa5f1903d0c1839fd2f2fcf8516f67" label="mixed materials" type="box">5</container>
+        <container id="aspace_321c6b5c88708e50f3d8a87f68caac9b" parent="aspace_40aa5f1903d0c1839fd2f2fcf8516f67" type="folder">24</container>
+      </did>
+    </c>
+    <c id="ref53" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004745</unitid>
+        <unitdate datechar="creation" type="inclusive">1990 April-June</unitdate>
+        <container id="aspace_935769ab462c098d3688886980d4f44e" label="mixed materials" type="box">5</container>
+        <container id="aspace_dda853c0f8377597921a5b8e1ed2ace7" parent="aspace_935769ab462c098d3688886980d4f44e" type="folder">25-26</container>
+      </did>
+    </c>
+    <c id="ref54" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004746</unitid>
+        <unitdate datechar="creation" type="inclusive">1990 July-September</unitdate>
+        <container id="aspace_75f88dfe110ab5ade8ba85851663d264" label="mixed materials" type="box">6</container>
+        <container id="aspace_3e81d35efff32ed1dc5338bf414891a9" parent="aspace_75f88dfe110ab5ade8ba85851663d264" type="folder">1-2</container>
+      </did>
+    </c>
+    <c id="ref55" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004747</unitid>
+        <unitdate datechar="creation" type="inclusive">1990 October-December</unitdate>
+        <container id="aspace_09287b6e1e145c609d1c4b254493c429" label="mixed materials" type="box">6</container>
+        <container id="aspace_51ad0467e617f88876585c48484add3b" parent="aspace_09287b6e1e145c609d1c4b254493c429" type="folder">3-5</container>
+      </did>
+    </c>
+    <c id="ref56" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004748</unitid>
+        <unitdate datechar="creation" type="inclusive">1991 January-March</unitdate>
+        <container id="aspace_93f3068094ab63881a760df7a44abdf6" label="mixed materials" type="box">6</container>
+        <container id="aspace_73b8b7c51a6ef3e5272fa54035674f44" parent="aspace_93f3068094ab63881a760df7a44abdf6" type="folder">6-7</container>
+      </did>
+    </c>
+    <c id="ref57" level="file">
+      <did>
+        <unittitle>Distinguished Kentuckian - Albright</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004749</unitid>
+        <unitdate datechar="creation" type="inclusive">1991 March 21</unitdate>
+        <container id="aspace_47252b39355a791482fbd21998c2da16" label="mixed materials" type="box">6</container>
+        <container id="aspace_a0f4ee271e01529cb46412e5ed00d14b" parent="aspace_47252b39355a791482fbd21998c2da16" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref58" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004750</unitid>
+        <unitdate datechar="creation" type="inclusive">1991 April-June</unitdate>
+        <container id="aspace_8d838dea1e571683af58f0cc442ce011" label="mixed materials" type="box">6</container>
+        <container id="aspace_7ece6f0c8677cd3310da14ccc8623fc2" parent="aspace_8d838dea1e571683af58f0cc442ce011" type="folder">9-10</container>
+      </did>
+    </c>
+    <c id="ref59" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004751</unitid>
+        <unitdate datechar="creation" type="inclusive">1991 July-September</unitdate>
+        <container id="aspace_5f5d9d0e08258067786b228f363cb308" label="mixed materials" type="box">6</container>
+        <container id="aspace_b55632df26792cfb1da8635c18eaa032" parent="aspace_5f5d9d0e08258067786b228f363cb308" type="folder">11-12</container>
+      </did>
+    </c>
+    <c id="ref60" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004752</unitid>
+        <unitdate datechar="creation" type="inclusive">1991 October-December</unitdate>
+        <container id="aspace_b298d2c2c2f9f7f0b63889e675a82a62" label="mixed materials" type="box">6</container>
+        <container id="aspace_c9de7566acc37a0ad5203ef149169a00" parent="aspace_b298d2c2c2f9f7f0b63889e675a82a62" type="folder">13-15</container>
+      </did>
+    </c>
+    <c id="ref61" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004753</unitid>
+        <unitdate datechar="creation" type="inclusive">1992 January-March</unitdate>
+        <container id="aspace_ae09bac9207db1aef5fa3a696313579c" label="mixed materials" type="box">6</container>
+        <container id="aspace_2c24cc23e22f2eca70581eb77206c507" parent="aspace_ae09bac9207db1aef5fa3a696313579c" type="folder">16-17</container>
+      </did>
+    </c>
+    <c id="ref62" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004754</unitid>
+        <unitdate datechar="creation" type="inclusive">1992 April-June</unitdate>
+        <container id="aspace_e1a09947244d98dfcb196a3c9d23e9f5" label="mixed materials" type="box">6</container>
+        <container id="aspace_62282f27275b9bee6fb67860b961b80b" parent="aspace_e1a09947244d98dfcb196a3c9d23e9f5" type="folder">18</container>
+      </did>
+    </c>
+    <c id="ref63" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004755</unitid>
+        <unitdate datechar="creation" type="inclusive">1992 July-September</unitdate>
+        <container id="aspace_63228e7ec1cd648cd4bd053dbcd4cf68" label="mixed materials" type="box">6</container>
+        <container id="aspace_6927c41b787ef2c125b5c219f0a8384c" parent="aspace_63228e7ec1cd648cd4bd053dbcd4cf68" type="folder">19</container>
+      </did>
+    </c>
+    <c id="ref64" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004756</unitid>
+        <unitdate datechar="creation" type="inclusive">1992 October-December</unitdate>
+        <container id="aspace_fe076855b15b896bfbac8fd6e2e4e9b0" label="mixed materials" type="box">6</container>
+        <container id="aspace_76861d291f11ca7ae9d76e0618d8c82c" parent="aspace_fe076855b15b896bfbac8fd6e2e4e9b0" type="folder">20</container>
+      </did>
+    </c>
+    <c id="ref65" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004757</unitid>
+        <unitdate datechar="creation" type="inclusive">1993 January-March</unitdate>
+        <container id="aspace_7c1f63ca7375b65a70e67fd00f9b3927" label="mixed materials" type="box">6</container>
+        <container id="aspace_4826152a9fd1a3af3dc481928c1c0c4e" parent="aspace_7c1f63ca7375b65a70e67fd00f9b3927" type="folder">21</container>
+      </did>
+    </c>
+    <c id="ref66" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004758</unitid>
+        <unitdate datechar="creation" type="inclusive">1993 April-June</unitdate>
+        <container id="aspace_b2874e95400324d865f963344e01d7eb" label="mixed materials" type="box">6</container>
+        <container id="aspace_d9e7233192caa61c33508de2a7c8467c" parent="aspace_b2874e95400324d865f963344e01d7eb" type="folder">22-23</container>
+      </did>
+    </c>
+    <c id="ref67" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004759</unitid>
+        <unitdate datechar="creation" type="inclusive">1993 July-September</unitdate>
+        <container id="aspace_94328ea22eb99e97e13a83b7e87a2bb1" label="mixed materials" type="box">6</container>
+        <container id="aspace_cacbc6353fc2aa95d38f809980cb3df3" parent="aspace_94328ea22eb99e97e13a83b7e87a2bb1" type="folder">24</container>
+        <container id="aspace_7c23277637af15aed0da9f1816e046de" label="mixed materials" type="box">7</container>
+        <container id="aspace_93ede6c74ccb61858dec959273ab9815" parent="aspace_7c23277637af15aed0da9f1816e046de" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref68" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004760</unitid>
+        <unitdate datechar="creation" type="inclusive">1993 October-December</unitdate>
+        <container id="aspace_22965218e03a1f3df3229807fca1ba06" label="mixed materials" type="box">7</container>
+        <container id="aspace_d64ac944b056e303831f11044184bca3" parent="aspace_22965218e03a1f3df3229807fca1ba06" type="folder">2-3</container>
+      </did>
+    </c>
+    <c id="ref69" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004761</unitid>
+        <unitdate datechar="creation" type="inclusive">1994 January-March</unitdate>
+        <container id="aspace_974ca4fb78682b05d0542215717cf1c1" label="mixed materials" type="box">7</container>
+        <container id="aspace_173abd4f01fe455bdb668ade170f3bc3" parent="aspace_974ca4fb78682b05d0542215717cf1c1" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref70" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004762</unitid>
+        <unitdate datechar="creation" type="inclusive">1994 April-June</unitdate>
+        <container id="aspace_1c48138713c3250988acaaceb0c6c142" label="mixed materials" type="box">7</container>
+        <container id="aspace_6af0102cc179f50c56aaf622ed7cfedc" parent="aspace_1c48138713c3250988acaaceb0c6c142" type="folder">5-6</container>
+      </did>
+    </c>
+    <c id="ref71" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004763</unitid>
+        <unitdate datechar="creation" type="inclusive">1994 July-September</unitdate>
+        <container id="aspace_ce71c6b225b863b5cdeb667c2e235ef2" label="mixed materials" type="box">7</container>
+        <container id="aspace_1ad1983381141678465c6c407c087663" parent="aspace_ce71c6b225b863b5cdeb667c2e235ef2" type="folder">7-8</container>
+      </did>
+    </c>
+    <c id="ref72" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004764</unitid>
+        <unitdate datechar="creation" type="inclusive">1994 October-December</unitdate>
+        <container id="aspace_b1c2808ae7c7a9106ef63cca0bf135d4" label="mixed materials" type="box">7</container>
+        <container id="aspace_7e5dc52d1900f5e566f0be16d1f6afd1" parent="aspace_b1c2808ae7c7a9106ef63cca0bf135d4" type="folder">9-10</container>
+      </did>
+    </c>
+    <c id="ref73" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004765</unitid>
+        <unitdate datechar="creation" type="inclusive">1995 January-March</unitdate>
+        <container id="aspace_42c62bcb338bfd74b2431128fa51b43f" label="mixed materials" type="box">7</container>
+        <container id="aspace_8c5ca8402a74a0ff06c69d91a0496c18" parent="aspace_42c62bcb338bfd74b2431128fa51b43f" type="folder">11-12</container>
+      </did>
+    </c>
+    <c id="ref74" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004766</unitid>
+        <unitdate datechar="creation" type="inclusive">1995 April-June</unitdate>
+        <container id="aspace_69edcaecf6a301eb0dbcc29aadc75e10" label="mixed materials" type="box">7</container>
+        <container id="aspace_9f01f6de95daff84618732673d2279b8" parent="aspace_69edcaecf6a301eb0dbcc29aadc75e10" type="folder">13-14</container>
+      </did>
+    </c>
+    <c id="ref75" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004767</unitid>
+        <unitdate datechar="creation" type="inclusive">1995 July-September</unitdate>
+        <container id="aspace_0e6b10bf1e0e8511e11d8e12c312b2ef" label="mixed materials" type="box">7</container>
+        <container id="aspace_a899f06d83b02dea2739d7eb021e0f45" parent="aspace_0e6b10bf1e0e8511e11d8e12c312b2ef" type="folder">15-16</container>
+      </did>
+    </c>
+    <c id="ref76" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004768</unitid>
+        <unitdate datechar="creation" type="inclusive">1995 October-December</unitdate>
+        <container id="aspace_738e3557d6a32294b62d974b614c01f9" label="mixed materials" type="box">7</container>
+        <container id="aspace_9212677a6b217bb499f626fdaf4f2fa6" parent="aspace_738e3557d6a32294b62d974b614c01f9" type="folder">17</container>
+      </did>
+    </c>
+    <c id="ref77" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004769</unitid>
+        <unitdate datechar="creation" type="inclusive">1996 January-March</unitdate>
+        <container id="aspace_90f6937b9cdce9d59555a6aa16d5928d" label="mixed materials" type="box">7</container>
+        <container id="aspace_27c00a0c290f7f28cdcb94caaac19de7" parent="aspace_90f6937b9cdce9d59555a6aa16d5928d" type="folder">18-19</container>
+      </did>
+    </c>
+    <c id="ref78" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004770</unitid>
+        <unitdate datechar="creation" type="inclusive">1996 April-June</unitdate>
+        <container id="aspace_d09d877263cdc0832587a80af67ad031" label="mixed materials" type="box">7</container>
+        <container id="aspace_623c37a977eab604cac2b64802a81037" parent="aspace_d09d877263cdc0832587a80af67ad031" type="folder">20-21</container>
+      </did>
+    </c>
+    <c id="ref79" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004771</unitid>
+        <unitdate datechar="creation" type="inclusive">1996 July-September</unitdate>
+        <container id="aspace_161d4942308de380c32f53a5dc43b173" label="mixed materials" type="box">7</container>
+        <container id="aspace_f6f3e1a3ab4b0e88a57967772dafee1b" parent="aspace_161d4942308de380c32f53a5dc43b173" type="folder">22-23</container>
+      </did>
+    </c>
+    <c id="ref80" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004772</unitid>
+        <unitdate datechar="creation" type="inclusive">1996 October-December</unitdate>
+        <container id="aspace_4425a6f8e77bcc313c11da51983522b5" label="mixed materials" type="box">8</container>
+        <container id="aspace_9e7e5898ed39a1eef3035561b44149dc" parent="aspace_4425a6f8e77bcc313c11da51983522b5" type="folder">1-2</container>
+      </did>
+    </c>
+    <c id="ref81" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004773</unitid>
+        <unitdate datechar="creation" type="inclusive">1997 January-March</unitdate>
+        <container id="aspace_9d2b6981d77dd5ebc0a00c88b4bd345e" label="mixed materials" type="box">8</container>
+        <container id="aspace_745ee4eaa5936d1f995b6c1c23512fee" parent="aspace_9d2b6981d77dd5ebc0a00c88b4bd345e" type="folder">3-4</container>
+      </did>
+    </c>
+    <c id="ref82" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004774</unitid>
+        <unitdate datechar="creation" type="inclusive">1997 April-June</unitdate>
+        <container id="aspace_60b6741ab63977884e2f0e5fe4bccaa2" label="mixed materials" type="box">8</container>
+        <container id="aspace_a7c253e2d923e60015208a3bb5537978" parent="aspace_60b6741ab63977884e2f0e5fe4bccaa2" type="folder">5-6</container>
+      </did>
+    </c>
+    <c id="ref83" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004775</unitid>
+        <unitdate datechar="creation" type="inclusive">1997 July-September</unitdate>
+        <container id="aspace_48a513f99ca3f9c9ea893007de63ed40" label="mixed materials" type="box">8</container>
+        <container id="aspace_a6bbcdc0c5c9eae97638c87165835208" parent="aspace_48a513f99ca3f9c9ea893007de63ed40" type="folder">7-8</container>
+      </did>
+    </c>
+    <c id="ref84" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004776</unitid>
+        <unitdate datechar="creation" type="inclusive">1997 October-December</unitdate>
+        <container id="aspace_f914587f9a792f13061de205d5790bfc" label="mixed materials" type="box">8</container>
+        <container id="aspace_1fc02cb287714691cc87edb4ba94860d" parent="aspace_f914587f9a792f13061de205d5790bfc" type="folder">9-10</container>
+      </did>
+    </c>
+    <c id="ref85" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004777</unitid>
+        <unitdate datechar="creation" type="inclusive">1998 January-March</unitdate>
+        <container id="aspace_ca4f5873bd0ee3ac82fbf1c7e91a521a" label="mixed materials" type="box">8</container>
+        <container id="aspace_313f5f392180c4f5a05abca5f7308493" parent="aspace_ca4f5873bd0ee3ac82fbf1c7e91a521a" type="folder">11-12</container>
+      </did>
+    </c>
+    <c id="ref86" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004778</unitid>
+        <unitdate datechar="creation" type="inclusive">1998 April-June</unitdate>
+        <container id="aspace_baf212e318b4a94384cb3186dc977a83" label="mixed materials" type="box">8</container>
+        <container id="aspace_7bbaef6e029471a76872f8adc4bad46d" parent="aspace_baf212e318b4a94384cb3186dc977a83" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref87" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004779</unitid>
+        <unitdate datechar="creation" type="inclusive">1998 July-September</unitdate>
+        <container id="aspace_52181c4900994b6c981ef5a16f02af89" label="mixed materials" type="box">8</container>
+        <container id="aspace_cf1df0dc87bd730b93b72c6a4b86d917" parent="aspace_52181c4900994b6c981ef5a16f02af89" type="folder">14-15</container>
+      </did>
+    </c>
+    <c id="ref88" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004780</unitid>
+        <unitdate datechar="creation" type="inclusive">1998 October-December</unitdate>
+        <container id="aspace_56e6c5c302d6734390240632ce4d2a50" label="mixed materials" type="box">8</container>
+        <container id="aspace_ee3eb37aa24b6cb94f1ada4cf4955a62" parent="aspace_56e6c5c302d6734390240632ce4d2a50" type="folder">16</container>
+      </did>
+    </c>
+    <c id="ref89" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004781</unitid>
+        <unitdate datechar="creation" type="inclusive">1999 January-March</unitdate>
+        <container id="aspace_9a02cb2bfc133193f184a89ab820d408" label="mixed materials" type="box">8</container>
+        <container id="aspace_fe4071ffb8a24dd9b4c2fc1f24d7dd39" parent="aspace_9a02cb2bfc133193f184a89ab820d408" type="folder">17</container>
+      </did>
+    </c>
+    <c id="ref90" level="file">
+      <did>
+        <unittitle>Article and notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004782</unitid>
+        <unitdate datechar="creation" type="inclusive">1999 April-June</unitdate>
+        <container id="aspace_7e939bc239783381c50ed33dbc6a717f" label="mixed materials" type="box">8</container>
+        <container id="aspace_c7154b591fa752bb1aa3b4efdd2613df" parent="aspace_7e939bc239783381c50ed33dbc6a717f" type="folder">18</container>
+      </did>
+    </c>
+    <c id="ref91" level="file">
+      <did>
+        <unittitle>Articles</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004783</unitid>
+        <unitdate datechar="creation" type="inclusive">1999</unitdate>
+        <container id="aspace_9ae7166c49761c8eaabbc2be11b66486" label="mixed materials" type="box">8</container>
+        <container id="aspace_497f01ad0a6f614ced54932c19077c83" parent="aspace_9ae7166c49761c8eaabbc2be11b66486" type="folder">19</container>
+      </did>
+    </c>
+    <c id="ref92" level="file">
+      <did>
+        <unittitle>Historic front pages from <title render="italic">The Louisville Courier-Journal</title></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1004784</unitid>
+        <unitdate datechar="creation" type="inclusive">1900-1969</unitdate>
+        <container id="aspace_82ef17ab265b7394a27fd27efb6ed050" label="mixed materials" type="box">8</container>
+        <container id="aspace_9cb01154d22bcbc7cd73f21bc2f42974" parent="aspace_82ef17ab265b7394a27fd27efb6ed050" type="folder">20</container>
+      </did>
+    </c>
+  </contents>
+</header>

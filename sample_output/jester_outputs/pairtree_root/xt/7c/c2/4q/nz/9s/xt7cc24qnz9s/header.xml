@@ -1,0 +1,68 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7cc24qnz9s</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7cc24qnz9s/data/2019ms033.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Self-Denial Saving Club minute book (dated 1924-1927; 0.1 cubic feet; 1 item) comprises a minute book with ledger that documents an organization of African-American women in Mayfield, Kentucky, in the 1920s who intentionally denied themselves small purchases throughout the year to recieve a larger sum of money from the collective fund for holiday purchases.</abstract>
+  <descriptive_summary>
+    <author>Christopher J. Mattingly</author>
+    <title>Self-Denial Saving Club minute book</title>
+    <source>Self-Denial Saving Club minute book</source>
+    <unitdates>
+      <date>1924-1927 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>African American women -- Kentucky</subject>
+      <subject>Banks and banking -- Kentucky.</subject>
+      <subject>Graves County (Ky.)</subject>
+      <subject>Mayfield (Ky.)</subject>
+      <subject>Money.</subject>
+      <subject>Women's and gender history</subject>
+      <subject>Self-Denial Saving Club (Mayfield, Ky.)</subject>
+    </subjects>
+    <prefercite>2019ms033 : [identification of item], Self-Denial Savings Club minute book, 1924-1927, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Self-Denial Saving club has its origins in the western African tradition of Sou-Sou (also spelled susu; derived from the Yoruba term <emph render="doublequote">esusu</emph>) which is an informal arrangement between a small group of people who make standard monetary contributions to a common fund at regular intervals whereby each member recieves their contributions in the form of a lump sum on a rotating basis. Similar saving practices can be found all over the world especially in marginalized communities where they have been traditionally used to circumvent late-fees, penalties, interest charged, and mistrust associated with institutional banking systems. Today these savings arrangements are still popular especially among African, Caribbean, Latino, and Asian communities. They have helped generations of people achieve their financial goals like starting businesses, saving for gifts, down payments on properties, and education for their children.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Self-Denial Saving Club minute book (dated 1924-1927; 0.1 cubic feet; 1 item) comprises a minute book with ledger that documents an organization of African-American women in Mayfield, Kentucky, in the 1920s who intentionally denied themselves small purchases throughout the year to recieve a larger sum of money from the collective fund for holiday purchases. Included in the minute book are a membership roll that lists 22 women on the board with roles of president, vice-president, financial secretary, and chaplain; description of the proceedings of each weekly meeting; and a set of by-laws which are incorporated into the minutes of the second meeting. Each meeting generally followed a pattern: call to order by the president, prayer or scripture reading by the chaplain, song by the group, roll call by the financial secretary, with quotations and dues payments noted, often with a contribution total recorded, brief notes on business and the evening's program, variously a guest speaker, a game, a thanks to the evening's host, and announcements for the next meeting. </p><p>The women listed as members of the Self-Denial Saving Club are Rosie Andrews, Willie May Davis, Laura Lernard, Alma Johnson, Pandora Emerson, Ida Hail, Erlie Bell Gleeson, Mattie L. Jones, Mary Hutcherson, Laura Wilkerson, Rinnie Williams, Sister Fox, Mollie Stunson, Tommie Flowers, Harriet Lewis, Ludora Henderson, Maggie Ross, Addie Walls, Lillie M. Cooper, Prudie Vance, Manismo Utterback, and Ellen Foster</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Self-Denial Saving Club minute book</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945123</unitid>
+        <unitdate datechar="creation" type="inclusive">1924-1927</unitdate>
+        <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+        <container id="aspace_e22687d65bd3c2482845a2099914a20c" label="mixed materials" type="box">MS-47</container>
+        <container id="aspace_6b640f8bb0057be85da3752af1abdc63" parent="aspace_e22687d65bd3c2482845a2099914a20c" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

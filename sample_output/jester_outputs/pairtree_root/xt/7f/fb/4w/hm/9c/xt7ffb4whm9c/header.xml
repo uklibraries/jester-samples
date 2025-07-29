@@ -1,0 +1,73 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7ffb4whm9c</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7ffb4whm9c/data/87m43.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Robert Spencer Cotterill papers (dated 1981-1985; 0.23 cubic feet; 1 box) consist of a copy of the manuscript, The History of Fleming County, the first one hundred years, 1780-1880 and accompanying correspondence.</abstract>
+  <descriptive_summary>
+    <author>Revised and encoded by Jesse Nau</author>
+    <title>Robert Spencer Cotterill papers</title>
+    <source>Robert Spencer Cotterill papers</source>
+    <unitdates>
+      <date>1981-1985 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement>Arranged by material type.</arrangement>
+    <subjects>
+      <subject>Appalachian Region -- History.</subject>
+      <subject>Fleming County (Ky.) -- History.</subject>
+      <subject>Kentucky -- History.</subject>
+      <subject>Typescript.</subject>
+      <subject>Bert T. Combs Appalachian Collection</subject>
+      <subject>Kentucky Authors Collection</subject>
+    </subjects>
+    <prefercite>87m43: [identification of item], Robert Spencer Cotterill papers, 1981-1985, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Robert Spencer Cotterill was born in Ewing, Kentucky in 1884. He received his Bachelor's from Kentucky Wesleyan College, his Master's from the University of Virginia and his Ph.D. from the University of Wisconsin. He was the author of numerous history works including <title>History of Pioneer Kentucky</title> (1917), "Early Railroading in Kentucky" (1919), <title>The Old South</title> (1936), <title>A Short History of the Americas</title> (1939), and <title>The Southern Indians</title> (1954).</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents note</head>
+      <p>The Robert Spencer Cotterill papers (dated 1981-1985; 0.23 cubic feet; 1 box) consist of a copy of the manuscript, <title render="italic">The History of Fleming County, the first one hundred years, 1780-1880</title> and accompanying correspondence. The correspondence is primarily between Samuel Cassidy and Cotterill's nephew, Arthur L. Cotterill, and niece, Marie C. Grannis, and includes letters, conditions governing the manuscripts printing, and lists of parties interested in its publication. Also present are the maps compiled by Samuel M. Cassidy, the donor of the collection, that were to be included in Cotterill's book.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle><title render="italic">History of Fleming County, The first one hundred years, 1780-1880</title> manuscript</unittitle>
+        <unitdate datechar="creation" type="inclusive">1981-1985</unitdate>
+        <container id="aspace_65d1b9bf5bb45acabd5701e4ccc3b3e7" label="mixed materials" type="box">1</container>
+        <container id="aspace_dede6538bc15f277c70df8eefc15ae21" parent="aspace_65d1b9bf5bb45acabd5701e4ccc3b3e7" type="folder">1-2</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Cotterill, Robert Spencer, correspondence and maps</unittitle>
+        <unitdate datechar="creation" type="inclusive">1981-1985</unitdate>
+        <container id="aspace_a573e61afbaa5023052165d59d2c6b75" label="mixed materials" type="box">1</container>
+        <container id="aspace_e7fc40d38475348e7b7311de47ee1842" parent="aspace_a573e61afbaa5023052165d59d2c6b75" type="folder">3</container>
+      </did>
+    </c>
+  </contents>
+</header>

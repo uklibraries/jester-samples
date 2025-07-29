@@ -1,0 +1,92 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7j6q1sjm3h</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7j6q1sjm3h/data/1997ms375.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Gwen Davenport papers (dated 1960; 0.45 cubic feet; 1 box) comprises the galley proofs, routing form, and typescript with edits of the novel The Wax Foundation.</abstract>
+  <descriptive_summary>
+    <author>Amanda Hearn</author>
+    <title>Gwen Davenport papers</title>
+    <source>Gwen Davenport papers</source>
+    <unitdates>
+      <date>1960</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.45 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Manuscripts, American -- Kentucky.</subject>
+      <subject>Satire</subject>
+      <subject>Typescript.</subject>
+      <subject>Women authors -- 20th century.</subject>
+      <subject>Kentucky Authors Collection</subject>
+    </subjects>
+    <prefercite>1997MS375: [identification of item], Gwen Davenport papers, 1960, University of Kentucky Libraries Special Collection Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Gwen Leys Davenport (1909-2002) was born in Panama to a Navy physician, but settled in Louisville, Ky following her marriage to stockbroker John Davenport in 1931. Davenport wrote several novels and books throughout her life. She is best known for her 1947 novel <title render="italic">Belvedere</title> which was adapted into three movies and a television series (running from 1985-1990). Gwen and John Davenport had three children. </p><p>Sources: </p><p>Reuters. <title render="doublequote">Gwen Davenport, 92, 'Belvedere' Author (Published 2002).</title> The New York Times, April 15, 2002. https://www.nytimes.com/2002/04/15/arts/gwen-davenport-92-belvedere-author.html. </p><p><title render="doublequote">Obituary for Gwen Leys Davenport</title> Newspapers.com. The Courier-Journal, March 25, 2002. https://www.newspapers.com/article/the-courier-journal-obituary-for-gwen-le/130978607/.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Gwen Davenport papers (dated 1960; 0.45 cubic feet; 1 box) comprises the galley proofs, routing form, and typescript with edits of the novel <title render="italic">The Wax Foundation</title>. The novel is a satire about a group of intellectual humanitarians living together in a castle. It was published by Doubleday in 1961.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle><title render="italic">The Wax Foundation</title> final galley proof with markups</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948275</unitid>
+        <unitdate datechar="creation" type="inclusive">1960</unitdate>
+        <container id="aspace_a4170756f3b751db2dc15a25e19451d8" label="mixed materials" type="box">1</container>
+        <container id="aspace_a0b9719ce8a805ea37edca399d85aaa8" parent="aspace_a4170756f3b751db2dc15a25e19451d8" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle><title render="italic">The Wax Foundation</title> galley proof</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948278</unitid>
+        <unitdate datechar="creation" type="inclusive">1960</unitdate>
+        <container id="aspace_c5721c0a458c0a3aefa7b1519a07463c" label="mixed materials" type="box">1</container>
+        <container id="aspace_0827e5c3cc07bb76e627e35653e9bc07" parent="aspace_c5721c0a458c0a3aefa7b1519a07463c" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle><title render="italic">The Wax Foundation</title> galley routing form</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948280</unitid>
+        <unitdate datechar="creation" type="inclusive">1960 August</unitdate>
+        <container id="aspace_023e8b0383aa89670b0f986c20b5ba45" label="mixed materials" type="box">1</container>
+        <container id="aspace_e16328abb573f9eaf84e54517b0dcbd0" parent="aspace_023e8b0383aa89670b0f986c20b5ba45" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle><title render="italic">The Wax Foundation</title> typescript with edits</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948281</unitid>
+        <unitdate datechar="creation" type="inclusive">1960</unitdate>
+        <container id="aspace_d412fc617db209f6bbfd1445f4231082" label="mixed materials" type="box">1</container>
+        <container id="aspace_cd5542f4ab8f6d0332ed665cb1c469f2" parent="aspace_d412fc617db209f6bbfd1445f4231082" type="folder">4-7</container>
+      </did>
+    </c>
+  </contents>
+</header>

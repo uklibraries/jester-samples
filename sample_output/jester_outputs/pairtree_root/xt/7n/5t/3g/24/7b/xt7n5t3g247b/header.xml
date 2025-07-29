@@ -1,0 +1,116 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7n5t3g247b</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7n5t3g247b/data/2023ua053.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The University of Kentucky. Facilities Management. Capital Project Management Division. Spindletop Hall inventory records (dated 1972-2006, undated; 0.76 cubic feet, 454 Megabytes; 2 document boxes, 1 photograph box, and 463 digital files) comprise prints, negatives, slides, and digital photographs of and floor plans and room barcodes for inventories conducted by University of Kentucky Facilities Management of the furniture and furnishings at Spindletop Hall (3414 Iron Works Pike, Lexington, Kentucky).</abstract>
+  <descriptive_summary>
+    <author>Maria Vela, Becca Taylor, Ruth E. Bryan</author>
+    <title>University of Kentucky. Facilities Management. Capital Project Management Division. Spindletop Hall inventory records</title>
+    <source>University of Kentucky. Facilities Management. Capital Project Management Division. Spindletop Hall inventory records</source>
+    <unitdates>
+      <date>1972-2006, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.76 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format into four series: Prints, Slides, Digital Photographs, and Documents.</arrangement>
+    <subjects>
+      <subject>Electronic records</subject>
+      <subject>Historic buildings -- Kentucky.</subject>
+      <subject>Historic buildings -- Kentucky -- Management</subject>
+      <subject>Photographs</subject>
+      <subject>Spindletop Farm (Ky.)</subject>
+      <subject>University of Kentucky. Facilities Management. Capital Project Management Division</subject>
+    </subjects>
+    <prefercite>2023ua053 : [identification of item], University of Kentucky. Facilities Management. Capital Project Management Division. Spindletop Hall Inventory Records, 1972-2006, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical Note</head>
+      <p>Spindletop Hall, located on the eight-hundred-acre Spindletop Farm, was constructed by Mildred (Pansy) Yount in 1935. Yount and her husband, Miles Frank Yount, gained new wealth after discovering oil in a dormant, Beaumont, Texas, oil field named Spindletop Field. In 1933, eight years after the oil discovery, Miles Yount suffered a sudden heart attack and died.  </p><p>After the death of her husband, Pansy Yount decided to relocate to Kentucky, purchased Spindletop Farm, and began the construction of Spindletop Hall. At its completion, Spindletop Hall was an impressive mansion with classical architecture and modern amenities. It comprised 40 rooms, each with its own thermostat, 14 bathrooms, 11 fireplaces, and covered over 45,000 square feet. Notably, the circular staircase and 1,800 square foot living room were the largest in Kentucky at construction.  </p><p>Yount moved out of Spindletop in 1955 and sold the farm to the University of Kentucky in 1959 for $850,000. In 1962, the same year as Yount's death, the University of Kentucky Faculty, Staff, and Alumni Club moved into Spindletop Hall.  In September 2012, the hall and surrounding buildings entered the U.S. National Register of Historic Places. </p><p>References 
+      National Archives Catalog. (n.d.). Kentucky SP Spindletop Farm. National Archives Catalog. Retrieved June 25, 2024, from https://catalog.archives.gov/id/123849998 </p><p>Spindletop Hall. (n.d.). History. Retrieved June 25, 2024, from https://www.spindletophall.org/history  </p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The University of Kentucky. Facilities Management. Capital Project Management Division. Spindletop Hall inventory records (dated 1972-2006, undated; 0.76 cubic feet, 454 Megabytes; 2 document boxes, 1 photograph box, and 463 digital files) comprise prints, negatives, slides, and digital photographs of and floor plans and room barcodes for inventories conducted by University of Kentucky Facilities Management of the furniture and furnishings at Spindletop Hall (3414 Iron Works Pike, Lexington, Kentucky).  The digital photographs are in JPG format.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Prints</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968790</unitid>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+      <c id="ref19" level="file"/>
+      <c id="ref20" level="file"/>
+      <c id="ref21" level="file"/>
+      <c id="ref22" level="file"/>
+      <c id="ref23" level="file"/>
+    </c>
+    <c id="ref24" level="series">
+      <did>
+        <unittitle>Slides 1-202 (207 images)</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968791</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_ad5bdb018ce696640f151573e4e4c0f6" label="graphic materials" type="box">3</container>
+      </did>
+    </c>
+    <c id="ref25" level="series">
+      <did>
+        <unittitle>Digital Photographs</unittitle>
+        <unitid>Series III.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/1000740</unitid>
+        <unitdate datechar="creation" type="inclusive">2006</unitdate>
+        <container id="aspace_9fc7ca3cb83d70fbc33ad22c6b24666b" label="Digital File" type="digitalfolder">2023ua053_borndigital</container>
+      </did>
+    </c>
+    <c id="ref26" level="series">
+      <did>
+        <unittitle>Documents</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968792</unitid>
+      </did>
+      <c id="ref27" level="file"/>
+      <c id="ref28" level="file"/>
+      <c id="ref29" level="file"/>
+      <c id="ref30" level="file"/>
+    </c>
+  </contents>
+</header>

@@ -1,0 +1,77 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt78sf2m8x4b</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt78sf2m8x4b/data/1997ms190.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The James B. Clay family diary and copybook (dated 1849-1881; 0.23 cubic feet; 1 box) comprises a diary documenting the journey of James B. Clay to Portugal in 1849 and a copybook kept by his son Thomas H. Clay and others.</abstract>
+  <descriptive_summary>
+    <author>Katerina Banks</author>
+    <title>James B. Clay family diary and copybook</title>
+    <source>James B. Clay family diary and copybook</source>
+    <unitdates>
+      <date>1849-1881 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Diaries -- 19th Century.</subject>
+      <subject>Europe -- Description and travel.</subject>
+      <subject>Greenland -- description and travel</subject>
+      <subject>Ocean travel</subject>
+      <subject>Polar regions -- Discovery and exploration</subject>
+      <subject>Political poetry, English</subject>
+      <subject>Clay, Thomas Julian, 1853-1939</subject>
+      <subject>Kentucky Authors Collection</subject>
+    </subjects>
+    <prefercite>1997ms190: [identification of item] James B. Clay family diary and copybook, 1849-1881, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>James Brown Clay (1817-1864) was born in Washington, D.C. during his father Henry Clay's tenure as Speaker of the U.S. House of Representatives. In his young adulthood, he studied at Transylvania University in Lexington, Kentucky, then went on to practice law in the same city. After serving as the U.S. Chargé d'Affaires to Portugal in 1849-1850, he was elected to the U.S. House of Representatives as a Democrat, a change from his lifelong devotion to the Whig Party. He participated in the Peace Conference of 1861, held in Washington, D.C., that sought to avert the coming American Civil War.  Clay supported the Confederacy, but tuberculosis prevented him from participating in the fighting. He died in Montréal, Québec, where he had gone in hope of improving his health. He and his wife Susan M. Clay had ten children together.</p><p>The fourth son and fifth child of James B. Clay (see above), Thomas Jacob Clay (1853-1939) was born in Lexington, Kentucky, after his family returned there following a few years of farming in Missouri.  During his adulthood he served as a first lieutenant in the U.S. Army and participated in the Geronimo Campaign.  He later moved to New York, New York, where he lived until his death.</p><p>Named after her paternal grandmother and the Clay family matriarch, Lucretia Hart Clay (1851-1923) was the elder sister of Thomas Jacob Clay and first daughter of James B. Clay.  She was an author of novels and family biographies.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The James B. Clay family diary and copybook (dated 1849-1881; 0.23 cubic feet; 1 box) comprises a diary documenting the journey of James B. Clay to Portugal in 1849 and a copybook kept by his son Thomas J. Clay and others. The diary principally documents the travels of James B. Clay and his family through the northeastern U.S. and Canada on their way to Portugal, where James B. Clay would serve as U.S. Chargé d'Affaires as appointed by Secretary of State J. M. Clayton. James B. Clay's diplomatic interactions with European royalty and travels around southern Europe are also described. This account continues on the reverse side of the diary and is followed by an 1881 account, presumably written by Harry Independence Clay, of the Howgate expedition to northern Greenland. It describes hunting and sailing around the Carey Islands.  The handwriting is different from that of earlier entries and the author of this entry is unknown.  The diary was later owned by James B. Clay's daughter Lucretia Hart Clay, who received it from her mother Susan M. Clay in 1879.  </p><p>The copybook belonging to Thomas J. Clay initially functioned as such, with a selection of Civil War-related poetry written from a Confederate perspective.  Entries by James B. Clay in 1862 mention his acquaintance with the statesman Daniel Webster and discussions with family members concerning the estate of his father Henry Clay.  Further entries by unknown authors address the spread of cholera in the early 19th century, the legality of prostitution, and the 1709 Russian victory over Sweden in the Battle of Poltava, including two sketches of the latter.  Additional lists of chemical compounds, textbooks, and works of American and British literature appear in the final pages.  Several of Thomas J. Clay's rural-themed graphite sketches, one of which is dated 1866, are also found loosely between the pages of the copybook.  The dating for many of the entries is unclear.  The copybook should be handled carefully to avoid further cracking of the spine, which has separated from the back cover completely.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>James B. Clay and others diary</unittitle>
+        <unitdate datechar="creation" type="inclusive">1849-1881</unitdate>
+        <container id="aspace_a22a8e53129a54764fb37ef43840422e" label="mixed materials" type="box">1</container>
+        <container id="aspace_406441315106f4fbecd215cd39ebc7fb" parent="aspace_a22a8e53129a54764fb37ef43840422e" type="folder">1</container>
+        <dao entityref="xt78sf2m8x4b_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Thomas J. Clay copybook</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_d4f812ecad42adfaaa1d841e29854554" label="mixed materials" type="box">1</container>
+        <container id="aspace_ff49fd31fdb05a9e16bd78e872b775bd" parent="aspace_d4f812ecad42adfaaa1d841e29854554" type="folder">2</container>
+        <dao entityref="xt78sf2m8x4b_2_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

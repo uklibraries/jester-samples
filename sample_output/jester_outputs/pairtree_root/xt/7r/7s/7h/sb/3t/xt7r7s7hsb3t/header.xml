@@ -1,0 +1,103 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7r7s7hsb3t</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7r7s7hsb3t/data/2014ms0238.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The James King Ashley Civil War manuscript (undated; 0.15 cubic feet; 1 box) comprises a handwritten memoir written by James King Ashley of the 20th Indiana Battery, recounting his experiences during the Civil War.</abstract>
+  <descriptive_summary>
+    <author>Finding aid prepared by Megan Mummey</author>
+    <title>James King Ashley civil war manuscript</title>
+    <source>James King Ashley civil war manuscript</source>
+    <unitdates>
+      <date>undated</date>
+    </unitdates>
+    <creator>Ashley, James King, 1845-1926</creator>
+    <extent>0.15 Cubic feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Ashley, James King, 1845-1926</subject>
+      <subject>Cahaba Federal Prison. (Cahaba, Ala.)</subject>
+      <subject>Thompson, Helen Dees</subject>
+      <subject>United States--History--Civil War, 1861-1865--Prisoners and prisons, Confederate.</subject>
+      <subject>United States--History--Civil War, 1861-1865.</subject>
+    </subjects>
+    <prefercite>2014ms0238: [identification of item], James King Ashley Civil War manuscript, undated, University of Kentucky Special Collections.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+                  <head>Biographical note</head>
+                  <p>James King Ashley (1845-1926) was born in Pulaski County, Kentucky. He served as a Union soldier in the 20th Indiana Battery during the Civil War. He was captured and imprisoned in Cahaba prison in Alabama for nine months. After his parole, he was placed on the Confederate steamship 
+                      <emph render="doublequote">Sultana</emph> which exploded. Ashley survived the explosion and returned to Indiana and later Pulaski County, Kentucky.</p>
+    </bioghist>
+    <scopecontent>
+      
+                  <head>Scope and Contents note</head>
+                  <p>The James King Ashley Civil War manuscript (undated; 0.15 cubic feet; 1 box) comprises a handwritten memoir written by James King Ashley of the 20th Indiana Battery, recounting his experiences during the Civil War. The memoir describes his enlistment; camp life; his imprisonment in the Confederate prison at Cahaba, Alabama; his eventual parole; and the explosion of the steamship 
+                      <emph render="doublequote">Sultana</emph>.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+                  <head>Conditions Governing Access note</head>
+                  <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+                  <head>Conditions Governing Use note</head>
+                  <p>Property rights reside with the University of Kentucky. The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky. For information about permission to reproduce or publish, please contact Special Collections.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The small hoosier in the big blue clothes</title>, Chapter I - War for the Union - Slavery - Southern hatred - And low tide in American politics</unittitle>
+                        <container id="cid4442001" type="box" label="Mixed materials">1</container>
+                        <container parent="cid4442001" type="folder">1</container>
+                        <unitdate>undated</unitdate>
+                    <dao entityref="xt7r7s7hsb3t_1_1"/></did>
+                </c>
+    <c id="ref2" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The small hoosier in the big blue clothes</title>, Chapter II - Enlistment - Life in Camp - War reminiscence - Capture by the Enemy</unittitle>
+                        <container id="cid4442002" type="box" label="Mixed materials">1</container>
+                        <container parent="cid4442002" type="folder">2</container>
+                        <unitdate>undated</unitdate>
+                    <dao entityref="xt7r7s7hsb3t_2_1"/></did>
+                </c>
+    <c id="ref3" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The small hoosier in the big blue clothes</title>, Chapter III - Captivity and terrors of Cahaba prison</unittitle>
+                        <container id="cid4442003" type="box" label="Mixed materials">1</container>
+                        <container parent="cid4442003" type="folder">3</container>
+                        <unitdate>undated</unitdate>
+                    <dao entityref="xt7r7s7hsb3t_3_1"/></did>
+                </c>
+    <c id="ref4" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The small hoosier in the big blue clothes</title>, Chapter IV - Failure of the insurrection - High water mark - And parole</unittitle>
+                        <container id="cid4442004" type="box" label="Mixed materials">1</container>
+                        <container parent="cid4442004" type="folder">4</container>
+                        <unitdate>undated</unitdate>
+                    <dao entityref="xt7r7s7hsb3t_4_1"/></did>
+                </c>
+    <c id="ref5" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The small hoosier in the big blue clothes</title>, Chapter V - Last days of the Confederacy - Fatal explosion of the Steamer Sultana - And lights out</unittitle>
+                        <container id="cid4442005" type="box" label="Mixed materials">1</container>
+                        <container parent="cid4442005" type="folder">5</container>
+                        <unitdate>undated</unitdate>
+                    <dao entityref="xt7r7s7hsb3t_5_1"/></did>
+                </c>
+  </contents>
+</header>

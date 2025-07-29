@@ -1,0 +1,423 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7kwh2dc992</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7kwh2dc992/data/2021ms053.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Arthur Graham Polyglot Press Collection (dated 1969-2019, undated; 4.16 cubic feet; 5 boxes) comprises hand-printed poetry, quotes, religious passages, illustrations, and personal notes, all in a variety of languages, that document the work of Arthur Graham and his Polyglot Press.</abstract>
+  <descriptive_summary>
+    <author>Olivia Rexford, Katie Cook, and Sarah Coblentz</author>
+    <title>Arthur Graham Polyglot Press Collection</title>
+    <source>Arthur Graham Polyglot Press Collection</source>
+    <unitdates>
+      <date>1969-2019, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>4.16 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject into 9 series: Fritz Kredel Illustrations, English, German, Hebrew and Yiddish, French, Latin, Italian, Other Languages, and Boxwooder.</arrangement>
+    <subjects>
+      <subject>Poetry.</subject>
+      <subject>Printing -- Kentucky.</subject>
+      <subject>Printing presses</subject>
+      <subject>Wood-engraving.</subject>
+      <subject>Kredel, Fritz (1900-1973)</subject>
+    </subjects>
+    <prefercite>2021ms053: [identification of item], Arthur Graham Polyglot Press Collection, 1969-2019, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Arthur Graham was the founder and operator of Polyglot Press in Lexington, Kentucky. He was born in New York and initially planned to be a chemist, earning a degree in chemistry at New York University. After graduating Graham decided that he wanted to sing or teach music so he earned master's and Ed.D degrees from Columbia University in music education and studied singing at the Julliard School of Music. He went on to be a tenor with the Metropolitan Opera, appearing in over 75 performances. Graham taught at the University of Miami at Coral Gables, Florida and Bucknell University in Lewisburg, Pennsylvania before joining the University of Kentucky in 1968 as a professor of Music. Outside of music and music education, Graham was passionate about printing presses and operated a private press out of his home. <emph render="doublequote">Graham began printing in New York and continued in Pennsylvania and Florida before moving to Lexington. Printing as the Polyglot Press, he has brought fine typographic treatment to works in various languages. He has printed in Danish, in English, in French, In German, in Hebrew, in Latin, in Neapolitan, in Spanish, and in Yiddish, and his work demonstrates a sensitive appreciation for linguistic nuance. In addition to the variety of languages in which he prints, Arthur Graham has also assembled an enviable array of type fonts, allowing him to bring further suggestions of meaning and mood to the way in which his words are displayed.</emph></p><p>Source: Burton Milward, <emph render="doublequote">The Private Press Tradition in Lexington, Kentucky</emph>, in The Kentucky Review, Volume XI, Number 3, Autumn 1992, pp. 5-27</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Arthur Graham Polyglot Press Collection (dated 1969-2019, undated; 4.16 cubic feet; 5 boxes) comprises hand-printed poetry, quotes, religious passages, illustrations, and personal notes, all in a variety of languages, that document the work of Arthur Graham and his Polyglot Press. The most frequently appearing language is English, though Arthur also printed his works in German, Hebrew, French, and Latin. Arthur often printed works that included woodcut illustrations made by Fritz Kredel, such as Aesop's fables, Tristan and Isolde, quotes from <title render="italic">Candide</title>, and various proverbs. The Polyglot Press printed original poems and quotes by Arthur Graham along with works by Arthur Rimbaud, Wilhelm Busch, Paul Verlaine, William Shakespeare, John Milton, Paul Holbrook, Marcus Tullius Cicero, and Dante Alighieri. Also included in the collection are short essays by Arthur Graham that were published <title render="italic">The Boxwooder</title>.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Fritz Kredel Illustrations</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928038</unitid>
+        <unitdate datechar="creation" type="inclusive">2006-2013, undated</unitdate>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+      <c id="ref19" level="file"/>
+      <c id="ref20" level="file"/>
+      <c id="ref21" level="file"/>
+      <c id="ref22" level="file"/>
+      <c id="ref23" level="file"/>
+    </c>
+    <c id="ref24" level="series">
+      <did>
+        <unittitle>English</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928061</unitid>
+        <unitdate datechar="creation" type="inclusive">1969-2018, undated</unitdate>
+      </did>
+      <c id="ref25" level="file"/>
+      <c id="ref26" level="file"/>
+      <c id="ref27" level="file"/>
+      <c id="ref28" level="file"/>
+      <c id="ref29" level="file"/>
+      <c id="ref30" level="file"/>
+      <c id="ref31" level="file"/>
+      <c id="ref32" level="file"/>
+      <c id="ref33" level="file"/>
+      <c id="ref34" level="file"/>
+      <c id="ref35" level="file"/>
+      <c id="ref36" level="file"/>
+      <c id="ref37" level="file"/>
+      <c id="ref38" level="file"/>
+      <c id="ref39" level="file"/>
+      <c id="ref40" level="file"/>
+      <c id="ref41" level="file"/>
+      <c id="ref42" level="file"/>
+      <c id="ref43" level="file"/>
+      <c id="ref44" level="file"/>
+      <c id="ref45" level="file"/>
+      <c id="ref46" level="file"/>
+      <c id="ref47" level="file"/>
+      <c id="ref48" level="file"/>
+      <c id="ref49" level="file"/>
+      <c id="ref50" level="file"/>
+      <c id="ref51" level="file"/>
+      <c id="ref52" level="file"/>
+      <c id="ref53" level="file"/>
+      <c id="ref54" level="file"/>
+      <c id="ref55" level="file"/>
+      <c id="ref56" level="file"/>
+      <c id="ref57" level="file"/>
+      <c id="ref58" level="file"/>
+      <c id="ref59" level="file"/>
+      <c id="ref60" level="file"/>
+      <c id="ref61" level="file"/>
+      <c id="ref62" level="file"/>
+      <c id="ref63" level="file"/>
+      <c id="ref64" level="file"/>
+      <c id="ref65" level="file"/>
+      <c id="ref66" level="file"/>
+      <c id="ref67" level="file"/>
+      <c id="ref68" level="file"/>
+      <c id="ref69" level="file"/>
+      <c id="ref70" level="file"/>
+      <c id="ref71" level="file"/>
+      <c id="ref72" level="file"/>
+      <c id="ref73" level="file"/>
+      <c id="ref74" level="file"/>
+      <c id="ref75" level="file"/>
+      <c id="ref76" level="file"/>
+      <c id="ref77" level="file"/>
+      <c id="ref78" level="file"/>
+      <c id="ref79" level="file"/>
+      <c id="ref80" level="file"/>
+      <c id="ref81" level="file"/>
+      <c id="ref82" level="file"/>
+      <c id="ref83" level="file"/>
+      <c id="ref84" level="file"/>
+      <c id="ref85" level="file"/>
+      <c id="ref86" level="file"/>
+      <c id="ref87" level="file"/>
+      <c id="ref88" level="file"/>
+      <c id="ref89" level="file"/>
+      <c id="ref90" level="file"/>
+      <c id="ref91" level="file"/>
+      <c id="ref92" level="file"/>
+      <c id="ref93" level="file"/>
+      <c id="ref94" level="file"/>
+      <c id="ref95" level="file"/>
+      <c id="ref96" level="file"/>
+      <c id="ref97" level="file"/>
+      <c id="ref98" level="file"/>
+      <c id="ref99" level="file"/>
+      <c id="ref100" level="file"/>
+      <c id="ref101" level="file"/>
+      <c id="ref102" level="file"/>
+      <c id="ref103" level="file"/>
+      <c id="ref104" level="file"/>
+      <c id="ref105" level="file"/>
+      <c id="ref106" level="file"/>
+      <c id="ref107" level="file"/>
+      <c id="ref108" level="file"/>
+      <c id="ref109" level="file"/>
+      <c id="ref110" level="file"/>
+      <c id="ref111" level="file"/>
+      <c id="ref112" level="file"/>
+      <c id="ref113" level="file"/>
+      <c id="ref114" level="file"/>
+      <c id="ref115" level="file"/>
+      <c id="ref116" level="file"/>
+      <c id="ref117" level="file"/>
+      <c id="ref118" level="file"/>
+      <c id="ref119" level="file"/>
+      <c id="ref120" level="file"/>
+      <c id="ref121" level="file"/>
+      <c id="ref122" level="file"/>
+      <c id="ref123" level="file"/>
+      <c id="ref124" level="file"/>
+      <c id="ref125" level="file"/>
+      <c id="ref126" level="file"/>
+      <c id="ref127" level="file"/>
+      <c id="ref128" level="file"/>
+      <c id="ref129" level="file"/>
+      <c id="ref130" level="file"/>
+      <c id="ref131" level="file"/>
+      <c id="ref132" level="file"/>
+      <c id="ref133" level="file"/>
+      <c id="ref134" level="file"/>
+      <c id="ref135" level="file"/>
+      <c id="ref136" level="file"/>
+      <c id="ref137" level="file"/>
+      <c id="ref138" level="file"/>
+      <c id="ref139" level="file"/>
+      <c id="ref140" level="file"/>
+      <c id="ref141" level="file"/>
+      <c id="ref142" level="file"/>
+      <c id="ref143" level="file"/>
+      <c id="ref144" level="file"/>
+      <c id="ref145" level="file"/>
+      <c id="ref146" level="file"/>
+      <c id="ref147" level="file"/>
+      <c id="ref148" level="file"/>
+      <c id="ref149" level="file"/>
+      <c id="ref150" level="file"/>
+      <c id="ref151" level="file"/>
+      <c id="ref152" level="file"/>
+      <c id="ref153" level="file"/>
+      <c id="ref154" level="file"/>
+      <c id="ref155" level="file"/>
+      <c id="ref156" level="file"/>
+      <c id="ref157" level="file"/>
+      <c id="ref158" level="file"/>
+      <c id="ref159" level="file"/>
+      <c id="ref160" level="file"/>
+      <c id="ref161" level="file"/>
+      <c id="ref162" level="file"/>
+      <c id="ref163" level="file"/>
+      <c id="ref164" level="file"/>
+      <c id="ref165" level="file"/>
+      <c id="ref166" level="file"/>
+      <c id="ref167" level="file"/>
+      <c id="ref168" level="file"/>
+      <c id="ref169" level="file"/>
+      <c id="ref170" level="file"/>
+      <c id="ref171" level="file"/>
+      <c id="ref172" level="file"/>
+      <c id="ref173" level="file"/>
+      <c id="ref174" level="file"/>
+      <c id="ref175" level="file"/>
+      <c id="ref176" level="file"/>
+      <c id="ref177" level="file"/>
+      <c id="ref178" level="file"/>
+      <c id="ref179" level="file"/>
+      <c id="ref180" level="file"/>
+      <c id="ref181" level="file"/>
+      <c id="ref182" level="file"/>
+      <c id="ref183" level="file"/>
+      <c id="ref184" level="file"/>
+      <c id="ref185" level="file"/>
+      <c id="ref186" level="file"/>
+      <c id="ref187" level="file"/>
+      <c id="ref188" level="file"/>
+      <c id="ref189" level="file"/>
+      <c id="ref190" level="file"/>
+      <c id="ref191" level="file"/>
+      <c id="ref192" level="file"/>
+      <c id="ref193" level="file"/>
+      <c id="ref194" level="file"/>
+      <c id="ref195" level="file"/>
+      <c id="ref196" level="file"/>
+      <c id="ref197" level="file"/>
+      <c id="ref198" level="file"/>
+      <c id="ref199" level="file"/>
+      <c id="ref200" level="file"/>
+      <c id="ref201" level="file"/>
+      <c id="ref202" level="file"/>
+      <c id="ref203" level="file"/>
+      <c id="ref204" level="file"/>
+      <c id="ref205" level="file"/>
+      <c id="ref206" level="file"/>
+      <c id="ref207" level="file"/>
+      <c id="ref208" level="file"/>
+      <c id="ref209" level="file"/>
+      <c id="ref210" level="file"/>
+      <c id="ref211" level="file"/>
+      <c id="ref212" level="file"/>
+      <c id="ref213" level="file"/>
+      <c id="ref214" level="file"/>
+      <c id="ref215" level="file"/>
+      <c id="ref216" level="file"/>
+      <c id="ref217" level="file"/>
+      <c id="ref218" level="file"/>
+      <c id="ref219" level="file"/>
+      <c id="ref220" level="file"/>
+      <c id="ref221" level="file"/>
+    </c>
+    <c id="ref222" level="series">
+      <did>
+        <unittitle>German</unittitle>
+        <unitid>Series III.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928259</unitid>
+        <unitdate datechar="creation" type="inclusive">1971-1977, 1994-2019, undated</unitdate>
+      </did>
+      <c id="ref223" level="file"/>
+      <c id="ref224" level="file"/>
+      <c id="ref225" level="file"/>
+      <c id="ref226" level="file"/>
+      <c id="ref227" level="file"/>
+      <c id="ref228" level="file"/>
+      <c id="ref229" level="file"/>
+      <c id="ref230" level="file"/>
+      <c id="ref231" level="file"/>
+      <c id="ref232" level="file"/>
+      <c id="ref233" level="file"/>
+      <c id="ref234" level="file"/>
+      <c id="ref235" level="file"/>
+      <c id="ref236" level="file"/>
+      <c id="ref237" level="file"/>
+      <c id="ref238" level="file"/>
+      <c id="ref239" level="file"/>
+      <c id="ref240" level="file"/>
+      <c id="ref241" level="file"/>
+      <c id="ref242" level="file"/>
+      <c id="ref243" level="file"/>
+      <c id="ref244" level="file"/>
+      <c id="ref245" level="file"/>
+      <c id="ref246" level="file"/>
+    </c>
+    <c id="ref247" level="series">
+      <did>
+        <unittitle>Hebrew and Yiddish</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928284</unitid>
+        <unitdate datechar="creation" type="inclusive">1982-1985, 2004-2010, undated</unitdate>
+      </did>
+      <c id="ref248" level="file"/>
+      <c id="ref249" level="file"/>
+      <c id="ref250" level="file"/>
+      <c id="ref251" level="file"/>
+      <c id="ref252" level="file"/>
+      <c id="ref253" level="file"/>
+      <c id="ref254" level="file"/>
+      <c id="ref255" level="file"/>
+      <c id="ref256" level="file"/>
+      <c id="ref257" level="file"/>
+      <c id="ref258" level="file"/>
+      <c id="ref259" level="file"/>
+      <c id="ref260" level="file"/>
+      <c id="ref261" level="file"/>
+      <c id="ref262" level="file"/>
+      <c id="ref263" level="file"/>
+      <c id="ref264" level="file"/>
+    </c>
+    <c id="ref265" level="series">
+      <did>
+        <unittitle>French</unittitle>
+        <unitid>Series V.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928302</unitid>
+        <unitdate datechar="creation" type="inclusive">2008-2014, undated</unitdate>
+      </did>
+      <c id="ref266" level="file"/>
+      <c id="ref267" level="file"/>
+      <c id="ref268" level="file"/>
+      <c id="ref269" level="file"/>
+      <c id="ref270" level="file"/>
+      <c id="ref271" level="file"/>
+      <c id="ref272" level="file"/>
+      <c id="ref273" level="file"/>
+      <c id="ref274" level="file"/>
+    </c>
+    <c id="ref275" level="series">
+      <did>
+        <unittitle>Latin</unittitle>
+        <unitid>Series VI.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928312</unitid>
+        <unitdate datechar="creation" type="inclusive">2005-2016, undated</unitdate>
+      </did>
+      <c id="ref276" level="file"/>
+      <c id="ref277" level="file"/>
+      <c id="ref278" level="file"/>
+      <c id="ref279" level="file"/>
+      <c id="ref280" level="file"/>
+      <c id="ref281" level="file"/>
+      <c id="ref282" level="file"/>
+      <c id="ref283" level="file"/>
+    </c>
+    <c id="ref284" level="series">
+      <did>
+        <unittitle>Italian</unittitle>
+        <unitid>Series VII.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928321</unitid>
+        <unitdate datechar="creation" type="inclusive">1994-2000, undated</unitdate>
+      </did>
+      <c id="ref285" level="file"/>
+      <c id="ref286" level="file"/>
+      <c id="ref287" level="file"/>
+      <c id="ref288" level="file"/>
+      <c id="ref289" level="file"/>
+      <c id="ref290" level="file"/>
+    </c>
+    <c id="ref291" level="series">
+      <did>
+        <unittitle>Other Languages</unittitle>
+        <unitid>Series VIII.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928328</unitid>
+        <unitdate datechar="creation" type="inclusive">2001-2007, undated</unitdate>
+      </did>
+      <c id="ref292" level="file"/>
+      <c id="ref293" level="file"/>
+      <c id="ref294" level="file"/>
+      <c id="ref295" level="file"/>
+      <c id="ref296" level="file"/>
+    </c>
+    <c id="ref297" level="series">
+      <did>
+        <unittitle>Boxwooder</unittitle>
+        <unitid>Series IX.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/928334</unitid>
+        <unitdate datechar="creation" type="inclusive">2003-2010</unitdate>
+      </did>
+      <c id="ref298" level="file"/>
+      <c id="ref299" level="file"/>
+      <c id="ref300" level="file"/>
+      <c id="ref301" level="file"/>
+      <c id="ref302" level="file"/>
+      <c id="ref303" level="file"/>
+      <c id="ref304" level="file"/>
+    </c>
+  </contents>
+</header>

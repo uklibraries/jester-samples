@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:bib="http://www.loc.gov/mets/profiles/bibRecord" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:mets="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" OBJID="87M4" PROFILE="lc:bibRecord">
+  <mets:metsHdr CREATEDATE="2024-11-20T16:28:59" LASTMODDATE="2024-11-20T16:28:59" RECORDSTATUS="SIP">
+    <mets:agent ROLE="CREATOR" TYPE="REPOSITORY">
+      <mets:name>University of Kentucky</mets:name>
+      <mets:note>SIP METS and associated file(s) submitted to KUDL.</mets:note>
+    </mets:agent>
+    <mets:agent ROLE="PRESERVATION" TYPE="ORGANIZATION">
+      <mets:name>University of Kentucky</mets:name>
+      <mets:note>SIP METS and associated file(s) submitted to KUDL.</mets:note>
+    </mets:agent>
+    <mets:altRecordID TYPE="SIP">87M4</mets:altRecordID>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMD1">
+    <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OAI_DC">
+      <mets:xmlData>
+        <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en">John James Audubon papers</dc:title>
+          <dc:source>John James Audubon papers</dc:source>
+          <dc:creator>unknown</dc:creator>
+          <dc:identifier>87M4</dc:identifier>
+          <dc:publisher>University of Kentucky</dc:publisher>
+          <dc:date>1828, undated</dc:date>
+          <dc:format>collections</dc:format>
+          <dc:type>text</dc:type>
+          <dc:language>English</dc:language>
+          <dc:rights>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.  Contact the Special Collections Research Center for information regarding rights and use of this collection.</dc:rights>
+          <dc:description>0.1 Cubic Feet 3 items</dc:description>
+        </oai_dc:dc>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec>
+    <mets:rightsMD>
+      <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="RIGHTSMD">
+        <mets:xmlData>
+          <mets:versionStatement>2024</mets:versionStatement>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="ADMRTS1">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRights">
+        <mets:xmlData>
+          <mets:RightsDeclarationMD RIGHTSCATEGORY="">
+            <mets:Context CONTEXTCLASS="GENERAL PUBLIC">
+              <mets:Constraints CONSTRAINTTYPE="RE-USE">
+                <mets:ConstraintDescription>View Collection Guide to obtain rights information.</mets:ConstraintDescription>
+              </mets:Constraints>
+            </mets:Context>
+          </mets:RightsDeclarationMD>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ID="FileGrpFindingAid" USE="Finding Aid">
+      <mets:file ID="MasterFindingAid" USE="master" MIMETYPE="application/xml">
+        <mets:FLocat xlink:href="87M4.xml" LOCTYPE="OTHER"/>
+      </mets:file>
+    <mets:file ID="AccessFindingAid" MIMETYPE="application/xml" USE="access"><mets:FLocat LOCTYPE="OTHER" xlink:href="87M4.dao.xml"/></mets:file></mets:fileGrp>
+  <mets:fileGrp ID="FileGrp1"><mets:file ID="PrintImageFilec4ca4238a0b923820dcc509a6f75849b" USE="print image" MIMETYPE="application/pdf"><mets:FLocat xlink:href="87M4/Folder_1/Multipage1.pdf" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp2"><mets:file ID="ThumbnailFilec81e728d9d4c2f636f067f89cc14862c" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0001_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFilec81e728d9d4c2f636f067f89cc14862c" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0001_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFilec81e728d9d4c2f636f067f89cc14862c" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0001.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp3"><mets:file ID="ThumbnailFileeccbc87e4b5ce2fe28308fd9f2a7baf3" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0002_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFileeccbc87e4b5ce2fe28308fd9f2a7baf3" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0002_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFileeccbc87e4b5ce2fe28308fd9f2a7baf3" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0002.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp4"><mets:file ID="ThumbnailFilea87ff679a2f3e71d9181a67b7542122c" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0003_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFilea87ff679a2f3e71d9181a67b7542122c" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0003_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFilea87ff679a2f3e71d9181a67b7542122c" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0003.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp5"><mets:file ID="ThumbnailFilee4da3b7fbbce2345d7772b0674a318d5" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0004_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFilee4da3b7fbbce2345d7772b0674a318d5" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0004_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFilee4da3b7fbbce2345d7772b0674a318d5" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_1/0004.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp6"><mets:file ID="PrintImageFile1679091c5a880faf6fb5e6087eb1b2dc" USE="print image" MIMETYPE="application/pdf"><mets:FLocat xlink:href="87M4/Folder_2/Multipage6.pdf" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp7"><mets:file ID="ThumbnailFile8f14e45fceea167a5a36dedd4bea2543" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_2/0001_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFile8f14e45fceea167a5a36dedd4bea2543" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_2/0001_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFile8f14e45fceea167a5a36dedd4bea2543" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_2/0001.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp8"><mets:file ID="ThumbnailFilec9f0f895fb98ab9159f51fd0297e236d" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_2/0002_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFilec9f0f895fb98ab9159f51fd0297e236d" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_2/0002_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFilec9f0f895fb98ab9159f51fd0297e236d" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_2/0002.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp9"><mets:file ID="PrintImageFile45c48cce2e2d7fbdea1afc51c7c6ad26" USE="print image" MIMETYPE="application/pdf"><mets:FLocat xlink:href="87M4/Folder_3/Multipage9.pdf" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp10"><mets:file ID="ThumbnailFiled3d9446802a44259755d38e6d163e820" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_3/0001_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFiled3d9446802a44259755d38e6d163e820" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_3/0001_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFiled3d9446802a44259755d38e6d163e820" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_3/0001.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp11"><mets:file ID="ThumbnailFile6512bd43d9caa6e02c990b0a82652dca" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_3/0002_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFile6512bd43d9caa6e02c990b0a82652dca" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_3/0002_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFile6512bd43d9caa6e02c990b0a82652dca" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="87M4/Folder_3/0002.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp></mets:fileSec>
+<mets:structMap><mets:div TYPE="section" LABEL="1" ORDER="1"><mets:fptr FILEID="PrintImageFilec4ca4238a0b923820dcc509a6f75849b"/><mets:div TYPE="item" LABEL="John James Audubon letter to Victor Audubon" ORDER="1"><mets:fptr FILEID="ThumbnailFilec81e728d9d4c2f636f067f89cc14862c"/><mets:fptr FILEID="FrontThumbnailFilec81e728d9d4c2f636f067f89cc14862c"/><mets:fptr FILEID="ReferenceImageFilec81e728d9d4c2f636f067f89cc14862c"/></mets:div><mets:div TYPE="item" LABEL="John James Audubon letter to Victor Audubon" ORDER="2"><mets:fptr FILEID="ThumbnailFileeccbc87e4b5ce2fe28308fd9f2a7baf3"/><mets:fptr FILEID="FrontThumbnailFileeccbc87e4b5ce2fe28308fd9f2a7baf3"/><mets:fptr FILEID="ReferenceImageFileeccbc87e4b5ce2fe28308fd9f2a7baf3"/></mets:div><mets:div TYPE="item" LABEL="John James Audubon letter to Victor Audubon" ORDER="3"><mets:fptr FILEID="ThumbnailFilea87ff679a2f3e71d9181a67b7542122c"/><mets:fptr FILEID="FrontThumbnailFilea87ff679a2f3e71d9181a67b7542122c"/><mets:fptr FILEID="ReferenceImageFilea87ff679a2f3e71d9181a67b7542122c"/></mets:div><mets:div TYPE="item" LABEL="John James Audubon letter to Victor Audubon" ORDER="4"><mets:fptr FILEID="ThumbnailFilee4da3b7fbbce2345d7772b0674a318d5"/><mets:fptr FILEID="FrontThumbnailFilee4da3b7fbbce2345d7772b0674a318d5"/><mets:fptr FILEID="ReferenceImageFilee4da3b7fbbce2345d7772b0674a318d5"/></mets:div></mets:div><mets:div TYPE="section" LABEL="2" ORDER="2"><mets:fptr FILEID="PrintImageFile1679091c5a880faf6fb5e6087eb1b2dc"/><mets:div TYPE="item" LABEL="Boon's Powers of Retention" ORDER="1"><mets:fptr FILEID="ThumbnailFile8f14e45fceea167a5a36dedd4bea2543"/><mets:fptr FILEID="FrontThumbnailFile8f14e45fceea167a5a36dedd4bea2543"/><mets:fptr FILEID="ReferenceImageFile8f14e45fceea167a5a36dedd4bea2543"/></mets:div><mets:div TYPE="item" LABEL="Boon's Powers of Retention" ORDER="2"><mets:fptr FILEID="ThumbnailFilec9f0f895fb98ab9159f51fd0297e236d"/><mets:fptr FILEID="FrontThumbnailFilec9f0f895fb98ab9159f51fd0297e236d"/><mets:fptr FILEID="ReferenceImageFilec9f0f895fb98ab9159f51fd0297e236d"/></mets:div></mets:div><mets:div TYPE="section" LABEL="3" ORDER="3"><mets:fptr FILEID="PrintImageFile45c48cce2e2d7fbdea1afc51c7c6ad26"/><mets:div TYPE="item" LABEL="Kentucky Warbler description" ORDER="1"><mets:fptr FILEID="ThumbnailFiled3d9446802a44259755d38e6d163e820"/><mets:fptr FILEID="FrontThumbnailFiled3d9446802a44259755d38e6d163e820"/><mets:fptr FILEID="ReferenceImageFiled3d9446802a44259755d38e6d163e820"/></mets:div><mets:div TYPE="item" LABEL="Kentucky Warbler description" ORDER="2"><mets:fptr FILEID="ThumbnailFile6512bd43d9caa6e02c990b0a82652dca"/><mets:fptr FILEID="FrontThumbnailFile6512bd43d9caa6e02c990b0a82652dca"/><mets:fptr FILEID="ReferenceImageFile6512bd43d9caa6e02c990b0a82652dca"/></mets:div></mets:div></mets:structMap></mets:mets>

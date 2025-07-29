@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">1997MS267</eadid><filedesc><titlestmt><titleproper type="filing">Buehler, Beatty H. scrapbook</titleproper><titleproper>Guide to the Beatty H. Buehler scrapbook, 1928-1966, undated <num>1997MS267</num></titleproper><author>Paige Thyne</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 February 27</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-04-30 09:53:58 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Beatty H. Buehler scrapbook</unittitle>
+    <origination label="Creator">
+      <persname>Buehler, Beatty Hicks, 1879-1971</persname>
+    </origination>
+    <unitid>1997MS267</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.73 Cubic Feet</extent>
+      <extent altrender="carrier">2 boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1928/1966" type="inclusive">1928-1966, undated</unitdate>
+    <abstract id="aspace_d241667d356e7788e8eb8dbd071e57c7">The Beatty H. Buehler scrapbook (dated 1928-1966, undated; 0.73 cubic feet; 2 boxes) contains clippings about the Republican party and other special interest stories published between 1928-1966.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_677ad6811dcb2d56c3dce098ebd5ec81">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_20111742d70cb15361850c1a87e4c04d">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 1977.</p>  </acqinfo>
+  <arrangement id="aspace_f427db1f3cdcfc25a1269d7939889516">
+    <head>Arrangement</head>
+<p>Collection is arranged by format.</p>  </arrangement>
+  <bioghist id="aspace_5c8d83f84a38eb8e6e54d86a4f1d3862">
+    <head>Biographical note</head>
+<p>Beatty Buehler, Lexington, Kentucky, was the State Republican Chairwoman in 1935.  She was the co-organizer of the State's Republican Women's Club founded in 1928 and its first president (1928-1931).  In 1931 Buehler was the Republican nominee for the state office of Secretary of State. </p><p>Born in Somerset, Kentucky, Beatty was the youngest child of Judge Simeon and Mary E. Hicks.  In 1902 she married Captain Harry F. Buehler of Gettysburg, Pennsylvania. Harry had worked as a Coal Operator in Beaver District, near Somerset, and owned land used for oil drilling. They had one child, Miss Curtis Buehler. Following her husband's death in 1906, she returned to Kentucky from Pennsylvania and entered the insurance business. Buehler also worked as a court reporter in the 28th judicial district.  In addition, she served as Deputy Circuit Court Clerk and studied law with Judge T. Z. Morrow, the father of Governor Edwin P. Morrow.</p><p>In 1918, Buehler moved to Lexington to head the Buehler Insurance Agency.  She also served as the Secretary/Treasurer of the Flahaven Land Company whose holding included timber and oil lands.  In addition, she was the President of the Business and Professional Women's Club of Lexington and a member of the Altrusa Club. Beatty Buehler died in 1971 at the age of 92. She lived her final years with her daughter in Columbus, Ohio.</p><p>Sources:
+<title render="doublequote">Who Are They?</title>, <title render="italic">Lexington Leader</title>, page 1, 1931 November 1. 
+<title render="doublequote">Mrs. Buehler dies in Ohio</title>, <title render="italic">Lexington Herald Leader</title>, page 2, 1971 October 10.</p>  </bioghist>
+  <prefercite id="aspace_a2f7bc0a77e2a16917c4f3f9fe11b3c4">
+    <head>Preferred Citation</head>
+<p>1997ms267: [identification of item], Beatty H. Beuhler Scrapbook, 1928-1966, University of Kentucky Libraries Special Collection Research Center</p>  </prefercite>
+  <scopecontent id="aspace_7e7e415d4b2ed3e86e7733621c25747d">
+    <head>Scope and Contents</head>
+<p>The Beatty H. Buehler scrapbook (dated 1928-1966, undated; 0.73 cubic feet, 2 boxes) contains clippings about the Republican party and other special interest stories published between 1928-1966.  The scrapbook includes news of the Lindbergh baby kidnapping (1932), the death of Governor Edwin P. Morrow (1935), the visit of George VI and Queen Elizabeth to the United States (1939), Founder's Day celebrations at the University of Kentucky, the death of Herbert Hoover (1964), and the visit of President Lyndon Johnson to Kentucky (1965).  Also included in the collection are two photographs of undentified groups (presumably Republican party members), a 1931 Kentucky Republican campaign brochure, and a roll of delegates to the Republican National Convention, June 9, 1936.</p>  </scopecontent>
+  <userestrict id="aspace_bd1de1021a3498c3ab45225bb77b4cd0">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the material in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="lcsh">Clippings (Books, newspapers, etc.)</genreform>
+    <subject source="lcsh">Political campaigns -- Kentucky</subject>
+    <geogname source="lcsh">Kentucky -- Newspapers.</geogname>
+    <subject source="lcsh">Political campaigns -- United States</subject>
+    <subject source="lcsh">Political parties -- Kentucky.</subject>
+    <subject source="lcsh">Women -- Political activity -- Kentucky.</subject>
+    <persname>Buehler, Beatty Hicks, 1879-1971</persname>
+    <corpname authfilenumber="n 83039856" rules="aacr" source="naf">Republican Party (Ky.)</corpname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Two photographs of unidentified persons</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_051970b8f6dbfbc26b93b0992c47aded" label="graphic materials" type="box">1</container><container id="aspace_da7504857edec0c4c5c28647eb7e4423" parent="aspace_051970b8f6dbfbc26b93b0992c47aded" type="folder">1</container></did></c><c id="ref2" level="file"><did><unittitle>Calendar</unittitle><unitdate datechar="creation" type="inclusive">1965 October</unitdate><container id="aspace_4f0b50258c56b6c23ff5969527153008" label="mixed materials" type="box">1</container><container id="aspace_7bfbc7d87b10bd98c194231de66a2f97" parent="aspace_4f0b50258c56b6c23ff5969527153008" type="folder">2</container></did></c><c id="ref3" level="file"><did><unittitle>Travel pamphlets and booklets</unittitle><unitdate datechar="creation" type="inclusive">1962 June, undated</unitdate><container id="aspace_bb7805c23881104e3dbe79bd1c48f1a1" label="mixed materials" type="box">1</container><container id="aspace_78742a1d0e823b4c20a97c996fabd85f" parent="aspace_bb7805c23881104e3dbe79bd1c48f1a1" type="folder">3</container></did></c><c id="ref4" level="file"><did><unittitle>Various pamphlets, booklets, and fliers</unittitle><unitdate datechar="creation" type="inclusive">1936 June 9, 1965 September 14, undated</unitdate><container id="aspace_6496b073ff6b89df9e0854547ea68061" label="mixed materials" type="box">1</container><container id="aspace_3b95c18aafc1e25c5862f25ed9d6fc01" parent="aspace_6496b073ff6b89df9e0854547ea68061" type="folder">4</container></did></c><c id="ref5" level="file"><did><unittitle>Typewritten letter from Roscoe Conkling Simmons to the Republic National Party</unittitle><unitdate datechar="creation" type="inclusive">1932 June 16</unitdate><container id="aspace_46a52bbd1bd0e8c2efc421cf25a693b8" label="mixed materials" type="box">1</container><container id="aspace_cca6312fea7a07be000c86b828c3fb51" parent="aspace_46a52bbd1bd0e8c2efc421cf25a693b8" type="folder">5</container></did></c><c id="ref6" level="file"><did><unittitle>Newspaper clippings</unittitle><unitid>1</unitid><unitdate datechar="creation" type="inclusive">1928-1966</unitdate><container id="aspace_78bc8232bab648d16966ddd441d03dcd" label="mixed materials" type="box">2</container><container id="aspace_6ce2430e25c583868744704e09f93433" parent="aspace_78bc8232bab648d16966ddd441d03dcd" type="folder">1-5</container></did></c><c id="ref7" level="file"><did><unittitle>Scrapbook front and back covers</unittitle><unitdate datechar="creation" type="inclusive">circa 1928</unitdate><container id="aspace_2d23b15f9ee202028bb1517f8f90349c" label="mixed materials" type="box">2</container><container id="aspace_f9bc06c311c2a4a4e1bb2b16373cfd91" parent="aspace_2d23b15f9ee202028bb1517f8f90349c" type="folder">6</container></did></c></dsc>
+</archdesc>
+</ead>

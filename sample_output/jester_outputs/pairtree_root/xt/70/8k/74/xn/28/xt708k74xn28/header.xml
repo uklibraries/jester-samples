@@ -1,0 +1,88 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt708k74xn28</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt708k74xn28/data/2011ms065.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Ervin C. Perkins scrapbook (dated 1941-1950, undated; 0.69 cubic feet; 2 boxes, 1 item) comprises unbound materials that document Perkins' clippings in the coal magazine, The Black Diamond, conference memorabilia, details for the Leatherwood County coal operation project, various newspaper clippings, reports, speeches/addresses, writings, and photographs, as well as a separate item - a scrapbook - which includes many of the same materials previously described.</abstract>
+  <descriptive_summary>
+    <author>Jed DeBruin</author>
+    <title>Ervin C. Perkins scrapbook</title>
+    <source>Ervin C. Perkins scrapbook</source>
+    <unitdates>
+      <date>1941-1950, undated (inclusive)</date>
+    </unitdates>
+    <creator>Perkins, Ervin Chester, 1893-1971</creator>
+    <extent>0.69 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Clippings (Books, newspapers, etc.)</subject>
+      <subject>Coal mines and mining -- Appalachian Region</subject>
+      <subject>Coal mines and mining -- Economic aspects -- Appalachian Region.</subject>
+      <subject>Coal mines and mining -- Management</subject>
+      <subject>Speeches, addresses, etc.</subject>
+      <subject>Scrapbooks</subject>
+      <subject>Photographs</subject>
+      <subject>Perkins, Ervin Chester, 1893-1971</subject>
+      <subject>Bert T. Combs Appalachian Collection</subject>
+    </subjects>
+    <prefercite>2011ms065: [identification of item], Ervin C. Perkins scrapbook, 1941-1950, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Ervin Chester (E.C.) Perkins (1893-1971) was born in Ostrander, Ohio in 1893 to David T. Perkins and Malissa G. Rittenhouse. He married Nadeen Archer on March 2, 1918 in Louisville, Kentucky. He served as a United States Army officer during World War I, and after the war he returned to become a coal mine superintendent in Harlan, Kentucky. By 1940, he became a market analyst and General Chairman of Arrangements for Appalachian Coals, Incorporated, headquartered in Cincinnati, Ohio. Beginning in 1941 he served as the manager of the Marketing Division of Appalachian Coals, Incorporated, and later became the Manager of Sales for the company. He died in December 1971 at the age of 78 and is buried in the Lexington Cemetery in Lexington, Kentucky. </p><p>Sources: </p><p>1920 U.S. census, Te Jay Precinct 10.5, Bell County, Kentucky, population schedule, p. 10 (penned), dwelling 103, family 103, Ervin C. and Nadeen Archer Perkins; digital image, AncestryLibrary.com (https://ancestrylibrary.com/: accessed 2023 May 17); citing National Archives microfilm publication T625, roll 559.</p><p>Appalachian Coals, Incorporated. (1941, April 15). Forum of Retail Coal Merchants [brochure]. </p><p>Find a Grave, database and images (https://www.findagrave.com/memorial/241480276/ervin-chester-perkins: accessed 17 May 2023), memorial page for Ervin Chester Perkins (2 May 1893–23 Dec 1971), Find a Grave Memorial ID 241480276, citing The Lexington Cemetery, Lexington, Fayette County, Kentucky, USA; Maintained by Linda Moore Mora (contributor 48168017).</p><p><title render="doublequote">Handling of Exports Topic for Traffic Advisory Board.</title> (1940, December 8). The Cincinnati Enquirer, 28. </p><p><title render="doublequote">Kentucky, U.S. County Marriage Records, 1783-1965,</title> database with images, AncestryLibrary.com (https://www.ancestrylibrary.com/: accessed 2023 May 17), Ervin C. Perkins and Nadeen Archer, 1918 March 2; citing Jefferson, Kentucky, United States; image 158.</p><p>Special News Bulletin. (1942, December 26). Richmond, Va. Coal Men Hear E.C. Perkins. The Black Diamond, 13, 20. </p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Ervin C. Perkins scrapbook (dated 1941-1950, undated; 0.69 cubic feet; 2 boxes, 1 item) comprises unbound materials that document Perkins' clippings in the coal magazine, <title render="italic">The Black Diamond</title>, conference memorabilia, details for the Leatherwood Country coal operation project, various newspaper clippings, reports, speeches/ addresses, writings, and photographs, as well as a separate item - a scrapbook - which includes many of the same materials previously described. These materials primarily deal with Perkins' experiences as a sales and marketing manager for Appalachian Coals, Incorporated, a coal company headquartered in Cincinnati, Ohio, during the 1940s.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Scrapbook</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/944825</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_c6e929334a9295c74a0a66f3919a7351" label="mixed materials" type="item">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="series">
+      <did>
+        <unittitle>Unbound materials</unittitle>
+        <unitid>Series II. </unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/944804</unitid>
+        <unitdate datechar="creation" type="inclusive">1941-1950, undated</unitdate>
+      </did>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="item"/>
+      <c id="ref13" level="item"/>
+    </c>
+  </contents>
+</header>

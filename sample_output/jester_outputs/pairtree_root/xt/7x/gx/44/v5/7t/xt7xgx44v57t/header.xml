@@ -1,0 +1,68 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7xgx44v57t</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7xgx44v57t/data/2009ms132.0767.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The George Willard letters (dated 1885; 0.01 cubic feet; 1 folder) comprises two letters sent from George Willard that document his relationship with extended family members in Vermont in the late nineteenth century.</abstract>
+  <descriptive_summary>
+    <author>Sarah Coblentz</author>
+    <title>Wade Hall Collection of American Letters: George Willard letters</title>
+    <source>Wade Hall Collection of American Letters: George Willard letters</source>
+    <unitdates>
+      <date>1885 (inclusive)</date>
+    </unitdates>
+    <creator>Willard, George F. B., 1853-1912</creator>
+    <extent>0.01 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</arrangement>
+    <subjects>
+      <subject>Letters.</subject>
+      <subject>Correspondence.</subject>
+      <subject>Families.</subject>
+      <subject>Vermont.</subject>
+      <subject>Health</subject>
+      <subject>Children</subject>
+      <subject>Money.</subject>
+      <subject>Willard, George F. B., 1853-1912</subject>
+    </subjects>
+    <prefercite>2009ms132.0767: [identification of item], Wade Hall Collection of American Letters: George Willard letters, 1885, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>George Frank Belden Willard (1853-1912) was born in Boston, Massachusetts to George Willard and Delana D. Lake. He attended Middlebury College and graduated in 1876, becoming a physician. In 1883, he married Harriet Ada Vedder (1851-1895) and together the couple had three children, Delana Elizabeth (1885-1943), Lucy Amelia (b. 1890), and Sarah L. (1892-1974). After the death of his first wife, he married Minnie Vedder (1854-1914) about 1901.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The George Willard letters (dated 1885; 0.01 cubic feet; 1 folder) comprises two letters sent from George Willard that document his relationship with extended family members in Vermont in the late nineteenth century. In the letters he discusses returning money they offered for him giving medical advice, the health of his wife a newborn daughter, and an invitation for his relatives to visit the new family.</p><p>The George Willard letters collection is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>George Willard to family</unittitle>
+        <unitdate datechar="creation" type="inclusive">1885</unitdate>
+        <container id="aspace_a9f2efbf188f1467ff9d701817c40cff" label="mixed materials" type="box">WH-82</container>
+        <container id="aspace_91d328386b1f2492e68aca1a9a28fc59" parent="aspace_a9f2efbf188f1467ff9d701817c40cff" type="folder">27</container>
+        <dao entityref="xt7xgx44v57t_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

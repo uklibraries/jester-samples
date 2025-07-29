@@ -1,0 +1,63 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7qrf5kds20</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7qrf5kds20/data/2012ms740.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Quarterly Financial Statement of the Membership of the Nicholasville Christian Church (dated 1925; 0.01 cubic feet; 1 item) comprises a printed financial statement documenting the 1925 payments and pledges of church members.</abstract>
+  <descriptive_summary>
+    <author>Ash Pechon</author>
+    <title>Quarterly Financial Statement of the Membership of the Nicholasville Christian Church</title>
+    <source>Quarterly Financial Statement of the Membership of the Nicholasville Christian Church</source>
+    <unitdates>
+      <date>1925</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.01 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Financial statements.</subject>
+      <subject>Kentucky -- Church history.</subject>
+      <subject>Nicholasville Christian Church (Nicholasville, Ky.)</subject>
+    </subjects>
+    <prefercite>2012ms740: [identification of item], Quarterly Financial Statement of the Membership of the Nicholasville Christian Church, 1925, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Nicholasville Christian Church was founded in 1828 by George W. Elley.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Quarterly Financial Statement of the Membership of the Nicholasville Christian Church (dated 1925; 0.01 cubic feet; 1 item) comprises a printed financial statement documenting the 1925 payments and pledges of church members.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Quarterly Financial Statement of the Membership of the Nicholasville Christian Church</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/925597</unitid>
+        <unitdate datechar="creation">1925</unitdate>
+        <container id="aspace_6835a5e239d9b08e1994e12e81bc4a59" label="mixed materials" type="box">MS-10</container>
+        <container id="aspace_3c06f77eaf82505ff01cee58f2b660c5" parent="aspace_6835a5e239d9b08e1994e12e81bc4a59" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

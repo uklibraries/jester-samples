@@ -1,0 +1,69 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7sf7667g6q</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7sf7667g6q/data/2022ms016.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Kevin Dearinger The Education of Madame Metcalf manuscript (dated 2021 September; 0.23 cubic feet; 1 box) is an unpublished biographical account of the life and relationships of Henrietta Alice McCrea-Metcalf.</abstract>
+  <descriptive_summary>
+    <author>Jordan Connely</author>
+    <title>Kevin Dearinger The Education of Madame Metcalf manuscript</title>
+    <source>Kevin Dearinger The Education of Madame Metcalf manuscript</source>
+    <unitdates>
+      <date>2021 September</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Biographies</subject>
+      <subject>Lesbianism -- United States -- History -- 20th century.</subject>
+      <subject>Manuscripts.</subject>
+      <subject>Theater.</subject>
+    </subjects>
+    <prefercite>2022ms016 : [identification of item], Kevin Dearinger The Education of Madame Metcalf manuscript, 2021 September, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Henrietta Alice McCrea was born into a wealthy Chicago family in 1888. She was taken to Paris, France, at an early age and spoke French as her native tongue. She was married twice: first to the landscape painter Willard Lloyd Metcalf (1858-1925) and for a short time to the author Marcus Aurelius Goodrich (1897-1991). Both marriages ended in divorce, but she reverted to Metcalf's name for the rest of her life. She and Willard Metcalf had two children, Addison and Rosalind. Additionally, in 1952, she took in a boy named Jacobus Arnoldus who inherited a portion of her estate.</p><p>She was an avid fan of theater and actors and amassed a large collection of autographed photographs and other memorabilia. Metcalf also translated French works into English: Alexandre Dumas' play <title render="italic">Camille</title> and Anatole France's story <title render="italic">Our Lady's Juggler</title>.</p><p>In 1928 she began an affair with Thelma Wood, the lover of the novelist Djuna Barnes. This prompted Barnes to satirize Metcalf in her novel, <title render="italic">Nightwood</title>. Metcalf appears as the character Jenny Petherbridge. Metcalf and Wood's relationship lasted until 1943, and they did not part on goodvterms.</p><p>Metcalf died in 1981.</p><p>Kevin Lane Dearinger was born in Kentucky in 1951. An actor, author, and playwright, his published works include <title render="italic">The Bard and the Bluegrass</title> (2007), <title render="italic">Marie Prescott: A Star of Some Brilliance</title> (2009), and <title render="italic">Bad Sex in Kentucky</title> (2019). </p><p>Sources:</p><p>"Bad Sex in Kentucky, An Interview with Kevin Lane Dearinger," <title render="italic">Lexington Public Library</title>, 2019, https://www.lexpublib.org/podcasts/bad-sex-kentucky-interview-kevin-lane-dearinger-2019.</p><p>McCrea-Metcalf, New York Times, page 13, 1910 Dec 13, Newspapers.com, accessed 2022 May 24.
+      Addison M. Metcalf Collection of Gertrude Steiniana (Collection D.Mss.0014), Denison Library, Scripps College. https://oac.cdlib.org/findaid/ark:/13030/c8k35z26/entire_text/, accessed 2022 May 24.</p><p>Will Provides for Destroying Art, Miami Herald, Page 14, 1925 March 25, newspapers.com, accessed 2022 May 24.   
+      Henrietta Metcalf Theatre Collection, The Kentucky Review, Volume 6, 1986.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Kevin Dearinger <title render="italic">The Education of Madame Metcalf</title> manuscript (dated 2021 September; 0.23 cubic feet, 1 box) is an unpublished biographical account of the life and relationships of Henrietta Alice McCrea-Metcalf. This is a typed document on standard 8.5 x 11 in. paper and is 354 pages.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>
+          <title render="italic">The Education of Madame Metcalf: A Scrapbook of Murder, Madness, Suicide, Betrayal, Bigamy, Passion, and Ambition</title>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/930936</unitid>
+        <unitdate datechar="creation" type="inclusive">2021 September</unitdate>
+        <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        <container id="aspace_170fcc1139300870544ae430ea8b1323" label="mixed materials" type="box">1</container>
+        <container id="aspace_cac417e8e82bc02fa3f97e90efad5a9f" parent="aspace_170fcc1139300870544ae430ea8b1323" type="folder">1-2</container>
+      </did>
+    </c>
+  </contents>
+</header>

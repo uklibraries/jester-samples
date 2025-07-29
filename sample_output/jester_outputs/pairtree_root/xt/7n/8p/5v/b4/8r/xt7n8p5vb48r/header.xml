@@ -1,0 +1,199 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7n8p5vb48r</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7n8p5vb48r/data/2020av009.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Mary Tanner Waldack Photographic Collection (dated circa 1880s-1890s; 0.03 cubic feet; 1 box) comprises collected photographs taken by photographer Mary Tanner (Mrs. Charles) Waldack in Cincinnati, Ohio at her studio at Liberty and Vine Streets.</abstract>
+  <descriptive_summary>
+    <author>Megan Mummey</author>
+    <title>Mary Tanner Waldack photographs</title>
+    <source>Mary Tanner Waldack photographs</source>
+    <unitdates>
+      <date>circa 1880s-1890s (inclusive)</date>
+    </unitdates>
+    <creator>Waldack, Mary Tanner, b. 1847</creator>
+    <extent>0.03 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Cincinnati (Ohio)</subject>
+      <subject>cabinet photographs</subject>
+      <subject>Women photographers</subject>
+      <subject>Waldack, Mary Tanner, b. 1847</subject>
+    </subjects>
+    <prefercite>2020av009 : [identification of item], Mary Tanner Waldack Photographic Collection, circa 1880s-1890s, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Photographer Mary Tanner Waldack (b. 1847) was born in Woodford County, Kentucky, to Andrew Tanner and Nancy Wilson Tanner. She married Belgian photographer Charles Waldack (who was 20 years her senior) between 1870 and 1880. Charles Waldack (1829-1882) notably used magnesium and gunpowder flash to photograph Mammoth Cave in 1866. Mary took over Charles' studio in Cincinnati in 1881 after he left on an extended visit to Belgium, where he died in 1882. Mary Tanner Waldack owned and operated the studio until at least 1893.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Mary Tanner Waldack Photographic Collection (dated circa 1880s-1890s; 0.03 cubic feet; 1 box) comprises collected photographs taken by photographer Mary Tanner (Mrs. Charles) Waldack in Cincinnati, Ohio at her studio at Liberty and Vine Streets.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified man; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_71f07bbed2c4cb5c8f71374c58531e7b" label="graphic materials" type="box">1</container>
+        <container id="aspace_a2f99badaeba1a410a40f100b67c2870" parent="aspace_71f07bbed2c4cb5c8f71374c58531e7b" type="image">1</container>
+        <dao entityref="xt7n8p5vb48r_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified man; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_836e0f5015fd598a8a9b96d1b601511b" label="graphic materials" type="box">1</container>
+        <container id="aspace_a7c3b753cab130198b1b56e3c5c283e5" parent="aspace_836e0f5015fd598a8a9b96d1b601511b" type="image">2</container>
+        <dao entityref="xt7n8p5vb48r_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified woman; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_0d1d86f57acdca18b68b3dd187429e6b" label="graphic materials" type="box">1</container>
+        <container id="aspace_bcfd28a02f8b32da78fb5bdcf0fd2d14" parent="aspace_0d1d86f57acdca18b68b3dd187429e6b" type="image">3</container>
+        <dao entityref="xt7n8p5vb48r_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified woman; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_1728438e49fcca69a9db60826ad5b52c" label="graphic materials" type="box">1</container>
+        <container id="aspace_d9540d4796113c6fe8cbdb5a35f79060" parent="aspace_1728438e49fcca69a9db60826ad5b52c" type="image">4</container>
+        <dao entityref="xt7n8p5vb48r_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified woman; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="usage" type="inclusive">undated</unitdate>
+        <container id="aspace_824d50293cca86c93cd29a8990d7546e" label="graphic materials" type="box">1</container>
+        <container id="aspace_1dae909fb0ad7d97c2761be4c93b71e9" parent="aspace_824d50293cca86c93cd29a8990d7546e" type="image">5</container>
+        <dao entityref="xt7n8p5vb48r_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified man; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_d4d12ae72ff7885f3f102f455de9460a" label="graphic materials" type="box">1</container>
+        <container id="aspace_498d0e2d0036655c30d94aeeafcf8538" parent="aspace_d4d12ae72ff7885f3f102f455de9460a" type="image">6</container>
+        <dao entityref="xt7n8p5vb48r_6_1"/>
+      </did>
+    </c>
+    <c id="ref7" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified woman; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_0bcdfe35708df7f9e17efdcadbe012cd" label="graphic materials" type="box">1</container>
+        <container id="aspace_3110dfc62cfb11facfe3bdc08daa5209" parent="aspace_0bcdfe35708df7f9e17efdcadbe012cd" type="image">7</container>
+        <dao entityref="xt7n8p5vb48r_7_1"/>
+      </did>
+    </c>
+    <c id="ref8" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified man; Mrs. Chas. Waldak's Photographic Studio branded backing card; "All Therse" noted on back on verso</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_642337a3dc556b44658bb7308d1ef93b" label="graphic materials" type="box">1</container>
+        <container id="aspace_d905b6697ae1c9a77cb4a0968ac99082" parent="aspace_642337a3dc556b44658bb7308d1ef93b" type="image">8</container>
+        <dao entityref="xt7n8p5vb48r_8_1"/>
+      </did>
+    </c>
+    <c id="ref9" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified infant; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_1530c60ce45dc3054b7519536e899faf" label="graphic materials" type="box">1</container>
+        <container id="aspace_e1f07167471efb0ce958f030c023c3f4" parent="aspace_1530c60ce45dc3054b7519536e899faf" type="image">9</container>
+        <dao entityref="xt7n8p5vb48r_9_1"/>
+      </did>
+    </c>
+    <c id="ref10" level="item">
+      <did>
+        <unittitle>Studio portrait of two unidentified young women; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_080c6a97d8e1c54db905f75b7d753d42" label="graphic materials" type="box">1</container>
+        <container id="aspace_3475cbcd9e59d6e1efb0fa500ec8f1b6" parent="aspace_080c6a97d8e1c54db905f75b7d753d42" type="image">10</container>
+        <dao entityref="xt7n8p5vb48r_10_1"/>
+      </did>
+    </c>
+    <c id="ref11" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified woman; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_53bd13c797974de45a55325232f5bd02" label="graphic materials" type="box">1</container>
+        <container id="aspace_cca9ed8f4c925b0f02072304dd89de5b" parent="aspace_53bd13c797974de45a55325232f5bd02" type="image">11</container>
+        <dao entityref="xt7n8p5vb48r_11_1"/>
+      </did>
+    </c>
+    <c id="ref12" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified woman; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_0be82756f4cb91c7b068ff772bb0442f" label="graphic materials" type="box">1</container>
+        <container id="aspace_9a1eead9d8c6c445889dff7d0cf003b4" parent="aspace_0be82756f4cb91c7b068ff772bb0442f" type="image">12</container>
+        <dao entityref="xt7n8p5vb48r_12_1"/>
+      </did>
+    </c>
+    <c id="ref13" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified woman; Mrs. Chas. Waldak's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_908643f35a4b3025b6542dd5f09c0d75" label="graphic materials" type="box">1</container>
+        <container id="aspace_220ade273781e35d5e7d49c849ba15c4" parent="aspace_908643f35a4b3025b6542dd5f09c0d75" type="image">13</container>
+        <dao entityref="xt7n8p5vb48r_13_1"/>
+      </did>
+    </c>
+    <c id="ref14" level="item">
+      <did>
+        <unittitle>Studio portrait of a man and woman; Mrs. Chas. Waldack's Photographic Studio branded backing card; <title render="doublequote">Alberta Pace's Mother Anna Shulte's Mother and Father</title> noted on back</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_26c8581729bfd4da3fa788f9036a9b07" label="graphic materials" type="box">1</container>
+        <container id="aspace_09083807e52660ddf50e1d4e00d226a5" parent="aspace_26c8581729bfd4da3fa788f9036a9b07" type="image">14</container>
+        <dao entityref="xt7n8p5vb48r_14_1"/>
+      </did>
+    </c>
+    <c id="ref15" level="item">
+      <did>
+        <unittitle>Studio portrait of an unidentified child; Mrs. Chas. Waldack's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_164d18d030f364308ce12badec0be537" label="graphic materials" type="box">1</container>
+        <container id="aspace_e03403c0e86b79edafebc4fadaca1be0" parent="aspace_164d18d030f364308ce12badec0be537" type="image">15</container>
+        <dao entityref="xt7n8p5vb48r_15_1"/>
+      </did>
+    </c>
+    <c id="ref16" level="item">
+      <did>
+        <unittitle>Studio portrait of a man and woman; Mrs. Chas. Waldack's Photographic Studio branded backing card</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_aede7d84b4598da69460f7c8a413ed36" label="graphic materials" type="box">1</container>
+        <container id="aspace_42a98968e5241fae93ec074a82243c22" parent="aspace_aede7d84b4598da69460f7c8a413ed36" type="image">16</container>
+        <dao entityref="xt7n8p5vb48r_16_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

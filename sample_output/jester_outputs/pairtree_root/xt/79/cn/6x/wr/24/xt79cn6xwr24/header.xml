@@ -1,0 +1,63 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt79cn6xwr24</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt79cn6xwr24/data/48m44.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The John Cockey Owings ledger (dated 1790-1880, undated, bulk 1790-1801; 0.2 cubic feet; 1 item) consists of a ledger which may have belonged to John Cockey Owings.</abstract>
+  <descriptive_summary>
+    <author>Processed by: Archives Staff ; machine-readable finding aid created by:Eric Weig</author>
+    <title>John Cockey Owings ledger</title>
+    <source>John Cockey Owings ledger</source>
+    <unitdates>
+      <date>1790-1880, undated (inclusive)</date>
+      <date>1790-1801 (bulk)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.2 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically (roughly).</arrangement>
+    <subjects>
+      <subject>Business records -- Kentucky.</subject>
+      <subject>General stores -- Kentucky.</subject>
+      <subject>Merchants.</subject>
+    </subjects>
+    <prefercite>48M44: [Identification of item], John Cockey Owings ledger, 1790-1880, undated, bulk 1790-1801, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>John Cockey Owings was a businessman in Baltimore, Maryland (1736-1810) who had substantial land holdings and business stakes in Kentucky, specifically in Bourbon and Bath counties. He purchased the Bourbon Iron Furnace in 1791 with partners that included Christopher Greenup, Walter Beall, and  Willis Green. Owings added additional partners in 1794, incuding George Thomas, John Breckinridge, and George Nicholas, before becoming the sole owner in 1795. Owings' son Thomas Dye Owings, oversaw Owings' Kentucky holdings and the operation of the furnace.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The John Cockey Owings ledger (dated 1790-1880, undated, bulk 1790-1801; 0.2 cubic feet; 1 item) consists of a ledger which may have belonged to John Cockey Owings. The ledger indicates that profits were paid to John Cockey Owings. The ledger shows various accounts including debits and credits. Some accounts are under people's name and include many early Kentucky names such as Harry Innes, James Wilkinson, Christopher Greenup, George Nicholas, and Samuel McDowell. Other accounts are labelled as tobacco, whiskey, horses, military certificates, horse certificates, spy certificates, cotton, cattle, barter, notes receivable, general charges, pork, sales of salt, and merchandises. A store at Paris, Kentucky, is referenced many times in the book. Additionally, the contra accounts are often paid by barter of merchandise, tobacco, and whiskey. There are often notations made in pencil at a much later date that point out pertinent facts about the people recorded in the ledger. The end of the ledger contains some interleavings, including a letter to Ida Reid in 1879 and partially burned check that is labelled as <emph render="doublequote">check taken from the vault of the Bank at St. Pierre in the ruins causd by the eruption of Mt. Pelee on the Martinique Islands</emph>.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>John Cockey Owings ledger</unittitle>
+        <unitdate datechar="creation" type="inclusive">1790-1880</unitdate>
+        <container id="aspace_85814fd8fc50bc8b68792cf187a87720" label="mixed materials" type="item">1</container>
+        <dao entityref="xt79cn6xwr24_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

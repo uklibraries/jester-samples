@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt7mkk94bp82">2021ms088</eadid><filedesc><titlestmt><titleproper type="filing">Webb, Gina papers</titleproper><titleproper>Guide to the Gina Webb papers, 1992-1999, undated <num>2021ms088</num></titleproper><author>Ida Lucille Mangum</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2021 December 7</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-05 17:52:15 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Gina Webb papers</unittitle>
+    <unitid>2021ms088</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.45 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1992/1999" type="inclusive">1992-1999, undated</unitdate>
+    <abstract id="aspace_250bcfcd914ba2e55dbe143c0b626170">The Gina Webb papers (dated 1992-1999, undated; 0.45 cubic feet; 1 box) comprise transcripts, historical notes, letters, and some photographs and negatives gather by Webb for an oral history project with residents of Perryville, Kentucky.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_3b939955e46966f668a0b11fb6cf7168">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <arrangement id="aspace_2c5351ca4a91407a59b31a75dc203834">
+    <head>Arrangement</head>
+<p>Collection is arranged into two series by format.</p>  </arrangement>
+  <bioghist id="aspace_f76f3a77bb6980b6c82b6f02a83dda75">
+    <head>Biographical note</head>
+<p>Gina Webb is a historian living in Boyle County, Kentucky. During the 1990's she conducted oral history interviews with residents of Perryville, Kentucky about local history.</p>  </bioghist>
+  <acqinfo id="aspace_fe32ce35fcd6af71267a50bc6f0dbe4d">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2021.</p>  </acqinfo>
+  <prefercite id="aspace_3e94a2cb1b99cef3bde176c062e9cca0">
+    <head>Preferred Citation</head>
+<p>2021ms088: [identification of item], Gina Webb papers, 1992-1999, undated, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_aec1d0e9355f63dc55ab423956cdb96c">
+    <head>Scope and Contents</head>
+<p>The Gina Webb papers (dated 1992-1999, undated; 0.45 cubic feet; 1 box) comprise transcripts, historical notes, letters, and some photographs and negatives gather by Webb for an oral history project with residents of Perryville, Kentucky. The transcripts cover the town, the people, the culture, the commerce. Of significance, the collection includes interviews and photographs related to slavery, and the post-Civil War settlement in Boyle County of former enslaved persons called Sleettown.</p>  </scopecontent>
+  <userestrict id="aspace_e2b2220c0922c265b4dd8815a99a0a17">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">African American history</subject>
+    <subject source="lcsh">Oral histories</subject>
+    <geogname authfilenumber="sh 85071970" source="lcsh">Kentucky -- History -- Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">Perryville (Ky.)</geogname>
+    <geogname source="local">Sleettown (Ky.)</geogname>
+  </controlaccess>
+  <dsc><c id="ref1" level="series"><did><unittitle>Binder no. 1</unittitle><unitid>Series I.</unitid><unitdate datechar="creation" type="inclusive">1996-1998, undated</unitdate></did><c id="ref2" level="file"><did><unittitle>Oral history transcripts and individual background information</unittitle><unitdate datechar="creation" type="inclusive">1996-1997</unitdate><container id="aspace_f64adf41afde7a2ff94d03fdf8b7d8ca" label="mixed materials" type="box">1</container><container id="aspace_2502e7ec97525d095eca626a9fa3ca71" parent="aspace_f64adf41afde7a2ff94d03fdf8b7d8ca" type="folder">1-2</container></did></c><c id="ref3" level="file"><did><unittitle>Photographs of buildings in Perryville, Kentucky</unittitle><unitdate datechar="creation" type="inclusive">1997</unitdate><container id="aspace_04cc42b1eb977ba340279fb9401c782c" label="graphic materials" type="box">1</container><container id="aspace_368ab0496cd50fc84ad1e9b1c6efc842" parent="aspace_04cc42b1eb977ba340279fb9401c782c" type="folder">3</container><dao entityref="xt7mkk94bp82_1_1"/></did></c><c id="ref4" level="file"><did><unittitle>Negatives of <title render="doublequote">Slave shack pictures </title></unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_3ffeac177829e2d944546b1889017d13" label="graphic materials" type="box">1</container><container id="aspace_a25645e88472573fd99e92e008f5d555" parent="aspace_3ffeac177829e2d944546b1889017d13" type="folder">4</container><dao entityref="xt7mkk94bp82_2_1"/></did></c><c id="ref5" level="file"><did><unittitle>Letters and forms</unittitle><unitdate datechar="creation" type="inclusive">1997-1998</unitdate><container id="aspace_4be040d6927f6d3b5ca23c47424efc37" label="mixed materials" type="box">1</container><container id="aspace_a9f7c19d9f497c6b41b553038be65f6c" parent="aspace_4be040d6927f6d3b5ca23c47424efc37" type="folder">5</container></did></c><c id="ref6" level="file"><did><unittitle>Reference materials</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_945741f241a1c855ee4673cf85fb3aac" label="mixed materials" type="box">1</container><container id="aspace_83dc8c18d3d0c0f210529a3882e89e04" parent="aspace_945741f241a1c855ee4673cf85fb3aac" type="folder">6</container></did></c></c><c id="ref7" level="series"><did><unittitle>Binder no. 2</unittitle><unitid>Series II.</unitid><unitdate datechar="creation" type="inclusive">1992-1999, undated</unitdate></did><c id="ref8" level="file"><did><unittitle>Oral history transcripts and individual background information</unittitle><unitdate datechar="creation" type="inclusive">1997-1998</unitdate><container id="aspace_b6fcb0439b47514d82a2742c090ba361" label="mixed materials" type="box">1</container><container id="aspace_8e259de3a4c3b6118b0b899429e1deaf" parent="aspace_b6fcb0439b47514d82a2742c090ba361" type="folder">7</container></did></c><c id="ref9" level="file"><did><unittitle>Photographs of log cabins and houses, Sleettown, exterior views (12)</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_faae66abb460d60afeef28cbd4cad28e" label="graphic materials" type="box">1</container><container id="aspace_018203264be55a6d767ae499b0c2318a" parent="aspace_faae66abb460d60afeef28cbd4cad28e" type="folder">8</container><dao entityref="xt7mkk94bp82_3_1"/></did></c><c id="ref10" level="file"><did><unittitle>Binder no. 1 project planning materials</unittitle><unitdate datechar="creation" type="inclusive">1998</unitdate><container id="aspace_35a847b17a9ec93343f34d439775fef7" label="mixed materials" type="box">1</container><container id="aspace_cfd3d0f7eae19af24ae35862140d73b3" parent="aspace_35a847b17a9ec93343f34d439775fef7" type="folder">9</container></did></c><c id="ref11" level="file"><did><unittitle>Binder no. 1 reference materials</unittitle><unitdate datechar="creation" type="inclusive">1992-1999</unitdate><container id="aspace_6dbda501d5b6d6bbd3e6b73d8a5c0def" label="mixed materials" type="box">1</container><container id="aspace_b441c1fd5de223a34aa1337be227de44" parent="aspace_6dbda501d5b6d6bbd3e6b73d8a5c0def" type="folder">10</container></did></c></c></dsc>
+</archdesc>
+</ead>

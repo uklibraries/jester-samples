@@ -1,0 +1,142 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7qft8dk12h</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7qft8dk12h/data/2015ms035.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Ann Bailey family papers (dated 1864-1888, undated; 0.23 cubic feet, 1 box) primarily comprise letters from the children, grandchildren, and external family members related to Ann Eliza Owsley Bailey of Shelby and Lincoln Counties, Kentucky during the mid-nineteenth century.</abstract>
+  <descriptive_summary>
+    <author>Ida Lucille Sell Mangum</author>
+    <title>Ann Bailey family papers</title>
+    <source>Ann Bailey family papers</source>
+    <unitdates>
+      <date>1864-1888 (inclusive)</date>
+    </unitdates>
+    <creator>Bailey, Ann, 1824-1898</creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Debtor and creditor.</subject>
+      <subject>Families -- Kentucky -- History -- 19th Century.</subject>
+      <subject>Georgetown (Ky.)</subject>
+      <subject>Letters.</subject>
+      <subject>Lincoln County (Ky.)</subject>
+      <subject>Shelbyville (Ky.)</subject>
+      <subject>Bailey, Ann, 1824-1898</subject>
+      <subject>Carrithers, Katherine Bailey, Kate, 1852-1887</subject>
+    </subjects>
+    <prefercite>2015ms035: [identification of item], Ann Bailey family papers, 1864-1888, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Ann Eliza Owsley Bailey was born October 22, 1824 to Louisa A. Foster and Nudigate Owsley in Shelby County, Kentucky. Bailey was the niece of William Owsley, former associate justice of the Kentucky Court of Appeals and the 16th Governor of Kentucky. In 1844 she married Hartwell A. Bailey (1807-1856) of Lincoln County, Kentucky. To their marriage five children were born: Alice Theresa Bailey Pickett, Louisa Bailey Shanks, Carroll Owsley Bailey, Katherine Bailey Carrithers, and Emily Owsley Bailey Bonney. Hartwell died in 1856, leaving Ann to manage their estate. Ann lived for many years with her daughter, Louisa, and her husband, John Henry Shanks, in Lincoln County. Ann died at her daughter's home February 1, 1898.</p><p>Source: Semi-weekly interior journal. (Stanford, Ky.), February 4, 1898. Chronicling America: Historic American Newspapers. Library of Congress, https://chroniclingamerica.loc.gov/lccn/sn85052020/1898-02-04/ed-1/seq-3/, accessed 2023 February 10.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Content Description</head>
+      <p>The Ann Bailey family papers (dated 1864-1888, undated; 0.23 cubic feet, 1 box) primarily comprise letters from the children, grandchildren, and external family members related to Ann Eliza Owsley Bailey of Shelby and Lincoln Counties, Kentucky during the mid-nineteenth century. The letters discuss health, traveling, purchases (like fabric for clothing), and other day-to-day life events. Eleven of the letters are from Ann Bailey's granddaughter, Mary C. Pickett, while she was at Georgetown Female Seminary and from her home in Finchville, Shelby County, Kentucky. A large portion of the letters are to and from Catherine (Kate) Bailey Carrithers. Kate wrote lengthy letters from Shelbyville and Lexington during the 1880s. Some of the letters to Ann Bailey request debts owed for items like furniture, sent in the years following the Civil War, 1864-1872. Finally, the collection includes two portrait photographs: one of Ann Bailey and the other of Kate Bailey.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Anne Bailey family letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1879-1880</unitdate>
+        <container id="aspace_fddcfd3dcecef91913e424e9b75dc052" label="mixed materials" type="box">1</container>
+        <container id="aspace_3f826923950e32326fd35f28b77186e8" parent="aspace_fddcfd3dcecef91913e424e9b75dc052" type="folder">1</container>
+        <dao entityref="xt7qft8dk12h_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Anne Bailey family letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1881-1882</unitdate>
+        <container id="aspace_e2e1c0cc75c56b2b9ff44134f8ce4422" label="mixed materials" type="box">1</container>
+        <container id="aspace_83644f4dbc2370b1d9f60e51f45df280" parent="aspace_e2e1c0cc75c56b2b9ff44134f8ce4422" type="folder">2</container>
+        <dao entityref="xt7qft8dk12h_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Anne Bailey family letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1883</unitdate>
+        <container id="aspace_585cf67ccd2efe69bbed32c1d258b6ac" label="mixed materials" type="box">1</container>
+        <container id="aspace_406c3261a578ed054389a43136fa47e8" parent="aspace_585cf67ccd2efe69bbed32c1d258b6ac" type="folder">3</container>
+        <dao entityref="xt7qft8dk12h_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Anne Bailey family letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1884-1885</unitdate>
+        <container id="aspace_b7c591f165693b3500b1292771b42967" label="mixed materials" type="box">1</container>
+        <container id="aspace_98e53d4b790ec8a62def4e4882f75bcf" parent="aspace_b7c591f165693b3500b1292771b42967" type="folder">4</container>
+        <dao entityref="xt7qft8dk12h_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle>Anne Bailey family letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1886-1888</unitdate>
+        <container id="aspace_d2158b5f925e9a8d652dabe25c2c12e4" label="mixed materials" type="box">1</container>
+        <container id="aspace_c88a0b987d5d177cdf29ed4f041832ea" parent="aspace_d2158b5f925e9a8d652dabe25c2c12e4" type="folder">5</container>
+        <dao entityref="xt7qft8dk12h_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle>Anne Bailey family letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_7b52c4ce6df52cb57a4e65c98e4961e8" label="mixed materials" type="box">1</container>
+        <container id="aspace_cabb5f13428870137eef3b963096ab78" parent="aspace_7b52c4ce6df52cb57a4e65c98e4961e8" type="folder">6</container>
+        <dao entityref="xt7qft8dk12h_6_1"/>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle>Letters to Ann Eliza Owsley Bailey requesting debts owed</unittitle>
+        <unitdate datechar="creation" type="inclusive">1864-1872</unitdate>
+        <container id="aspace_b303a67333dc5bbe97c21113ff33781e" label="mixed materials" type="box">1</container>
+        <container id="aspace_7b54fadaedf6c17a6f97c185c9273302" parent="aspace_b303a67333dc5bbe97c21113ff33781e" type="folder">7</container>
+        <dao entityref="xt7qft8dk12h_7_1"/>
+      </did>
+    </c>
+    <c id="ref8" level="file">
+      <did>
+        <unittitle>Photograph: Ann Eliza Owsley Bailey, Danville, Kentucky</unittitle>
+        <unitdate datechar="creation" type="inclusive">circa 1880</unitdate>
+        <container id="aspace_e10c2be31ee88637d0656c139bd3d54e" label="graphic materials" type="box">1</container>
+        <container id="aspace_5cdd65eba939fb37bc49e393841c77f6" parent="aspace_e10c2be31ee88637d0656c139bd3d54e" type="folder">8</container>
+        <container id="aspace_4aa1545cce76236b8b05608da71bfaf3" parent="aspace_5cdd65eba939fb37bc49e393841c77f6" type="item">1</container>
+        <dao entityref="xt7qft8dk12h_8_1"/>
+      </did>
+    </c>
+    <c id="ref9" level="file">
+      <did>
+        <unittitle>Photograph: Catherine (Kate) Bailey Carrithers</unittitle>
+        <unitdate datechar="creation" type="inclusive">circa 1880</unitdate>
+        <container id="aspace_cf50b4c2586d7154f0c9d5b5b108f342" label="graphic materials" type="box">1</container>
+        <container id="aspace_819cf641d2c3ded679a3c90ec0831f4f" parent="aspace_cf50b4c2586d7154f0c9d5b5b108f342" type="folder">8</container>
+        <container id="aspace_9858b506fd9955eb9b7c11bb35588328" parent="aspace_819cf641d2c3ded679a3c90ec0831f4f" type="item">2</container>
+        <dao entityref="xt7qft8dk12h_9_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

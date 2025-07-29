@@ -1,0 +1,69 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt78cz325b4s</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt78cz325b4s/data/1997MS257.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Lucie Tanner McCauley diaries (1870-1872; 0.04 cubic feet; 1 microfilm reel) include two diaries written by a school teacher in Jessamine County, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Ida Lucille Sell Mangum</author>
+    <title>Lucie Tanner McCauley diaries</title>
+    <source>Lucie Tanner McCauley Diaries</source>
+    <unitdates>
+      <date>1870-1872 (inclusive)</date>
+    </unitdates>
+    <creator>McCauley, Lucy Jane Tanner, 1842-1915</creator>
+    <extent>0.04 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Boarding schools.</subject>
+      <subject>Diaries -- 19th Century.</subject>
+      <subject>Jessamine County (Ky.)</subject>
+      <subject>Livestock</subject>
+      <subject>Recipes.</subject>
+      <subject>Schools -- Kentucky.</subject>
+      <subject>Teachers.</subject>
+      <subject>Woodford County (Ky.)</subject>
+      <subject>McCauley, Lucy Jane Tanner, 1842-1915</subject>
+    </subjects>
+    <prefercite>1997MS257: [identification of item], Lucie Tanner McCauley diaries, 1870-1872, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Lucy Jane Tanner McCauley, was the eldest daughter born to Oliver and Elizabeth Tanner in Keene, Jessamine County, Kentucky in 1842. Her father was a millwright and had built Lemon &amp; Flournoy Mills at Newtown, Scott County, Kentucky. At age 15, Lucy (then called <title render="doublequote">Miss Lucie</title>) began teaching school in Jessamine and Woodford County public schools. She married Hugh McCauley, a farmer in Jessamine County. Lucy taught in Keene and Troy schools, boarded with students, and returned home to the farm on the weekends. In 1885, she opened Locust Grove Seminary, a private boarding school using her and Hugh's home as the location. Lucy McCauley remained teaching until a brief illness before her death on October 8, 1915.  </p><p>Sources: 
+      Mastin, Bettye Lee, <title render="doublequote">She Hit Ruler; Pupils Jumped</title>, <title render="italic">Lexington Herald-Leader</title>, Lexington, Kentucky, July 16, 1977.</p><p><title render="doublequote">Mrs. M'Cauley Long Active School Teacher.</title>, <title render="italic">Lexington Leader</title>, Lexington, Kentucky, October 16, 1915.</p><p>Oliver Hazard Perry Tanner, Find a Grave, Accessed 2023 February 28, https://www.findagrave.com/memorial/107011905/oliver-hazard_perry-tanner</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Lucie Tanner McCauley diaries (1870-1872; 0.04 cubic feet; 1 microfilm reel) includes two diaries written by a school teacher in Jessamine County, Kentucky. The diaries contain entries about McCauley's day-to-day life with descriptions about the weather, health traveling to nearby towns, church services, teaching exercises, and farm activities. She also wrote recipes for desserts and lists store purchases. The diaries are written in pencil or pale ink for the years 1870-1871 and 1872.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Lucie Tanner McCauley Diaries</unittitle>
+        <unitdate datechar="creation" type="inclusive">1870-1872</unitdate>
+        <container id="aspace_084c8ec0c3c5b8ef88387f6c8be479d2" label="Microform" type="reel">KUK 28858</container>
+        <dao entityref="xt78cz325b4s_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

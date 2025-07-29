@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt7tqj77x34v">2009ms132.0879</eadid><filedesc><titlestmt><titleproper type="filing">Hall, Wade Collection of American Letters: John Louis Martin sketchbook</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: John Louis Martin sketchbook, 1908-1918, 1989, undated <num>2009ms132.0879</num></titleproper><author>Hanna Rumbarger</author><sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2020 February 4</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-08-03 15:30:41 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: John Louis Martin sketchbook</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Martin, John Louis, 1877-1952</persname>
+    </origination>
+    <unitid>2009ms132.0879</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Cubic Feet</extent>
+      <extent altrender="carrier">2 folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1908/1989" type="inclusive">1908-1918, 1989, undated</unitdate>
+    <abstract id="aspace_f04c913fec0d4ffb62bd7ecb608981a4">The John Louis Martin sketchbook (dated 1908-1918, 1989, undated; 0.03 cubic feet; 2 folders) comprises a single sketchbook belonging to John Louis Martin, a stagehand and set designer at the Buckingham Theatre in Louisville, Kentucky during the first part of the twentieth century.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_c1c4b8ac3b55ddc6f5132456d1d5fff9">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_b6395f6bd4e72b569e2b4fe109029f72">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_dfa4e435ce25745e10217f82e7ec8fd2">
+    <head>Arrangement</head>
+<p>Collection is arranged by subject. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_fc5e9dad956a1eb36496aaa1f3d04438">
+    <head>Biographical note</head>
+<p>John Louis Martin (1877-1952) was born and raised in Louisville, Kentucky. He married Mary Caroline Woetring (1881-1989) in 1905, and the couple had three children together, John Raymond Martin (1915-1978), Edward Martin (1915-1946) and Sarah Jane Martin (1920-1987).  John worked at The Buckingham Theatre from around 1910-1940, according to US Census records. </p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_8d69cdc5fabc539e0c1adc1bb7a5fb97">
+    <head>Preferred Citation</head>
+<p>2009ms132.0879: [identification of item], Wade Hall Collection of American Letters: John Louis Martin sketchbook, 1908-1918, 1989, undated, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_d6693889e4a8a81fb70259df8883b0d2">
+    <head>Scope and Contents</head>
+<p>The John Louis Martin sketchbook (dated 1908-1918, 1989, undated; 0.03 cubic feet; 2 folders) comprises a single sketchbook belonging to John Louis Martin, a stagehand and set designer at the Buckingham Theatre in Louisville, Kentucky during the first part of the twentieth century. The sketchbook features vibrant sketches and paintings of various stage designs, architectural designs, nature sketches, landscape paintings and sketches of steamboats. The sketches are either in color or simple pencil. The stage designs, landscapes and steamboat sketches are very detailed and intricate for their small size. One of the sketches is of a rough head steamboat on the Cincinnati River near Louisville. Also featured are multiple sketches of downtown Louisville and the outside of The Buckingham Theatre. Also included in this collection are two newspaper clippings from the Louisville Courier-Journal about the history of The Buckingham Theatre, renamed The Savoy Theatre in 1894, and the permanent closing of the theater in 1989.</p><p>The John Louis Martin sketchbook collection is part of the Wade Hall Collection of American letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>  </scopecontent>
+  <userestrict id="aspace_a50471351f665c618da4143e18a41c32">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="lcsh">Sketches.</genreform>
+    <genreform source="aat">sketchbooks</genreform>
+    <subject source="lcsh">Drawing.</subject>
+    <genreform source="lcsh">Clippings (Books, newspapers, etc.)</genreform>
+    <subject source="lcsh">Theaters -- Kentucky -- Louisville.</subject>
+    <geogname source="lcsh">Louisville (Ky.)</geogname>
+    <geogname source="lcsh">Kentucky.</geogname>
+    <subject source="lcsh">Steamboats.</subject>
+    <persname rules="dacs" source="local">Martin, John Louis, 1877-1952</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>John L. Martin sketchbook</unittitle><unitdate datechar="creation" type="inclusive">1908-1918</unitdate><container id="aspace_afd1c93b99628310358215a2da4f7971" label="mixed materials" type="box">WH-102</container><container id="aspace_d8e418796f4acdb26398f4b77e17f089" parent="aspace_afd1c93b99628310358215a2da4f7971" type="folder">10</container><dao entityref="xt7tqj77x34v_1_1"/></did></c><c id="ref2" level="file"><did><unittitle>Louisville Courier-Journal newspaper clippings</unittitle><unitdate datechar="creation" type="inclusive">1989, undated</unitdate><container id="aspace_bfda3b19c4fd85b023790dd233cac78d" label="mixed materials" type="box">WH-102</container><container id="aspace_dd348fbeb74e8637faaf4ff76700342d" parent="aspace_bfda3b19c4fd85b023790dd233cac78d" type="folder">11</container></did></c></dsc>
+</archdesc>
+</ead>

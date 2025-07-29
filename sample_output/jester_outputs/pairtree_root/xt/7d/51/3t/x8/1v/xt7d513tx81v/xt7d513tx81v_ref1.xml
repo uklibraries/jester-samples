@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<c id="ref1" level="item"> <did> <unittitle>John Woodring blacksmith ledger</unittitle> <unitdate datechar="creation" type="inclusive">1799-1822, 1852</unitdate> <container id="aspace_74de9e5af8c87cc5fae81d5d6e9a7b0d" label="mixed materials" type="box">1</container> <container id="aspace_8647cf8c083bdb9c2e365d44cfb7512e" parent="aspace_74de9e5af8c87cc5fae81d5d6e9a7b0d" type="item">1</container> <dao entityref="xt7d513tx81v_1_1"/> </did> </c>

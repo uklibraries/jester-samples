@@ -1,0 +1,124 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7g1j979d5z</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7g1j979d5z/data/2018ms010.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Kentucky Utilities records (dated 1933-2009; 8 cubic feet; 12 boxes) primarily comprise reports, newsletters, and scrapbooks that document the history and operations of Kentucky Utilities in Lexington, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Madeline Alvey, Logan McGuire</author>
+    <title>Kentucky Utilities records</title>
+    <source>Kentucky Utilities records</source>
+    <unitdates>
+      <date>1933-2009 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>8 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format in three series: Annual reports 1933-2009,  Kentucky Utilities Employee's Newsletters 1944-1998, and Scrapbooks 1949-1973.</arrangement>
+    <subjects>
+      <subject>Annual reports.</subject>
+      <subject>Electrical utilities -- Kentucky</subject>
+      <subject>Lexington (Ky.)</subject>
+      <subject>Newsletters</subject>
+      <subject>Scrapbooks</subject>
+    </subjects>
+    <prefercite>2018ms010 : [identification of item], Kentucky Utilities records, 1933-2009, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>Kentucky Utilities (KU) started services on December 2, 1912. In 1998, KU was acquired by Louisville Gas and Electric Company (LGamp;E). As of 2010 LG&amp;E and KU Energy, a litmited liability company is owned by Pennsylvania Power &amp; Light Company (PPL). Kentucky Utilities was founded to serve five areas of Kentucky and has grown to serve 77 Kentucky counties and five Virginia counties. At its beginning, KU provided a variety of services to customers, including deliviries of ice; now it primarily offers coal and dam generated electricity. Since 1999 LG&amp;E and KU Energy has investment in power companies throughout the world, including in Argentina, Spain, and Germany.   </p><p>Sources: 
+      Corporate History, LG&amp;E and KU Energy, https://lge-ku.com/our-company#c-overlay, accessed 2021 February 2.
+      Kentucky Utilities, Wikipedia, https://en.wikipedia.org/wiki/Kentucky_Utilities, accessed 2021 February 2.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Kentucky Utilities records (dated 1933-2009; 8 cubic feet; 12 boxes) primarily comprise reports, newsletters, and scrapbooks that document the history and operations of Kentucky Utilities in Lexington, Kentucky. The collection also includes a scrapbook documenting community events in Lexington from 1949-1950. The newsletters consist of employee newsletters sharing information about the individual workers of Kentucky Utilities from 1944-1998.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Annual reports</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">1933-2009</unitdate>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+      <c id="ref19" level="file"/>
+      <c id="ref20" level="file"/>
+    </c>
+    <c id="ref21" level="series">
+      <did>
+        <unittitle>Kentucky Utilities Employee's Newsletters</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1944-1998</unitdate>
+      </did>
+      <scopecontent id="aspace_94d22ae90b3582bdde55b71d995d1fc5">
+        <head>Scope and Contents</head>
+        <p>The Kentucky Utilities Employee's News (dated 1944-1998; 2 cubic feet; 2 boxes) primarily comprise of bound newsletters that document the lives and accomplishments surrounding the workers of Kentucky Utilities in Lexington, Kentucky.</p>
+      </scopecontent>
+      <c id="ref22" level="file"/>
+      <c id="ref23" level="file"/>
+      <c id="ref24" level="file"/>
+      <c id="ref25" level="file"/>
+      <c id="ref26" level="file"/>
+      <c id="ref27" level="file"/>
+      <c id="ref28" level="file"/>
+      <c id="ref29" level="file"/>
+      <c id="ref30" level="file"/>
+      <c id="ref31" level="file"/>
+      <c id="ref32" level="file"/>
+      <c id="ref33" level="file"/>
+      <c id="ref34" level="file"/>
+    </c>
+    <c id="ref35" level="series">
+      <did>
+        <unittitle>Scrapbooks</unittitle>
+        <unitid>Series III.</unitid>
+        <unitdate datechar="creation" type="inclusive">1949-1973</unitdate>
+      </did>
+      <c id="ref36" level="file"/>
+      <c id="ref37" level="file"/>
+      <c id="ref38" level="file"/>
+      <c id="ref39" level="file"/>
+      <c id="ref40" level="file"/>
+      <c id="ref41" level="file"/>
+      <c id="ref42" level="file"/>
+      <c id="ref43" level="file"/>
+      <c id="ref44" level="file"/>
+    </c>
+  </contents>
+</header>

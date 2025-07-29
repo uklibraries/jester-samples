@@ -1,0 +1,269 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7x959c6497</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7x959c6497/data/80PA122.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Sketches of Camp Boone (dated 1860; 0.1 cubic feet; 1 box) is a photographic book of salt print photographs depicting the mustering of the Kentucky State Guard in 1860.</abstract>
+  <descriptive_summary>
+    <author>Processed by: Staff, Lindy Melvin; machine-readable finding aid created by:Eric Weig and Lindy Melvin</author>
+    <title>Sketches of Camp Boone</title>
+    <source>Sketches of Camp Boone</source>
+    <unitdates>
+      <date>1860 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Camp Daniel Boone (Ky.)</subject>
+      <subject>Kentucky -- Militia.</subject>
+      <subject>Kentucky -- Militia -- History.</subject>
+      <subject>Kentucky. State Guard -- Regulations</subject>
+      <subject>Military law -- Kentucky.</subject>
+    </subjects>
+    <prefercite>Sketches of Camp Boone : The First Encampment of the Kentucky State Guard ; Held near Louisville, from August 23d to August 30th, 1860 : Also, Photographic Views of the Camp, and Portraits of the General's Staff. Louisville, Ky: Published by G.T. Shaw for Garrett &amp; Nickerson, photographists], 1860. Print.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>On March 5th, 1860 The Kentucky State Legislature enacted the Kentucky Militia Law, which enabled the Kentucky State Guard to form. <emph render="doublequote">Be it enacted by the General Assembly of the Commonwealth of Kentucky That the Kentucky Militia shall be divided into three classes: 1st The Active or Volunteer Militia 2nd. The Enrolled Militia 3rd. The Militia of the Reserves. The Volunteer of Active Militia shall be styled the Kentucky State Guard.</emph> By May 5th, 1860 the Inspector-General and staff received their commissions. Simon Bolivar Buckner was named Inspector-General with the rank of Major General. On August 23, 1860 the Kentucky State Guard assembled for the first time. Camp Boone was named for Daniel Boone and was located on the grounds of the South-Western Agricultural Association in Louisville.</p><p>The state of Kentucky declared neutrality during the American Civil War 1861-1865. As the head of the state's military forces Major-General Simon Bolivar Buckner attempted to preserve the guards precarious neutrality but in July 1861 the Unionist-controlled military board of the state ordered the State Guard, which they considered pro-secessionist, to turn in its arms. As a result, most of the Kentucky State Guard troops joined the Confederate Army during the American Civil War.</p><p>Information about Simon Bolivar Buckner and John Hunt Morgan was derived from <title render="italic">Who Was Who In The Civil War</title> by Stewart Sifakis.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The <title render="italic">Sketches of Camp Boone</title> (dated 1860; 0.1 cubic feet; 1 box) is a photographic book of salt print photographs depicting the mustering of the Kentucky State Guard in 1860. It was published by G.T. Shaw for the Garret &amp; Nickerson, Photographers, Telegraphy Gallery located Main Street, Louisville, Kentucky. Eleven photographic views of the camp are included in the book. Also nine portraits of the Major General and his staff are included in a photographic composite. Numbers 5 and 6 were bound out of order.</p><p>In <title render="italic">Sketches of Camp Boone</title> there is a detailed record of all the orders that were given and officers who were present at Camp Boone. A notable name on this roll is Captain John Hunt Morgan of the Lexington Rifles. Morgan would later become know as the organizer and leader of the Morgan Raiders, a Confederate military group. Major-General Simon Bolivar Buckner would also become know as an important leader for the Confederacy.</p><p>Collection was previously housed in Photograph Archives Department of Special Collections and Digital Programs, University of Kentucky Libraries, as collection number 80PA122, Sketches of Camp Boone. This item is now housed in  Rare Books F455 .S54 1860</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center. Copyright is in public domain.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Front cover and endpapers of <title render="italic">Sketches of Camp Boone: The First encampment of the Kentucky State Guard Held Near Louisville, from August 23d to August 30th, 1860</title></unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_cb64d7baa548771f5e3f4e48a7737ca2" label="mixed materials" type="box">1</container>
+        <container id="aspace_7aa7344ebf06bb64c8f76d262ecb6fa4" parent="aspace_cb64d7baa548771f5e3f4e48a7737ca2" type="item">1</container>
+        <dao entityref="xt7x959c6497_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Title page</unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_2de1cbe82f81b40417c2ee36a05d78f0" label="mixed materials" type="box">1</container>
+        <container id="aspace_f28ed0c679603225e49f2ab9df5eafa8" parent="aspace_2de1cbe82f81b40417c2ee36a05d78f0" type="item">2</container>
+        <dao entityref="xt7x959c6497_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle>Photographic portrait composite of Major-General Simon Bolivar Buckner and his Camp Boone staff</unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_813bc235f11df41b0d5ccfbfe2aa15c3" label="graphic materials" type="box">1</container>
+        <container id="aspace_7d5c8288b5ba6d53b37bcfa18aaa6194" parent="aspace_813bc235f11df41b0d5ccfbfe2aa15c3" type="item">3</container>
+        <dao entityref="xt7x959c6497_3_1"/>
+      </did>
+      <scopecontent id="aspace_0e643418dc50280b7af96b153baff7a5">
+        <head>Scope and Contents</head>
+        <p>Salt print. Includes portraits of Col. Rank Tryon-Assistant Quartermaster General, Assistant Commissary-General; Col. Ben Hardin Helm- Assistant Inspector-General, Assistant Adjutant-General; Col. Isaac W. Scott, Assistant Surgeon-General; Col. Ben Hardin Helm- Assistant Inspector-General, Assistant Adjutant-General; Col. Chas D. Pennebaker, Assistant Paymaster General; Major-General, S. B. Buckner, Inspector General, and Commander of Kentucky State Guard; Col. Samuel Gill, Chief Engineer; Major James A. Beattie, Judge-Advocate; Capt. Philip Bacaro, Captain in the Subsistence Department; Rev. Jas. Craik, D.D., Chaplain</p>
+      </scopecontent>
+    </c>
+    <c id="ref4" level="item">
+      <did>
+        <unittitle>Text of <title render="italic">Sketches of Camp Boone: The First encampment of the Kentucky State Guard Held Near Louisville, from August 23d to August 30th, 1860</title></unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_7909ef8e2d3b3e00819f1dab0d99d431" label="mixed materials" type="box">1</container>
+        <container id="aspace_45fa42698156f81c4448cb6fbec26dce" parent="aspace_7909ef8e2d3b3e00819f1dab0d99d431" type="item">4</container>
+        <dao entityref="xt7x959c6497_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 1, First view of Camp Boone looking North</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_70a489ecc181ea64c1150332a632b8c2" label="graphic materials" type="box">1</container>
+        <container id="aspace_97e773b85948a390c892ddc244bd124f" parent="aspace_70a489ecc181ea64c1150332a632b8c2" type="item">5</container>
+        <dao entityref="xt7x959c6497_5_1"/>
+      </did>
+      <scopecontent id="aspace_a62c3f6ba2c5abb58fe0215882e4d154">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref6" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 2, Second view of Camp Boone, looking North</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_b40bc2bbcbd3d0e55d9736c2543de326" label="graphic materials" type="box">1</container>
+        <container id="aspace_6d13970dfec9732a347207b760c23852" parent="aspace_b40bc2bbcbd3d0e55d9736c2543de326" type="item">6</container>
+        <dao entityref="xt7x959c6497_6_1"/>
+      </did>
+      <scopecontent id="aspace_54807dfea260291ec4fd77b30891e37a">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref7" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 3, Dress parade</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_d22c1cbc804b45aee85b9c9a2524cf27" label="graphic materials" type="box">1</container>
+        <container id="aspace_25715ef6e2f864597e5d092cb72c657b" parent="aspace_d22c1cbc804b45aee85b9c9a2524cf27" type="item">7</container>
+        <dao entityref="xt7x959c6497_7_1"/>
+      </did>
+      <scopecontent id="aspace_134edb3d64b7dad432cb3d6d03bd9a9f">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref8" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 4, Guard Mounting</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_55fff385c1baa4ee69a2b6c6063d3109" label="graphic materials" type="box">1</container>
+        <container id="aspace_d4f6f60b85e562a0fd214e91ab85d023" parent="aspace_55fff385c1baa4ee69a2b6c6063d3109" type="item">8</container>
+        <dao entityref="xt7x959c6497_8_1"/>
+      </did>
+      <scopecontent id="aspace_d1da9279164212d62a4f759364c0b8e5">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref9" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 6, Visit of Governor to Major Hunt</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_a927497f3a2b46bcb12f757233f02931" label="graphic materials" type="box">1</container>
+        <container id="aspace_7b207a87d4b2e68bc5606de76a3cfc9b" parent="aspace_a927497f3a2b46bcb12f757233f02931" type="item">9</container>
+        <dao entityref="xt7x959c6497_9_1"/>
+      </did>
+      <scopecontent id="aspace_198af1ab8b17be4f128ba8b1cd220d1b">
+        <head>Scope and Contents</head>
+        <p>Salt print. Note numbers 6 and 5 are bound out of order.</p>
+      </scopecontent>
+    </c>
+    <c id="ref10" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 5, Street scene after parade</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_076e54ed130cdb0540d42d047c916e4a" label="graphic materials" type="box">1</container>
+        <container id="aspace_c05d4bc64542080577d66676fe76deb4" parent="aspace_076e54ed130cdb0540d42d047c916e4a" type="item">10</container>
+        <dao entityref="xt7x959c6497_10_1"/>
+      </did>
+      <scopecontent id="aspace_79171a8a21ec81058b60ebbe0633e93a">
+        <head>Scope and Contents</head>
+        <p>Salt print. Note numbers 6 and 5 are bound out of order.</p>
+      </scopecontent>
+    </c>
+    <c id="ref11" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 7, Visit of Commissioned officers to Capt. Hayes</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_a5316e1586ac07e0269884eb6f134c5e" label="graphic materials" type="box">1</container>
+        <container id="aspace_b42f87989487a77c49caea02bd12d6b5" parent="aspace_a5316e1586ac07e0269884eb6f134c5e" type="item">11</container>
+        <dao entityref="xt7x959c6497_11_1"/>
+      </did>
+      <scopecontent id="aspace_9ee4496cbcbcad5dc6dce013d7faa0a0">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref12" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 8, Street scene after Parade</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_da792fedf8bbc178cf00286c089f1b72" label="graphic materials" type="box">1</container>
+        <container id="aspace_bba501db45d6411396b33607dcd83d6c" parent="aspace_da792fedf8bbc178cf00286c089f1b72" type="item">12</container>
+        <dao entityref="xt7x959c6497_12_1"/>
+      </did>
+      <scopecontent id="aspace_8a98ce3f8b627ec587d20fd60ffc8d8c">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref13" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 9, Visit of Governor to Col. Frank Tryon</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_6ba220d8c914953f83dfea054d03800c" label="graphic materials" type="box">1</container>
+        <container id="aspace_9aa562bfd82e1675c284bc0c53cc43ed" parent="aspace_6ba220d8c914953f83dfea054d03800c" type="item">13</container>
+        <dao entityref="xt7x959c6497_13_1"/>
+      </did>
+      <scopecontent id="aspace_03a9c711abd136e8d8c94653beb77578">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref14" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 10, Meeting of officers after parade</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_ff1bb23270946f4fd1e108ef6a85a334" label="graphic materials" type="box">1</container>
+        <container id="aspace_29bda87169b234204542ad9ca11bc5e8" parent="aspace_ff1bb23270946f4fd1e108ef6a85a334" type="item">14</container>
+        <dao entityref="xt7x959c6497_14_1"/>
+      </did>
+      <scopecontent id="aspace_337cd22e4cfd56f28d4a710c7d68b895">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref15" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">No. 11, Street scene after parade</emph>
+        </unittitle>
+        <unitdate datechar="creation" type="inclusive">1860</unitdate>
+        <container id="aspace_c68410624025624806b0dadd90bbdd4a" label="graphic materials" type="box">1</container>
+        <container id="aspace_26b87903ac277e324ceb577730901be7" parent="aspace_c68410624025624806b0dadd90bbdd4a" type="item">15</container>
+        <dao entityref="xt7x959c6497_15_1"/>
+      </did>
+      <scopecontent id="aspace_d2cf24c281395071a43033e66be18e12">
+        <head>Scope and Contents</head>
+        <p>Salt print.</p>
+      </scopecontent>
+    </c>
+    <c id="ref16" level="item">
+      <did>
+        <unittitle>Endpapers and back cover of <title render="italic">Sketches of Camp Boone: The First encampment of the Kentucky State Guard Held Near Louisville, from August 23d to August 30th, 1860</title></unittitle>
+        <container id="aspace_a53a23f441751522cf282b4c16c90d20" label="mixed materials" type="box">1</container>
+        <container id="aspace_7b06f131e6ecc49ad7dd1b96a9425f46" parent="aspace_a53a23f441751522cf282b4c16c90d20" type="item">16</container>
+        <dao entityref="xt7x959c6497_16_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

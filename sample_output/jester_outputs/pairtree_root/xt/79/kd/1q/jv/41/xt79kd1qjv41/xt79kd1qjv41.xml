@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt79kd1qjv41">2009ms132.0783</eadid><filedesc><titlestmt><titleproper type="filing">Hall, Wade Collection of American Letters: Drake family letters</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: Drake family letters, 1848-1880, undated <num>2009ms132.0783</num></titleproper><author>Sarah Coblentz</author><sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2019 November 1</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-07-25 12:12:37 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: Drake family letters</unittitle>
+    <origination label="Creator">
+      <famname rules="rda" source="naf">Drake family</famname>
+    </origination>
+    <unitid>2009ms132.0783</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Cubic Feet</extent>
+      <extent altrender="carrier">10 folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1848/1880" type="inclusive">1848-1880, undated</unitdate>
+    <abstract id="aspace_ba614beab9febcbbc076a860dbe83b45">The Drake family letters (dated 1848-1880, undated; 0.25 cubic feet; 10 folders) comprises letters that document the relationships held between the members of the Drake family in Vermont, Massachusetts, and New York in the nineteenth century.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_ef620e4a65074f5b22e90def067310e8">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_97aad93a570b5b243d33a075c86d6bb6">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_b5787692bbf2a42089288834604db82b">
+    <head>Arrangement</head>
+<p>Collection is arranged alphabetically by last name. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_b80f667eaaedd488db5fd18f86fc103c">
+    <head>Biographical note</head>
+<p>The Drake family of Weybridge, Vermont included Asaph Drake (1776-1871), son of Thomas Drake (1738-1798) and Mary Manley (1742-1839); and Louisa Belding (1770-1854), daughter of David and Lucy Belding. The couple met in 1793 when Drake moved from his family home in Massachusetts to Weybridge to work for David Belding, and married in 1796. Asaph Drake worked in a partnership with his father-in-law and other relatives, providing the people in the surrounding areas with various types of building materials, including wood, brick, stone, and lumber. Together, Asaph and Louisa had nine children: Elijah Graves (1797-1860), Lauren (1800-1869), Isaac (1802-1888), David Belding (1804-1869), Mary Lucy Belding (1806-1881), Sylvia Louisa (1810-1836), Cyrus Bryant (1812-1878), Polly Angeline (1814-1887), and Solomon (1817-1881). Asaph named a number of his children after his own brothers and sisters.</p><p>Many of Asaph and Louisa's children went on to marry and have families of their own as well. Elijah married Harriet Brewster (1799-1863); together they had two daughters, Sarah (1830-1893) and Harriet (b. 1833). Lauren married Rebekah Hurd (1801-1862); together they had two children, Achsa (1830-1899) and Lauren Curtis (1833-1885). Isaac married Mary Williston Brewster (1805-1864), unknown if they had children. David Belding married Caroline Wilson (1860-1865), unknown if the couple had children. Mary Lucy Belding married Thomas D.H. Lake; together the couple had one daughter, Delana Dickinson (1829-1890). Sylvia Louisa never married. Cyrus Bryant married Louisa Maria Smith (1815-1879); together the couple had one child, Louisa Bryant (1843-1930). Polly Angeline married Fordyce M. Shaw (b. 1811), unknown if the couple had any children. Solomon married twice, first to Mary Bangs (1821-1853), and second to Anna Amelia Killum (b. 1843), unknown if Solomon had children with either wife.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_a67bc74c146f8b48915a05ef8ef26440">
+    <head>Preferred Citation</head>
+<p>2009ms132.0783: [identification of item], Wade Hall Collection of American Letters: Drake family letters, 1848-1880, undated, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_3410d71a3601836eff185bd2cbbbe303">
+    <head>Scope and Contents</head>
+<p>The Drake family letters (dated 1848-1880, undated; 0.25 cubic feet; 10 folders) comprises letters that document the relationships held between the members of the Drake family in Vermont, Massachusetts, and New York in the nineteenth century. The letters discuss personal health, family businesses, travel, news from other relatives, local gossip, farming, announcements of marriages, births, and deaths; and daily life. The letters provide insight to a successful family that was integral to the creation of Weybridge, Vermont and how they eventually spread out across surrounding states.</p><p>The Drake family letters collection is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>  </scopecontent>
+  <userestrict id="aspace_a50f441d68a328292599dc433fbec4a1">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject authfilenumber="sh 85076240" source="lcsh">Letters.</subject>
+    <subject authfilenumber="sh 85033035" source="lcsh">Correspondence.</subject>
+    <geogname source="lcsh">Vermont.</geogname>
+    <subject source="lcsh">Families. </subject>
+    <subject source="lcsh">Farm life</subject>
+    <subject source="lcsh">Health</subject>
+    <subject source="lcsh">Gossip.</subject>
+    <subject source="lcsh">Travel.</subject>
+    <geogname source="lcsh">Massachusetts</geogname>
+    <geogname source="lcsh">New York (State)</geogname>
+    <geogname source="lcsh">Weybridge (Vt.).</geogname>
+    <subject source="lcsh">Domestic Life -- United States</subject>
+    <subject source="lcsh">Brothers and sisters.</subject>
+    <subject source="lcsh">Parent and child.</subject>
+    <famname rules="rda" source="naf">Drake family</famname>
+    <persname rules="rda" source="naf">Drake, Asaph, 1775-1871</persname>
+    <persname rules="rda" source="naf">Shaw, Fordyce M., 1811-</persname>
+    <persname rules="dacs" source="local">Drake, Cyrus Bryant, 1812-1878</persname>
+    <persname rules="dacs" source="local">Drake, Louisa Bryant, 1843-1930</persname>
+    <persname rules="dacs" source="local">Drake, Solomon, 1817-1881</persname>
+    <persname rules="dacs" source="local">Willard, Delana Dickinson Lake, 1829-1890</persname>
+    <persname rules="dacs" source="local">Willard, George, 1823-1860</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Asaph Drake letters</unittitle><unitdate datechar="creation" type="inclusive">1862-1868</unitdate><container id="aspace_df1bb3801a4b161c0a787db29e69fef8" label="mixed materials" type="box">WH-85</container><container id="aspace_b7bc989e2a7d3fc79d40a902158805de" parent="aspace_df1bb3801a4b161c0a787db29e69fef8" type="folder">1</container><dao entityref="xt79kd1qjv41_1_1"/></did></c><c id="ref2" level="file"><did><unittitle>Cyrus Bryant Drake letters</unittitle><unitdate datechar="creation" type="inclusive">1855-1870, undated</unitdate><container id="aspace_498d67565097ffe2b25670283a99bc9f" label="mixed materials" type="box">WH-85</container><container id="aspace_dd55df856990a41806609d1da803f68e" parent="aspace_498d67565097ffe2b25670283a99bc9f" type="folder">2</container><dao entityref="xt79kd1qjv41_2_1"/></did></c><c id="ref3" level="file"><did><unittitle>David Belding Drake letters</unittitle><unitdate datechar="creation" type="inclusive">1854-1869, undated</unitdate><container id="aspace_284b29080806b5f1022498edc74f6d0b" label="mixed materials" type="box">WH-85</container><container id="aspace_4b3d8d293fec923530f11b323be60e2c" parent="aspace_284b29080806b5f1022498edc74f6d0b" type="folder">3</container><dao entityref="xt79kd1qjv41_3_1"/></did></c><c id="ref4" level="file"><did><unittitle>Louisa Bryant Drake letters</unittitle><unitdate datechar="creation" type="inclusive">1861-1871, undated</unitdate><container id="aspace_cf5b36f8e9c9371aa205dccf9322e4d9" label="mixed materials" type="box">WH-85</container><container id="aspace_ef3fb82257b2818d3e37e790567a010c" parent="aspace_cf5b36f8e9c9371aa205dccf9322e4d9" type="folder">4</container><dao entityref="xt79kd1qjv41_4_1"/></did></c><c id="ref5" level="file"><did><unittitle>Solomon Drake letters</unittitle><unitdate datechar="creation" type="inclusive">1855-1856, undated</unitdate><container id="aspace_18664bb8240cfb434840072e9cfb2143" label="mixed materials" type="box">WH-85</container><container id="aspace_148f7cd82d2d4aab29f3b6fdf0d2232e" parent="aspace_18664bb8240cfb434840072e9cfb2143" type="folder">5</container><dao entityref="xt79kd1qjv41_5_1"/></did></c><c id="ref6" level="file"><did><unittitle>Drake family letters</unittitle><unitdate datechar="creation" type="inclusive">1854-1870, undated</unitdate><container id="aspace_879c9fd035907cd2a27031d701ea554d" label="mixed materials" type="box">WH-85</container><container id="aspace_e307842d6cd3e6e768218d1193fe5d04" parent="aspace_879c9fd035907cd2a27031d701ea554d" type="folder">6</container><dao entityref="xt79kd1qjv41_6_1"/></did></c><c id="ref7" level="file"><did><unittitle>Fordyce M. Shaw letters</unittitle><unitdate datechar="creation" type="inclusive">1857, 1874</unitdate><container id="aspace_71312456c87633c5d717a3bd3d88fe36" label="mixed materials" type="box">WH-85</container><container id="aspace_ffb77f40ebd48abd0756d8d18b347b9b" parent="aspace_71312456c87633c5d717a3bd3d88fe36" type="folder">7</container><dao entityref="xt79kd1qjv41_7_1"/></did></c><c id="ref8" level="file"><did><unittitle>Delana Lake Willard letters</unittitle><unitdate datechar="creation" type="inclusive">1848-1859, undated</unitdate><container id="aspace_61d7162b9d5f1380f5ffef19b98ab061" label="mixed materials" type="box">WH-85</container><container id="aspace_8dff278763b45c99ebeead5be74f520c" parent="aspace_61d7162b9d5f1380f5ffef19b98ab061" type="folder">8</container><dao entityref="xt79kd1qjv41_8_1"/></did></c><c id="ref9" level="file"><did><unittitle>George Willard letters</unittitle><unitdate datechar="creation" type="inclusive">1850-1860, undated</unitdate><container id="aspace_f1b864bbc91b9ce927ded4e6894a51af" label="mixed materials" type="box">WH-85</container><container id="aspace_78e3e2b7f2222d9119316b543db154e4" parent="aspace_f1b864bbc91b9ce927ded4e6894a51af" type="folder">9</container><dao entityref="xt79kd1qjv41_9_1"/></did></c><c id="ref10" level="file"><did><unittitle>General letters</unittitle><unitdate datechar="creation" type="inclusive">1850-1880, undated</unitdate><container id="aspace_7a01d9c03a49a9e2affe8fbd29a310df" label="mixed materials" type="box">WH-85</container><container id="aspace_0cf7d12c14086bed350938f66181b88e" parent="aspace_7a01d9c03a49a9e2affe8fbd29a310df" type="folder">10</container><dao entityref="xt79kd1qjv41_10_1"/></did></c></dsc>
+</archdesc>
+</ead>

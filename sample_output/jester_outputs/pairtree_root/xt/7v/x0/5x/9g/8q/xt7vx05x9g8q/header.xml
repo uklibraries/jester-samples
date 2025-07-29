@@ -1,0 +1,522 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7vx05x9g8q</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7vx05x9g8q/data/2009ms132.0097.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Rowland G. Railey letters (dated 1887-1938, undated; 2.12 cubic feet; 4 boxes, 5 folders, 102 items) comprise letters and photographs that document farming, responses to personal advertisements, travel, and family at the end of the nineteenth and beginning of the twentieth centuries.</abstract>
+  <descriptive_summary>
+    <author>Sarah Coblentz</author>
+    <title>Wade Hall Collection of American Letters: Rowland Green Railey letters</title>
+    <source>Wade Hall Collection of American Letters: Rowland Green Railey letters</source>
+    <unitdates>
+      <date>1887-1938, undated (inclusive)</date>
+    </unitdates>
+    <creator>Railey, Rowland Green, 1868-1932</creator>
+    <extent>2.12 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</arrangement>
+    <subjects>
+      <subject>Education, Rural -- Kentucky.</subject>
+      <subject>Law -- Kentucky.</subject>
+      <subject>Letters.</subject>
+      <subject>Photographs</subject>
+      <subject>Families.</subject>
+      <subject>Travel.</subject>
+      <subject>Dating services.</subject>
+      <subject>Railey, Rowland Green, 1868-1932</subject>
+    </subjects>
+    <prefercite>2009ms132.0097: [identification of item], Wade Hall Collection of American Letters: Rowland G. Railey letters, 1887-1938, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Rowland Green Railey (1868-1932) was born in Monroe County, Kentucky to Anthony Jett Railey (1843-1929) and Adalade Gum (1849-1933). After completing his primary education, in 1889 he attended the State College of Kentucky. He completed his degree at Southern Normal School in Bowling Green, Kentucky in 1892, and in 1893 graduated from Northern Indiana Normal University in Valparaiso with honors in Columbian Classical Class. Among his professional pursuits, he taught school in Kentucky, was principal of Summer Shade Normal School (1891) and Horse Cave Normal School (1895), elected Circuit Clerk of Monroe County, Kentucky in 1897, and elected in 1900 as a member of Monroe County Republican Executive Committee. He was also a lawyer who practiced general law, and a farmer who grew ginseng and other herbs. </p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Rowland G. Railey letters (dated 1887-1938, undated; 2.12 cubic feet; 4 boxes, 5 folders, 102 items) comprise letters and photographs that document farming, responses to personal advertisements, travel, and family at the end of the nineteenth and beginning of the twentieth centuries. The majority of the letters are responses to personal advertisements that Railey put in newspapers seeking either romantic interests or pen pals; the letters often contain physical descriptions of the women respondents as well as local news. There are other letters discussing the purchase of orange groves and tracts of land, sale of crops, and legal matters. Additionally, there are some letters in the collection which are addressed to Railey's brother, Ollie Luther Railey. The photographs depict family events, travel, baptisms, death, and daily life.</p><p>The Rowland G. Railey letters are part of the Wade Hall Collection of American letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.  </p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>The collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1887</unitdate>
+        <container id="aspace_97a4e9f12de7a3b0696bf9b05efbb2e3" label="mixed materials" type="box">54</container>
+        <container id="aspace_8b8b3d4bed0f782ad0f71de84f32f9b9" parent="aspace_97a4e9f12de7a3b0696bf9b05efbb2e3" type="folder">1</container>
+        <dao entityref="xt7vx05x9g8q_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1890-1891</unitdate>
+        <container id="aspace_6d27a35565a64590e87b17fa3b8e5fed" label="mixed materials" type="box">54</container>
+        <container id="aspace_895cc5f6a186ad383da9d7565f02a969" parent="aspace_6d27a35565a64590e87b17fa3b8e5fed" type="folder">2</container>
+        <dao entityref="xt7vx05x9g8q_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1894-1896</unitdate>
+        <container id="aspace_ce5ff4a924d4f5db19c9cdbe5a2763df" label="mixed materials" type="box">54</container>
+        <container id="aspace_1245647018477f8f1bf6876f79a8c3a5" parent="aspace_ce5ff4a924d4f5db19c9cdbe5a2763df" type="folder">3</container>
+        <dao entityref="xt7vx05x9g8q_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1898</unitdate>
+        <container id="aspace_d7ee20b6042ca6b2fea5f208651c7e84" label="mixed materials" type="box">54</container>
+        <container id="aspace_7cb821a9b8852a6ef2ef44f00bc80d48" parent="aspace_d7ee20b6042ca6b2fea5f208651c7e84" type="folder">4</container>
+        <dao entityref="xt7vx05x9g8q_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1899</unitdate>
+        <container id="aspace_9ffdd4740ccf768a23320f475c4ba1be" label="mixed materials" type="box">54</container>
+        <container id="aspace_646e90df8e76523807087dcf1b32fd0d" parent="aspace_9ffdd4740ccf768a23320f475c4ba1be" type="folder">5</container>
+        <dao entityref="xt7vx05x9g8q_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1900</unitdate>
+        <container id="aspace_0f4982dda0289f9bc98e1cc579452eec" label="mixed materials" type="box">54</container>
+        <container id="aspace_6cd61252d3ebd3d20a7b71b72be04cfb" parent="aspace_0f4982dda0289f9bc98e1cc579452eec" type="folder">6</container>
+        <dao entityref="xt7vx05x9g8q_6_1"/>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1901</unitdate>
+        <container id="aspace_a5b741b5a36892b726538ffa12dfa2a6" label="mixed materials" type="box">54</container>
+        <container id="aspace_7e9eee00fbca980c877db8b40b41b598" parent="aspace_a5b741b5a36892b726538ffa12dfa2a6" type="folder">7</container>
+        <dao entityref="xt7vx05x9g8q_7_1"/>
+      </did>
+    </c>
+    <c id="ref8" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1902</unitdate>
+        <container id="aspace_f9e90df3e348d4fb1492098b98ff1050" label="mixed materials" type="box">54</container>
+        <container id="aspace_daaa4eb920b3f1ac236a7b4add53bf24" parent="aspace_f9e90df3e348d4fb1492098b98ff1050" type="folder">8</container>
+        <dao entityref="xt7vx05x9g8q_8_1"/>
+      </did>
+    </c>
+    <c id="ref9" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1903</unitdate>
+        <container id="aspace_76a98deb10baf2e979640ec64c8fc88a" label="mixed materials" type="box">54</container>
+        <container id="aspace_a36ddf42888bec8516191047dd15f3e6" parent="aspace_76a98deb10baf2e979640ec64c8fc88a" type="folder">9</container>
+        <dao entityref="xt7vx05x9g8q_9_1"/>
+      </did>
+    </c>
+    <c id="ref10" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1904</unitdate>
+        <container id="aspace_2f1c1f9b496077e0b22f3e2bdc088d48" label="mixed materials" type="box">54</container>
+        <container id="aspace_3ca8785bf75d06d42e35606d23a7b965" parent="aspace_2f1c1f9b496077e0b22f3e2bdc088d48" type="folder">10</container>
+        <dao entityref="xt7vx05x9g8q_10_1"/>
+      </did>
+    </c>
+    <c id="ref11" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1905</unitdate>
+        <container id="aspace_d330caa2d69f48a162cfbcdd3c1322c5" label="mixed materials" type="box">54</container>
+        <container id="aspace_0a2087bebd5a8c8fcb6a092a1dcab227" parent="aspace_d330caa2d69f48a162cfbcdd3c1322c5" type="folder">11</container>
+        <dao entityref="xt7vx05x9g8q_11_1"/>
+      </did>
+    </c>
+    <c id="ref12" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1906</unitdate>
+        <container id="aspace_b81760b6377760be6d8959c6aa1b8fda" label="mixed materials" type="box">54</container>
+        <container id="aspace_9767dfd108d6f575f7258d6f3bd77c6e" parent="aspace_b81760b6377760be6d8959c6aa1b8fda" type="folder">12-13</container>
+        <dao entityref="xt7vx05x9g8q_12_1"/>
+      </did>
+    </c>
+    <c id="ref13" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1907</unitdate>
+        <container id="aspace_c46662ff6b6f2efb48dd7367b9dcbbc1" label="mixed materials" type="box">54</container>
+        <container id="aspace_185f091dfd8445e384947d954131a31b" parent="aspace_c46662ff6b6f2efb48dd7367b9dcbbc1" type="folder">14-15</container>
+        <dao entityref="xt7vx05x9g8q_13_1"/>
+      </did>
+    </c>
+    <c id="ref14" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1908</unitdate>
+        <container id="aspace_61aef0d7dc8d37418c5fef5cb305ce4b" label="mixed materials" type="box">55</container>
+        <container id="aspace_5e13c0e223f4b17a5eba87d77207e021" parent="aspace_61aef0d7dc8d37418c5fef5cb305ce4b" type="folder">1-3</container>
+        <dao entityref="xt7vx05x9g8q_14_1"/>
+      </did>
+    </c>
+    <c id="ref15" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1909</unitdate>
+        <container id="aspace_1d05e3c8444bb70f7b5acbb3c5a7b89f" label="mixed materials" type="box">55</container>
+        <container id="aspace_119c898fd593c8a23909e463d8aa35ee" parent="aspace_1d05e3c8444bb70f7b5acbb3c5a7b89f" type="folder">4-7</container>
+        <dao entityref="xt7vx05x9g8q_15_1"/>
+      </did>
+    </c>
+    <c id="ref16" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1910</unitdate>
+        <container id="aspace_3ad6468a37686986efc85b6fe3260098" label="mixed materials" type="box">55</container>
+        <container id="aspace_11f58c58ccf17fc0036a928484aa0cd8" parent="aspace_3ad6468a37686986efc85b6fe3260098" type="folder">8-11</container>
+        <dao entityref="xt7vx05x9g8q_16_1"/>
+      </did>
+    </c>
+    <c id="ref17" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1911</unitdate>
+        <container id="aspace_e365c4c62cc75a2455723ef50e800d0a" label="mixed materials" type="box">55</container>
+        <container id="aspace_b603bbbe5b8bc72dc84c57d44da27103" parent="aspace_e365c4c62cc75a2455723ef50e800d0a" type="folder">12-14</container>
+        <dao entityref="xt7vx05x9g8q_17_1"/>
+      </did>
+    </c>
+    <c id="ref18" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1914</unitdate>
+        <container id="aspace_e43375466f0b24af1c02e6726e4380ff" label="mixed materials" type="box">56</container>
+        <container id="aspace_92c2918992ad90e8bd488adfa0fab05f" parent="aspace_e43375466f0b24af1c02e6726e4380ff" type="folder">1</container>
+        <dao entityref="xt7vx05x9g8q_18_1"/>
+      </did>
+    </c>
+    <c id="ref19" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1915-1917</unitdate>
+        <container id="aspace_5c36d077f2deaabb6e1ef2a64cc8ff5d" label="mixed materials" type="box">56</container>
+        <container id="aspace_43d0d39e7f2135658b834a7f23807c57" parent="aspace_5c36d077f2deaabb6e1ef2a64cc8ff5d" type="folder">2</container>
+        <dao entityref="xt7vx05x9g8q_19_1"/>
+      </did>
+    </c>
+    <c id="ref20" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1918</unitdate>
+        <container id="aspace_bc837cc652cac460c7573518426a58a9" label="mixed materials" type="box">56</container>
+        <container id="aspace_f291533fbb68a493a6e9d2c657365715" parent="aspace_bc837cc652cac460c7573518426a58a9" type="folder">3</container>
+        <dao entityref="xt7vx05x9g8q_20_1"/>
+      </did>
+    </c>
+    <c id="ref21" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1919</unitdate>
+        <container id="aspace_974a74c4adb78e699c487bfc2f3a1a09" label="mixed materials" type="box">56</container>
+        <container id="aspace_8a6ca7de74f301b32b15f9d9d32d2152" parent="aspace_974a74c4adb78e699c487bfc2f3a1a09" type="folder">4-6</container>
+        <dao entityref="xt7vx05x9g8q_21_1"/>
+      </did>
+    </c>
+    <c id="ref22" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1920</unitdate>
+        <container id="aspace_fd88519d9920eb5f1365212942767010" label="mixed materials" type="box">56</container>
+        <container id="aspace_3746930f34939cb878109d74fae66baf" parent="aspace_fd88519d9920eb5f1365212942767010" type="folder">7-8</container>
+        <dao entityref="xt7vx05x9g8q_22_1"/>
+      </did>
+    </c>
+    <c id="ref23" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1921</unitdate>
+        <container id="aspace_702a9dd599ff051faa0f515532e11410" label="mixed materials" type="box">56</container>
+        <container id="aspace_1caccc1969f829edb0375b56c4515c5d" parent="aspace_702a9dd599ff051faa0f515532e11410" type="folder">9-10</container>
+        <dao entityref="xt7vx05x9g8q_23_1"/>
+      </did>
+    </c>
+    <c id="ref24" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1922</unitdate>
+        <container id="aspace_83e755ac43d94451864e403f6a921cdc" label="mixed materials" type="box">56</container>
+        <container id="aspace_b3747a82ce86bf58dc1540835fa0b9a1" parent="aspace_83e755ac43d94451864e403f6a921cdc" type="folder">11-13</container>
+        <dao entityref="xt7vx05x9g8q_24_1"/>
+      </did>
+    </c>
+    <c id="ref25" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1923</unitdate>
+        <container id="aspace_4f774dc6361d9ac9b33b0b1764eea04d" label="mixed materials" type="box">57</container>
+        <container id="aspace_9c0cd98a7073f4b8c7bb624e31679061" parent="aspace_4f774dc6361d9ac9b33b0b1764eea04d" type="folder">1</container>
+        <dao entityref="xt7vx05x9g8q_25_1"/>
+      </did>
+    </c>
+    <c id="ref26" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1924</unitdate>
+        <container id="aspace_1faef3f001dc7564bc7df802f277f229" label="mixed materials" type="box">57</container>
+        <container id="aspace_af5fdf4a8cd80454f340b885c9e5d2e3" parent="aspace_1faef3f001dc7564bc7df802f277f229" type="folder">2</container>
+        <dao entityref="xt7vx05x9g8q_26_1"/>
+      </did>
+    </c>
+    <c id="ref27" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1925</unitdate>
+        <container id="aspace_ececc3ea772b2b3c20c1b10aeb7efe16" label="mixed materials" type="box">57</container>
+        <container id="aspace_c3be40d3feebf7f6cd37c20fba3c796d" parent="aspace_ececc3ea772b2b3c20c1b10aeb7efe16" type="folder">3</container>
+        <dao entityref="xt7vx05x9g8q_27_1"/>
+      </did>
+    </c>
+    <c id="ref28" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1926</unitdate>
+        <container id="aspace_188bf27b1eb56cc49f529bc065278fcc" label="mixed materials" type="box">57</container>
+        <container id="aspace_b8e06838a5d0cd70d6cbe28350ae24e9" parent="aspace_188bf27b1eb56cc49f529bc065278fcc" type="folder">4</container>
+        <dao entityref="xt7vx05x9g8q_28_1"/>
+      </did>
+    </c>
+    <c id="ref29" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1927</unitdate>
+        <container id="aspace_cf256ff088648f5a503b806c3bf87927" label="mixed materials" type="box">57</container>
+        <container id="aspace_7bacc2c871155b3d9da5ef0cfdf65dda" parent="aspace_cf256ff088648f5a503b806c3bf87927" type="folder">5</container>
+        <dao entityref="xt7vx05x9g8q_29_1"/>
+      </did>
+    </c>
+    <c id="ref30" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1928</unitdate>
+        <container id="aspace_35210cdd9b7bf375c7b23501fda61bbd" label="mixed materials" type="box">57</container>
+        <container id="aspace_bf9cde1505b2575f45d3d33e3301db29" parent="aspace_35210cdd9b7bf375c7b23501fda61bbd" type="folder">6</container>
+        <dao entityref="xt7vx05x9g8q_30_1"/>
+      </did>
+    </c>
+    <c id="ref31" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1929</unitdate>
+        <container id="aspace_9836661ef9a2e117a109efd254b3b112" label="mixed materials" type="box">57</container>
+        <container id="aspace_615e6abbb2b4d3b09b2af56d7809294c" parent="aspace_9836661ef9a2e117a109efd254b3b112" type="folder">7</container>
+        <dao entityref="xt7vx05x9g8q_31_1"/>
+      </did>
+    </c>
+    <c id="ref32" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1930</unitdate>
+        <container id="aspace_c4cfe5433b16394f8b4d1c98be42b7a1" label="mixed materials" type="box">57</container>
+        <container id="aspace_75d1ba21102df15cdaca54a2dd48ef1d" parent="aspace_c4cfe5433b16394f8b4d1c98be42b7a1" type="folder">8</container>
+        <dao entityref="xt7vx05x9g8q_32_1"/>
+      </did>
+    </c>
+    <c id="ref33" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1931-1932</unitdate>
+        <container id="aspace_6cf05441feebc06ea075ebd987cf8b7c" label="mixed materials" type="box">57</container>
+        <container id="aspace_792f071185153200cad92dfab95d6db0" parent="aspace_6cf05441feebc06ea075ebd987cf8b7c" type="folder">9</container>
+        <dao entityref="xt7vx05x9g8q_33_1"/>
+      </did>
+    </c>
+    <c id="ref34" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1933-1938</unitdate>
+        <container id="aspace_86318e69c126b121c3eebd36dc295739" label="mixed materials" type="box">57</container>
+        <container id="aspace_e4e3ec5dca57a38d2afdcb95f15c8b97" parent="aspace_86318e69c126b121c3eebd36dc295739" type="folder">10</container>
+        <dao entityref="xt7vx05x9g8q_34_1"/>
+      </did>
+    </c>
+    <c id="ref35" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_528e16f1e400e749857fbba98d86ca3f" label="mixed materials" type="box">57</container>
+        <container id="aspace_92eae753b1979d15fdac69466e9c5e22" parent="aspace_528e16f1e400e749857fbba98d86ca3f" type="folder">11-12</container>
+        <dao entityref="xt7vx05x9g8q_35_1"/>
+      </did>
+    </c>
+    <c id="ref36" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1902-1907</unitdate>
+        <container id="aspace_ce9b28eedcdefdc3dbc6f3dd48f1f883" label="mixed materials" type="box">WH-18</container>
+        <container id="aspace_522835de7f60fc4da1f02fbb5595d4f5" parent="aspace_ce9b28eedcdefdc3dbc6f3dd48f1f883" type="folder">21</container>
+      </did>
+    </c>
+    <c id="ref37" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1910-1919</unitdate>
+        <container id="aspace_9facd07fd798c25047e0852098641b05" label="mixed materials" type="box">WH-18</container>
+        <container id="aspace_460858f678ef4fee27a2daf7c5b7549a" parent="aspace_9facd07fd798c25047e0852098641b05" type="folder">22</container>
+      </did>
+    </c>
+    <c id="ref38" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1920-1929</unitdate>
+        <container id="aspace_4eb208f440476b63956b029c90ca00ef" label="mixed materials" type="box">WH-18</container>
+        <container id="aspace_c1cb60447360c00283d34e47d0504503" parent="aspace_4eb208f440476b63956b029c90ca00ef" type="folder">23</container>
+      </did>
+    </c>
+    <c id="ref39" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">1931-1938</unitdate>
+        <container id="aspace_4b209496a9a3806e8518611d6a11f108" label="mixed materials" type="box">WH-18</container>
+        <container id="aspace_0f52c2bcf5b5749f908d647db8e6aa94" parent="aspace_4b209496a9a3806e8518611d6a11f108" type="folder">24</container>
+      </did>
+    </c>
+    <c id="ref40" level="file">
+      <did>
+        <unittitle>Rowland Green Railey letters</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_758e683e2c27bf3b00a471a6c2845c26" label="mixed materials" type="box">WH-18</container>
+        <container id="aspace_4f8b47593872c311b42ac310f46024d7" parent="aspace_758e683e2c27bf3b00a471a6c2845c26" type="folder">25</container>
+      </did>
+    </c>
+    <c id="ref41" level="series">
+      <did>
+        <unittitle>Photographs</unittitle>
+        <unitdate datechar="creation" type="inclusive">1920-1927, undated</unitdate>
+      </did>
+      <c id="ref42" level="item"/>
+      <c id="ref43" level="item"/>
+      <c id="ref44" level="item"/>
+      <c id="ref45" level="item"/>
+      <c id="ref46" level="item"/>
+      <c id="ref47" level="item"/>
+      <c id="ref48" level="item"/>
+      <c id="ref49" level="item"/>
+      <c id="ref50" level="item"/>
+      <c id="ref51" level="item"/>
+      <c id="ref52" level="item"/>
+      <c id="ref53" level="item"/>
+      <c id="ref54" level="item"/>
+      <c id="ref55" level="item"/>
+      <c id="ref56" level="item"/>
+      <c id="ref57" level="item"/>
+      <c id="ref58" level="item"/>
+      <c id="ref59" level="item"/>
+      <c id="ref60" level="item"/>
+      <c id="ref61" level="item"/>
+      <c id="ref62" level="item"/>
+      <c id="ref63" level="item"/>
+      <c id="ref64" level="item"/>
+      <c id="ref65" level="item"/>
+      <c id="ref66" level="item"/>
+      <c id="ref67" level="item"/>
+      <c id="ref68" level="item"/>
+      <c id="ref69" level="item"/>
+      <c id="ref70" level="item"/>
+      <c id="ref71" level="item"/>
+      <c id="ref72" level="item"/>
+      <c id="ref73" level="item"/>
+      <c id="ref74" level="item"/>
+      <c id="ref75" level="item"/>
+      <c id="ref76" level="item"/>
+      <c id="ref77" level="item"/>
+      <c id="ref78" level="item"/>
+      <c id="ref79" level="item"/>
+      <c id="ref80" level="item"/>
+      <c id="ref81" level="item"/>
+      <c id="ref82" level="item"/>
+      <c id="ref83" level="item"/>
+      <c id="ref84" level="item"/>
+      <c id="ref85" level="item"/>
+      <c id="ref86" level="item"/>
+      <c id="ref87" level="item"/>
+      <c id="ref88" level="item"/>
+      <c id="ref89" level="item"/>
+      <c id="ref90" level="item"/>
+      <c id="ref91" level="item"/>
+      <c id="ref92" level="item"/>
+      <c id="ref93" level="item"/>
+      <c id="ref94" level="item"/>
+      <c id="ref95" level="item"/>
+      <c id="ref96" level="item"/>
+      <c id="ref97" level="item"/>
+      <c id="ref98" level="item"/>
+      <c id="ref99" level="item"/>
+      <c id="ref100" level="item"/>
+      <c id="ref101" level="item"/>
+      <c id="ref102" level="item"/>
+      <c id="ref103" level="item"/>
+      <c id="ref104" level="item"/>
+      <c id="ref105" level="item"/>
+      <c id="ref106" level="item"/>
+      <c id="ref107" level="item"/>
+      <c id="ref108" level="item"/>
+      <c id="ref109" level="item"/>
+      <c id="ref110" level="item"/>
+      <c id="ref111" level="item"/>
+      <c id="ref112" level="item"/>
+      <c id="ref113" level="item"/>
+      <c id="ref114" level="item"/>
+      <c id="ref115" level="item"/>
+      <c id="ref116" level="item"/>
+      <c id="ref117" level="item"/>
+      <c id="ref118" level="item"/>
+      <c id="ref119" level="item"/>
+      <c id="ref120" level="item"/>
+      <c id="ref121" level="item"/>
+      <c id="ref122" level="item"/>
+      <c id="ref123" level="item"/>
+      <c id="ref124" level="item"/>
+      <c id="ref125" level="item"/>
+      <c id="ref126" level="item"/>
+      <c id="ref127" level="item"/>
+      <c id="ref128" level="item"/>
+      <c id="ref129" level="item"/>
+      <c id="ref130" level="item"/>
+      <c id="ref131" level="item"/>
+      <c id="ref132" level="item"/>
+      <c id="ref133" level="item"/>
+      <c id="ref134" level="item"/>
+      <c id="ref135" level="item"/>
+      <c id="ref136" level="item"/>
+      <c id="ref137" level="item"/>
+      <c id="ref138" level="item"/>
+      <c id="ref139" level="item"/>
+      <c id="ref140" level="item"/>
+      <c id="ref141" level="item"/>
+      <c id="ref142" level="item"/>
+      <c id="ref143" level="item"/>
+    </c>
+  </contents>
+</header>

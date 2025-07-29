@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2013ms0362</eadid><filedesc><titlestmt><titleproper type="filing">Davis, John C. notebook and photograph album, 1944</titleproper><titleproper>Guide to the John C. Davis notebook and photograph album, 1944 <num>2013ms0362</num></titleproper><author>Christopher J. Mattingly</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 May 25</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-16 15:50:23 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>John C. Davis notebook and photograph album</unittitle>
+    <unitid>2013ms0362</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/4231</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1944/1944">1944</unitdate>
+    <abstract id="aspace_0e1cb4df6c1047ccaa599cad3b77111a">The John C. Davis notebook and photograph album (dated 1944; 0.1 cubic feet; 1 item) comprises a notebook that documents the United States military's campaign on the island of Okinawa, Japan in 1944 as told from the perspective of Corporal John C. Davis, an African-American soldier from Louisville, Kentucky who served in the army in the 2284th quartermaster truck company.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_dfd796768d29d0d6a1bb54a049eec4c0">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <arrangement id="aspace_7bbaa86b3ce540d09c155d17f1f05bfb">
+    <head>Arrangement</head>
+<p>Collection arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_c56c2b0c5876b36aaa8cec286416adcc">
+    <head>Biographical note</head>
+<p>John Cicle Davis was an African-American soldier from Louisville, Kentucky. He served as Corporal in the 2284th Quartermaster Trucking Company in the Pacific theater during World War II.</p>  </bioghist>
+  <prefercite id="aspace_f8c36f68831e647088c78442bf1d4720">
+    <head>Preferred Citation</head>
+<p>2013ms0362: [identification of item], John C. Davis notebook and photograph album, 1944, University of Kentucky Libraries Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_d65c5d5cb019868f734ec365732f6eeb">
+    <head>Scope and Contents</head>
+<p>The John C. Davis notebook and photograph album (dated 1944; 0.1 cubic feet; 1 folder) comprises a notebook that documents the United States military's campaign on the island of Okinawa, Japan, in 1944 as told from the perspective of Corporal John C. Davis, an African-American soldier from Louisville, Kentucky, who served in the army in the 2284th quartermaster truck company. It contains newspaper and magazine clippings, twenty-three photographs that illustrate camaraderie among fellow soldiers and the realities of war facing the civilians of Japan, seven pages of written goodbyes from twenty-five soldiers in his company, and a graphic four-page desciption about hand-to-hand combat during a mission to destroy a fuel dump located in Suicide Bay. This notebook contains harmful language and graphic depictions of violence.</p>  </scopecontent>
+  <userestrict id="aspace_0635c238b853569f311a239e39b6f9fd">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">African Americans -- Kentucky -- Louisville</subject>
+    <subject source="lcsh">African American soldiers.</subject>
+    <subject source="lcsh">Air pilots, Military</subject>
+    <subject source="lcsh">Atomic bomb.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Campaigns -- Pacific Area</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Japan</subject>
+    <subject authfilenumber="sh 85148466" source="lcsh">World War, 1939-1945 -- Photography</subject>
+  </controlaccess>
+  <dsc><c id="ref1" level="item"><did><unittitle>John C Davis notebook and photograph album</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/945044</unitid><unitdate datechar="creation">1944</unitdate><container id="aspace_e9e414eff868897d178dd261c52e1224" label="mixed materials" type="box">MS-24</container><container id="aspace_ea5841354b82989ba82f1c23a2f6530b" parent="aspace_e9e414eff868897d178dd261c52e1224" type="folder">1</container></did></c></dsc>
+</archdesc>
+</ead>

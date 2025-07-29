@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:bib="http://www.loc.gov/mets/profiles/bibRecord" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:mets="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" OBJID="1997ms198" PROFILE="lc:bibRecord">
+  <mets:metsHdr CREATEDATE="2023-01-17T13:53:24" LASTMODDATE="2023-01-17T13:53:24" RECORDSTATUS="SIP">
+    <mets:agent ROLE="CREATOR" TYPE="REPOSITORY">
+      <mets:name>University of Kentucky</mets:name>
+      <mets:note>SIP METS and associated file(s) submitted to KUDL.</mets:note>
+    </mets:agent>
+    <mets:agent ROLE="PRESERVATION" TYPE="ORGANIZATION">
+      <mets:name>University of Kentucky</mets:name>
+      <mets:note>SIP METS and associated file(s) submitted to KUDL.</mets:note>
+    </mets:agent>
+    <mets:altRecordID TYPE="SIP">1997ms198</mets:altRecordID>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMD1">
+    <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OAI_DC">
+      <mets:xmlData>
+        <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en">Bell Court Neighborhood Association records</dc:title>
+          <dc:source>Bell Court Neighborhood Association records</dc:source>
+          <dc:creator>unknown</dc:creator>
+          <dc:identifier>1997ms198</dc:identifier>
+          <dc:publisher>University of Kentucky</dc:publisher>
+          <dc:date>1957-1991</dc:date>
+          <dc:format>collections</dc:format>
+          <dc:type>text</dc:type>
+          <dc:language>English</dc:language>
+          <dc:rights>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.  Contact the Special Collections Research Center for information regarding rights and use of this collection.</dc:rights>
+          <dc:description>1.1 Cubic Feet 1 box, 1 folder</dc:description>
+        </oai_dc:dc>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec>
+    <mets:rightsMD>
+      <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="RIGHTSMD">
+        <mets:xmlData>
+          <mets:versionStatement>2023</mets:versionStatement>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="ADMRTS1">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRights">
+        <mets:xmlData>
+          <mets:RightsDeclarationMD RIGHTSCATEGORY="">
+            <mets:Context CONTEXTCLASS="GENERAL PUBLIC">
+              <mets:Constraints CONSTRAINTTYPE="RE-USE">
+                <mets:ConstraintDescription>View Collection Guide to obtain rights information.</mets:ConstraintDescription>
+              </mets:Constraints>
+            </mets:Context>
+          </mets:RightsDeclarationMD>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ID="FileGrpFindingAid" USE="Finding Aid">
+      <mets:file ID="MasterFindingAid" USE="master" MIMETYPE="application/xml">
+        <mets:FLocat xlink:href="1997ms198.xml" LOCTYPE="OTHER"/>
+      </mets:file>
+    <mets:file ID="AccessFindingAid" MIMETYPE="application/xml" USE="access"><mets:FLocat LOCTYPE="OTHER" xlink:href="1997ms198.dao.xml"/></mets:file></mets:fileGrp>
+  <mets:fileGrp ID="FileGrp1"><mets:file ID="PrintImageFile184530f93148e87fbb1e67e4308ccb06" USE="print image" MIMETYPE="application/pdf"><mets:FLocat xlink:href="1997ms198/Folder_1/Multipage1.pdf" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp2"><mets:file ID="ThumbnailFile91e5170fca30a6f9767107e9b3306de7" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_01_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFile5151b1183b6f8fd3fe8d2690ab5bcc0f" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_01_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFiled1babb3cb67911c0c15bfd4184dd2151" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_01.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp3"><mets:file ID="ThumbnailFile1279ec5c198e1ce683283191479cba63" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_02_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFile9ecdab3b25da2c721437e7c54517f236" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_02_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFileb6dee12a49069bde620b57ba28f85a18" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_02.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp4"><mets:file ID="ThumbnailFileafa88bc519cd3f1fb4a823a04e278fb4" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_03_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFilec7fbc6f4a5886c3e0a1f2fa9aa17f7b2" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_03_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFile2b834e5aa58a2f37817c4db9898f35e9" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_03.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp5"><mets:file ID="ThumbnailFileec322e09e3726227dd160de530ff4c1d" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_04_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFilee23e604edfbfe2fca837ae2dc0c0fb72" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_04_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFile79c4767f0dd4bf82fd8e316dcf93bf8b" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_04.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp6"><mets:file ID="ThumbnailFile83fd45668c12304460c3f4eb4225efc5" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_05_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFile81145f15c8c70c99dfea76abcbb1dba0" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_05_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFile1ddc2ccd0610331b2b465f276b563305" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_05.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp7"><mets:file ID="ThumbnailFile787ce68f9260deb3a82afb8821f8659d" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_06_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFile34afc35d2dcc7e08886418a4ceced060" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_06_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFile97f9bad2300a2343f1253e98dea2e561" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_06.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp><mets:fileGrp ID="FileGrp8"><mets:file ID="ThumbnailFile19551a2b1a57d53d1d65b85175014a05" USE="thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_07_tb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="FrontThumbnailFiledbeecf57e5fe0561e872a9735bd08c0a" USE="front thumbnail" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_07_ftb.jpg" LOCTYPE="OTHER"/></mets:file><mets:file ID="ReferenceImageFileeb7df953f7fac5609ccd34fc6d3c82d0" USE="reference image" MIMETYPE="image/jpeg"><mets:FLocat xlink:href="1997ms198/Folder_1/Bell_07.jpg" LOCTYPE="OTHER"/></mets:file></mets:fileGrp></mets:fileSec>
+<mets:structMap><mets:div TYPE="section" LABEL="1" ORDER="1"><mets:fptr FILEID="PrintImageFile184530f93148e87fbb1e67e4308ccb06"/><mets:div TYPE="item" LABEL="Residence of D.D. Bell, Esq., 545 Sayre Avenue, Lexington, Kentucky, architectural drawings, architect S.E. Des Jardins, Cincinnati" ORDER="1"><mets:fptr FILEID="ThumbnailFile91e5170fca30a6f9767107e9b3306de7"/><mets:fptr FILEID="FrontThumbnailFile5151b1183b6f8fd3fe8d2690ab5bcc0f"/><mets:fptr FILEID="ReferenceImageFiled1babb3cb67911c0c15bfd4184dd2151"/></mets:div><mets:div TYPE="item" LABEL="Residence of D.D. Bell, Esq., 545 Sayre Avenue, Lexington, Kentucky, architectural drawings, architect S.E. Des Jardins, Cincinnati" ORDER="2"><mets:fptr FILEID="ThumbnailFile1279ec5c198e1ce683283191479cba63"/><mets:fptr FILEID="FrontThumbnailFile9ecdab3b25da2c721437e7c54517f236"/><mets:fptr FILEID="ReferenceImageFileb6dee12a49069bde620b57ba28f85a18"/></mets:div><mets:div TYPE="item" LABEL="Residence of D.D. Bell, Esq., 545 Sayre Avenue, Lexington, Kentucky, architectural drawings, architect S.E. Des Jardins, Cincinnati" ORDER="3"><mets:fptr FILEID="ThumbnailFileafa88bc519cd3f1fb4a823a04e278fb4"/><mets:fptr FILEID="FrontThumbnailFilec7fbc6f4a5886c3e0a1f2fa9aa17f7b2"/><mets:fptr FILEID="ReferenceImageFile2b834e5aa58a2f37817c4db9898f35e9"/></mets:div><mets:div TYPE="item" LABEL="Residence of D.D. Bell, Esq., 545 Sayre Avenue, Lexington, Kentucky, architectural drawings, architect S.E. Des Jardins, Cincinnati" ORDER="4"><mets:fptr FILEID="ThumbnailFileec322e09e3726227dd160de530ff4c1d"/><mets:fptr FILEID="FrontThumbnailFilee23e604edfbfe2fca837ae2dc0c0fb72"/><mets:fptr FILEID="ReferenceImageFile79c4767f0dd4bf82fd8e316dcf93bf8b"/></mets:div><mets:div TYPE="item" LABEL="Residence of D.D. Bell, Esq., 545 Sayre Avenue, Lexington, Kentucky, architectural drawings, architect S.E. Des Jardins, Cincinnati" ORDER="5"><mets:fptr FILEID="ThumbnailFile83fd45668c12304460c3f4eb4225efc5"/><mets:fptr FILEID="FrontThumbnailFile81145f15c8c70c99dfea76abcbb1dba0"/><mets:fptr FILEID="ReferenceImageFile1ddc2ccd0610331b2b465f276b563305"/></mets:div><mets:div TYPE="item" LABEL="Residence of D.D. Bell, Esq., 545 Sayre Avenue, Lexington, Kentucky, architectural drawings, architect S.E. Des Jardins, Cincinnati" ORDER="6"><mets:fptr FILEID="ThumbnailFile787ce68f9260deb3a82afb8821f8659d"/><mets:fptr FILEID="FrontThumbnailFile34afc35d2dcc7e08886418a4ceced060"/><mets:fptr FILEID="ReferenceImageFile97f9bad2300a2343f1253e98dea2e561"/></mets:div><mets:div TYPE="item" LABEL="Residence of D.D. Bell, Esq., 545 Sayre Avenue, Lexington, Kentucky, architectural drawings, architect S.E. Des Jardins, Cincinnati" ORDER="7"><mets:fptr FILEID="ThumbnailFile19551a2b1a57d53d1d65b85175014a05"/><mets:fptr FILEID="FrontThumbnailFiledbeecf57e5fe0561e872a9735bd08c0a"/><mets:fptr FILEID="ReferenceImageFileeb7df953f7fac5609ccd34fc6d3c82d0"/></mets:div></mets:div></mets:structMap></mets:mets>

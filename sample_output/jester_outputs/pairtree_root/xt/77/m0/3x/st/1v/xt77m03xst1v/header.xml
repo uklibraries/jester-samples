@@ -1,0 +1,111 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt77m03xst1v</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt77m03xst1v/data/72M21.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Louis Wagner Arnett papers (dated 1927-1953, undated; 2.71 cubic feet; 8 boxes) mainly consists of Arnett's political and personal correspondence from 1927-1953, primarily documenting his career in Kentucky state politics.</abstract>
+  <descriptive_summary>
+    <author>Laura A. Hess</author>
+    <title>Louis Wagner Arnett papers</title>
+    <source>Louis Wagner Arnett papers</source>
+    <unitdates>
+      <date>1927-1953, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>2.71 Cubic Feet</extent>
+    <arrangement>Collection is arranged into two series: Letters and Addition.</arrangement>
+    <subjects>
+      <subject>Kentucky -- Politics and government -- 1865-1950.</subject>
+      <subject>Politicians -- Correspondence.</subject>
+      <subject>Political clubs -- Kentucky.</subject>
+      <subject>Wendell H. Ford Public Policy Research Center</subject>
+    </subjects>
+    <prefercite>72M21: [identification of item], Louis Wagner Arnett letters, 1927-1953, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Louis Wagner Arnett was born at Mundy's Landing on the banks of the Kentucky River in Woodford County, Kentucky, on July 10, 1879, to Benjamin M. and Jennie Barkley Arnett. He attended public schools before enrolling at the University of Kentucky.  Arnett finished his education at the University of Michigan; in 1899, he received the degree of Bachelor of Laws. As law associate of Kentucky Governor William Goebel, Arnett became an active member of the Democratic Party and a friend of many of Kentucky's most prominent 20th century politicians. He represented Kenton County in the state House of Representative for two terms from 1906-1908 and served in the state Senate in 1909. In the late 1920s, Arnett organized the Young Democratic Club movement, which eventually grew to 20,000 members. He remained active in state politics until his death in 1953.</p><p>Bidwell, William E. <title render="italic">Legislative History and Capitol Souvenier of Kentucky</title>. Frankfort, Kentucky: The Frankfort Printing Co. Inc. 1910. Web. 31 January 2012. </p><p>Johnson, E. Polk. <title render="italic">A History of Kentucky and Kentuckians. Vol. 2.</title> Chicago: The Lewis Publishing Company. 1912. Web. 31 January 2012. </p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Louis Wagner Arnett papers (dated 1927-1953, undated; 2.71 cubic feet; 8 boxes) mainly consists of Arnett's political and personal correspondence from 1927-1953, primarily documenting his career in Kentucky state politics. The personal correspondence mainly comprises letters between Arnett, his daughter, Peggy, and his grandchildren. Business correspondence discusses the political events of the Democratic party at both the national and state levels. The Young Democratic movement, which Arnett helped create, is also mentioned. Prominent names that appear in the correspondence include President Franklin D. Roosevelt; his son, James Roosevelt; Kentucky governors A.B. <emph render="doublequote">Happy</emph> Chandler and Earle Clements; J. Dan Talbott; and James Farley. Additionally, the papers contain several photographs and ephemera.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Letters</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/981918</unitid>
+        <unitdate datechar="creation" type="inclusive">1927-1953, undated</unitdate>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+      <c id="ref19" level="file"/>
+      <c id="ref20" level="file"/>
+      <c id="ref21" level="file"/>
+      <c id="ref22" level="file"/>
+      <c id="ref23" level="file"/>
+      <c id="ref24" level="file"/>
+      <c id="ref25" level="file"/>
+      <c id="ref26" level="file"/>
+      <c id="ref27" level="file"/>
+      <c id="ref28" level="file"/>
+      <c id="ref29" level="file"/>
+      <c id="ref30" level="file"/>
+      <c id="ref31" level="file"/>
+      <c id="ref32" level="file"/>
+    </c>
+    <c id="ref33" level="series">
+      <did>
+        <unittitle>Addition</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/963980</unitid>
+        <unitdate datechar="creation" type="inclusive">1943-1953, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_26097a2af0a4501814681aa29a685963">
+        <head>Scope and Contents</head>
+        <p>The Addition series (dated 1943-1953, undated; 0.23 cubic feet; 2 boxes) comprises photographs and an honorary membership card for the Young Democratic Clubs of America.</p>
+      </scopecontent>
+      <c id="ref34" level="file"/>
+      <c id="ref35" level="file"/>
+      <c id="ref36" level="file"/>
+      <c id="ref37" level="file"/>
+      <c id="ref38" level="file"/>
+    </c>
+  </contents>
+</header>

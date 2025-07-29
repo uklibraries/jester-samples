@@ -1,0 +1,76 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt705q4rn67r</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt705q4rn67r/data/2009ms132_0793.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The William I. Lally letters (dated 1918-1938, undated; 0.04 cubic feet; 2 folders) comprises letters sent to William I. Lally during the early twentieth century while living in Louisville, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Hanna Rumbarger</author>
+    <title>Wade Hall Collection of American Letters: William I. Lally letters</title>
+    <source>Wade Hall Collection of American Letters: William I. Lally letters</source>
+    <unitdates>
+      <date>1918-1938, undated (inclusive)</date>
+    </unitdates>
+    <creator>Lally, William I., 1899-1972</creator>
+    <extent>0.04 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</arrangement>
+    <subjects>
+      <subject>Letters.</subject>
+      <subject>Condolence letters.</subject>
+      <subject>Families.</subject>
+      <subject>Death</subject>
+      <subject>Louisville (Ky.)</subject>
+      <subject>Mayors -- Kentucky -- Louisville</subject>
+      <subject>Schools.</subject>
+      <subject>Catholicism</subject>
+      <subject>Lally, William I., 1899-1972</subject>
+    </subjects>
+    <prefercite>2009ms132.0793: [identification of item], Wade Hall Collection of American Letters: William I. Lally letters, 1918-1938, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>William Ignatius Lally, Sr. (1899-1972) and wife, Anna Carroll Lally (1898-1985), lived together in Louisville, Kentucky with their three children, Doris Louise Lally (1925-2015), William I. Lally, Jr. (1926-2012), and Paul Carroll Lally (1936-2014). William Lally worked as a clerk at the L&amp;N Railroad for 44 years.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The William I. Lally letters (dated 1918-1938, undated; 0.04 cubic feet; 2 folders) comprises letters sent to William I. Lally during the early twentieth century while living in Louisville, Kentucky. William Lally receives condolences for the death of his daughter Mary in 1938. These condolence letters come from William's two sisters and family friends. He also receives a letter from a friend that discusses their dislike of the public schools in Louisville, and the decision to send their children to a private, Catholic school. William Lally was also friends with the mayor of Louisville, Neville Miller and this collection includes a letter from Miller to Lally. There is one letter in this collection sent to William's son from a teacher at his private school asking what his plans are for after finishing school.</p><p>The William I. Lally letters collection is part of the Wade Hall Collection of American letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Letters to William I. Lally</unittitle>
+        <unitdate datechar="creation" type="inclusive">1924-1938, undated</unitdate>
+        <container id="aspace_311e2486201bb1eb511cc9c4f82ffd9c" label="mixed materials" type="box">WH-83</container>
+        <container id="aspace_6d76241723897475faff60ee6b976eb5" parent="aspace_311e2486201bb1eb511cc9c4f82ffd9c" type="folder">16</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Letter to William I. Lally Jr.</unittitle>
+        <unitdate datechar="creation" type="inclusive">1918</unitdate>
+        <container id="aspace_e1bbae8f1bd023c9c7d08dfb47a9227f" label="mixed materials" type="box">WH-83</container>
+        <container id="aspace_aaa5d9faf0a56dba42b6903acfb8799f" parent="aspace_e1bbae8f1bd023c9c7d08dfb47a9227f" type="folder">17</container>
+      </did>
+    </c>
+  </contents>
+</header>

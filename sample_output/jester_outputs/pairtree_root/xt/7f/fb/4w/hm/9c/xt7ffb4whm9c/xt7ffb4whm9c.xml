@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">87m43</eadid><filedesc><titlestmt><titleproper type="filing">Cotterill, Robert Spencer papers</titleproper><titleproper>Guide to the Robert Spencer Cotterill papers, 1981-1985 <num>87m43</num></titleproper><author>Revised and encoded by Jesse Nau</author><sponsor>Processing made possible by the Stephenson Fellowship.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2022 June</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-06-14 10:10:26 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Robert Spencer Cotterill papers</unittitle>
+    <unitid>87m43</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.23 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1981/1985" type="inclusive">1981-1985</unitdate>
+    <abstract id="aspace_798e38fad86c05cca03afc49640d9ca2">The Robert Spencer Cotterill papers (dated 1981-1985; 0.23 cubic feet; 1 box) consist of a copy of the manuscript, <title render="italic">The History of Fleming County, the first one hundred years, 1780-1880</title> and accompanying correspondence.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_414fd3402345b44a04f5b0d7fa885ac8">
+    <head>Conditions Governing Access</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </accessrestrict>
+  <arrangement id="aspace_689b622909796c12b61a1b3ea417c0c7">
+    <head>Arrangement</head>
+<p>Arranged by material type.</p>  </arrangement>
+  <bioghist id="aspace_00ac00cff87755148c814e86c24f4e0c">
+    <head>Biographical note</head>
+<p>Robert Spencer Cotterill was born in Ewing, Kentucky in 1884. He received his Bachelor's from Kentucky Wesleyan College, his Master's from the University of Virginia and his Ph.D. from the University of Wisconsin. He was the author of numerous history works including <title>History of Pioneer Kentucky</title> (1917), "Early Railroading in Kentucky" (1919), <title>The Old South</title> (1936), <title>A Short History of the Americas</title> (1939), and <title>The Southern Indians</title> (1954).</p>  </bioghist>
+  <custodhist id="aspace_83224aebfc166c47dfe4574b710cb79c">
+    <head>Custodial History</head>
+<p>Gift 1987.</p>  </custodhist>
+  <prefercite id="aspace_9578fcd478e8546194219a623b2e0e21">
+    <head>Preferred Citation</head>
+<p>87m43: [identification of item], Robert Spencer Cotterill papers, 1981-1985, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_e02336e06befa89db092a2445175b2f4">
+    <head>Scope and Contents note</head>
+<p>The Robert Spencer Cotterill papers (dated 1981-1985; 0.23 cubic feet; 1 box) consist of a copy of the manuscript, <title render="italic">The History of Fleming County, the first one hundred years, 1780-1880</title> and accompanying correspondence. The correspondence is primarily between Samuel Cassidy and Cotterill's nephew, Arthur L. Cotterill, and niece, Marie C. Grannis, and includes letters, conditions governing the manuscripts printing, and lists of parties interested in its publication. Also present are the maps compiled by Samuel M. Cassidy, the donor of the collection, that were to be included in Cotterill's book.</p>  </scopecontent>
+  <userestrict id="aspace_bda68f778c94040d7d9416ecfdefcc88">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Appalachian Region -- History.</geogname>
+    <geogname source="lcsh">Fleming County (Ky.) -- History.</geogname>
+    <geogname source="lcsh">Kentucky -- History.</geogname>
+    <genreform source="lcsh">Typescript.</genreform>
+    <corpname rules="local" source="local">Bert T. Combs Appalachian Collection</corpname>
+    <corpname rules="dacs" source="local">Kentucky Authors Collection</corpname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle><title render="italic">History of Fleming County, The first one hundred years, 1780-1880</title> manuscript</unittitle><unitdate datechar="creation" type="inclusive">1981-1985</unitdate><container id="aspace_65d1b9bf5bb45acabd5701e4ccc3b3e7" label="mixed materials" type="box">1</container><container id="aspace_dede6538bc15f277c70df8eefc15ae21" parent="aspace_65d1b9bf5bb45acabd5701e4ccc3b3e7" type="folder">1-2</container></did></c><c id="ref2" level="file"><did><unittitle>Cotterill, Robert Spencer, correspondence and maps</unittitle><unitdate datechar="creation" type="inclusive">1981-1985</unitdate><container id="aspace_a573e61afbaa5023052165d59d2c6b75" label="mixed materials" type="box">1</container><container id="aspace_e7fc40d38475348e7b7311de47ee1842" parent="aspace_a573e61afbaa5023052165d59d2c6b75" type="folder">3</container></did></c></dsc>
+</archdesc>
+</ead>

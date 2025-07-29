@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2012ms797</eadid><filedesc><titlestmt><titleproper type="filing">Young, Bennett H. statement, 1912</titleproper><titleproper>Guide to the Bennett H. Young statement, 1912 <num>2012ms797</num></titleproper><author>Ash Pechon</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2022 July 8</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-16 16:44:21 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Bennett H. Young statement</unittitle>
+    <unitid>2012ms797</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/4155</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1912/1912">1912</unitdate>
+    <abstract id="aspace_f7b6ba3b3f0fc6a4575f5cafa6ee6ed5">The Bennett H. Young statement (dated 1912; 0.01 cubic feet; 1 items) comprises a handwritten statement by Bennett H. Young, a commander-in-chief of the United Confederate Veterans, that documents seeing General Robert E. Lee in Richmond, Virginia, in June 1864 and praises the general.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_5d379dc3e7450fdae26d0eecd387678d">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <bioghist id="aspace_c9be1f1e91eefbe36a7314f7806706c0">
+    <head>Biographical note</head>
+<p>Bennett Henderson Young (1843-1919) was an officer in the Confederate Army during the American Civil War.  Following the war, Young studied law at the Queen's University of Ireland and the University of Edinburgh before returning to Kentucky to be an attorney and author in Louisville.  Young founded the first black orphanage in Louisville and helped create the Louisville Free Public Library.</p>  </bioghist>
+  <prefercite id="aspace_339af432876b9bd972cd5180e78adfc9">
+    <head>Preferred Citation</head>
+<p>2012ms797: [identification of item], Bennet H. Young statement, 1912, University of Kentucky Special Libraries Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_d5eae2882ea692e5de12a63723632353">
+    <head>Scope and Contents</head>
+<p>The Bennett H. Young statement (dated 1912; 0.01 cubic feet; 1 items) comprises a statement handwritten by Bennett H. Young, a commander-in-chief of the United Confederate Veterans, that documents seeing General Robert E. Lee in Richmond, VA, in June 1864 and praises the general.</p>  </scopecontent>
+  <userestrict id="aspace_8acb3cbf5f176aa4c82245d7b822eaff">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Military history.</subject>
+    <geogname authfilenumber="sh 85140205" source="lcsh">United States -- History -- Civil War, 1861-1865.</geogname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Bennett H. Young statement</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/925595</unitid><unitdate datechar="creation">1912 June 24</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2b36bc282c133386b98500b4cebef122" label="mixed materials" type="box">MS-10</container><container id="aspace_7bf58604749d3d92889d795b0d7c4230" parent="aspace_2b36bc282c133386b98500b4cebef122" type="folder">1</container></did></c></dsc>
+</archdesc>
+</ead>

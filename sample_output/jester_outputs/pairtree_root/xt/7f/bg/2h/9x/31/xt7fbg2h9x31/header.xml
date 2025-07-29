@@ -1,0 +1,158 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7fbg2h9x31</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7fbg2h9x31/data/1997ms164.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Bell family papers (dated 1800-1937, undated; 1.08 cubic feet; 5 boxes and 1 oversized folder) consist of correspondence, financial and legal material, newspaper clippings, a scrapbook, and photographs that document the Bell and Sayre families of Lexington as well as their house known as Bell Place.</abstract>
+  <descriptive_summary>
+    <author>Jennifer Rawe</author>
+    <title>Bell family papers</title>
+    <source>Bell family papers</source>
+    <unitdates>
+      <date>1800-1937, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>1.08 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Architecture -- Kentucky -- Lexington -- History</subject>
+      <subject>Bell Place (Lexington, Ky.)</subject>
+      <subject>Neighborhoods -- Kentucky -- Lexington</subject>
+      <subject>Bell, Clara D., 1884-1940</subject>
+      <subject>Bell, D.D. (David Davis), 1849-1892</subject>
+    </subjects>
+    <prefercite>1997ms164: Bell family papers, 1800-1937, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>David Davis Bell (D.D. Bell) was born in 1849 to Henry Bell and Clara Davis. He grew up in Woodside, a large home completed in 1846 in Lexington, Kentucky. The home was passed along to D.D. upon the death of his father in 1883. After an 1884 fire, D.D. worked with Cincinnati architect Samuel Eugene Des Jardins to rebuild the home, which is present-day Bell Place. During his life, D.D. made his fortune as a dry goods merchant and kept show horses across the state. In 1880, he married Sydney Sayre and they had one daughter, Clara D. Bell in 1884. Clara grew up in the reconstructed Bell Place with her mother and father, until his death in 1892. Sydney Sayre was remarried shortly after to Arthur Cary.</p><p>D.D. gave Clara D. Bell the majority of his fortune and all of Bell estate. Clara enjoyed showing horses in her free time and at the age of 21, she married Julius Walsh Jr. of St. Louis. Clara would continue her involvement in business, travel, and social gatherings. Later the couple would divorce in 1911 and Clara would eventually move into the Plaza Hotel in New York, selling most of the land surrounding Bell Place. Clara passed away in 1940 and gave Bell Place to the city of Lexington.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Bell family papers (dated 1800-1937, undated; 1.08 cubic feet; 5 boxes and 1 oversized folder) consist of correspondence, financial and legal material, newspaper clippings, a scrapbook, and photographs that document the Bell and Sayre families of Lexington as well as their house known as Bell Place. The bulk of the collection details the financial activity and involvement with the Safety Vault Company of Kentucky of D.D. Bell, his wife Sydney Sayre, and their daughter Clara D. Bell. The collection also contains a significant amount of material about the Bell Court neighborhood, including specifications and receipts for the 1884 rebuilding of the still-standing Bell Place and information about the sale and subdivision of land on the larger estate. The Bell family papers also include more personal documents such as correspondence between Clara and her mother, family photographs at Bell Place, and genealogy records of the Bells and Sayre families. Included in the collection are photographs of unidentified individuals, many African-American, believed to be employed at Bell Place as servants. Those photographed could be any of the following individuals: Geo Mitchell, Elle Mitchell, Evalina Mitchell, Bush Mitchell, May Mitchell, Sallie Sanders, Sam Sanders, Lucy Shark, Lonnie Shark, Larkin Johnson, Letta Johnson, Bob Johnson and William Johnson.</p><p>Items of note include the will of D.D. Bell giving gave Clara control of Bell Place on her twenty-first birthday; a 1905 Supreme Court brief for the case of Security Trust and Safety Vault Co., Trustee of Clara D. Bell vs. The City of Lexington; a memorandum detailing the purchase price, guidelines, and subdivision of the land surrounding Bell Place; a 1908 plat map of Bell Court labeled with names, prices, and divisions of the land handled by Bell Land Company; and a Bell family photograph album.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Correspondence and personal papers</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">1800-1937, undated</unitdate>
+        <langmaterial><language langcode="eng">English</language>.</langmaterial>
+      </did>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+    </c>
+    <c id="ref5" level="series">
+      <did>
+        <unittitle>Financial and legal documents</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1838-1928, undated</unitdate>
+        <langmaterial><language langcode="eng">English</language>.</langmaterial>
+      </did>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+    </c>
+    <c id="ref15" level="series">
+      <did>
+        <unittitle>Scrapbooks and newspaper clippings</unittitle>
+        <unitid>Series III.</unitid>
+        <unitdate datechar="creation" type="inclusive">1910-1911, undated</unitdate>
+        <langmaterial><language langcode="eng">English</language>.</langmaterial>
+      </did>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+    </c>
+    <c id="ref19" level="series">
+      <did>
+        <unittitle>Photographs</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitdate datechar="creation" type="inclusive">1880s-1930s, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_ffed103474c07fd354c6607cd12402cc">
+        <head>Scope and Contents</head>
+        <p>Photos arranged by size into four boxes. Also included is a photo album with unidentified subjects and dates.</p>
+      </scopecontent>
+      <c id="ref20" level="item"/>
+      <c id="ref21" level="item"/>
+      <c id="ref22" level="item"/>
+      <c id="ref23" level="item"/>
+      <c id="ref24" level="item"/>
+      <c id="ref25" level="item"/>
+      <c id="ref26" level="item"/>
+      <c id="ref27" level="item"/>
+      <c id="ref28" level="item"/>
+      <c id="ref29" level="item"/>
+      <c id="ref30" level="item"/>
+      <c id="ref31" level="item"/>
+      <c id="ref32" level="item"/>
+      <c id="ref33" level="item"/>
+      <c id="ref34" level="item"/>
+      <c id="ref35" level="item"/>
+      <c id="ref36" level="item"/>
+      <c id="ref37" level="item"/>
+      <c id="ref38" level="item"/>
+      <c id="ref39" level="item"/>
+      <c id="ref40" level="item"/>
+      <c id="ref41" level="item"/>
+      <c id="ref42" level="item"/>
+      <c id="ref43" level="item"/>
+      <c id="ref44" level="item"/>
+      <c id="ref45" level="item"/>
+      <c id="ref46" level="item"/>
+      <c id="ref47" level="item"/>
+      <c id="ref48" level="item"/>
+      <c id="ref49" level="item"/>
+      <c id="ref50" level="item"/>
+      <c id="ref51" level="item"/>
+      <c id="ref52" level="item"/>
+      <c id="ref53" level="item"/>
+      <c id="ref54" level="item"/>
+      <c id="ref55" level="item"/>
+      <c id="ref56" level="item"/>
+      <c id="ref57" level="item"/>
+      <c id="ref58" level="item"/>
+      <c id="ref59" level="item"/>
+      <c id="ref60" level="item"/>
+      <c id="ref61" level="item"/>
+      <c id="ref62" level="item"/>
+      <c id="ref63" level="item"/>
+      <c id="ref64" level="item"/>
+      <c id="ref65" level="item"/>
+      <c id="ref66" level="item"/>
+      <c id="ref67" level="item"/>
+      <c id="ref68" level="item"/>
+      <c id="ref69" level="item"/>
+      <c id="ref70" level="item"/>
+      <c id="ref71" level="item"/>
+    </c>
+  </contents>
+</header>

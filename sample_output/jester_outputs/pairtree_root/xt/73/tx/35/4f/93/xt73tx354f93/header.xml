@@ -1,0 +1,71 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt73tx354f93</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt73tx354f93/data/2019ms035.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Dr. John M. Goodwin medical ledgers (dated 1850-1859; 0.5 cubic feet; 1 box) comprise accounting ledgers that document Dr. Goodwin's medical practice financials in Warren County, Kentucky during the 1850s.</abstract>
+  <descriptive_summary>
+    <author>Carol Street</author>
+    <title>Dr. John M. Goodwin medical ledgers</title>
+    <source>Dr. John M. Goodwin medical ledgers</source>
+    <unitdates>
+      <date>1850-1859 (inclusive)</date>
+    </unitdates>
+    <creator>Goodwin, John M., Dr., 1822-1863</creator>
+    <extent>0.5 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Ledgers (account books)</subject>
+      <subject>Medical care -- Kentucky</subject>
+      <subject>Medicine -- Documentation -- Finance.</subject>
+      <subject>Goodwin, John M., Dr., 1822-1863</subject>
+    </subjects>
+    <prefercite>2019ms035 : [identification of item], Dr. John M. Goodwin medical ledgers, 1850-1859, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Dr. John M. Goodwin was born in 1822 in Clark County, Indiana. He married Delia B. La Rue in 1858 and they had two children, Clarence La Rue Goodwin (b. 1859) and John M. Goodwin (b. 1861). He graduated from the Louisville Medical College and practiced medicine in Warren County, Kentucky, from 1852 to his death in 1863.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Dr. John M. Goodwin medical ledgers (dated 1850-1859; 0.5 cubic feet; 1 box) comprise accounting ledgers that document Dr. Goodwin's medical practice financials in Warren County, Kentucky during the 1850s. The ledgers record names, medical visits, medicine, and the costs of treatment. African American patients are identified in the ledger by the term <emph render="doublequote">negro</emph>, and the ledgers include entries of medical care for enslaved people. The ledgers are interleaved with notes, correspondence, and newspaper clippings. The ledgers include a medicinal note concerning the use of quinine in those with flux.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Medical ledger</unittitle>
+        <unitdate datechar="creation" type="inclusive">1850-1859</unitdate>
+        <container id="aspace_d058bdfb7b3377aedbfdb93297a0a78c" label="mixed materials" type="box">1</container>
+        <container id="aspace_29f598033c550721fe5ebae131c5ece7" parent="aspace_d058bdfb7b3377aedbfdb93297a0a78c" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>Medical ledger</unittitle>
+        <unitdate datechar="creation" type="inclusive">1853-1857</unitdate>
+        <container id="aspace_645de47b7b5625c04737e49c5192ad29" label="mixed materials" type="box">1</container>
+        <container id="aspace_57d1012459a4f2803cf6a6d7f70987c2" parent="aspace_645de47b7b5625c04737e49c5192ad29" type="folder">2</container>
+      </did>
+    </c>
+  </contents>
+</header>

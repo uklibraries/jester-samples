@@ -1,0 +1,110 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt74tm71zh0t</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt74tm71zh0t/data/1997ms157.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Greater Lexington Committee records (dated 1954-1955, undated; 0.45 cubic feet; 1 box) consist of budget analyses, correspondence, newspaper clippings, pamphlets, printed materials, publications, and reports documenting the committee's efforts to study the needs of Lexington's citizens, to assess the effectiveness of the local government's services, and to make recommendations for improvements.</abstract>
+  <descriptive_summary>
+    <author>Adriana Sisko</author>
+    <title>Greater Lexington Committee records</title>
+    <source>Greater Lexington Committee records</source>
+    <unitdates>
+      <date>1954-1955, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.45 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>City planning -- Kentucky -- Lexington.</subject>
+      <subject>Education -- Kentucky -- Lexington.</subject>
+      <subject>Jails -- Kentucky -- Lexington</subject>
+      <subject>Lexington (Ky.)</subject>
+      <subject>Police -- Kentucky</subject>
+      <subject>Public health -- Kentucky -- Fayette County</subject>
+      <subject>Roads -- Design and construction -- Kentucky.</subject>
+      <subject>Sanitation -- Kentucky -- Lexington</subject>
+      <subject>Transportation -- Kentucky -- Lexington.</subject>
+      <subject>Water utilities -- Kentucky -- Lexington</subject>
+    </subjects>
+    <prefercite>1997ms157: [identification of item], Greater Lexington Committee records, 1954-1955, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Greater Lexington Committee was founded in January 1954 by Mayor Fred Fugazzi in order to study the requirements of urban life in a growing city and recommend the governmental services necessary for the health and wealth of Lexington's citizenry. Mayor Fugazzi appointed twenty-four members, both women and men, with equal numbers of city and suburban residents. John H. Kloecker, chair, and Dr. Gladys M. Kammerer, co-chair, steered the committee, which was endorsed by Judge Dan Fowler as well as the fiscal court upon its founding. The committee conducted several studies of the services provided by Lexington's local government in order to assess needs and effectiveness. They collated the results of these studies into a final report of assessments and recommendations, ultimately submitting that report to Mayor Fugazzi during April 1954.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Greater Lexington Committee records (dated 1954-1955, undated; 0.45 cubic feet; 1 box) consist of budget analyses, correspondence, newspaper clippings, pamphlets, printed materials, publications, and reports documenting the committee's efforts to study the needs of Lexington's citizens, to assess the effectiveness of the local government's services, and to make recommendations for improvements. </p><p>The correspondence series consists largely of letters sent to John H. Kloecker, chair of the committee. The operating records series, which represents the bulk of this collection, includes internal committee memos, budgets related to both the committee and Lexington public services, printed statements, and reports. These particular reports, and accompanying documents of background data, had originally been kept in a singular binder. They comprise the majority of this series. The reports and documents pertain to employment, population, the history of Lexington, sewage disposal, fire protection, police protection, public utilities, Bluegrass airport, jail, welfare, hospitals, planning and zoning, streets and roads, and taxes.</p><p>The newspaper clippings series consists primarily of articles from the <title render="italic">Lexington Leader</title> relating to the foundation, progress, recommendations, and actions of the Greater Lexington Committee. The reports series includes further reports, report drafts, and data relating to sewage disposal, fire protection, schools, police protection, health services, streets and roads, welfare services, parks and recreation, finance and financial administration, library services, traffic control, jails, planning and zoning, airport, refuse collection and disposal, and water supply. The reports and data within these series are organized into five categorical files: public health and sanitation, public safety, public services, public transportation, and public utilities. </p><p>The school merger documents series includes documents that relate to the Greater Lexington Committee's proposal that specific school districts in Fayette County should merge for financial, social, and educational benefits. Some materials reference the racial integration that would subsequently follow a school merger. This series is separated into three files arranged by genre format: school merger correspondence, school merger publications, and newspaper clippings related to the school merger. </p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Correspondence</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">1954-1955, undated</unitdate>
+        <container id="aspace_8ae2adb5d47d8ebd26ee021a9e537ff7" label="mixed materials" type="box">1</container>
+        <container id="aspace_a74600eb8e7fb45da39462d815ac93bb" parent="aspace_8ae2adb5d47d8ebd26ee021a9e537ff7" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="series">
+      <did>
+        <unittitle>Operating records</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1954-1955, undated</unitdate>
+      </did>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+    </c>
+    <c id="ref5" level="series">
+      <did>
+        <unittitle>Newspaper clippings</unittitle>
+        <unitid>Series III.</unitid>
+        <unitdate datechar="creation" type="inclusive">1954-1955, undated</unitdate>
+        <container id="aspace_de7634ec7e161ee2ab846a4585f53227" label="mixed materials" type="box">1</container>
+        <container id="aspace_4f519d5fac044c26b067457a8c41a96d" parent="aspace_de7634ec7e161ee2ab846a4585f53227" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref6" level="series">
+      <did>
+        <unittitle>Reports</unittitle>
+        <unitid>Series IIII.</unitid>
+        <unitdate datechar="creation" type="inclusive">1954-1955, undated</unitdate>
+      </did>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="file"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+    </c>
+    <c id="ref12" level="series">
+      <did>
+        <unittitle>School merger documents </unittitle>
+        <unitid>Series V.</unitid>
+        <unitdate datechar="creation" type="inclusive">1954-1955, undated</unitdate>
+      </did>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+      <c id="ref15" level="file"/>
+    </c>
+  </contents>
+</header>

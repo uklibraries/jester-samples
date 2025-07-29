@@ -1,0 +1,72 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7crj48sg14</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7crj48sg14/data/2009ms132.0454.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Women's travel diary (dated 1924, 1949-1950; 0.06 cubic feet; 1 folder) comprises a travel diary that documents the European trips taken by unidentified women in the early and mid-twentieth century.</abstract>
+  <descriptive_summary>
+    <author>Sarah Coblentz</author>
+    <title>Wade Hall Collection of American Letters: Women's travel diary</title>
+    <source>Wade Hall Collection of American Letters: Women's travel diary</source>
+    <unitdates>
+      <date>1924, 1949-1950 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.06 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</arrangement>
+    <subjects>
+      <subject>Diaries -- 20th century</subject>
+      <subject>Belgium -- Description and travel.</subject>
+      <subject>Europe -- Description and travel.</subject>
+      <subject>France</subject>
+      <subject>Italy</subject>
+      <subject>Netherlands (Holland)</subject>
+      <subject>Ocean travel</subject>
+      <subject>Scotland</subject>
+      <subject>Switzerland.</subject>
+      <subject>Travel costs.</subject>
+      <subject>Travel -- Personal narratives.</subject>
+    </subjects>
+    <prefercite>2009ms132.0454: [identification of item], Wade Hall Collection of American Letters: Women's travel diary, 1924, 1949-1950, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>No biographical information available on the women.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Women's travel diary (dated 1924, 1949-1950; 0.06 cubic feet; 1 folder) comprises a travel diary that documents the European trips taken by unidentified women in the early and mid-twentieth century. The 1924 journey covered Italy, Switzerland, Belgium, France, the Netherlands, and Scotland. The woman wrote about the people she encountered on the ship to Europe, the qualities of the cities and hotels stayed in, her opinions on local food. She also frequently compared the cities to the United States. In some of the entries, the diary discusses the history behind sites she visited, including the Lion of Lucerne, various churches in Italy, the Louvre, and The Hague. The 1949-1950 trip seems to be written by a different woman, many of the pages documenting the trip are torn out, only the last three pages remain which detail the woman's return to the United States and difficulties getting through customs.</p><p>The Women's travel diary is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.  </p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Travel diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/743388</unitid>
+        <unitdate datechar="creation" type="inclusive">1924, 1949-1950</unitdate>
+        <container id="aspace_270887d74747ee4f5b74b91f2ef08108" label="mixed materials" type="box">WH-27</container>
+        <container id="aspace_1387730c37b447d0750e84ef4204b624" parent="aspace_270887d74747ee4f5b74b91f2ef08108" type="folder">5</container>
+        <dao entityref="xt7crj48sg14_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

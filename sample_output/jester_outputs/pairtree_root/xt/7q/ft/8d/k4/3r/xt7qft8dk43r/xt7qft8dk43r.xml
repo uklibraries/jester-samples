@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2023ms043</eadid><filedesc><titlestmt><titleproper type="filing">Nelson, Minnie Sue Lane Durrum Stevens scrapbook </titleproper><titleproper>Guide to the Minnie Sue Lane Durrum Stevens Nelson scrapbook, 1949-2004, undated <num>2023ms043</num></titleproper><author>Kaylee McMunn</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 September 7</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-23 11:05:08 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Minnie Sue Lane Durrum Stevens Nelson scrapbook</unittitle>
+    <unitid>2023ms043</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/4254</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 Cubic Feet</extent>
+      <extent altrender="carrier">1 box, 1 wrapped item</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1949/2004" type="inclusive">1949-2004, undated</unitdate>
+    <abstract id="aspace_d26a3ebf26f19ff4d15925a39f61239c">The Minnie Sue Lane Durrum Stevens Nelson scrapbook (dated 1949-2004; 1.2 cubic feet; 1 box, 1 wrapped item) comprises a scrapbook which documents the softball career of Nelson and other female fast-pitch softball players throughout the Bluegrass region of kentucky, as well as her Hall of Fame plaque.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_ff2665785f487f7e814083ba4afe3a65">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_01a51850bda55ec34238e63d12bea969">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2023.</p>  </acqinfo>
+  <arrangement id="aspace_2bc0b2bf08ed3d607b1a85545a96411a">
+    <head>Arrangement</head>
+<p>Collection is arranged by format.</p>  </arrangement>
+  <bioghist id="aspace_f7117d825e58635d4fdd0d2878cde454">
+    <head>Biographical note</head>
+<p>Minnie Sue Lane Durrum Stevens Nelson was born June 23, 1929, in Fayette County. She graduated from Versailles High School, attended UK, and later worked for over forty years for the state as a graduate accountant in human resources. A celebrated fast-ball pitcher, she was inducted into the KY Softball Hall of Fame in 1997. Collection contains a scrapbook, which includes baseball cards of Nelson and other female fast-pitch softball players throughout the Bluegrass region, as well as her Hall of Fame plaque. </p><p>Link to oral history interview: https://kentuckyoralhistory.org/ark:/16417/xt7j7cssgq0gg</p>  </bioghist>
+  <prefercite id="aspace_ede7246284544fe17d0b394585af2bd1">
+    <head>Preferred Citation</head>
+<p>2023ms043 : [identification of item], Minnie Sue Lane Durrum Stevens Nelson scrapbook, 1949-2004, University of Kentucky Libraries Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_cf40af32cccd7224fd3aafd7f7f19543">
+    <head>Scope and Contents</head>
+<p>The Minnie Sue Lane Durrum Stevens Nelson scrapbook (dated 1949-2004; 1.2 cubic feet; 1 box, 1 wrapped item) comprises a scrapbook which documents the softball career of Nelson and other female fast-pitch softball players throughout the Bluegrass region of Kentucky, as well as her Hall of Fame plaque. The scrapbook contents are arranged chronologically. Players and coaches featured at the front of the scrapbook include: Kathleen Hockensmith, June Smither, Bettie Childers, Lois Johnson, Minnie Sue Durrum, Elizabeth Douglas, Jean Belcher, Peggy McFadden, Louise (Allen) Lane, Pat Perdue, Ann Sayles, Margaret Winfrough, Pat Kent, Jean True, Rose Chasteen, Pauline Jackson, Dawn Brislan, Ella (Red) Flynn; Coaches: Noble McDougal, A.G. Perry, Dickie [?], Ike Wingate.</p>  </scopecontent>
+  <userestrict id="aspace_4e388eef3dd3c7c1f8ce50aca013ed8d">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Sports -- Kentucky.</subject>
+    <subject source="lcsh">Sports -- Women</subject>
+  </controlaccess>
+  <dsc><c id="ref1" level="item"><did><unittitle>Scrapbook</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/948920</unitid><unitdate datechar="creation" normal="1949/2004" type="inclusive">1949-2004, undated</unitdate><container id="aspace_42aa1c0c29401c72c8603d529f7d71ae" label="mixed materials" type="box">1</container><container id="aspace_1cdd6ffee7ecefb54c6c9abc0a209b74" parent="aspace_42aa1c0c29401c72c8603d529f7d71ae" type="item">1</container></did></c><c id="ref2" level="item"><did><unittitle>Hall of Fame plaque</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/948921</unitid><unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate><container id="aspace_a0d7df82e7aa09c90743f28efc017124" label="mixed materials" type="item">1</container></did></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,223 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt76m9022j72</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt76m9022j72/data/2023ua042.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The University of Kentucky Libraries. Special Collections Research Center. University Archives collection on University of Kentucky Athletics Broadsides (dated 1967-2015, undated; .61 cubic feet; 1 flat box and 2 oversized folders) comprise posters and flyers collected by university archivists and university records managers documenting University of Kentucky men's and women's athletic teams, coaches, players, games, and seasons.</abstract>
+  <descriptive_summary>
+    <author>Emily B. Collier</author>
+    <title>University of Kentucky Athletics Broadsides</title>
+    <source>University of Kentucky Athletics Broadsides</source>
+    <unitdates>
+      <date>1967-2015, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>.61 Cubic Feet</extent>
+    <arrangement>Collection is arranged by sport, then chronologically within decade subseries.</arrangement>
+    <subjects>
+      <subject>College sports -- Kentucky</subject>
+      <subject>College athletes -- Kentucky.</subject>
+      <subject>Broadsides.</subject>
+      <subject>Coaches (Athletics)</subject>
+    </subjects>
+    <prefercite>2023ua042: [identification of item], University of Kentucky Athletics Broadsides, 1967-2015, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist></bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The University of Kentucky Libraries. Special Collections Research Center. University Archives collection on University of Kentucky Athletics Broadsides (dated 1967-2015, undated; .61 cubic feet; 1 flat box and 2 oversized folders) comprise posters and flyers collected by university archivists and university records managers documenting University of Kentucky men's and women's athletic teams, coaches, players, games, and seasons. Some of the broadsides advertise companies or products. Basketball, football, baseball, gymnastics, soccor, and rifle posters, among others, are inlcuded.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Baseball</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">2006-2012</unitdate>
+      </did>
+      <c id="ref2" level="subseries"/>
+      <c id="ref8" level="subseries"/>
+    </c>
+    <c id="ref10" level="series">
+      <did>
+        <unittitle>Basketball (Men's)</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1967-2015, undated</unitdate>
+      </did>
+      <c id="ref11" level="subseries"/>
+      <c id="ref13" level="subseries"/>
+      <c id="ref15" level="subseries"/>
+      <c id="ref17" level="subseries"/>
+      <c id="ref23" level="subseries"/>
+    </c>
+    <c id="ref26" level="series">
+      <did>
+        <unittitle>Basketball (Women's) Lady Kats</unittitle>
+        <unitid>Series III.</unitid>
+        <unitdate datechar="creation" type="inclusive">1985-2015</unitdate>
+      </did>
+      <c id="ref27" level="subseries"/>
+      <c id="ref29" level="subseries"/>
+      <c id="ref35" level="subseries"/>
+    </c>
+    <c id="ref39" level="series">
+      <did>
+        <unittitle>Cheerleading</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitdate datechar="creation" type="inclusive">2006</unitdate>
+      </did>
+      <c id="ref40" level="subseries"/>
+    </c>
+    <c id="ref42" level="series">
+      <did>
+        <unittitle>Dance</unittitle>
+        <unitid>Series V.</unitid>
+        <unitdate datechar="creation" type="inclusive">2010-2011</unitdate>
+      </did>
+      <c id="ref43" level="subseries"/>
+    </c>
+    <c id="ref46" level="series">
+      <did>
+        <unittitle>Football</unittitle>
+        <unitid>Series VI.</unitid>
+        <unitdate datechar="creation" type="inclusive">2005-2011</unitdate>
+      </did>
+      <c id="ref47" level="subseries"/>
+      <c id="ref52" level="subseries"/>
+    </c>
+    <c id="ref56" level="series">
+      <did>
+        <unittitle>Golf (Men's)</unittitle>
+        <unitid>Series VII.</unitid>
+        <unitdate datechar="creation" type="inclusive">2005-2011</unitdate>
+      </did>
+      <c id="ref57" level="subseries"/>
+      <c id="ref62" level="subseries"/>
+    </c>
+    <c id="ref64" level="series">
+      <did>
+        <unittitle>Golf (Women's)</unittitle>
+        <unitid>Series VIII.</unitid>
+        <unitdate datechar="creation" type="inclusive">2005-2011</unitdate>
+      </did>
+      <c id="ref65" level="subseries"/>
+      <c id="ref70" level="subseries"/>
+    </c>
+    <c id="ref73" level="series">
+      <did>
+        <unittitle>Gymnastics</unittitle>
+        <unitid>Series IX.</unitid>
+        <unitdate datechar="creation" type="inclusive">2006-2011</unitdate>
+      </did>
+      <c id="ref74" level="subseries"/>
+      <c id="ref77" level="subseries"/>
+    </c>
+    <c id="ref81" level="series">
+      <did>
+        <unittitle>Rifle</unittitle>
+        <unitid>Series X.</unitid>
+        <unitdate datechar="creation" type="inclusive">2005-2011</unitdate>
+      </did>
+      <c id="ref82" level="subseries"/>
+      <c id="ref87" level="subseries"/>
+    </c>
+    <c id="ref90" level="series">
+      <did>
+        <unittitle>Soccer (Men's)</unittitle>
+        <unitid>Series XI.</unitid>
+        <unitdate datechar="creation" type="inclusive">2006-2011</unitdate>
+      </did>
+      <c id="ref91" level="subseries"/>
+      <c id="ref94" level="subseries"/>
+    </c>
+    <c id="ref97" level="series">
+      <did>
+        <unittitle>Soccer (Women's)</unittitle>
+        <unitid>Series XII.</unitid>
+        <unitdate datechar="creation" type="inclusive">2005-2011</unitdate>
+      </did>
+      <c id="ref98" level="subseries"/>
+      <c id="ref103" level="subseries"/>
+    </c>
+    <c id="ref106" level="series">
+      <did>
+        <unittitle>Softball</unittitle>
+        <unitid>Series XIII.</unitid>
+        <unitdate datechar="creation" type="inclusive">2006-2012</unitdate>
+      </did>
+      <c id="ref107" level="subseries"/>
+      <c id="ref113" level="subseries"/>
+    </c>
+    <c id="ref117" level="series">
+      <did>
+        <unittitle>Swimming and Diving</unittitle>
+        <unitid>Series XIV.</unitid>
+        <unitdate datechar="creation" type="inclusive">2005-2010</unitdate>
+      </did>
+      <c id="ref118" level="subseries"/>
+    </c>
+    <c id="ref123" level="series">
+      <did>
+        <unittitle>Tennis (Men's)</unittitle>
+        <unitid>Series XV.</unitid>
+        <unitdate datechar="creation" type="inclusive">2006-2012</unitdate>
+      </did>
+      <c id="ref124" level="subseries"/>
+      <c id="ref129" level="subseries"/>
+    </c>
+    <c id="ref132" level="series">
+      <did>
+        <unittitle>Tennis (Women's)</unittitle>
+        <unitid>Series XVI.</unitid>
+        <unitdate datechar="creation" type="inclusive">2006-2012</unitdate>
+      </did>
+      <c id="ref133" level="subseries"/>
+      <c id="ref139" level="subseries"/>
+    </c>
+    <c id="ref143" level="series">
+      <did>
+        <unittitle>Track and Field</unittitle>
+        <unitid>Series XVII.</unitid>
+        <unitdate datechar="creation" type="inclusive">2007-2012</unitdate>
+      </did>
+      <c id="ref144" level="subseries"/>
+      <c id="ref148" level="subseries"/>
+    </c>
+    <c id="ref152" level="series">
+      <did>
+        <unittitle>Volleyball</unittitle>
+        <unitid>Series XVIII.</unitid>
+        <unitdate datechar="creation" type="inclusive">2006-2011</unitdate>
+      </did>
+      <c id="ref153" level="subseries"/>
+      <c id="ref157" level="subseries"/>
+    </c>
+    <c id="ref159" level="series">
+      <did>
+        <unittitle>Miscellaneous Broadsides</unittitle>
+        <unitid>Series XIX</unitid>
+        <unitdate datechar="creation" type="inclusive">2000s</unitdate>
+      </did>
+      <c id="ref160" level="item"/>
+      <c id="ref161" level="item"/>
+    </c>
+  </contents>
+</header>

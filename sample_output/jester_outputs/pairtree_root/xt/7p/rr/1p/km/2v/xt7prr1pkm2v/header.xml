@@ -1,0 +1,65 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7prr1pkm2v</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7prr1pkm2v/data/2012ms770.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Willard Davis Commissioner's Sale of Land and Negroes broadside (dated 1862 June 21; 0.01 cubic feet; 1 item) comprises a broadside announcing the sale of an unnamed 14 year old enslaved boy and an unnamed 40 year old enslaved woman described to be a good cook and washer along with two tracts of land, one 111 acres and the other 150 acres, each formerly owned by Samuel Lackey, in Madison County, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Ash Pechon</author>
+    <title>Willard Davis &quot;Commissioner's Sale of Land and Negroes&quot; broadside</title>
+    <source>Willard Davis &quot;Commissioner's Sale of Land and Negroes&quot; broadside</source>
+    <unitdates>
+      <date>1862 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.01 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>African American history</subject>
+      <subject>African Americans -- Kentucky -- History</subject>
+      <subject>Land titles -- Kentucky -- Madison County.</subject>
+      <subject>Madison County (Ky.) -- History.</subject>
+      <subject>Slavery -- Kentucky.</subject>
+    </subjects>
+    <prefercite>2012ms770: [identification of item], Willard Davis Commissioner's Sale of Land and Negroes broadside, 1862 June 21, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>An enslaved woman and boy were formerly owned by the estate of Samuel Lackey and were placed at auction in 1862 after Lackey's death. They are unnamed and the broadside contains very little information about them. The child was only listed as a 14 year-old, which places his birth year at approximately 1848. The woman was 40 years old, born approximately 1822, and was described as a good cook and washer.  It is unknown whether they were related to each other. Both individuals were to be sold at auction following the death of Samuel Lackey, but it is unknown by whom they were purchased.</p><p>William <emph render="doublequote">Willard</emph> Davis (1837-1885) was born in Madison County, Kentucky, and attended Missouri University and Lexington Law School. Davis served as a tax collector in Kentucky for the Commissioner of Internal Revenue during the Civil War and was appointed as Collector of Internal Revenues in the Second Collection District of Kentucky.  Following the war, he became a lawyer and civil rights advocate. He also became a land speculater and purchased and subdivided the lots which would become Davis Bottom.  Davis moved to Kansas with his family in 1870 and rose to the position of Kansas Attorney General.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Willard Davis <emph render="doublequote">Commissioner's Sale of Land and Negroes</emph> broadside (dated 1862 June 21; 0.01 cubic feet; 1 item) comprises a broadside announcing the sale of an unnamed 14 year old enslaved boy and an unnamed 40 year old enslaved woman described to be a good cook and washer along with two tracts of land, one 111 acres and the other 150 acres, each formerly owned by Samuel Lackey, in Madison County, Kentucky.  Both tracts of land are directly south of Kirksville, Kentucky, and described to be well watered and well set in blue grass.  The terms of sale are included at the bottom.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Willard Davis <emph render="doublequote">Commissioner's Sale of Land and Negroes</emph> broadside</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/925600</unitid>
+        <unitdate datechar="creation">1862</unitdate>
+        <container id="aspace_7b81f33cddfedd9ac3cd49c6bd9093f6" label="mixed materials" type="box">MS-10</container>
+        <container id="aspace_ef4b1623fa5df45e9c580a20a1696e37" parent="aspace_7b81f33cddfedd9ac3cd49c6bd9093f6" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

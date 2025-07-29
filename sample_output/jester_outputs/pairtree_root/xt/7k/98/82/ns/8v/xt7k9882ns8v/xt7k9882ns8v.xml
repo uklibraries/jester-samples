@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt7k9882ns8v">2009ms132.0656</eadid><filedesc><titlestmt><titleproper type="filing">Hall, Wade Collection of American Letters: European travel diary</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: European travel diary, 1927 <num>2009ms132.0656</num></titleproper><author>Sarah Coblentz</author><sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2019 September 17</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-06-03 09:34:46 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: European travel diary</unittitle>
+    <unitid>2009ms132.0656</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/3356</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.04 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
+    <abstract id="aspace_66e1328b0510494b9f0dd6c000f2506d">The European travel diary (dated 1927; 0.04 cubic feet; 1 folder) comprises one diary that documents the travels of a young woman and her friends in Europe in the Summer of 1927.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_28cc7f66b9ea41190268a5a44a9cd51e">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_9351697b9e06db6bc89530413715af69">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_08d46de131b9c66687aa3007ad1f8e0a">
+    <head>Arrangement</head>
+<p>Collection is arranged by format. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_0d1aafd7cf5daaf26fb9855e7779b72f">
+    <head>Biographical note</head>
+<p>No biographical information available on European travel diary author.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_0d00c7bd6a15d216110dfe2df3833d5d">
+    <head>Preferred Citation</head>
+<p>2009ms132.0656: [identification of item], Wade Hall Collection of American Letters: European travel diary, 1927, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_67642d8956d4746bf0b39988a4526bab">
+    <head>Scope and Contents</head>
+<p>The European travel diary (dated 1927; 0.04 cubic feet; 1 folder) comprises one diary that documents the travels of a young woman and her friends in Europe in the Summer of 1927. In the diary, the author details their ocean journey to France, describing their neighbors on the ship, inside jokes they made while on board, assistance from staff, and opinions on activities and meals provided to them. Once in Europe, the author details sights visited, hotels stayed in, making friends, driving through the countryside, meals eaten, and little gaffes that occurred throughout their trip. The tour consisted of France, Italy, Switzerland, and Germany. The diary does not conclude with the end of the trip, it is cut-off halfway through part of the author's stay in Germany.</p><p>The European travel diary collection is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>  </scopecontent>
+  <userestrict id="aspace_0ca3cd75b7f34560222e9f6eababe811">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform authfilenumber="gf2014026085" source="lcsh">Diaries.</genreform>
+    <subject source="local">Diaries -- 20th century</subject>
+    <subject source="lcsh">Travel.</subject>
+    <subject source="lcsh">Ocean travel</subject>
+    <subject source="lcsh">Europe</subject>
+    <geogname authfilenumber="sh 85045661" source="lcsh">Europe -- Description and travel.</geogname>
+    <geogname source="lcsh">France</geogname>
+    <geogname source="lcsh">Italy</geogname>
+    <geogname source="lcsh">Switzerland.</geogname>
+    <geogname source="lcsh">Germany.</geogname>
+    <subject source="lcsh">Friendship.</subject>
+    <subject source="lcsh">Female friendship -- United States.</subject>
+    <subject source="lcsh">Hotels.</subject>
+    <subject source="lcsh">Tourism and museum</subject>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>European travel diary</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/760886</unitid><unitdate datechar="creation" type="inclusive">1927</unitdate><container id="aspace_7fa3866d806856fc973a0ee9c75b0e45" label="mixed materials" type="box">WH-64</container><container id="aspace_132398c1090e78e6990bfe3b7d20e64c" parent="aspace_7fa3866d806856fc973a0ee9c75b0e45" type="folder">11</container><dao entityref="xt7k9882ns8v_1_1"/></did></c></dsc>
+</archdesc>
+</ead>

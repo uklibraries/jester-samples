@@ -1,0 +1,68 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7rv11vf865</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7rv11vf865/data/95m6.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Samuel A. Oldham papers (dated 1833-1892; 0.1 cubic feet; 2 folders) consist of the legal and personal papers of Samuel A. Oldham, a freedman from Lexington, Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Processed by: Archives Staff ; machine-readable finding aid created by:Eric Weig</author>
+    <title>Samuel A. Oldham papers</title>
+    <source>Samuel A. Oldham papers</source>
+    <unitdates>
+      <date>1833-1892 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>African American artisans -- Kentucky -- Lexington -- History -- 19th century</subject>
+      <subject>African Americans -- Kentucky -- Lexington -- History -- 19th Century.</subject>
+      <subject>Legal instruments.</subject>
+      <subject>Slavery -- Kentucky.</subject>
+      <subject>Slavery -- Kentucky -- Lexington -- History -- 19th Century.</subject>
+      <subject>Wills.</subject>
+    </subjects>
+    <prefercite>95m6: [identification of item], Samuel A. Oldham papers, 1833-1892, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Samuel Oldham was a freedman in Lexington, Kentucky. He was the father of at least one child, a daughter Fanny, who was married to Willis Battleton. In 1857, Oldham and Battleton contracted with Fanny's master to buy her freedom. Oldham was a barber and a respected member of the community. He was guardian to Mary Clark, a freedwoman, and was responsible for training his apprentice, Henry Mitchell. He managed his own property and that of Lucy Price and Reuben Burnley. He served as the executor of Richard Morrison's estate. A letter of introduction, written for him by Mayor O.F. Payne of Lexington, testifies to the respect accorded him within the community.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Samuel A. Oldham papers (dated 1833-1892; 0.1 cubic feet; 2 folders) consist of the legal and personal papers of Samuel A. Oldham, a freedman from Lexington, Kentucky. The collection includes indentures for property; including his daughter Fanny, and the apprenticeship of Henry Mitchell. Instruments granting the power of attorney to Oldham from Lucy Price and Reuben Burnley are included as is the will of Richard Morrison. Several receipts and a letter of introduction from Mayor O.F. Payne are also included.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Samuel A. Oldham papers</unittitle>
+        <unitdate datechar="creation" type="inclusive">1833-1892</unitdate>
+        <container id="aspace_2435dd89cd72c91ccc655bfa88b32f91" label="mixed materials" type="box">MS-47</container>
+        <container id="aspace_8afe6113e7c37c42d88883634b92da9f" parent="aspace_2435dd89cd72c91ccc655bfa88b32f91" type="folder">1</container>
+        <container id="aspace_760ce64382bbc3fd587be7eec4975431" label="mixed materials" type="box">OS-14</container>
+        <container id="aspace_a68a4a3c4af15fa0a573da02a15692f0" parent="aspace_760ce64382bbc3fd587be7eec4975431" type="folder">2</container>
+        <dao entityref="xt7rv11vf865_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

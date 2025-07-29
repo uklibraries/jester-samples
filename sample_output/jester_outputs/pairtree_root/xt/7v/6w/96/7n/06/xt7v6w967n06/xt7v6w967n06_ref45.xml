@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<c id="ref45" level="item"> <did> <unittitle>"Belmont"</unittitle> <langmaterial><language langcode="eng">English</language>.</langmaterial> <container id="aspace_35b7229c9886b0a622bd192def6ed75b" label="graphic materials" type="box">1</container> <container id="aspace_bc14cf9396dab37ac2f8928f99f8e77e" parent="aspace_35b7229c9886b0a622bd192def6ed75b" type="item">42</container> <dao entityref="xt7v6w967n06_42_1"/> </did> </c>

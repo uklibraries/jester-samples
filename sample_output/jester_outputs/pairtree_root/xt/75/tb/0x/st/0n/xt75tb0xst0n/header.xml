@@ -1,0 +1,65 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt75tb0xst0n</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt75tb0xst0n/data/2013ms0010.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Lagrange and Westport turnpike bond (dated 1882 September 13; 0.01 cubic feet; 1 items) comprises a 100 dollar turnpike bond for the Lagrange and Westport voting precincts in Oldham County from the Bank of Kentucky, signed by the president of the Joint Board of Turnpike Commissioners, Isaac Risley, and approved by county judge, Martin DeMoss.</abstract>
+  <descriptive_summary>
+    <author>Ash Pechon</author>
+    <title>Lagrange and Westport turnpike bond</title>
+    <source>Lagrange and Westport turnpike bond</source>
+    <unitdates>
+      <date>1882</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.01 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Bonds.</subject>
+      <subject>Louisville (Ky.) -- History -- 19th Century.</subject>
+      <subject>Roads -- Design and construction -- Kentucky -- 19th Century.</subject>
+      <subject>Lagrange and Westport Turnpike Road Company</subject>
+    </subjects>
+    <prefercite>2013ms0010: [identification of item], Lagrange and Westport turnpike bond, 1882 September 13, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>Oldham County was founded in north central Kentucky in 1823, and both Westport and Lagrange have been the county seat.  Martin DeMoss (1825-1906) moved to La Grange at the age of twenty and held various offices in Oldham County for over forty years as Justice of the Peace, sheriff, school superintendent, and county judge.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Lagrange and Westport turnpike bond (dated 1882 September 13; 0.01 cubic feet; 1 items) comprises a 100 dollar turnpike bond for the LaGrange and Westport voting precincts in Oldham County from the Bank of Kentucky, signed by the president of the Joint Board of Turnpike Commissioners, Isaac Risley, and approved by county judge, Martin DeMoss.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Lagrange and Westport turnpike bond</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/925596</unitid>
+        <unitdate datechar="creation">1882</unitdate>
+        <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        <container id="aspace_16e2920fd1263624522cfb39ecbd72f1" label="mixed materials" type="box">MS-10</container>
+        <container id="aspace_dd5357b73a77d77933c31474be58c07e" parent="aspace_16e2920fd1263624522cfb39ecbd72f1" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

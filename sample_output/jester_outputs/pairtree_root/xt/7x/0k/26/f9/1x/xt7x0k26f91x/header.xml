@@ -1,0 +1,90 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7x0k26f91x</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7x0k26f91x/data/2023ua035.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Sarah Gibson Blanding Blanding Tower (University of Kentucky) Residence Council scrapbooks and meeting minutes (dated 1968-1984; 2.87 cubic feet; 1 record storage carton and 4 flat boxes) primarily comprises 14 scrapbooks and a set of meeting minutes compiled by the University of Kentucky Sarah Gibson Blanding Tower House Council from 1968 to 1984.</abstract>
+  <descriptive_summary>
+    <author>Maria J. Vela, Ruth E. Bryan</author>
+    <title>Sarah Gibson Blanding Blanding Tower (University of Kentucky) Residence Council scrapbooks and meeting minutes</title>
+    <source>Sarah Gibson Blanding Blanding Tower (University of Kentucky) Residence Council scrapbooks and meeting minutes</source>
+    <unitdates>
+      <date>1968-1984 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>2.87 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format into two series: Scrapbooks; and Meetings Minutes and Supporting Documents</arrangement>
+    <subjects>
+      <subject>Scrapbooks -- United States.</subject>
+      <subject>Student organizations -- Kentucky -- Lexington.</subject>
+      <subject>Student activities -- Kentucky -- Lexington</subject>
+      <subject>Dormitories -- Kentucky -- Lexington</subject>
+      <subject>Women college students -- Kentucky -- Lexington.</subject>
+      <subject>Photographs</subject>
+      <subject>Kirwan-Blanding Residential Complex (University of Kentucky)</subject>
+    </subjects>
+    <prefercite>2023ua035 : [identification of item], Sarah Gibson Blanding Blanding Tower (University of Kentucky) Residence Council scrapbooks and meeting minutes, dated 1968-1984, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical Note</head>
+      <p>The Kirwan-Blanding Dormitory Complex on the University of Kentucky campus was dedicated on October 26, 1968, and occupied from 1966 through spring 2014. It was designed by architect Edward Durell Stone and named for key UK administrators Albert D. Kirwan and Sarah Gibson Blanding. It was demolished in spring and summer 2020.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Sarah Gibson Blanding Blanding Tower (University of Kentucky) Residence Council scrapbooks and meeting minutes (dated 1968-1984; 2.87 cubic feet; 1 record storage carton and 4 flat boxes) primarily comprises 14 scrapbooks and a set of meeting minutes compiled by the University of Kentucky Sarah Gibson Blanding Tower House Council from 1968 to 1984. Blanding Tower was a woman's residence hall/dormitory during this time. The scrapbooks include photographs of residents and Tower events and newspaper clippings about the residents, the Tower, and events held at the Tower.  The meeting minutes date from October 1, 1979, to March 31, 1980. Minutes include an invitation to <title render="doublequote">An Old Fashioned Christmas</title> event and a memorandum dated December 3, 1979, from Tom Padgett, Director of Public Safety, regarding a report on a Blanding Tower elevator incident on November 30, 1979.  There are missing scrapbooks from 1981-1982 and 1982-1983.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Scrapbooks</unittitle>
+        <unitid>Series I. </unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948173</unitid>
+      </did>
+      <c id="ref2" level="item"/>
+      <c id="ref3" level="item"/>
+      <c id="ref4" level="item"/>
+      <c id="ref5" level="item"/>
+      <c id="ref6" level="item"/>
+      <c id="ref7" level="item"/>
+      <c id="ref8" level="item"/>
+      <c id="ref9" level="item"/>
+      <c id="ref10" level="item"/>
+      <c id="ref11" level="item"/>
+      <c id="ref12" level="item"/>
+      <c id="ref13" level="item"/>
+      <c id="ref14" level="item"/>
+      <c id="ref15" level="item"/>
+    </c>
+    <c id="ref16" level="series">
+      <did>
+        <unittitle>Meeting minutes and Supporting Documents</unittitle>
+        <unitid>Series II. </unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948174</unitid>
+      </did>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+      <c id="ref19" level="file"/>
+      <c id="ref20" level="file"/>
+    </c>
+  </contents>
+</header>

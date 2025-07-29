@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2023ms039</eadid><filedesc><titlestmt><titleproper type="filing">Kurre, Joseph Henry WWII diary and papers</titleproper><titleproper>Guide to the Joseph Henry Kurre WWII diary and papers <num>2023ms039</num></titleproper><author>Kaylee</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 September 7</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-26 14:46:27 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Joseph Henry Kurre WWII diary and papers</unittitle>
+    <origination label="Creator">
+      <persname>Kurre, Joseph Henry, 1918-1968</persname>
+    </origination>
+    <unitid>2023ms039</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/4253</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">0.23 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">466.57 Megabytes</extent>
+      <extent altrender="carrier">5 digital files</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1942/2011" type="inclusive">1942-2011, undated</unitdate>
+    <abstract id="aspace_a485a09a13bdc3e05df3f38139426e92">The Joseph Henry Kurre WWII diary and papers (dated 1942-2011; 0.23 cubic feet, 466.57 megabytes; 1 box, 5 digital files) comprise a handwritten diary, full transcription of the diary, photographs, and military forms and records related to Kurre's service and medical department activities during WWII.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_d4acbc4af59e1345185a0ee14e223c7a">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <arrangement id="aspace_b3f199a9b9abe06bed01aa4431472403">
+    <head>Arrangement</head>
+<p>Collection is arranged by format.</p>  </arrangement>
+  <bioghist id="aspace_b6b77b90bd9dae4f8fdfbfb7f401290e">
+    <head>Biographical note</head>
+<p>Joseph Henry Kurre was born January 13, 1918, in Nicholasville, KY. He studied chemistry and physiology at University of Kentucky, graduating in 1938. After earning his MD from University of Louisville in 1942, he enlisted in the US Navy and served from 1942-1947. Kurre kept a diary during his service in WWII, which he used to log medical department activities.</p>  </bioghist>
+  <prefercite id="aspace_61535bc1a3a1753af34df4f4f34019cf">
+    <head>Preferred Citation</head>
+<p>2023ms039 : [identification of item], Joseph Henry Kurre WWII diary and papers, 1942-2011, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_39fd9a906b7c4a0bfa111501406055c5">
+    <head>Scope and Contents</head>
+<p>The Joseph Henry Kurre WWII diary and papers (dated 1942-2011; 0.23 cubic feet, 466.57 megabytes; 1 box, 5 digital files) comprise a handwritten diary, full transcription of the diary, photographs, and military forms and records related to Kurre's service and medical department activities during WWII. Also includes digital files of the collection contents. The photographs include portraits of Kurre in uniform, a newspaper clipping of Kurre's obituary, and a class photo from University of Louisville School of Medicine. Military papers include fitness reports, officer qualifications questionnaire, leave of absence forms, military personnel records correspondence, and notice of separation form.</p>  </scopecontent>
+  <userestrict id="aspace_978ee005340b276d3fc5664e1635b8c2">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform authfilenumber="gf2014026085" source="lcsh">Diaries.</genreform>
+    <subject source="lcsh">Military history.</subject>
+    <subject source="lcsh">Soldiers -- Kentucky.</subject>
+    <geogname source="lcsh">United States -- History -- World War, 1939-1945</geogname>
+    <persname>Kurre, Joseph Henry, 1918-1968</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>WWII diary</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/948914</unitid><unitdate datechar="creation" normal="1942-01-10/1945-07-14" type="inclusive">1944 January 10-1945 July 14</unitdate><container id="aspace_29ec785d262eba056c6383b0ee08d97e" label="mixed materials" type="box">1</container><container id="aspace_ee11e378439428bc77333a0d243f43f4" parent="aspace_29ec785d262eba056c6383b0ee08d97e" type="folder">1</container></did></c><c id="ref2" level="file"><did><unittitle>Diary transcription</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/948915</unitid><unitdate datechar="creation" normal="1944-01-10/1945-07-14" type="inclusive">1944 January 10-1945 July 14</unitdate><container id="aspace_97ad315fb844f49cde5cdd7c73e0747a" label="mixed materials" type="box">1</container><container id="aspace_32e8f6bdca6aed5a9d8e9ce6de46269a" parent="aspace_97ad315fb844f49cde5cdd7c73e0747a" type="folder">2</container></did><scopecontent id="aspace_b899ef93d73c71c42bb4f9ed68b9a39e"><head>Scope and Contents</head><p>Typo on page 7 of printed transcription. Date reads, "1-27-1994"; handwritten diary reads, "1-27-1944".</p></scopecontent></c><c id="ref3" level="file"><did><unittitle>Photographs</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/948916</unitid><unitdate datechar="creation" normal="1942/1942" type="inclusive">1942, undated</unitdate><container id="aspace_4cf56172d042acc945ecd2b83ae48f3c" label="graphic materials" type="box">1</container><container id="aspace_caf3c2a9733db66518d59ab48813efc4" parent="aspace_4cf56172d042acc945ecd2b83ae48f3c" type="folder">3</container></did></c><c id="ref4" level="file"><did><unittitle>Military forms and personnel records</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/948917</unitid><unitdate datechar="creation" normal="1942/2011" type="inclusive">1942-2011, undated</unitdate><container id="aspace_7b53a0b363e38276b9978a97b6bfb749" label="mixed materials" type="box">1</container><container id="aspace_fe0fa2ae7f6564c75c5b1a1fd09c4563" parent="aspace_7b53a0b363e38276b9978a97b6bfb749" type="folder">4</container></did></c><c id="ref5" level="file"><did><unittitle>U.S.S. Missouri launch party invitations</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/968123</unitid><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944 January 29</unitdate><container id="aspace_6fd678bbec7fbe1492165de197bfe75c" label="mixed materials" type="box">1</container><container id="aspace_83931cc602b8f844f39621dab217ebf2" parent="aspace_6fd678bbec7fbe1492165de197bfe75c" type="folder">5</container></did></c><c id="ref6" level="file"><did><unittitle>Digital files of collection contents</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/948918</unitid><unitdate datechar="creation" normal="1942/2011" type="inclusive">1942-2011, undated</unitdate><container id="aspace_f75bad3bf98bcc461577b2790c1625e8" label="Digital File" type="digitalfolder">2023ms039_borndigital</container></did></c></dsc>
+</archdesc>
+</ead>

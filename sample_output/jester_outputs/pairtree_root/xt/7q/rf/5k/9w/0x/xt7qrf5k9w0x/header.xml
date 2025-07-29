@@ -1,0 +1,80 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7qrf5k9w0x</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7qrf5k9w0x/data/64m1.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>This collection contains the papers and photographs of George H. Goodman and Edwin J. Paxton, consecutive owners of the Paducah News-Democrat.  The collection includes just a small amount of Edwin Paxton's correspondence, with most of the materials pertaining to George Goodman and his tenure as director of the Works Progress Administration (WPA) in Kentucky from 1934 through 1941.  Included are correspondence, clippings, photographs, financial statements for the News-Democrat, and testimony and affidavits concerning charges made by Governor A.B. Chandler that the Kentucky WPA pressured its employees to support Alben Barkley in the 1938 Democratic Senatorial primary.</abstract>
+  <descriptive_summary>
+    <author>Processed by Beth Eifler; machine-readable finding aid created by Beth Eifler</author>
+    <title>  George H. Goodman and Edwin J. Paxton papers, 1911-1950</title>
+    <source>George H. Goodman and Edwin J. Paxton papers, 1911-1950</source>
+    <unitdates>
+    </unitdates>
+    <creator>Goodman, George H., 1876-1961.</creator>
+    <extent>5 cu. ft.</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Barkley, Alben William, 1877-1956.</subject>
+      <subject>Chandler, Happy, 1898-</subject>
+      <subject>Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944.</subject>
+      <subject>Goodman, George H., 1876-1961.</subject>
+      <subject>Paxton, Edwin John, 1877-1961.</subject>
+      <subject>United States. Congress. Senate Elections, 1938.</subject>
+      <subject>United States. Works Progress Administration. Kentucky.</subject>
+      <subject>Ephraim McDowell House (Danville, Ky.)</subject>
+      <subject>John James Audubon State Park (Henderson, Ky.). Museum.</subject>
+      <subject>News-Democrat (Paducah, Ky.)</subject>
+      <subject>Newspaper publishing -- Kentucky -- Paducah.</subject>
+      <subject>Politicians.</subject>
+      <subject>Kentucky -- Politics and government -- 1865-1950.</subject>
+      <subject>Affidavits.</subject>
+      <subject>Clippings.</subject>
+      <subject>Photoprints.</subject>
+    </subjects>
+    <prefercite></prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>  <p>In 1900, George H. Goodman founded a mail order whiskey business which he continued until the enactment of the 1919 Volstead Act.  In 1922 he bought the <title>Paducah News-Democrat</title> which he operated until 1929 when he sold it to Edwin J. Paxton.</p>  <p>From 1934 through 1941 Goodman was director of the Works Progress Administration (WPA) in Kentucky and then served as state director of the Office of Price Administration from 1942 through 1946.</p></bioghist>
+    <scopecontent>  <p>This collection contains the papers and photographs of George H. Goodman and Edwin J. Paxton, consecutive owners of the <title>Paducah News-Democrat</title>. Most of the materials pertain to George Goodman and concern the activities of the Works Progress Administration (WPA) in Kentucky during his tenure as director. Also included are semi-monthly and annual WPA reports and Goodman's business correspondence from 1922 to 1941.  There is significant correspondence, clippings, testimony and affidavits concerning charges made by Governor A.B. Chandler that the Kentucky WPA pressured its employees to support Alben Barkley in the 1938 Democratic Senatorial primary. The rest of the collection consists of financial statements for the <title>News-Democrat</title> dating from the 1920's and a small segment of Edwin Paxton's correspondence.</p> <p>The photographs from this collection, removed to Audio-Visual Archives (PA64M1), document WPA projects in the state, among them the Audubon museum near Henderson and the restoration of the McDowell House near Danville. Although views of buildings and construction activities predominate, some of the photographs show WPA employees at work. </p></scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict></accessrestrict>
+    <userestrict></userestrict>
+  </restrictions>
+  <contents>
+    <c level="series" id="ref1">
+      <did>
+        <unittitle>CORRESPONDENCE AND PAPERS, <unitdate type="inclusive">1922-1950</unitdate></unittitle>
+      </did>
+      <scopecontent encodinganalog="520">
+        <p>This series contains the small portion of Edwin J. Paxton's papers included within the collection.  Most of George Goodman's correspondence is business related and falls between 1922 and 1935.  Many letters are from newspaper columnist R.H. "Bob" Davis, Matthew J. Carney, and humorist Irvin S. Cobb.  Some material relating to the Great Depression is also included.</p>
+        <p>In addition, there are several files of correspondence and testimony regarding A.B. Chandler's charge of pressure upon employees in the WPA to vote for Alben Barkley in the 1938 Senate campaign.  Materials relating to this charge, including affidavits, are filed chronologically.  Newspaper clippings and materials arranged to answer each charge are left intact as arranged by Goodman's office and are located in the Works Progress Administration in Kentucky series.</p>
+      </scopecontent>
+      <c level="subseries" id="ref2"/>
+      <c level="subseries" id="ref7"/>
+    </c>
+    <c level="series" id="ref38">
+      <did>
+        <unittitle>FINANCIAL RECORDS, 1911-1932</unittitle>
+      </did>
+      <c level="subseries" id="ref39"/>
+      <c level="subseries" id="ref43"/>
+    </c>
+    <c level="series" id="ref49">
+      <did>
+        <unittitle>WORKS PROGRESS ADMINISTRATION IN KENTUCKY, 1935-1938</unittitle>
+      </did>
+      <scopecontent>
+        <p>George Goodman served as director of the WPA in Kentucky from 1934 through 1941.</p>
+      </scopecontent>
+      <c level="subseries" id="ref50"/>
+      <c level="subseries" id="ref87"/>
+      <c level="subseries" id="ref106"/>
+    </c>
+    <c level="series" id="ref130"><did><unittitle>OVERSIZE MATERIAL, 1934-1943</unittitle></did>						<c level="file" id="ref131"/>		<c level="file" id="ref132"/></c>
+  </contents>
+</header>

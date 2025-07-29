@@ -1,0 +1,80 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7pnv996p4t</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7pnv996p4t/data/2012ms017.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract></abstract>
+  <descriptive_summary>
+    <author>Megan Mummey</author>
+    <title>Crum/Dale family papers</title>
+    <source>Crum/Dale family papers</source>
+    <unitdates>
+      <date>1870-1909 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.15 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Agriculture -- California.</subject>
+      <subject>California -- History.</subject>
+      <subject>Correspondence.</subject>
+      <subject>Eminence (Ky.)</subject>
+      <subject>Family archives -- Kentucky.</subject>
+    </subjects>
+    <prefercite>2012ms017: [identification of item], Crum/Dale family papers, 1870-1909, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>The Crum family was originally from Oldham County, Kentucky. Gilbert Lafayette Crum and Mary E. Crum Dale's father was Jacob Crum; they had four other siblings. Gilbert Crum moved to California prior to 1870 to work as a farmer. Gilbert Crum is buried in Eminence, Kentucky.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Crum/Dale family papers (dated 1870-1909; 0.15 cubic feet; 1 box) consist of letters and a legal document document the family's relationship with Gilbert L. Crum, a relative in California. Gilbert Crum wrote the letters to his sister Mary E. Dale, his nephews, and his father Jacob Crum. The content of his letters describe his struggles as a farmer in California. The legal document is a 1902 copy of Jacob Crum's 1897 will.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Letters</unittitle>
+        <unitdate datechar="creation">1870-1883</unitdate>
+        <container id="aspace_c0021f8556c1aa6b1d5aa913c8ee3bde" label="mixed materials" type="box">1</container>
+        <container id="aspace_72bb72376f105e9b9ed6354c24d8441f" parent="aspace_c0021f8556c1aa6b1d5aa913c8ee3bde" type="folder">19</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Letters</unittitle>
+        <unitdate datechar="creation">1884-1909</unitdate>
+        <container id="aspace_f1d2a044c227d4cb9135ac335fd1a571" label="mixed materials" type="box">1</container>
+        <container id="aspace_8fb75905b02a8a763a3b62ec080964bf" parent="aspace_f1d2a044c227d4cb9135ac335fd1a571" type="folder">20</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Copy of Jacob Crum's 1897 will</unittitle>
+        <unitdate datechar="creation">1902 November 19</unitdate>
+        <container id="aspace_77dd98ff7b2c41aa8849d94b03543ae2" label="mixed materials" type="box">1</container>
+        <container id="aspace_3a8a8fa3320841e34b1aeb6ca9992946" parent="aspace_77dd98ff7b2c41aa8849d94b03543ae2" type="folder">21</container>
+      </did>
+    </c>
+  </contents>
+</header>

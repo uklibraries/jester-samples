@@ -1,0 +1,240 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7v9s1km55q</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7v9s1km55q/data/2017ms001.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Temple Adath Israel records (dated 1903-2016, undated; 20.85 cubic feet, 27 boxes, 2 items, 1 map folder) comprise administrative files and reports, Temple bulletins and yearbooks, service and sermon programs, and photographs that document the history and development of Lexington, Kentucky's oldest Jewish congregation.</abstract>
+  <descriptive_summary>
+    <author>Arranged and described by Morgan LeMaster and Sarah Mackenzie Wade</author>
+    <title>Temple Adath Israel records</title>
+    <source>Temple Adath Israel records</source>
+    <unitdates>
+      <date>1903-2016, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>20.85 Cubic Feet</extent>
+    <arrangement>Collection is arranged into 6 series by subject and format: Administrative files, Temple history and development, Officers and rabbis, Printed materials, Services and sermons, and Photographs.</arrangement>
+    <subjects>
+      <subject>Jews -- Kentucky -- Lexington</subject>
+      <subject>Reform Judaism</subject>
+      <subject>Synagogue archives</subject>
+    </subjects>
+    <prefercite>2017ms001 : [identification of item], Temple Adath Israel records, 1903-2016, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>Founded in 1903, Temple Adath Israel (TAI) is Lexington, Kentucky's oldest Jewish congregation. Associated with the Union for Reform Judaism from its outset, the Temple incorporated with the Commonwealth of Kentucky in 1904 as Adath Israel Congregation, with Samuel Goldenson as its first full-time rabbi. The Temple opened its first permanent location on Maryland Avenue in 1905 and remained there until 1926, when it relocated to its present address on Ashland Avenue. </p><p>TAI's commitment to worship, Torah study, social justice, and community is reflected in its longstanding engagement with education and civic outreach. The synagogue was expanded in 1950 to allow for a dedicated wing for the TAI Religious School, which focuses on teaching the history, practice, and language of the Jewish faith to toddlers, elementary students, and high schoolers. In 1983, the synagogue was renovated once more and the TAI Preschool program began, with a year-long curriculum for children that celebrates Jewish holidays and the weekly Shabbat. </p><p>Over one hundred years since its founding, Temple Adath Israel continues its tradition of active worship services, educational programs, and social action projects that support its congregation and the greater Lexington community.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Temple Adath Israel records (dated 1903-2016, undated; 20.85 cubic feet; 27 boxes, 2 items, 1 map folder) comprise administrative files and reports, Temple bulletins and yearbooks, service and sermon programs, and  photographs that document the history and development of Lexington, Kentucky's oldest Jewish congregation.</p><p>The collection also includes scrapbooks and correspondence of Temple rabbis and presidents, newspaper clippings on Temple activities, architectural drawings for TAI renovations and expansions, and a time capsule that commemorates the Temple's 100th anniversary. </p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Administrative files</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/587609</unitid>
+        <unitdate datechar="creation" type="inclusive">1903-2013, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_7897e2233222cac90f377e881b308e1e">
+        <head>Scope and Contents</head>
+        <p>Constitutes the bulk of the collection and includes committee files, minutes for meetings of the Board of Trustees and of the Congregation, financial ledgers and reports, and membership applications and resignations that document the Temple's administration.
+      
+    Also includes roll books and files that document the Temple's religious school.</p>
+      </scopecontent>
+      <c id="ref2" level="subseries"/>
+      <c id="ref56" level="subseries"/>
+      <c id="ref69" level="subseries"/>
+      <c id="ref173" level="subseries"/>
+      <c id="ref189" level="subseries"/>
+      <c id="ref232" level="subseries"/>
+      <c id="ref243" level="subseries"/>
+    </c>
+    <c id="ref254" level="series">
+      <did>
+        <unittitle>Temple history and development</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/584022</unitid>
+        <unitdate datechar="creation" type="inclusive">1920-2014, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_b58f6c8bc9816803046add18d93f4390">
+        <head>Scope and Contents</head>
+        <p>Comprises architectural plans and proposals for Temple renovations, scrapbooks and brochures for TAI anniversary celebrations, and newspaper clippings that document the history of the Temple and its congregation. Also includes a time capsule that was created in celebration of the Temple's 100th anniversary with instructions for it to be opened during the Temple's 125th anniversary celebration in 2028.</p>
+      </scopecontent>
+      <c id="ref255" level="subseries"/>
+      <c id="ref279" level="subseries"/>
+      <c id="ref298" level="subseries"/>
+    </c>
+    <c id="ref307" level="series">
+      <did>
+        <unittitle>Officers and rabbis</unittitle>
+        <unitid>Series III.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/587616</unitid>
+        <unitdate datechar="creation" type="inclusive">1920-2004, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_2bb8fa74c87c7f98a5c8bd1b15e5ba5d">
+        <head>Scope and Contents</head>
+        <p>Comprises correspondence, files, and scrapbooks that document TAI presidents, rabbis, and officers, including the Temple's first full-time rabbi, Samuel H. Goldenson.</p>
+      </scopecontent>
+      <c id="ref308" level="file"/>
+      <c id="ref309" level="file"/>
+      <c id="ref310" level="file"/>
+      <c id="ref311" level="file"/>
+      <c id="ref312" level="file"/>
+      <c id="ref313" level="file"/>
+      <c id="ref314" level="file"/>
+      <c id="ref315" level="file"/>
+      <c id="ref316" level="file"/>
+      <c id="ref317" level="file"/>
+      <c id="ref318" level="file"/>
+      <c id="ref319" level="file"/>
+      <c id="ref320" level="file"/>
+      <c id="ref321" level="file"/>
+      <c id="ref322" level="file"/>
+      <c id="ref323" level="file"/>
+      <c id="ref324" level="file"/>
+      <c id="ref325" level="file"/>
+      <c id="ref326" level="file"/>
+      <c id="ref327" level="file"/>
+      <c id="ref328" level="file"/>
+      <c id="ref329" level="file"/>
+      <c id="ref330" level="file"/>
+      <c id="ref331" level="file"/>
+      <c id="ref332" level="file"/>
+      <c id="ref333" level="file"/>
+      <c id="ref334" level="file"/>
+      <c id="ref335" level="file"/>
+      <c id="ref336" level="file"/>
+      <c id="ref337" level="file"/>
+      <c id="ref338" level="file"/>
+      <c id="ref339" level="file"/>
+      <c id="ref340" level="file"/>
+    </c>
+    <c id="ref341" level="series">
+      <did>
+        <unittitle>Printed materials</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/584024</unitid>
+        <unitdate datechar="creation" type="inclusive">1908-2014, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_4414ba7965ff18b58a606b53a2e5439a">
+        <head>Scope and Contents</head>
+        <p>Comprises bulletins, yearbooks, and confirmation pamphlets that document Temple members and the congregation's celebrations of faith.</p>
+      </scopecontent>
+      <c id="ref342" level="subseries"/>
+      <c id="ref409" level="subseries"/>
+      <c id="ref448" level="subseries"/>
+    </c>
+    <c id="ref464" level="series">
+      <did>
+        <unittitle>Services and sermons</unittitle>
+        <unitid>Series V.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/587617</unitid>
+        <unitdate datechar="creation" type="inclusive">1917-2016, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_d00935c26c4c4541c135657170896832">
+        <head>Scope and Contents</head>
+        <p>Comprises programs, pamphlets, and transcriptions of TAI services and sermons.</p>
+      </scopecontent>
+      <c id="ref465" level="file"/>
+      <c id="ref466" level="file"/>
+      <c id="ref467" level="file"/>
+      <c id="ref468" level="file"/>
+      <c id="ref469" level="file"/>
+      <c id="ref470" level="file"/>
+      <c id="ref471" level="file"/>
+      <c id="ref472" level="file"/>
+      <c id="ref473" level="file"/>
+      <c id="ref474" level="file"/>
+      <c id="ref475" level="file"/>
+      <c id="ref476" level="file"/>
+      <c id="ref477" level="file"/>
+      <c id="ref478" level="file"/>
+      <c id="ref479" level="file"/>
+      <c id="ref480" level="file"/>
+      <c id="ref481" level="file"/>
+      <c id="ref482" level="file"/>
+      <c id="ref483" level="file"/>
+      <c id="ref484" level="file"/>
+      <c id="ref485" level="file"/>
+      <c id="ref486" level="file"/>
+      <c id="ref487" level="file"/>
+      <c id="ref488" level="file"/>
+      <c id="ref489" level="file"/>
+      <c id="ref490" level="file"/>
+      <c id="ref491" level="file"/>
+      <c id="ref492" level="file"/>
+      <c id="ref493" level="file"/>
+      <c id="ref494" level="file"/>
+      <c id="ref495" level="file"/>
+      <c id="ref496" level="file"/>
+      <c id="ref497" level="file"/>
+      <c id="ref498" level="file"/>
+      <c id="ref499" level="file"/>
+      <c id="ref500" level="file"/>
+      <c id="ref501" level="file"/>
+      <c id="ref502" level="file"/>
+      <c id="ref503" level="file"/>
+      <c id="ref504" level="file"/>
+      <c id="ref505" level="file"/>
+      <c id="ref506" level="file"/>
+      <c id="ref507" level="file"/>
+      <c id="ref508" level="file"/>
+      <c id="ref509" level="file"/>
+      <c id="ref510" level="file"/>
+      <c id="ref511" level="file"/>
+      <c id="ref512" level="file"/>
+      <c id="ref513" level="file"/>
+      <c id="ref514" level="file"/>
+      <c id="ref515" level="file"/>
+      <c id="ref516" level="file"/>
+      <c id="ref517" level="file"/>
+      <c id="ref518" level="file"/>
+      <c id="ref519" level="file"/>
+    </c>
+    <c id="ref520" level="series">
+      <did>
+        <unittitle>Photographs</unittitle>
+        <unitid>Series VI.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/599957</unitid>
+        <unitdate datechar="creation" type="inclusive">1941-2004, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_fa324528128042271203de2b7a289dd0">
+        <head>Scope and Contents</head>
+        <p>Comprises photographs of the Temple, TAI members, and students of the religious school. Also includes photographs of congregational ceremonies and school field trips.</p>
+      </scopecontent>
+      <c id="ref521" level="subseries"/>
+      <c id="ref527" level="subseries"/>
+      <c id="ref567" level="subseries"/>
+      <c id="ref622" level="subseries"/>
+      <c id="ref640" level="subseries"/>
+      <c id="ref645" level="subseries"/>
+      <c id="ref661" level="subseries"/>
+      <c id="ref676" level="subseries"/>
+      <c id="ref746" level="subseries"/>
+      <c id="ref747" level="subseries"/>
+      <c id="ref751" level="subseries"/>
+    </c>
+  </contents>
+</header>

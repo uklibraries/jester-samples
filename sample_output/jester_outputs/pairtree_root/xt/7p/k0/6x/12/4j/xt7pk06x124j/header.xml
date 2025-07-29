@@ -1,0 +1,266 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7pk06x124j</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7pk06x124j/data/2016ms050.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Walter Young papers (dated 1914-1947, undated; 0.46 cubic feet; 2 boxes) document Kentucky native Walter Young's military service in World War I as well as medals he received in the 1940s.</abstract>
+  <descriptive_summary>
+    <author>Jordan Connelly</author>
+    <title>Walter Young papers</title>
+    <source>Walter Young papers</source>
+    <unitdates>
+      <date>1914-1947, undated (inclusive)</date>
+    </unitdates>
+    <creator>Young, Walter Gleason</creator>
+    <extent>0.46 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Military decorations</subject>
+      <subject>World War, 1914-1918 -- Personal narratives, American.</subject>
+      <subject>World War, 1914-1918 -- Veterans -- Kentucky</subject>
+      <subject>World War, 1914-1918 -- Veterans -- United States.</subject>
+      <subject>Young, Walter Gleason</subject>
+    </subjects>
+    <prefercite>2016ms050 : [identification of item], Walter Young papers, 1914-1947, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Walter G. Young was born in Kentucky in 1895. He was 22 years old when he enlisted to serve in the military during World War I. He spent approximately nine months overseas as a member of Company I of the 355th Infantry. A week prior to the Armistice, he was injured while running messages for Battalion Headquarters, an incident that would later earn him a Purple Heart. Following the war, he returned to his prior occupation as a farmer, married, and had six daughters.</p><p>Source:</p><p>Walter G. Young Gets Purple Heart Medal for Military Merit, Leitchfield Gazette, 1940.
+      2016ms050 : Walter Young chapter from <title render="italic">A Soldier's Anthology</title>, Walter Young papers, 1914-1947, undated, University of Kentucky Special Collections Research Center.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Walter Young papers (dated 1914-1947, undated; .46 cubic feet; 2 boxes) document Kentucky native Walter Young's military service in World War I as well as medals he received in the 1940s. The collection comprises documents such as military papers (including induction and report orders), postcards to his mother and fiancée, and the Walter Young chapter in <title render="italic">A Soldier's Anthology</title> (by Denny Hart). The collection also includes a panoramic photograph of his unit, the 355th Infantry (1919) and 2 packages of recruit photographs from Camp Zachary Taylor. The collection also contains a number of objects, including 3 medals (such as a 1941 Purple Heart), 2 pins, and small objects (such as foreign currency, patches, patches, dog tags, field mess kit, knife, etc.).</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Walter Young chapter from <title render="italic">A Soldier's Anthology</title></unittitle>
+        <unitdate datechar="creation" type="inclusive">2014 November 11</unitdate>
+        <container id="aspace_09e115fd31d7e6292fc5c363659dd385" label="mixed materials" type="box">1</container>
+        <container id="aspace_993f632b1c82c8ebdb32603e0920b065" parent="aspace_09e115fd31d7e6292fc5c363659dd385" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Correspondence: postcards (2), soldiers' mail card (2), and Christmas card from France (1)</unittitle>
+        <unitdate datechar="creation" type="inclusive">1918 September 7, 1918 November 23, 1919 February 27, undated</unitdate>
+        <container id="aspace_0bfc02b60508ebc2a27f95d7c71aa957" label="mixed materials" type="box">1</container>
+        <container id="aspace_0299b53858fceb1964ad4da38ceb9a2d" parent="aspace_0bfc02b60508ebc2a27f95d7c71aa957" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Printed material</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_e8d96e1cdb419f0086e1649cc2b1f65e" label="mixed materials" type="box">1</container>
+        <container id="aspace_bf698b762a6e419168458f9c70df9656" parent="aspace_e8d96e1cdb419f0086e1649cc2b1f65e" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Military papers</unittitle>
+        <unitdate datechar="creation" type="inclusive">1931 April 15, 1947 September 2</unitdate>
+        <container id="aspace_43577c6d5d18d79424bd3603bbc9c646" label="mixed materials" type="box">1</container>
+        <container id="aspace_3ab6ebbebfaf3c0cbaccbaca66f98bc8" parent="aspace_43577c6d5d18d79424bd3603bbc9c646" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle>Military papers</unittitle>
+        <unitdate datechar="creation" type="inclusive">1917 May 5, 1918 March 9, 1918 May 6, 1918 June 24, undated</unitdate>
+        <container id="aspace_6de593d50ac93e7752bd4ec00caeb1de" label="mixed materials" type="box">1</container>
+        <container id="aspace_5987f4c0f3b94e3cf0d5a09037b86ad4" parent="aspace_6de593d50ac93e7752bd4ec00caeb1de" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle>Military papers</unittitle>
+        <unitdate datechar="creation" type="inclusive">1947 September 3, undated</unitdate>
+        <container id="aspace_d479fd0fdd6ad6791b180c1341794355" label="mixed materials" type="box">1</container>
+        <container id="aspace_971dbc263d75555b9f5f4edbfe5a2c93" parent="aspace_d479fd0fdd6ad6791b180c1341794355" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle>Photographs of Camp Zachary Taylor sent by Walter Young to his mother (Mrs. Isaac Compton Young) and girlfriend (Miss Olga Payton)</unittitle>
+        <unitdate datechar="creation" type="inclusive">1918 July 1</unitdate>
+        <container id="aspace_8c3866a746353db6603255944d1e432d" label="graphic materials" type="box">1</container>
+        <container id="aspace_5dd6a01c79cc0bb4c78332c6bc748728" parent="aspace_8c3866a746353db6603255944d1e432d" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref8" level="item">
+      <did>
+        <unittitle>4-18-S67G rifle round and .38 pistol round</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_ae0ade198eb6d10d2e1c29c38f2349b2" label="Realia" type="box">1</container>
+        <container id="aspace_e77e948453c1e111c09a3cf18d91ebd2" parent="aspace_ae0ade198eb6d10d2e1c29c38f2349b2" type="item">E-1</container>
+      </did>
+      <scopecontent id="aspace_ed2ef3ca433b16396193dada4e50ba81">
+        <head>Scope and Contents</head>
+        <p>Contains a 4-18-S67G rifle round and a .38 pistol round.</p>
+      </scopecontent>
+    </c>
+    <c id="ref9" level="item">
+      <did>
+        <unittitle>Foreign currency</unittitle>
+        <unitdate datechar="creation" type="inclusive">1914</unitdate>
+        <container id="aspace_1fb97fe83666a7845a0b0139e8d9bdfe" label="Realia" type="box">1</container>
+        <container id="aspace_72c9305606ee77df27f460ed193a1ee8" parent="aspace_1fb97fe83666a7845a0b0139e8d9bdfe" type="item">E-2</container>
+      </did>
+      <scopecontent id="aspace_d0f3d706d52394e6a5978f25f6387e31">
+        <head>Scope and Contents</head>
+        <p>Contains paper currency from Germany (2 Mark).</p>
+      </scopecontent>
+    </c>
+    <c id="ref10" level="item">
+      <did>
+        <unittitle>Coin collection</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_2cd1722d8bc54362eb4816a8ee4291bb" label="Realia" type="box">1</container>
+        <container id="aspace_ec1ee0b160e903276374a7cbc81b0cd6" parent="aspace_2cd1722d8bc54362eb4816a8ee4291bb" type="item">E-3</container>
+      </did>
+      <scopecontent id="aspace_93b34666f3469f3f13965570a2ff7692">
+        <head>Scope and Contents</head>
+        <p>Contains a coin collection comprised of 30 various coins from different years.</p>
+      </scopecontent>
+    </c>
+    <c id="ref11" level="item">
+      <did>
+        <unittitle>Coin necklace</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_9a1f4c21bca6c5bf607afe2037f02312" label="Realia" type="box">1</container>
+        <container id="aspace_9101737d4979c5cab322eeabd1115751" parent="aspace_9a1f4c21bca6c5bf607afe2037f02312" type="item">E-4</container>
+      </did>
+      <scopecontent id="aspace_eea442c8fead960c3ebfd596dd968d3e">
+        <head>Scope and Contents</head>
+        <p>Contains a travel coin necklace comprised of 5 coins. Coins are from various locations and years.</p>
+      </scopecontent>
+    </c>
+    <c id="ref12" level="item">
+      <did>
+        <unittitle>Buttons and ball round</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_5936f88f1c53e91b244336b680a4255f" label="Realia" type="box">1</container>
+        <container id="aspace_cd331f8523f2e76a7f2c43c7ca52aea3" parent="aspace_5936f88f1c53e91b244336b680a4255f" type="item">E-5</container>
+      </did>
+      <scopecontent id="aspace_53a543f560b7c2cdd60fd287df20db8f">
+        <head>Scope and Contents</head>
+        <p>Contains 2 buttons and 1 ball round.</p>
+      </scopecontent>
+    </c>
+    <c id="ref13" level="item">
+      <did>
+        <unittitle>Uniform patch and buttons</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_113971561b252ad4ed0e42a88d6a3ce3" label="Realia" type="box">1</container>
+        <container id="aspace_bbab93aa1574c704ebb53149116b93c9" parent="aspace_113971561b252ad4ed0e42a88d6a3ce3" type="item">E-6</container>
+      </did>
+      <scopecontent id="aspace_2df0ddbba7ea9a5918e3418d85d2fc19">
+        <head>Scope and Contents</head>
+        <p>Contains military patch and uniform buttons.</p>
+      </scopecontent>
+    </c>
+    <c id="ref14" level="item">
+      <did>
+        <unittitle>Dog tags</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_ada5e629045394912f88fef89560f5a9" label="Realia" type="box">1</container>
+        <container id="aspace_628395432a12025b105e66eb304e6e8a" parent="aspace_ada5e629045394912f88fef89560f5a9" type="item">E-7</container>
+      </did>
+      <scopecontent id="aspace_0f6a6ce5bfc9a6e0a3e0cf9829a9a7d3">
+        <head>Scope and Contents</head>
+        <p>Contains WWI dog tags.</p>
+      </scopecontent>
+    </c>
+    <c id="ref15" level="item">
+      <did>
+        <unittitle>Field knife</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_e63dc4e2fc26349ad5bb297c1e0890af" label="Realia" type="box">1</container>
+        <container id="aspace_0a2f2508b7b9b595c12b3a2235f050e8" parent="aspace_e63dc4e2fc26349ad5bb297c1e0890af" type="item">L-1</container>
+      </did>
+      <scopecontent id="aspace_021f8f83cbac752d4eb9af4b4adc8497">
+        <head>Scope and Contents</head>
+        <p>Contains a WWI field knife. It is engraved with Walter Young's initials.</p>
+      </scopecontent>
+    </c>
+    <c id="ref16" level="item">
+      <did>
+        <unittitle>Snuff container</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_2f352ca39c1f38513c54293d5c907790" label="Realia" type="box">1</container>
+        <container id="aspace_2660154424aaa9b877fb7d05bcd11095" parent="aspace_2f352ca39c1f38513c54293d5c907790" type="item">L-2</container>
+      </did>
+      <scopecontent id="aspace_d52bfc3b990e10842bb1756d45380f5f">
+        <head>Scope and Contents</head>
+        <p>Contains a WWI snuff container.</p>
+      </scopecontent>
+    </c>
+    <c id="ref17" level="item">
+      <did>
+        <unittitle>Purple Heart medal</unittitle>
+        <unitdate datechar="creation" type="inclusive">1941 March 6</unitdate>
+        <container id="aspace_a1960bfe4c80f4efca6fceef87b560c1" label="Realia" type="box">1</container>
+        <container id="aspace_4df284018bcf65f1405fb90426b22333" parent="aspace_a1960bfe4c80f4efca6fceef87b560c1" type="item">L-3</container>
+      </did>
+      <scopecontent id="aspace_3c4a864d9429b311c8ea715428c0101b">
+        <head>Scope and Contents</head>
+        <p>A Purple Heart medal awarded to Walter Young.</p>
+      </scopecontent>
+    </c>
+    <c id="ref18" level="item">
+      <did>
+        <unittitle>WWI Victory Medal</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_44d9c588782517b0aac6269e95d9c34f" label="Realia" type="box">1</container>
+        <container id="aspace_23a3d0e64b94457a1c7c9f9a0fb113ee" parent="aspace_44d9c588782517b0aac6269e95d9c34f" type="item">L-4</container>
+      </did>
+      <scopecontent id="aspace_cee5e8355d50b3e056c3328bd1d1f425">
+        <head>Scope and Contents</head>
+        <p>A WWI Victory Medal for the Meuse-Argonne Defensive Sector, awarded to Walter Young.</p>
+      </scopecontent>
+    </c>
+    <c id="ref19" level="item">
+      <did>
+        <unittitle>WWI Germany Occupation Medal</unittitle>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_15628d6a2315e7f9b7e52cbf56e72d10" label="Realia" type="box">1</container>
+        <container id="aspace_c0b021c74a5b7fa695b2b4e6557eed30" parent="aspace_15628d6a2315e7f9b7e52cbf56e72d10" type="item">L-5</container>
+      </did>
+      <scopecontent id="aspace_2f4c35aaba8ebfdadc4974748d8f805f">
+        <head>Scope and Contents</head>
+        <p>A WWI Germany Occupation Medal awarded to Walter Young.</p>
+      </scopecontent>
+    </c>
+    <c id="ref20" level="item">
+      <did>
+        <unittitle>Photograph of Company I, 355th Infantry Regiment on return from Germany</unittitle>
+        <unitdate datechar="creation" type="inclusive">1919</unitdate>
+        <materialspec id="aspace_b33fa678e2a839cdccf3868b9f6d0fca">Rolled photograph, extremely fragile.</materialspec>
+        <container id="aspace_35d792ab6146cb4e5af274dfb2ac1be2" label="graphic materials" type="box">2</container>
+        <container id="aspace_6acfc556644d91df1f4060d1892a95f0" parent="aspace_35d792ab6146cb4e5af274dfb2ac1be2" type="image">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

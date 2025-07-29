@@ -1,0 +1,74 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7vq814r82r</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7vq814r82r/data/2009ms132.0875.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The American Express World Cruise travel diary (dated 1923-1924; 0.07 cubic feet; 1 folder) comprises one diary that documents the experiences of a young man and his father on the S.S. Franconia during the Second Cruise Around the World hosted by American Express in late 1923 and early 1924.</abstract>
+  <descriptive_summary>
+    <author>Sarah Coblentz</author>
+    <title>Wade Hall Collection of American Letters: American Express World Cruise travel diary</title>
+    <source>Wade Hall Collection of American Letters: American Express World Cruise travel diary</source>
+    <unitdates>
+      <date>1923-1924 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.07 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</arrangement>
+    <subjects>
+      <subject>Diaries.</subject>
+      <subject>Diaries -- 20th century</subject>
+      <subject>Ocean travel</subject>
+      <subject>Travel.</subject>
+      <subject>Cruise ships</subject>
+      <subject>Hawaii</subject>
+      <subject>Japan -- Description and travel.</subject>
+      <subject>China.</subject>
+      <subject>Singapore</subject>
+      <subject>India</subject>
+      <subject>Tourism.</subject>
+      <subject>Parent and child.</subject>
+      <subject>American Express Company</subject>
+    </subjects>
+    <prefercite>2009ms132.0875: [identification of item], Wade Hall Collection of American Letters: American Express World Cruise travel diary, 1923-1924, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>No biographical information available on diary author.</p><p>The American Express Cruise Around the World was initiated in 1922 by the American Express Company to be the first ever continuous circumnavigation of the globe by a passenger liner. Its intention was to visit the waters first explored by Magellan's fleet during his circumnavigation of the globe some 400-years earlier. The initial voyage began on November 1922 and the company chartered Cunard's Laconia for the 130-day voyage. The Second Cruise Around the World, lasting from 1923 to 1924, chartered the Franconia, also from Cunard, and is the subject of this diary.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The American Express World Cruise travel diary (dated 1923-1924; 0.07 cubic feet; 1 folder) comprises one diary that documents the experiences of a young man and his father on the S.S. Franconia during the Second Cruise Around the World hosted by American Express in late 1923 and early 1924. The son writes occasionally in the diary, describing their stops in Hawaii, Japan, China, Singapore, and India. He writes about the weather, his thoughts on the landscape, learning about the different cultures, experiencing traditional ceremonies and festivals, touring historic sites and museums, and eating local cuisine. He also writes about his and his father's personal health, friends they make on the cruise and at various ports, celebrating holidays on the ship, and sailing through storms.</p><p>The American Express World Cruise travel diary collection is part of the Wade Hall Collection of American Letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>American Express World Cruise travel diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/787279</unitid>
+        <unitdate datechar="creation" type="inclusive">1923-1924</unitdate>
+        <container id="aspace_519e257229b7bd9a5f5db757633168ee" label="mixed materials" type="box">WH-105</container>
+        <container id="aspace_2007d3b3861501cce4997a3fd9761339" parent="aspace_519e257229b7bd9a5f5db757633168ee" type="folder">2</container>
+        <dao entityref="xt7vq814r82r_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

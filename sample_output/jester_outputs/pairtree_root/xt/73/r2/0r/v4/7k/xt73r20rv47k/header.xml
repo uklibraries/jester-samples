@@ -1,0 +1,84 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt73r20rv47k</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt73r20rv47k/data/M301.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The John Scott papers (dated 1821-1909; 0.05 cubic feet; 1 reel of microfilm) consist of microfilmed letters that document John Scott's time as pastor at the Baptist Church in Ghent, Kentucky, as well as the workings of the office of Stephen Burbridge during the Civil War.</abstract>
+  <descriptive_summary>
+    <author>Megan Mummey</author>
+    <title>John Scott papers</title>
+    <source>John Scott papers</source>
+    <unitdates>
+      <date>1821-1909 (inclusive)</date>
+    </unitdates>
+    <creator>Scott, John, 1767-1846</creator>
+    <extent>0.05 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject.</arrangement>
+    <subjects>
+      <subject>Baptists -- Kentucky.</subject>
+      <subject>Elections -- Kentucky.</subject>
+      <subject>Ghent (Ky.)</subject>
+      <subject>Kentucky -- History -- Civil War, 1861-1865</subject>
+      <subject>United States -- History -- Civil War, 1861-1865.</subject>
+      <subject>United States -- History -- Civil War, 1861-1865 -- African Americans</subject>
+      <subject>Scott, John, 1767-1846</subject>
+      <subject>Ghent Baptist Church (Ghent, Ky.)</subject>
+    </subjects>
+    <prefercite>M-301: [identification of item], John Scott papers, 1821-1909, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Reverend John Scott, son of William Scott, was born on May 8, 1767, in Londonderry, Ireland. John Scott worked as a surveyor and owned large tracts of land in Carrol, Grant, and Owen Counties in Kentucky. He was married three times: Jane Sneed, Mary Bailey Whitehead, and Marcia Alexander. He married Jane Sneed on December 12, 1795; they had ten children, including Harriet, William Alfred, Samuel Sneed, Robert Miller, Elizabeth M., John Taylor, Mariah Ann Sneed, Melissa Jane, James Blanton, and Benjamin Sneed Scott. </p><p>In addition to surveying, John Scott was a Baptist pastor. He served as the pastor for 30 years at New Liberty Church (1803-1833) in Owen County. He also served as the pastor at Ghent Baptist Church from 1833 until his death in 1846. </p><p>Sources:
+      <emph render="doublequote">John Scott</emph>, Find A Grave, https://www.findagrave.com/memorial/22768845/john-scott [accessed May 11, 2023]</p><p>Perrin, W.H., J.H. Battle, and G.C. Kniffen. <title render="italic">Kentucky a History of the State</title>. Louisville, Ky.: F.A. Battey, p. 1753.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The John Scott papers (dated 1821-1909; 0.05 cubic feet; 1 reel of microfilm) consist of microfilmed letters that document John Scott's time as pastor at the Baptist Church in Ghent, Kentucky, as well as the workings of the office of Stephen Burbridge during the Civil War. The John Scott letters primarily relate to religious matters, land transactions and the opening of the ferry at Ghent</p><p>Additional letters in the collection relate to the office of Union General, Stephen Burbridge, during the Civil War. The letters pertain to the recruitment of African American soldiers and political activities of the military in Kentucky during and directly after the Civil War. Notable items include an 1865 letter to General Burbridge marked confidential criticizing General James S. Brisbin, claiming he <emph render="doublequote">recognized in an official act the power of a master over slaves</emph> by arresting Black men working for the army and having them work under a written contract benefitting the enslaver. Another 1865 letter and accompanying affidavits describe alleged election interference by J.J. Craddock during the 1864 election in Franklin County, Kentucky. </p><p>Additionally, the collection contains some assorted correspondence as well as legal and financial documents for the Perry and Gex families of Kentucky in the late 19th and early 20th centuries.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>John Scott correspondence</unittitle>
+        <container id="aspace_2199764859222a5f47578def412f7c1e" label="Microform" type="reel">1</container>
+        <container id="aspace_14a62619afefa8ed7783fdbb6a9a5248" parent="aspace_2199764859222a5f47578def412f7c1e" type="frame">1-54</container>
+        <dao entityref="xt73r20rv47k_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Civil War records from the office of Stephen Burbridge</unittitle>
+        <container id="aspace_acb4733d8a02530dc4312d0f24b90f56" label="Microform" type="reel">1</container>
+        <container id="aspace_9d7b900dc8d226ce69fdcfe5a143c3fe" parent="aspace_acb4733d8a02530dc4312d0f24b90f56" type="frame">55-80</container>
+        <dao entityref="xt73r20rv47k_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Assorted items</unittitle>
+        <container id="aspace_1476c6a95558c9b8c6d7f64e2d3cad9d" label="Microform" type="reel">1</container>
+        <container id="aspace_a33993b37ab4ecc16c43253f851eeb7d" parent="aspace_1476c6a95558c9b8c6d7f64e2d3cad9d" type="frame">81-103</container>
+        <dao entityref="xt73r20rv47k_3_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

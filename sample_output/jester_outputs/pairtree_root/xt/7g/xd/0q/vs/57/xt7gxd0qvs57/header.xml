@@ -1,0 +1,311 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7gxd0qvs57</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7gxd0qvs57/data/2023ms016.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Bluegrass Organic and Consumer Association, Inc., records (dated 1970-2021; 0.8 cubic feet; 3 boxes) comprise bulletins, newsletters, correspondence, notes, publications, newspaper clippings, and cassette tapes that document the work of the Bluegrass Organic and Consumer Association, Inc.</abstract>
+  <descriptive_summary>
+    <author>Ash Pechon</author>
+    <title>Bluegrass Organic and Consumer Association, Inc. records</title>
+    <source>Bluegrass Organic and Consumer Association, Inc. records</source>
+    <unitdates>
+      <date>1970-2021 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.8 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject.</arrangement>
+    <subjects>
+      <subject>Food cooperatives</subject>
+      <subject>Organic gardening</subject>
+      <subject>Health</subject>
+      <subject>Nutrition</subject>
+      <subject>Bluegrass Organic and Consumer Association, Inc. (1971-1976)</subject>
+      <subject>Cateforis, Mary-Ann</subject>
+    </subjects>
+    <prefercite>2023ms016: [identification of item], Bluegrass Organic and Consumer Association, Inc. records, 1970-2021, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Bluegrass Organic and Consumers Association, Inc. (BOCA), was chartered by the Commonwealth of Kentucky on January 20, 1972. BOCA was an organization of citizens joined in an endeavor to educate both its members and the general public about the advantages of organic farming techniques in raising good supplies for human consumption.  The group hoped that, through education, consumers would choose food raised according to natural and organic principles. Any environmental of consumer situation which affected those food supplies was a concern for BOCA members. The Good Foods Co-Op in Lexington, Kentucky was built out of BOCA.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Bluegrass Organic and Consumer Association, Inc., records (dated 1970-2021; 0.8 cubic feet; 3 boxes) comprise bulletins, newsletters, correspondence, notes, publications, newspaper clippings, and cassette tapes that document the work of the Bluegrass Organic and Consumer Association, Inc.  This collection contains the majority of the Bluegrass Organic and Consumer Association's bulletins from the time of its founding in 1971 through its dissolution in 1976.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>BOCA bulletins</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945096</unitid>
+        <unitdate datechar="creation">1971</unitdate>
+        <container id="aspace_67a9017d5c7ceecadf60cf19125d7ac4" label="mixed materials" type="box">1</container>
+        <container id="aspace_d0ff200b5a1b7b2f84afb25673cdc3e6" parent="aspace_67a9017d5c7ceecadf60cf19125d7ac4" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>BOCA bulletins</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945097</unitid>
+        <unitdate datechar="creation">1972</unitdate>
+        <container id="aspace_44826cf7450394cd0bcb76887cf36f40" label="mixed materials" type="box">1</container>
+        <container id="aspace_2a5aef3e9cac1f979274f08640fd3516" parent="aspace_44826cf7450394cd0bcb76887cf36f40" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>BOCA bulletins</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945098</unitid>
+        <unitdate datechar="creation">1973</unitdate>
+        <container id="aspace_3b4de99b249346136bfd2b146cd54c8b" label="mixed materials" type="box">1</container>
+        <container id="aspace_8050a7972f6bef9524e4b64bf4dc7bdf" parent="aspace_3b4de99b249346136bfd2b146cd54c8b" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>BOCA bulletins</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945099</unitid>
+        <unitdate datechar="creation">1974</unitdate>
+        <container id="aspace_841311b6d96f70c86f1bdaa2be628e3c" label="mixed materials" type="box">1</container>
+        <container id="aspace_b7ca766d46023d5f5b2912b44b931700" parent="aspace_841311b6d96f70c86f1bdaa2be628e3c" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle>BOCA bulletins</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945100</unitid>
+        <unitdate datechar="creation">1975</unitdate>
+        <container id="aspace_805254177a6938569c3b580e65a1fc72" label="mixed materials" type="box">1</container>
+        <container id="aspace_46846d1039ad85c7a264c8f27c14ae71" parent="aspace_805254177a6938569c3b580e65a1fc72" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle>BOCA bulletins</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945101</unitid>
+        <unitdate datechar="creation" type="inclusive">1976-1977</unitdate>
+        <container id="aspace_f7bde8b9632ea151aa0202fc16abfe6e" label="mixed materials" type="box">1</container>
+        <container id="aspace_884e90b386d523b0889c201ce065b966" parent="aspace_f7bde8b9632ea151aa0202fc16abfe6e" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle>BOCA bylaws and membership</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945102</unitid>
+        <unitdate datechar="creation">1971</unitdate>
+        <container id="aspace_9c25b0c029710b42356c99c23071ac5b" label="mixed materials" type="box">1</container>
+        <container id="aspace_d3e2ccfdbbd928e6cb84435ff06ccba2" parent="aspace_9c25b0c029710b42356c99c23071ac5b" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref8" level="file">
+      <did>
+        <unittitle>BOCA notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945103</unitid>
+        <unitdate datechar="creation" type="inclusive">1970-1973</unitdate>
+        <container id="aspace_6ba53363ad63a614b80fbe9619a6792f" label="mixed materials" type="box">1</container>
+        <container id="aspace_3c3d1583acab930956a919ab3692991e" parent="aspace_6ba53363ad63a614b80fbe9619a6792f" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref9" level="file">
+      <did>
+        <unittitle>BOCA clippings</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945104</unitid>
+        <unitdate datechar="creation" type="inclusive">1971-1977</unitdate>
+        <container id="aspace_8e96970d5e4c4678283357e64830e72c" label="mixed materials" type="box">1</container>
+        <container id="aspace_6851b48473572ea8aee19d952e9bb85b" parent="aspace_8e96970d5e4c4678283357e64830e72c" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref10" level="file">
+      <did>
+        <unittitle>BOCA lecture notes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945105</unitid>
+        <unitdate datechar="creation" type="inclusive">1971-1973</unitdate>
+        <container id="aspace_a25f6104b026ed3f78c660f1bed0d26d" label="mixed materials" type="box">1</container>
+        <container id="aspace_291902d1cf68ac0b3988f6b0b8f8050c" parent="aspace_a25f6104b026ed3f78c660f1bed0d26d" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref11" level="file">
+      <did>
+        <unittitle>BOCA publications</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945106</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_bff18552d0712363c500251c365c3b4b" label="mixed materials" type="box">1</container>
+        <container id="aspace_4e2a3917830b45ad3ee137eed7fa7a47" parent="aspace_bff18552d0712363c500251c365c3b4b" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref12" level="file">
+      <did>
+        <unittitle>BOCA correspondence</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945107</unitid>
+        <unitdate datechar="creation" type="inclusive">1971-1977</unitdate>
+        <container id="aspace_2986fc45e00926bb6ecc876d4bea8879" label="mixed materials" type="box">1</container>
+        <container id="aspace_eb512cef6d126d6e8304af5b2334db96" parent="aspace_2986fc45e00926bb6ecc876d4bea8879" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref13" level="file">
+      <did>
+        <unittitle>Mary-Ann Cateforis correspondence to family</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945108</unitid>
+        <unitdate datechar="creation" type="inclusive">1970-1973</unitdate>
+        <container id="aspace_fb9491bb3f5bf3e079db9f047f2308ae" label="mixed materials" type="box">1</container>
+        <container id="aspace_2aa8b100d7aed046b71302613c075334" parent="aspace_fb9491bb3f5bf3e079db9f047f2308ae" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref14" level="file">
+      <did>
+        <unittitle>Susan Barlow</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945109</unitid>
+        <unitdate datechar="creation" type="inclusive">1971-2021</unitdate>
+        <container id="aspace_3eaee0c31ab3314713ae2c97c955ed32" label="mixed materials" type="box">2</container>
+        <container id="aspace_5fcc21da3f6e2d5d405f72c1a9f42757" parent="aspace_3eaee0c31ab3314713ae2c97c955ed32" type="folder">1</container>
+      </did>
+    </c>
+    <c id="ref15" level="file">
+      <did>
+        <unittitle>Town Talk interview</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945110</unitid>
+        <unitdate datechar="creation">1972</unitdate>
+        <container id="aspace_a584a346ec1b0d7936d8246c456c3fe1" label="mixed materials" type="box">2</container>
+        <container id="aspace_b8252c6dfe5574ac8946f76f00864f62" parent="aspace_a584a346ec1b0d7936d8246c456c3fe1" type="folder">2</container>
+      </did>
+    </c>
+    <c id="ref16" level="file">
+      <did>
+        <unittitle>Cassette tapes</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945111</unitid>
+        <unitdate datechar="creation" type="inclusive">1972-1976</unitdate>
+        <container id="aspace_cc1b4c43e6f2578e30f07d40cdd01564" label="Audio" type="box">2</container>
+        <container id="aspace_d7c2bc5d5291719c0384ea69a02ce037" parent="aspace_cc1b4c43e6f2578e30f07d40cdd01564" type="folder">3</container>
+      </did>
+    </c>
+    <c id="ref17" level="file">
+      <did>
+        <unittitle>Food safety and nutrition clippings</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945112</unitid>
+        <unitdate datechar="creation" type="inclusive">1970-1977</unitdate>
+        <container id="aspace_1d20ed1f95ac363a6bad4f6cd289a2a9" label="mixed materials" type="box">2</container>
+        <container id="aspace_5cfce20cc66d1cf7ddc7b576a2d2b2d9" parent="aspace_1d20ed1f95ac363a6bad4f6cd289a2a9" type="folder">4</container>
+      </did>
+    </c>
+    <c id="ref18" level="file">
+      <did>
+        <unittitle>Health, environment, and land clippings</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945113</unitid>
+        <unitdate datechar="creation" type="inclusive">1972-2017</unitdate>
+        <container id="aspace_b2653b27405ba524328c3146b9b1c08f" label="mixed materials" type="box">2</container>
+        <container id="aspace_f630a310bc3c6febfdf10b66110b7154" parent="aspace_b2653b27405ba524328c3146b9b1c08f" type="folder">5</container>
+      </did>
+    </c>
+    <c id="ref19" level="file">
+      <did>
+        <unittitle>Gardening circulars and catalogues</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945114</unitid>
+        <unitdate datechar="creation">undated</unitdate>
+        <container id="aspace_16eb2f94190e586bcd16f56f8ad8da51" label="mixed materials" type="box">2</container>
+        <container id="aspace_b32ec44fb20c9358e1a23f8fa1078d54" parent="aspace_16eb2f94190e586bcd16f56f8ad8da51" type="folder">6</container>
+      </did>
+    </c>
+    <c id="ref20" level="file">
+      <did>
+        <unittitle>Food/diet publications and circulars</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945115</unitid>
+        <unitdate datechar="creation" type="inclusive">1971-1980</unitdate>
+        <container id="aspace_bbd07703c4fb9bc26c158d89f35a9735" label="mixed materials" type="box">2</container>
+        <container id="aspace_a2b8f2f00fc3beb40955311ccde85fd5" parent="aspace_bbd07703c4fb9bc26c158d89f35a9735" type="folder">7</container>
+      </did>
+    </c>
+    <c id="ref21" level="file">
+      <did>
+        <unittitle>Unexplored Fields of Soil Science paper</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945116</unitid>
+        <unitdate datechar="creation">1965</unitdate>
+        <container id="aspace_125fc41b0e4928c4b997d3a72292eb6f" label="mixed materials" type="box">2</container>
+        <container id="aspace_7138ecc50791942752b89d97f39bf67e" parent="aspace_125fc41b0e4928c4b997d3a72292eb6f" type="folder">8</container>
+      </did>
+    </c>
+    <c id="ref22" level="file">
+      <did>
+        <unittitle>Martha R. Jones</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945117</unitid>
+        <unitdate datechar="creation" type="inclusive">1962-1972</unitdate>
+        <container id="aspace_84000026ca12a0bdd91333c6c1bb9f0e" label="mixed materials" type="box">2</container>
+        <container id="aspace_f047a460638938f9b0db3f90a669a463" parent="aspace_84000026ca12a0bdd91333c6c1bb9f0e" type="folder">9</container>
+      </did>
+    </c>
+    <c id="ref23" level="file">
+      <did>
+        <unittitle>Good Foods Co-Op</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945118</unitid>
+        <unitdate datechar="creation" type="inclusive">1972-2014</unitdate>
+        <container id="aspace_bc7825aaaa3302431b60c8bd1fe91368" label="mixed materials" type="box">2</container>
+        <container id="aspace_ec5265f17fd8e5201208e8289398c26c" parent="aspace_bc7825aaaa3302431b60c8bd1fe91368" type="folder">10</container>
+      </did>
+    </c>
+    <c id="ref24" level="file">
+      <did>
+        <unittitle>Food Action Committee newsletters</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945119</unitid>
+        <unitdate datechar="creation">1971</unitdate>
+        <container id="aspace_91c73fd3913dbc77a0b195b5db9b04b0" label="mixed materials" type="box">2</container>
+        <container id="aspace_9349eef94500403a9f9cfcf5b62896f8" parent="aspace_91c73fd3913dbc77a0b195b5db9b04b0" type="folder">11</container>
+      </did>
+    </c>
+    <c id="ref25" level="file">
+      <did>
+        <unittitle>Organic Gardening Club</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945120</unitid>
+        <unitdate datechar="creation" type="inclusive">1972-1973</unitdate>
+        <container id="aspace_37d102d2f3ce7e8e00ad9f784f5c1684" label="mixed materials" type="box">2</container>
+        <container id="aspace_b550c8ae2ec3c98a0018aaf278746484" parent="aspace_37d102d2f3ce7e8e00ad9f784f5c1684" type="folder">12</container>
+      </did>
+    </c>
+    <c id="ref26" level="file">
+      <did>
+        <unittitle>Federation of Homemakers</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945121</unitid>
+        <unitdate datechar="creation" type="inclusive">1970-1985</unitdate>
+        <container id="aspace_5252556d771db2b3855f03323232d459" label="mixed materials" type="box">2</container>
+        <container id="aspace_cbb9f24317c81a7d1136daeb9497f9db" parent="aspace_5252556d771db2b3855f03323232d459" type="folder">13</container>
+      </did>
+    </c>
+    <c id="ref27" level="file">
+      <did>
+        <unittitle>Cartoon clippings</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945124</unitid>
+        <unitdate datechar="creation" type="inclusive">1972-2019</unitdate>
+        <container id="aspace_860fa6d4252da637ea9c503cf1c5c264" label="mixed materials" type="box">2</container>
+        <container id="aspace_0a5bf68199db781080a7b50f93459407" parent="aspace_860fa6d4252da637ea9c503cf1c5c264" type="folder">14</container>
+        <container id="aspace_ae6d30eabafe127080db2acbae75c691" label="mixed materials" type="box">3</container>
+        <container id="aspace_138d3fab07a57c4366beb85562097ff5" parent="aspace_ae6d30eabafe127080db2acbae75c691" type="folder">1-3</container>
+      </did>
+    </c>
+    <c id="ref28" level="file">
+      <did>
+        <unittitle>Bluegrass Cooperative Nursery School</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/945122</unitid>
+        <unitdate datechar="creation">1971</unitdate>
+        <container id="aspace_bdc02ffe952ff5070a1a213352e79994" label="mixed materials" type="box">2</container>
+        <container id="aspace_300bb5f94c1bb021ac9095523fbf35ea" parent="aspace_bdc02ffe952ff5070a1a213352e79994" type="folder">15</container>
+      </did>
+    </c>
+  </contents>
+</header>

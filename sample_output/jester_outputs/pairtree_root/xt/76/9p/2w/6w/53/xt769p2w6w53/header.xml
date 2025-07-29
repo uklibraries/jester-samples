@@ -1,0 +1,99 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt769p2w6w53</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt769p2w6w53/data/2022ms063.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Kentucky Quilt Project, Inc. Why Quilts Matter: History, Art, and Politics documentary records (dated 1994-2023, bulk 2007-2013; 4 cubic feet; 4 boxes; 418.6 Gigabytes, 3,006 digital files) comprise letters, emails, scripts, transcripts, meeting notes, reference materials, budgets, digital images, digital videos, promotional releases, and planning materials that document the production and distribution of this nine-episode quilt documentary series.</abstract>
+  <descriptive_summary>
+    <author>Andrew McDonnell</author>
+    <title>The Kentucky Quilt Project, Inc. &quot;Why Quilts Matter: History, Art, and Politics&quot; documentary records</title>
+    <source>The Kentucky Quilt Project, Inc. &quot;Why Quilts Matter: History, Art, and Politics&quot; documentary records</source>
+    <unitdates>
+      <date>1994-2023 (inclusive)</date>
+      <date>2007-2013 (bulk)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>4 Cubic Feet</extent>
+    <arrangement>Collection is arranged by subject and format into four series: financial and distribution records, production materials, publicity and marketing, and videos. Each series is divided into a physical and digital sub-series, except for videos, which comprises primarily digital video files and digital tapes.</arrangement>
+    <subjects>
+      <subject>Art, American -- History</subject>
+      <subject>Documentary films</subject>
+      <subject>Folk art</subject>
+      <subject>Quilts</subject>
+      <subject>Video recordings</subject>
+      <subject>Kentucky Quilt Project</subject>
+      <subject>Zegart, Shelly, 1941-</subject>
+    </subjects>
+    <prefercite>2022ms063 : [identification of item], The Kentucky Quilt Project, inc. Why Quilts Matter: History, Art, and Politics documentary records, 1994-2023, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical Note</head>
+      <p><title render="italic">Why Quilts Matter: History, Art and Politics</title> is a documentary series chronicling the role of quilts in multiple facets of American life, history, and culture. The documentary is a nine-part series produced by The Kentucky Quilt Project, Inc. and first broadcast by Kentucky Educational Television (KET) in 2011. It eventually aired on over 200 PBS stations and was also distributed as a two-disc DVD box set. The series was hosted and executive produced by Shelly Zegart, a founding director of The Kentucky Quilt Project, Inc. and The Alliance for American Quilts. The documentary was written by Ann E. Berman and produced by Doug Jefferson.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Kentucky Quilt Project, Inc. <title render="italic">Why Quilts Matter: History, Art, and Politics</title> documentary records (dated 1994-2023, bulk 2007-2013; 4 cubic feet; 4 boxes; 418.6 Gigabytes, 3,006 digital files) comprise letters, emails, scripts, transcripts, meeting notes, reference materials, budgets, digital images, digital videos, promotional releases, and planning materials that document the production and distribution of this nine-episode quilt documentary series. </p><p>Correspondence throughout is between executive producer Shelly Zegart and colleagues, contractors, interview subjects, and donors at every stage of the documentary's planning, creation, and release. The financial and distribution records series includes budgets, fundraising materials, sales logs, and distribution agreements with broadcast partners and vendors. The production series contains meeting notes, digital images, reference materials, transcripts, shooting schedules, and other planning documents created during production of the documentary. The promotion and marketing series contains correspondence, advertising materials, event and exhibit planning, digital and physical outreach materials, and an archived copy of the documentary's website.</p><p>Digital videos in the collection include copies of full episodes in multiple formats as well as bonus footage and promotional shorts.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Financial and distribution records</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968643</unitid>
+        <unitdate datechar="creation" normal="1994/2021" type="inclusive">1994-2021</unitdate>
+      </did>
+      <c id="ref2" level="subseries"/>
+      <c id="ref26" level="subseries"/>
+    </c>
+    <c id="ref29" level="series">
+      <did>
+        <unittitle>Production materials</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968646</unitid>
+        <unitdate datechar="creation" normal="2003/2014" type="inclusive">2003-2014</unitdate>
+      </did>
+      <c id="ref30" level="subseries"/>
+      <c id="ref62" level="subseries"/>
+    </c>
+    <c id="ref65" level="series">
+      <did>
+        <unittitle>Promotion and marketing</unittitle>
+        <unitid>Series III.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968649</unitid>
+        <unitdate datechar="creation" normal="2009/2023" type="inclusive">2009-2023</unitdate>
+      </did>
+      <c id="ref66" level="subseries"/>
+      <c id="ref101" level="subseries"/>
+    </c>
+    <c id="ref106" level="series">
+      <did>
+        <unittitle>Videos</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/968651</unitid>
+        <unitdate datechar="creation" normal="2006/2012" type="inclusive">2006-2012</unitdate>
+      </did>
+      <c id="ref107" level="subseries"/>
+      <c id="ref111" level="subseries"/>
+    </c>
+  </contents>
+</header>

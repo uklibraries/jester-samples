@@ -1,0 +1,190 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt75hq3rz205</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt75hq3rz205/data/2017ms057.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Thoreau Club (Lebanon, Ky.) records (dated 1895-2018, undated, 1.8 cubic feet; 6 boxes) primarily comprise meeting minutes, member lists, programs and invitations, cards and correspondence, books, pamphlets, and photographs created and collected by the Lebanon, Kentucky women's literary club, founded in 1895.</abstract>
+  <descriptive_summary>
+    <author>Kaitlyn Moran</author>
+    <title>Thoreau Club (Lebanon, Ky.) records</title>
+    <source>Thoreau Club (Lebanon, Ky.) records</source>
+    <unitdates>
+      <date>1895-2018, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>1.8 Cubic Feet</extent>
+    <arrangement>Collection is arranged into five series by format.</arrangement>
+    <subjects>
+      <subject>Lebanon (Ky.)</subject>
+      <subject>Literature -- Societies, etc.</subject>
+      <subject>Minutes (Records)</subject>
+      <subject>Women -- Kentucky -- History -- 20th century</subject>
+      <subject>Women -- Kentucky -- Societies and clubs</subject>
+      <subject>Thoreau Club (Lebanon, Ky.)</subject>
+    </subjects>
+    <prefercite>2017ms057: [identification of item], Thoreau Club (Lebanon, Ky.) records, 1895-2018, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Thoreau Club of Lebanon, Kentucky, founded in 1895 by Lucy Cleaver McElroy, Lite Montgomery, Minnie McElroy, and Mamie Cleaver. Named after Henry David Thoreau because the founding members wanted it to be named after an outstanding American author, the object of the club is <emph render="italic">the mutual improvement of its members in literature, art, science, and the vital interests of the day</emph>. It is the oldest literary club in Kentucky.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Thoreau Club (Lebanon, Ky.) records (dated 1895-2018, undated; 1.8 cubic feet; 6 boxes) primarily comprise meeting minutes, member lists, programs and invitations, cards and correspondence, books, pamphlets, and photographs created and collected by the Lebanon, Kentucky women's literary club, founded in 1895.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Records</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">1895-2018</unitdate>
+      </did>
+      <scopecontent id="aspace_6f7efc64fab7810ec32978d0ee93be2d">
+        <head>Scope and Contents</head>
+        <p>The Records series (dated 1895-2018) comprises meeting minutes and a roll call book created by the Thoreau Club of Lebanon, Kentucky.</p>
+      </scopecontent>
+      <c id="ref2" level="file"/>
+      <c id="ref3" level="file"/>
+      <c id="ref4" level="file"/>
+      <c id="ref5" level="file"/>
+      <c id="ref6" level="file"/>
+      <c id="ref7" level="file"/>
+      <c id="ref8" level="item"/>
+      <c id="ref9" level="file"/>
+      <c id="ref10" level="file"/>
+      <c id="ref11" level="file"/>
+      <c id="ref12" level="file"/>
+      <c id="ref13" level="file"/>
+      <c id="ref14" level="file"/>
+      <c id="ref15" level="file"/>
+      <c id="ref16" level="file"/>
+      <c id="ref17" level="file"/>
+      <c id="ref18" level="file"/>
+    </c>
+    <c id="ref19" level="series">
+      <did>
+        <unittitle>Club materials</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1898-2017</unitdate>
+      </did>
+      <scopecontent id="aspace_530d3f072e9e362d8270cf1dcb3bf7d9">
+        <head>Scope and Contents</head>
+        <p>The Club materials series (dated 1898-2017) comprises Thoreau Club notes, programs, member lists, biographies, resignation letters, and speeches created by the Thoreau Club of Lebanon, Kentucky.</p>
+      </scopecontent>
+      <c id="ref20" level="file"/>
+      <c id="ref21" level="file"/>
+      <c id="ref22" level="file"/>
+      <c id="ref23" level="file"/>
+      <c id="ref24" level="file"/>
+      <c id="ref25" level="file"/>
+      <c id="ref26" level="file"/>
+      <c id="ref27" level="file"/>
+      <c id="ref28" level="file"/>
+      <c id="ref29" level="file"/>
+      <c id="ref30" level="file"/>
+      <c id="ref31" level="file"/>
+      <c id="ref32" level="file"/>
+      <c id="ref33" level="file"/>
+      <c id="ref34" level="file"/>
+      <c id="ref35" level="file"/>
+      <c id="ref36" level="file"/>
+      <c id="ref37" level="file"/>
+      <c id="ref38" level="file"/>
+      <c id="ref39" level="file"/>
+      <c id="ref40" level="file"/>
+      <c id="ref41" level="file"/>
+      <c id="ref42" level="file"/>
+      <c id="ref43" level="file"/>
+      <c id="ref44" level="file"/>
+      <c id="ref45" level="file"/>
+    </c>
+    <c id="ref46" level="series">
+      <did>
+        <unittitle>Publications</unittitle>
+        <unitid>Series III.</unitid>
+        <unitdate datechar="creation" type="inclusive">1928-2005, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_bb34e55968ee11ba7e7c76e7fc38e230">
+        <head>Scope and Contents</head>
+        <p>The Publications series (dated 1928-2005) comprises pamphlets, booklets, and stories gathered by the Thoreau Club of Lebanon, Kentucky.</p>
+      </scopecontent>
+      <c id="ref47" level="file"/>
+      <c id="ref48" level="file"/>
+      <c id="ref49" level="file"/>
+      <c id="ref50" level="file"/>
+      <c id="ref51" level="file"/>
+      <c id="ref52" level="file"/>
+      <c id="ref53" level="file"/>
+      <c id="ref54" level="file"/>
+      <c id="ref55" level="file"/>
+      <c id="ref56" level="file"/>
+      <c id="ref57" level="file"/>
+      <c id="ref58" level="file"/>
+      <c id="ref59" level="file"/>
+      <c id="ref60" level="file"/>
+    </c>
+    <c id="ref61" level="series">
+      <did>
+        <unittitle>Subject files</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitdate datechar="creation" type="inclusive">1949-2017, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_bbea702de6cb201efda3d940ba07ce1d">
+        <head>Scope and Contents</head>
+        <p>The Subject files series (dated 1949-2017) comprises papers gathered and created by the Thoreau Club of Lebanon, Kentucky.</p>
+      </scopecontent>
+      <c id="ref62" level="file"/>
+      <c id="ref63" level="file"/>
+      <c id="ref64" level="file"/>
+      <c id="ref65" level="file"/>
+      <c id="ref66" level="file"/>
+      <c id="ref67" level="file"/>
+      <c id="ref68" level="file"/>
+    </c>
+    <c id="ref69" level="series">
+      <did>
+        <unittitle>Photographs</unittitle>
+        <unitid>Series V.</unitid>
+        <unitdate datechar="creation" type="inclusive">1982-2015, undated</unitdate>
+      </did>
+      <scopecontent id="aspace_31b7dd503ce87c65b629de7f85e94e17">
+        <head>Scope and Contents</head>
+        <p>The Photographs series (dated 1982-2015, undated) comprises photographs and postcards gathered and created by the Thoreau Club of Lebanon, Kentucky.</p>
+      </scopecontent>
+      <c id="ref70" level="file"/>
+      <c id="ref75" level="item"/>
+      <c id="ref76" level="item"/>
+      <c id="ref77" level="item"/>
+      <c id="ref78" level="item"/>
+      <c id="ref79" level="item"/>
+      <c id="ref80" level="item"/>
+      <c id="ref81" level="item"/>
+      <c id="ref82" level="item"/>
+      <c id="ref83" level="item"/>
+      <c id="ref84" level="item"/>
+      <c id="ref85" level="item"/>
+      <c id="ref86" level="item"/>
+      <c id="ref87" level="item"/>
+    </c>
+  </contents>
+</header>

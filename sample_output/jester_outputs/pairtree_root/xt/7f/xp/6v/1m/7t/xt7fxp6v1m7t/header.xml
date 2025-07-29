@@ -1,0 +1,65 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7fxp6v1m7t</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7fxp6v1m7t/data/2023ms048.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Mary E. Van Meter diary (dated 1862-1863; 0.05 cubic feet; 1 folder) comprises one diary that documents Mary E. Van Meter's journey from Bowling Green, Kentucky, to Tennessee in February 1862, as Union forces approached the city.</abstract>
+  <descriptive_summary>
+    <author>Kaylee McMunn</author>
+    <title>Mary E. Van Meter diary</title>
+    <source>Mary E. Van Meter diary</source>
+    <unitdates>
+      <date>1862-1863 (inclusive)</date>
+    </unitdates>
+    <creator>Van Meter, Mary E., 1828-1893</creator>
+    <extent>0.05 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Diaries -- 19th Century.</subject>
+      <subject>United States -- History -- Civil War, 1861-1865 -- Personal narratives</subject>
+      <subject>Kentucky -- History -- Civil War, 1861-1865</subject>
+      <subject>Van Meter family</subject>
+      <subject>Van Meter, Mary E., 1828-1893</subject>
+    </subjects>
+    <prefercite>2023ms048: [identification of item], Mary E. Van Meter diary, 1862-1863, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Mary E. (Shrewsbury) Van Meter (1828-1893) was married to William Steele Van Meter, a wealthy Commission Merchant in Bowling Green Kentucky. His father, Jacob Van Meter, owned approximately 5000 acres of farmland in the area and engaged in mercantile pursuits.  When Union troops approached Bowling Green in February 1862, Mary, William, and her brother-in-law Charles, along with several of their enslaved persons, fled across the Kentucky border into Tennessee. After the Civil War, William and his brother Charles owned and operated a hotel at Grayson Springs in Kentucky.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Mary E. Van Meter diary (dated 1862-1863; 0.05 cubic feet; 1 folder) comprises one diary that documents Mary E. Van Meter's journey from Bowling Green, Kentucky, to Tennessee in February 1862, as Union forces approached the city. The diary recounts her family's flight across the Kentucky-Tennessee border with their enslaved persons. The diary also includes Mary's descriptions of and reaction to returning to Kentucky in February 1863.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Mary E. Van Meter diary</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/948802</unitid>
+        <unitdate datechar="creation" normal="1862/1863" type="inclusive">1862-1863</unitdate>
+        <container id="aspace_8412c26223300de02302405b051917d0" label="mixed materials" type="box">MS-51</container>
+        <container id="aspace_a616bef1d3e5252bc8bd54108c600d27" parent="aspace_8412c26223300de02302405b051917d0" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

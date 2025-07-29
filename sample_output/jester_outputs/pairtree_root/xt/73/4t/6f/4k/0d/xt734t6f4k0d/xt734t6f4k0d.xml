@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt734t6f4k0d">2009ms132.0415</eadid><filedesc><titlestmt><titleproper type="filing">Smith, D.T. family letters</titleproper><titleproper>Guide to the Wade Hall Collection of American Letters: D.T. Smith family letters, 1910-1932, undated <num>2009ms132.0415</num></titleproper><author>Sarah Coblentz</author><sponsor>Processing made possible by the National Endowment for the Humanities.</sponsor></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2019 26 April</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-08-02 16:21:04 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Wade Hall Collection of American Letters: D.T. Smith family letters</unittitle>
+    <unitid>2009ms132.0415</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.04 Cubic Feet</extent>
+      <extent altrender="carrier">3 folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1910/1932" type="inclusive">1910-1932, undated</unitdate>
+    <abstract id="aspace_a0df757effe96165ec38620fef4bfd83">The D.T. Smith family letters (dated 1910-1932, undated; 0.04 cubic feet; 3 folders) comprise letters, report cards, and newspaper clippings that document the lives of the members of the Smith family in Kentucky and California in the early twentieth century.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_ccd094f6df2cf4d921687c79ca83d5ef">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_2a82f8234381310c6686e8344ac2f3d1">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 2000.</p>  </acqinfo>
+  <arrangement id="aspace_f298501dc77f6d82eca4ca59c807b2ac">
+    <head>Arrangement</head>
+<p>Collection is arranged by subject. The Wade Hall Collection of American Letters has been processed into discrete collections based on provenance.</p>  </arrangement>
+  <bioghist id="aspace_2abf7cc806ce609f949806bd362d38d6">
+    <head>Biographical note</head>
+<p>The Smith family of Elizabethtown, Kentucky included David T. Smith (1863-1931), Lorena Cox (1862-1938), and their four children: Guy (1889-1982), Roy (1891-1971), Albert (1894-1919), and Mildred (b. 1897). No other biographical information available.</p><p>American Letters collector Wade Hall (1934-2015) was a native of Union Springs, Alabama.  Starting in 1962, he lived in Louisville, where he taught English and chaired the English and Humanities/Arts programs at Kentucky Southern College and Bellarmine University.  He also taught at the University of Illinois and the University of Florida.  He held degrees from Troy State University (B.S.), the University of Alabama (M.A.), and the University of Illinois (Ph.D.). He served for two years in the U.S. Army in the mid-fifties. Dr. Hall was the author of books, monographs, articles, plays, and reviews relating to Kentucky, Alabama, and Southern history and literature.  His most recent books include <title render="italic">A Visit with Harlan Hubbard</title>; <title render="italic">High Upon a Hill: A History of Bellarmine College</title>; <title render="italic">A Song in Native Pastures: Randy Atcher's Life in Country Music</title>; and <title render="italic">Waters of Life from Conecuh Ridge</title>.</p>  </bioghist>
+  <prefercite id="aspace_7a8a8c96ac814db39b5ad67d3fb801f3">
+    <head>Preferred Citation</head>
+<p>2009ms132.0415: [identification of item], Wade Hall Collection of American Letters: D.T. Smith family letters, 1910-1932, undated, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_78d1c3a442f0a0224c5e2917daa99a02">
+    <head>Scope and Contents</head>
+<p>The D.T. Smith family letters (dated 1910-1932, undated; 0.04 cubic feet; 3 folders) comprise letters, report cards, and newspaper clippings that document the lives of the members of the Smith family in Kentucky and California in the early twentieth century. The letters are primarily between Lorena and Mildred. In the letters, they discussed finding work at the beginning of the Great Depression, Mildred living in California to find work, updates on family members, and the death and funeral of Mildred's father. The newspaper clippings show an Easter mass attended by Mildred while she was living in Hollywood, California. The report cards are for Albert when he was in eighth grade. </p><p>The D.T. Smith family letters are part of the Wade Hall Collection of American letters, which includes correspondence and diaries from all over North America covering the time period of the Civil to Korean Wars. The materials were collected by Wade Hall and document everyday men and women.  </p>  </scopecontent>
+  <userestrict id="aspace_2717bc76c8e74a5eccb1549f710373a5">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="lcsh">Clippings (Books, newspapers, etc.)</genreform>
+    <geogname source="lcsh">California.</geogname>
+    <subject authfilenumber="sh 85033035" source="lcsh">Correspondence.</subject>
+    <subject source="lcsh">Death</subject>
+    <geogname source="lcsh">Elizabethtown (Ky.)</geogname>
+    <subject source="lcsh">Families. </subject>
+    <subject authfilenumber="n 84737502" source="lcsh">Great Depression</subject>
+    <geogname source="lcsh">Hollywood (Los Angeles, Calif.).</geogname>
+    <geogname source="lcsh">Kentucky.</geogname>
+    <subject authfilenumber="sh 85076240" source="lcsh">Letters.</subject>
+    <subject source="lcsh">Report cards.</subject>
+    <subject source="local">Women -- Employment</subject>
+    <geogname source="lcsh">United States -- History -- 20th century</geogname>
+    <persname rules="rda" source="local">Adams, Mildred Smith, 1897-</persname>
+    <persname rules="rda" source="local">Smith, Lorena Cox, 1862-1938</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Letters to Lorena Smith</unittitle><unitdate datechar="creation" type="inclusive">1913, 1930-1932, undated</unitdate><container id="aspace_ae1a852e150dffc423f62bf025e35103" label="mixed materials" type="box">WH-22</container><container id="aspace_93298fd1324a796f158683ccc89e8da8" parent="aspace_ae1a852e150dffc423f62bf025e35103" type="folder">14</container><dao entityref="xt734t6f4k0d_1_1"/></did></c><c id="ref2" level="file"><did><unittitle>Mother [Lorena] to Mildred Adams</unittitle><unitdate datechar="creation" type="inclusive">1931</unitdate><container id="aspace_aa2385fc519d03247f2f2bb61b7851f2" label="mixed materials" type="box">WH-22</container><container id="aspace_6a81adb0e37437a6ecbcf10e85082e57" parent="aspace_aa2385fc519d03247f2f2bb61b7851f2" type="folder">15</container><dao entityref="xt734t6f4k0d_2_1"/></did></c><c id="ref3" level="file"><did><unittitle>Smith family papers</unittitle><unitdate datechar="creation" type="inclusive">1910, undated</unitdate><container id="aspace_27fa9e188a94bdc6e7248ee301b3e423" label="mixed materials" type="box">WH-22</container><container id="aspace_40ed3b290d8c7dafc0056e043d73f868" parent="aspace_27fa9e188a94bdc6e7248ee301b3e423" type="folder">16</container><dao entityref="xt734t6f4k0d_3_1"/></did></c></dsc>
+</archdesc>
+</ead>

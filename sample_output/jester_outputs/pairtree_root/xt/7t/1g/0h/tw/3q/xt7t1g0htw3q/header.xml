@@ -1,0 +1,266 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7t1g0htw3q</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7t1g0htw3q/data/0000ua209.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The University of Kentucky War Memorial Survey records (dated 1929-1972; 23.5 cubic feet, 61 boxes) are comprised of information gathered by the University of Kentucky War Memorial Survey project on the Kentucky casualties of World War I, World War II, the Korean War, and the Vietnam War.</abstract>
+  <descriptive_summary>
+    <author>Processed by John Tomasicchio under the supervision of Deirdre A. Scaggs, University Archivist.; machine-readable finding aid created by Janice Childers</author>
+    <title>University of Kentucky War Memorial Survey Records</title>
+    <source>University of Kentucky War Memorial Survey Records</source>
+    <unitdates>
+      <date>1929-1972 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>23.5 Cubic Feet</extent>
+    <arrangement>This collection is arranged by subject in six series: I. Memorial Surveyi. World War IIii. World War II: University of Kentucky Studentsiii. Korean Wariv. CountiesII. Servicemen Cardsi. World War IIii. World War II: University of Kentucky Studentsiii. Korean Wariv. Counties: World War IIv. Counties: Korean WarIII. Newspaper ClippingsIV. War ListsV. Administrative MaterialsVI. Medals</arrangement>
+    <subjects>
+      <subject>Vietnam War, 1961-1975</subject>
+      <subject>War casualties -- Kentucky.</subject>
+      <subject>World War, 1939-1945.</subject>
+      <subject>World War, 1914-1918.</subject>
+      <subject>Korean War, 1950-1953</subject>
+      <subject>Lexington (Ky.)</subject>
+      <subject>War memorials -- Kentucky</subject>
+    </subjects>
+    <prefercite>0000ua209: [identification of item], University of Kentucky War Memorial Survey records, 1929-1972, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical Note</head>
+      <p>Memorial Coliseum was completed in 1950 as a war memorial for the 9,265 Kentuckians who were killed in World War II. UK Registrar Ezra L. Gillis directed the Kentucky War Memorial Survey project, compiling the names of Kentucky's war dead to be inscribed on the walls of Memorial Coliseum. Gillis was active in the preparation of lists of UK war dead from each war: World War I, World War II, the Korean War, and the Vietnam War. He also gathered biographical data relating to the veterans' war service. The information was used in the preparation of honor rolls placed in Memorial Hall and Memorial Coliseum, which were lettered, at least for World War I and II, by UK drawing professor John Sherman Horine and for a special edition of the <title render="doublequote">Kentucky Alumnus</title> published in 1947. Among the names of Kentucky World War II dead is Franklin Runyon Sousley (1925-1945) from Hill Top, Kentucky, <emph render="doublequote">...one of the six marines who raised the second of two United States flags on top of Mount Suribachi on February 23, 1945, as shown in the iconic photograph <title render="doublequote">Raising the Flag on Iwo Jima.</title></emph> </p><p>Source:  "Franklin Sousley," Wikipedia. https://en.wikipedia.org/wiki/Franklin_Sousley.  Accessed 2/27/2024.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents note</head>
+      <p>The University of Kentucky War Memorial Survey records (dated 1929-1972; 23.5 cubic feet, 61 boxes) are comprised of information gathered by the University of Kentucky War Memorial Survey project on the Kentucky casualties of World War I, World War II, the Korean War, and the Vietnam War. The bulk of the materials are primarily surveys and servicemen cards for the Kentucky soldiers who were to be memorialized for their service. Two subseries, one in World War II and another in the Korean War, contain the surveys and short biographies on casualties from the University of Kentucky. The collection contains newspaper clippings chronicling war casualties, prisoners, honors received, and memorials for Kentucky soldiers. The List Series comprises long, indistinct accounts of war casualties, including both Kentucky dead and World War II dead. An Administrative series contains files on the planning and execution of the War Memorial, including various correspondence and inscription concepts and samples.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access note</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use note</head>
+      <p>The intellectual rights to the materials in this collection are held by the University of Kentucky Special Collections and Digital Programs.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Memorial Survey</unittitle>
+        <unitid>I</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/134092</unitid>
+      </did>
+      <scopecontent id="aspace_00b97b5dcdb235271ae135b481ab65cb">
+        <head>Scope and Contents note</head>
+        <p>The <emph render="italic">Memorial Survey</emph> series consists of the forms completed by friends or family members of deceased servicemen and is organized alphabetically by last name. The surveys document information on service history, personal background, cause of death, and any other details the person may have acquired. This first subseries, the World War II biographies, are the most extensive in this series. It includes the survey and articles on Franklin Rungon Sousley, one of the six men in the famous photograph of troops raising the flag on Iwo Jima. The first series concludes with surveys on servicemen not from Kentucky, civilians, marines, and the Royal Canadian Air Force. The second subseries is World War II Surveys of former University of Kentucky Students, beginning with World War I casualty Robert Kinne whose papers were donated by Professor and Mrs. Brinkley Barnett. The other subseries are the Korean War Survey, which is in the same format as the World War II survey, and the Counties, which is organized by Kentucky county instead of last names. Many surveys also include newspaper articles and photographs of soldiers.</p>
+      </scopecontent>
+      <c id="ref2" level="subseries"/>
+      <c id="ref204" level="subseries"/>
+      <c id="ref244" level="subseries"/>
+      <c id="ref282" level="subseries"/>
+    </c>
+    <c id="ref300" level="series">
+      <did>
+        <unittitle>Servicemen Cards</unittitle>
+        <unitid>II</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/134391</unitid>
+      </did>
+      <scopecontent id="aspace_82c7dcb4e8d89df508b100c7594e915f">
+        <head>Scope and Contents note</head>
+        <p>The <emph render="italic">Servicemen Cards</emph> series consists of index cards created during the survey. The cards contain the same information as the survey and are arranged alphabetically by last name. The cards mirror the Survey Series in that there is information from World War II, the Korean War, and Cards divided by county. The series is divided into five subseries, World War II, World War II University of Kentucky Students, Korean War, Counties World War II, and Counties Korean War.</p>
+      </scopecontent>
+      <c id="ref301" level="subseries"/>
+      <c id="ref309" level="subseries"/>
+      <c id="ref312" level="subseries"/>
+      <c id="ref316" level="subseries"/>
+      <c id="ref326" level="subseries"/>
+    </c>
+    <c id="ref329" level="series">
+      <did>
+        <unittitle>Newspaper Clippings</unittitle>
+        <unitid>III</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/134420</unitid>
+      </did>
+      <scopecontent id="aspace_938983d88221e23c3d1c675f0c151344">
+        <head>Scope and Contents note</head>
+        <p>The <emph render="italic">Newspaper Clippings</emph> series consists of the related newspaper articles and war dead lists collected by the War Memorial Committee. The newspaper clippings pertain mostly to University student and alumni casualties, but also include articles on memorials, and medal ceremonies.</p>
+      </scopecontent>
+      <c id="ref330" level="file"/>
+      <c id="ref331" level="file"/>
+      <c id="ref332" level="file"/>
+      <c id="ref333" level="file"/>
+      <c id="ref334" level="file"/>
+      <c id="ref335" level="file"/>
+      <c id="ref336" level="file"/>
+      <c id="ref337" level="file"/>
+      <c id="ref338" level="file"/>
+      <c id="ref339" level="file"/>
+      <c id="ref340" level="file"/>
+      <c id="ref341" level="file"/>
+      <c id="ref342" level="file"/>
+      <c id="ref343" level="file"/>
+      <c id="ref344" level="file"/>
+      <c id="ref345" level="file"/>
+      <c id="ref346" level="file"/>
+      <c id="ref347" level="file"/>
+      <c id="ref348" level="file"/>
+      <c id="ref349" level="file"/>
+      <c id="ref350" level="file"/>
+      <c id="ref351" level="file"/>
+      <c id="ref352" level="file"/>
+      <c id="ref353" level="file"/>
+      <c id="ref354" level="file"/>
+      <c id="ref355" level="file"/>
+      <c id="ref356" level="file"/>
+      <c id="ref357" level="file"/>
+      <c id="ref358" level="file"/>
+      <c id="ref359" level="file"/>
+      <c id="ref360" level="file"/>
+      <c id="ref361" level="file"/>
+      <c id="ref362" level="file"/>
+      <c id="ref363" level="file"/>
+      <c id="ref364" level="file"/>
+      <c id="ref365" level="file"/>
+      <c id="ref366" level="file"/>
+      <c id="ref367" level="file"/>
+      <c id="ref368" level="file"/>
+      <c id="ref369" level="file"/>
+      <c id="ref370" level="file"/>
+      <c id="ref371" level="file"/>
+      <c id="ref372" level="file"/>
+      <c id="ref373" level="file"/>
+      <c id="ref374" level="file"/>
+      <c id="ref375" level="file"/>
+      <c id="ref376" level="file"/>
+      <c id="ref377" level="file"/>
+      <c id="ref378" level="file"/>
+      <c id="ref379" level="file"/>
+      <c id="ref380" level="file"/>
+      <c id="ref381" level="file"/>
+      <c id="ref382" level="file"/>
+      <c id="ref383" level="file"/>
+      <c id="ref384" level="file"/>
+      <c id="ref385" level="file"/>
+      <c id="ref386" level="file"/>
+      <c id="ref387" level="file"/>
+      <c id="ref388" level="file"/>
+      <c id="ref389" level="file"/>
+      <c id="ref390" level="file"/>
+      <c id="ref391" level="file"/>
+      <c id="ref392" level="file"/>
+      <c id="ref393" level="file"/>
+      <c id="ref394" level="file"/>
+      <c id="ref395" level="file"/>
+      <c id="ref396" level="file"/>
+      <c id="ref397" level="file"/>
+      <c id="ref398" level="file"/>
+      <c id="ref399" level="file"/>
+      <c id="ref400" level="file"/>
+      <c id="ref401" level="file"/>
+      <c id="ref402" level="file"/>
+      <c id="ref403" level="file"/>
+      <c id="ref404" level="file"/>
+      <c id="ref405" level="file"/>
+      <c id="ref406" level="file"/>
+      <c id="ref407" level="file"/>
+      <c id="ref408" level="file"/>
+      <c id="ref409" level="file"/>
+      <c id="ref410" level="file"/>
+      <c id="ref411" level="file"/>
+      <c id="ref412" level="file"/>
+      <c id="ref413" level="file"/>
+      <c id="ref414" level="file"/>
+      <c id="ref415" level="file"/>
+      <c id="ref416" level="file"/>
+      <c id="ref417" level="file"/>
+      <c id="ref418" level="file"/>
+      <c id="ref419" level="file"/>
+      <c id="ref420" level="file"/>
+      <c id="ref421" level="file"/>
+      <c id="ref422" level="file"/>
+      <c id="ref423" level="file"/>
+      <c id="ref424" level="file"/>
+    </c>
+    <c id="ref425" level="series">
+      <did>
+        <unittitle>War Lists</unittitle>
+        <unitid>IV</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/134516</unitid>
+      </did>
+      <scopecontent id="aspace_20f5609ee4169f8e097398272bd39d0b">
+        <head>Scope and Contents note</head>
+        <p>The <emph render="italic">War Lists</emph> series consists primarily of lists complied by the Department of Defense on war casualties from Kentucky. The series also contains a list of the names of soldiers as they appear in the Memorial Coliseum and a book entitled, <emph render="italic">Kentuckians Who Lost Their Lives in Some Branch of the Armed Forces</emph>.</p>
+      </scopecontent>
+      <c id="ref426" level="file"/>
+      <c id="ref427" level="file"/>
+      <c id="ref428" level="file"/>
+      <c id="ref429" level="file"/>
+      <c id="ref430" level="file"/>
+      <c id="ref431" level="file"/>
+      <c id="ref432" level="file"/>
+      <c id="ref433" level="file"/>
+      <c id="ref434" level="file"/>
+      <c id="ref435" level="file"/>
+      <c id="ref436" level="file"/>
+      <c id="ref437" level="file"/>
+      <c id="ref438" level="file"/>
+      <c id="ref439" level="file"/>
+      <c id="ref440" level="file"/>
+      <c id="ref441" level="file"/>
+      <c id="ref442" level="file"/>
+      <c id="ref443" level="file"/>
+    </c>
+    <c id="ref444" level="series">
+      <did>
+        <unittitle>Administrative</unittitle>
+        <unitid>V</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/134535</unitid>
+        <unitdate datechar="creation">1930-1954</unitdate>
+      </did>
+      <scopecontent id="aspace_4e2eab3fd00a579573406cf2fac4bfe2">
+        <head>Scope and Contents note</head>
+        <p>The <emph render="italic">Administrative</emph> series consists of papers and correspondence relating directly to the planning and creation of the war memorial. The newspaper clippings in this series pertain to the memorial itself and public reaction.</p>
+      </scopecontent>
+      <c id="ref445" level="file"/>
+      <c id="ref446" level="file"/>
+      <c id="ref447" level="file"/>
+      <c id="ref448" level="file"/>
+      <c id="ref449" level="file"/>
+      <c id="ref450" level="file"/>
+      <c id="ref451" level="file"/>
+      <c id="ref452" level="file"/>
+      <c id="ref453" level="file"/>
+      <c id="ref454" level="file"/>
+      <c id="ref455" level="file"/>
+      <c id="ref456" level="file"/>
+      <c id="ref457" level="file"/>
+      <c id="ref458" level="file"/>
+      <c id="ref459" level="file"/>
+    </c>
+    <c id="ref460" level="series">
+      <did>
+        <unittitle>Medals</unittitle>
+        <unitid>VI</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/134551</unitid>
+      </did>
+      <scopecontent id="aspace_38a22d3a96b77551a707eee130e6f2bb">
+        <head>Scope and Contents note</head>
+        <p>The <emph render="italic">Medals</emph> series consists of four medals received by the War Memorial Committee as they conducted the survey.</p>
+      </scopecontent>
+      <c id="ref461" level="file"/>
+      <c id="ref462" level="file"/>
+      <c id="ref463" level="file"/>
+      <c id="ref464" level="file"/>
+    </c>
+  </contents>
+</header>

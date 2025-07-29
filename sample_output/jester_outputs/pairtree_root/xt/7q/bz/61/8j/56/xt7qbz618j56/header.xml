@@ -1,0 +1,582 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7qbz618j56</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7qbz618j56/data/2019av007.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Lawrence E. Ashbrook The Kentucky Whittler photograph album (dated 1942; 0.03 cubic feet; 1 box) consists of an annotated photograph album containing small black and white, silver gelatin photographs of Ashbrook and his folk art, primarily wooden sculptures.</abstract>
+  <descriptive_summary>
+    <author>Abigail Teegarden</author>
+    <title>Lawrence E. Ashbrook The Kentucky Whittler photograph album</title>
+    <source>Lawrence E. Ashbrook The Kentucky Whittler photograph album</source>
+    <unitdates>
+      <date>1942 (inclusive)</date>
+    </unitdates>
+    <creator>Ashbrook, Lawrence E., circa 1890-1953</creator>
+    <extent>0.03 Cubic Feet</extent>
+    <arrangement>Collection retains its original order.</arrangement>
+    <subjects>
+      <subject>Folk art -- Kentucky</subject>
+      <subject>Folk art</subject>
+      <subject>gelatin silver prints</subject>
+      <subject>Photographs</subject>
+      <subject>Ashbrook, Lawrence E., circa 1890-1953</subject>
+    </subjects>
+    <prefercite>2019av007: Lawrence E. Ashbrook The Kentucky Whittler photograph album, 1942, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Folk artist, Lawrence E. Ashbrook (circa 1890-1953), also known as <emph render="doublequote">The Kentucky Whittler</emph> operated a roadside museum on his property approximately 14 miles south of Lexington, Kentucky on U.S. Highway 25. He traveled frequently around Kentucky and the Southern United States selling his wooden sculptures and teaching the art of whittling to children.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Lawrence E. Ashbrook <emph render="doublequote">The Kentucky Whittler</emph> photograph album (dated 1942; 0.03 cubic feet; 1 box) consists of an annotated photograph album containing small black and white, silver gelatin photographs of Ashbrook and his folk art, primarily wooden sculptures. The album was likely used to promote his art, whittling lessons, or to promote his museum located south of Lexington, Ky. The album consists of images of Ashbrook's work: figures, architectural models, busts, sculptures, and vehicles. Many of Ashbrook's figures and dioramas were known to incorporate mechanical elements as well, including an intricately carved skeleton titled: <emph render="doublequote">Animated Skeleton or Reckless Driver.</emph></p><p>Additionally, a series of 12 well-annotated photos detail his process as he worked on a figure of FDR from start to finish, documenting Ashbrook selecting wood, rough-cutting it with a hatchet, fine carving, and finishing. The annotation also mentions filming for a program called Unusual Occupations, a long-running series of roughly 10-minute films released by Paramount Pictures between 1938-1949. The Kentucky Whittler was featured in a 1943 episode.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Bas relief carving titled <emph render="doublequote">The Kentucky Whittler</emph></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764397</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_0dd1accfd04851ee6b43fcae2a21cc96" label="graphic materials" type="box">1</container>
+        <container id="aspace_9ccf1d626cd7107b4339ccf736421e3d" parent="aspace_0dd1accfd04851ee6b43fcae2a21cc96" type="item">1</container>
+        <dao entityref="xt7qbz618j56_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">The top three // The Duke of Paducah (Benajmin Francis Ford) // Little Clifford (Harry Mullins) // Red Foley (Clyde Julian Foley) // They have all three been .. on the stage with me at .. Renfro Valley</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764398</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_1d5b8d5c7f45a38bb93996bb2aefcd8e" label="graphic materials" type="box">1</container>
+        <container id="aspace_e9af8f0f9f67c1e1981c7f8874f71959" parent="aspace_1d5b8d5c7f45a38bb93996bb2aefcd8e" type="item">2</container>
+        <dao entityref="xt7qbz618j56_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Plaques</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764399</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_27184a50cf4f563a93a083fd587c50a9" label="graphic materials" type="box">1</container>
+        <container id="aspace_f231db5df026e603a8c261b06c325602" parent="aspace_27184a50cf4f563a93a083fd587c50a9" type="item">3</container>
+        <dao entityref="xt7qbz618j56_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">This two inch campaign // button is now the // property of F.D.R. // I received a letter of thanks // Nov 15 1940</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764400</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_1a7b3785d2a2df3056859a315e2af5c7" label="graphic materials" type="box">1</container>
+        <container id="aspace_b577bb2748d1273712fcfd63899d54e4" parent="aspace_1a7b3785d2a2df3056859a315e2af5c7" type="item">4</container>
+        <dao entityref="xt7qbz618j56_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Animated skeletons or reckless driver</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764401</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_5d219280a18cc3155ab64c832e1060ca" label="graphic materials" type="box">1</container>
+        <container id="aspace_3f0b87e0a5086652818f7bb467a0ffeb" parent="aspace_5d219280a18cc3155ab64c832e1060ca" type="item">5</container>
+        <dao entityref="xt7qbz618j56_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Beethoven 6 in. head // has visited many // museums in N.Y. // and N.J. 1937</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764402</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_ca07ac2daef44e34a0b5548901dd42e2" label="graphic materials" type="box">1</container>
+        <container id="aspace_e4bc3bd3c0009079304c1bc8f0427a9c" parent="aspace_ca07ac2daef44e34a0b5548901dd42e2" type="item">6</container>
+        <dao entityref="xt7qbz618j56_6_1"/>
+      </did>
+    </c>
+    <c id="ref7" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Animated tom tom // beater and // Daniel Boone</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764403</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_b201cafcd4bb8048c0d76f1120977cee" label="graphic materials" type="box">1</container>
+        <container id="aspace_6af8da5db7cdf47a0f2a40934593d5bb" parent="aspace_b201cafcd4bb8048c0d76f1120977cee" type="item">7</container>
+        <dao entityref="xt7qbz618j56_7_1"/>
+      </did>
+    </c>
+    <c id="ref8" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">The large violin is // full size</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764404</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_66a649f394d7a42e1e23485f56a75a34" label="graphic materials" type="box">1</container>
+        <container id="aspace_f5458ae63511039bda2063eb88c8dc96" parent="aspace_66a649f394d7a42e1e23485f56a75a34" type="item">8</container>
+        <dao entityref="xt7qbz618j56_8_1"/>
+      </did>
+    </c>
+    <c id="ref9" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Home of Mary Todd // Lincoln 7 in. high. // W. Main St. Lex. Ky.</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764405</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_4bf3831f0314577351f212a318589634" label="graphic materials" type="box">1</container>
+        <container id="aspace_0bfb5d6e107b03a414013e6ebd1d36c3" parent="aspace_4bf3831f0314577351f212a318589634" type="item">9</container>
+        <dao entityref="xt7qbz618j56_9_1"/>
+      </did>
+    </c>
+    <c id="ref10" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Home of Henry Clay // 5 in. high // E. Main St. Lex. Ky.</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764406</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_b5fa4098d15fe796d68f93996138b130" label="graphic materials" type="box">1</container>
+        <container id="aspace_a7f9e747b96005b18f79593b2dda2761" parent="aspace_b5fa4098d15fe796d68f93996138b130" type="item">10</container>
+        <dao entityref="xt7qbz618j56_10_1"/>
+      </did>
+    </c>
+    <c id="ref11" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Just some more carving of base. // White walnut, cherry, black walnut, cedar</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764407</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_5a858294efe4f7ff63af0cfeb9dc33b9" label="graphic materials" type="box">1</container>
+        <container id="aspace_23496318748c60cb72663fcf0634bb5a" parent="aspace_5a858294efe4f7ff63af0cfeb9dc33b9" type="item">11</container>
+        <dao entityref="xt7qbz618j56_11_1"/>
+      </did>
+    </c>
+    <c id="ref12" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote"> Crucifix made of White Walnut // cross red cedar</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764408</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_78044c3837888ebb0b82a586d4fc5f41" label="graphic materials" type="box">1</container>
+        <container id="aspace_f3fbf86f3c67a063cef1f41a3778d1db" parent="aspace_78044c3837888ebb0b82a586d4fc5f41" type="item">12</container>
+        <dao entityref="xt7qbz618j56_12_1"/>
+      </did>
+    </c>
+    <c id="ref13" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Stage coach to represent // one stopped at this // toll house 1834 // This was imagination // no picture used</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764410</unitid>
+        <unitdate datechar="creation" type="inclusive">1834</unitdate>
+        <container id="aspace_c4d7bde6a0a5661d104a968b88df7ba0" label="graphic materials" type="box">1</container>
+        <container id="aspace_6cfe7723e9c0e19ab9867142d59ae792" parent="aspace_c4d7bde6a0a5661d104a968b88df7ba0" type="item">13</container>
+        <dao entityref="xt7qbz618j56_13_1"/>
+      </did>
+    </c>
+    <c id="ref14" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">This Statue of Liberty // "Miss Liberty no 8" // may attend the worlds fair Washington. // in 1942. 36 in. high</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764411</unitid>
+        <unitdate datechar="creation" type="inclusive">1942</unitdate>
+        <container id="aspace_975f444becd73cd5b17154401a61b734" label="graphic materials" type="box">1</container>
+        <container id="aspace_130c8af26e92c12c3310865ddc48bc2b" parent="aspace_975f444becd73cd5b17154401a61b734" type="item">14</container>
+        <dao entityref="xt7qbz618j56_14_1"/>
+      </did>
+    </c>
+    <c id="ref15" level="item">
+      <did>
+        <unittitle>Carvings of a bison and a Native American on a horse</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764412</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_93d5edd725069b2c2ce651ff2034cd41" label="graphic materials" type="box">1</container>
+        <container id="aspace_2cc43b3001aa947a1522fe0616bcb896" parent="aspace_93d5edd725069b2c2ce651ff2034cd41" type="item">15</container>
+        <dao entityref="xt7qbz618j56_15_1"/>
+      </did>
+    </c>
+    <c id="ref16" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">From Cincinnati // Zoo. This Lion made // of mahogany accompanied // Beethoven to the // museums in the east</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764413</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_25592880708e5cbfc02106a34a0b4910" label="graphic materials" type="box">1</container>
+        <container id="aspace_cbd31a4ccaa3d3fff01ef7dc6de8efa4" parent="aspace_25592880708e5cbfc02106a34a0b4910" type="item">16</container>
+        <dao entityref="xt7qbz618j56_16_1"/>
+      </did>
+    </c>
+    <c id="ref17" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Renfro Valley stage // animated all 18 // characters to their // part in the barn // dance. Character clothes // painted</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764414</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_fbfabf93136b3f193d15515d55fa4ed4" label="graphic materials" type="box">1</container>
+        <container id="aspace_f6ba4ebce690d875a505500394893729" parent="aspace_fbfabf93136b3f193d15515d55fa4ed4" type="item">17</container>
+        <dao entityref="xt7qbz618j56_17_1"/>
+      </did>
+    </c>
+    <c id="ref18" level="item">
+      <did>
+        <unittitle>Kentucky Whittler's Museum, exterior</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764415</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_5475eadec3e7f7f43fa6597aabcf643a" label="graphic materials" type="box">1</container>
+        <container id="aspace_d3c3dff1f89c4715bbf19ee2f59f2934" parent="aspace_5475eadec3e7f7f43fa6597aabcf643a" type="item">18</container>
+        <dao entityref="xt7qbz618j56_18_1"/>
+      </did>
+    </c>
+    <c id="ref19" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">The Kentucky Whittler // selects Wood from // his 23 acre place. // 14 mi. s. of Lex. Ky. // on U.S. 25</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764416</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_fb2d5b7b6f4056fe1713ec178531d460" label="graphic materials" type="box">1</container>
+        <container id="aspace_8827dbbf0cb0ffb0288df8993aa6276a" parent="aspace_fb2d5b7b6f4056fe1713ec178531d460" type="item">19</container>
+        <dao entityref="xt7qbz618j56_19_1"/>
+      </did>
+    </c>
+    <c id="ref20" level="item">
+      <did>
+        <unittitle><emph render="doublequote">The horns on the steer // are wild turkey // spurs. The deer horns // are a wishbone from // a wild duck both taken // by the Kentucky Whittler</emph> </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764417</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_32c2f976d7da69faa69cbb940771912d" label="graphic materials" type="box">1</container>
+        <container id="aspace_875eb4e7c921e2ae68dbf3cab9dd88e9" parent="aspace_32c2f976d7da69faa69cbb940771912d" type="item">20</container>
+        <dao entityref="xt7qbz618j56_20_1"/>
+      </did>
+    </c>
+    <c id="ref21" level="item">
+      <did>
+        <unittitle>The Kentucky Whittlers Museum, exterior</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764418</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_68b36c03e2e97e1b0e4f2b55885bdbfa" label="graphic materials" type="box">1</container>
+        <container id="aspace_e9d04aff5dc3546ab1a3c7ad46a8ab6d" parent="aspace_68b36c03e2e97e1b0e4f2b55885bdbfa" type="item">21</container>
+        <dao entityref="xt7qbz618j56_21_1"/>
+      </did>
+    </c>
+    <c id="ref22" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">Most of the whittling // is done in the museum // some in Pearl's kitchen // and some outside. Will Rogers completed // in Oct 1940</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764419</unitid>
+        <unitdate datechar="creation" type="inclusive">1940</unitdate>
+        <container id="aspace_146f1a48f964d82c64d4f3baeed34adb" label="graphic materials" type="box">1</container>
+        <container id="aspace_798635fd5a73837e5602405ebcfbf50a" parent="aspace_146f1a48f964d82c64d4f3baeed34adb" type="item">22</container>
+        <dao entityref="xt7qbz618j56_22_1"/>
+      </did>
+    </c>
+    <c id="ref23" level="item">
+      <did>
+        <unittitle><emph render="doublequote">One disbeliever had // to be shown this. // Work was started and // finished here. // So after splitting a</emph> [...]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764420</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_c1d36f48b14c6c92053189cc2af44a77" label="graphic materials" type="box">1</container>
+        <container id="aspace_3dc7eb80cead494b6418e882abb79c0e" parent="aspace_c1d36f48b14c6c92053189cc2af44a77" type="item">23</container>
+        <dao entityref="xt7qbz618j56_23_1"/>
+      </did>
+    </c>
+    <c id="ref24" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote"> Block out and // rounding it down // a little with a // hatchet </emph> [...]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764421</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_0d7dfa4ee14414f1128da3d9d981316f" label="graphic materials" type="box">1</container>
+        <container id="aspace_492e1a5e75d2d05d5da1000b00e268ae" parent="aspace_0d7dfa4ee14414f1128da3d9d981316f" type="item">24</container>
+        <dao entityref="xt7qbz618j56_24_1"/>
+      </did>
+    </c>
+    <c id="ref25" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote">And cutting in at // the neck a little</emph> [...]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764422</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_2aa8181030ab3b86a9a8a21bb20144dc" label="graphic materials" type="box">1</container>
+        <container id="aspace_c5be7d422c798bbb5900a311ccbee482" parent="aspace_2aa8181030ab3b86a9a8a21bb20144dc" type="item">25</container>
+        <dao entityref="xt7qbz618j56_25_1"/>
+      </did>
+    </c>
+    <c id="ref26" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote">And taking the // rough off of the // head then the hatchet // work is done</emph> [...]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764423</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_9ddd4d654f78fdb0fbd7be8246d8f9af" label="graphic materials" type="box">1</container>
+        <container id="aspace_1aed92b3349151cfc406ea2f7a7b4e51" parent="aspace_9ddd4d654f78fdb0fbd7be8246d8f9af" type="item">26</container>
+        <dao entityref="xt7qbz618j56_26_1"/>
+      </did>
+    </c>
+    <c id="ref27" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote">From here on the//  work is all done // with a sharp pocket // knife, outline the // hair then</emph> [...]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764424</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_73845c786dc91ae5ab9474c678ce2010" label="graphic materials" type="box">1</container>
+        <container id="aspace_efdcd4c8d3009ca89df477dc3a9b58f6" parent="aspace_73845c786dc91ae5ab9474c678ce2010" type="item">27</container>
+        <dao entityref="xt7qbz618j56_27_1"/>
+      </did>
+    </c>
+    <c id="ref28" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote">Cut out the profile [...] // Mr Crochet camera // man for universal // filmed this Read in // the making for // 'Unusual Occupations'</emph></unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764425</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_59ecd90966e0704c789f709dbd06f49e" label="graphic materials" type="box">1</container>
+        <container id="aspace_51934d25bbd9163256333b372b8803c4" parent="aspace_59ecd90966e0704c789f709dbd06f49e" type="item">28</container>
+        <dao entityref="xt7qbz618j56_28_1"/>
+      </did>
+    </c>
+    <c id="ref29" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote">Then work at random // no place in particular // but all over in // general</emph> [...]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764426</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_93a3a1d8dc62eda7cbaa540a99339ff2" label="graphic materials" type="box">1</container>
+        <container id="aspace_a2c127839b8ffde9a86cb3a7e1457da2" parent="aspace_93a3a1d8dc62eda7cbaa540a99339ff2" type="item">29</container>
+        <dao entityref="xt7qbz618j56_29_1"/>
+      </did>
+    </c>
+    <c id="ref30" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote">The head will eventually // by get down to // where it takes much // more care a very // small shaver now</emph> [...]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764427</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_8065f6fbc23e0b957a740b6680ad2fda" label="graphic materials" type="box">1</container>
+        <container id="aspace_286e1ca532ae711b7256310ed6d2d074" parent="aspace_8065f6fbc23e0b957a740b6680ad2fda" type="item">30</container>
+        <dao entityref="xt7qbz618j56_30_1"/>
+      </did>
+    </c>
+    <c id="ref31" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote">means more than // did a hard lick // with the hatchet // in the beginning</emph> [...]</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764428</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_b5f0651594920e611bfc8e67bd825d0c" label="graphic materials" type="box">1</container>
+        <container id="aspace_5ab0a6e2247a38b18133a5eb86c535fa" parent="aspace_b5f0651594920e611bfc8e67bd825d0c" type="item">31</container>
+        <dao entityref="xt7qbz618j56_31_1"/>
+      </did>
+    </c>
+    <c id="ref32" level="item">
+      <did>
+        <unittitle>[...] <emph render="doublequote">an eye cut right. without // any color should look // near human at 10 ft. // You can finish it now // so it is going to be F.D.R.</emph> </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764429</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_afc3517285b153bb00db8bb258a03d5e" label="graphic materials" type="box">1</container>
+        <container id="aspace_d0744e774c5bf718d66a6a9bd5704cee" parent="aspace_afc3517285b153bb00db8bb258a03d5e" type="item">32</container>
+        <dao entityref="xt7qbz618j56_32_1"/>
+      </did>
+    </c>
+    <c id="ref33" level="item">
+      <did>
+        <unittitle>
+          <emph render="doublequote">An animated whittler // 10 in. high // Represents an Uncle // who can't Whittle</emph>
+        </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764430</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_c6865f7148c8e04ea6b41767130e14b1" label="graphic materials" type="box">1</container>
+        <container id="aspace_f0b9d74487dd4f0f3cea08ce156f2e05" parent="aspace_c6865f7148c8e04ea6b41767130e14b1" type="item">33</container>
+        <dao entityref="xt7qbz618j56_33_1"/>
+      </did>
+    </c>
+    <c id="ref34" level="item">
+      <did>
+        <unittitle><emph render="doublequote">The Whittler's daughter // at the age of 11. She is 19 // now and whittles for pastime. // This head is life size</emph> </unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764431</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_099b328faa403848bdabc423bc53bbcc" label="graphic materials" type="box">1</container>
+        <container id="aspace_4db5daddf30d3f073d15e765ead1d3c5" parent="aspace_099b328faa403848bdabc423bc53bbcc" type="item">34</container>
+        <dao entityref="xt7qbz618j56_34_1"/>
+      </did>
+    </c>
+    <c id="ref35" level="item">
+      <did>
+        <unittitle>Sculpture of a ship and a cannon</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764432</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_c48e1fb1cfbe7d275437836470655009" label="graphic materials" type="box">1</container>
+        <container id="aspace_b101f16eab60ea9f29b885e753a9c669" parent="aspace_c48e1fb1cfbe7d275437836470655009" type="item">35</container>
+        <dao entityref="xt7qbz618j56_35_1"/>
+      </did>
+    </c>
+    <c id="ref36" level="item">
+      <did>
+        <unittitle>Four sculptures of birds</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764433</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_d5234959a2bb5b09444dcbf5b0722dfc" label="graphic materials" type="box">1</container>
+        <container id="aspace_d066c31c54a4f88231afdd56f84eac6b" parent="aspace_d5234959a2bb5b09444dcbf5b0722dfc" type="item">36</container>
+        <dao entityref="xt7qbz618j56_36_1"/>
+      </did>
+    </c>
+    <c id="ref37" level="item">
+      <did>
+        <unittitle>Bust of a man</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764434</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_30a742d49ee09d8621d49c55a9830b57" label="graphic materials" type="box">1</container>
+        <container id="aspace_d80ec4457aed893dfa02c277bc76a341" parent="aspace_30a742d49ee09d8621d49c55a9830b57" type="item">37</container>
+        <dao entityref="xt7qbz618j56_37_1"/>
+      </did>
+    </c>
+    <c id="ref38" level="item">
+      <did>
+        <unittitle>Various sculptures of animals and people</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764435</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_cc957d1d45f6f5114a9b7f9df17da78c" label="graphic materials" type="box">1</container>
+        <container id="aspace_1490b3a46098fc4d06b791962cb147fe" parent="aspace_cc957d1d45f6f5114a9b7f9df17da78c" type="item">38</container>
+        <dao entityref="xt7qbz618j56_38_1"/>
+      </did>
+    </c>
+    <c id="ref39" level="item">
+      <did>
+        <unittitle>Sculptures of various fruits and vegetables</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764436</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_8ba58718062b229950c6bb625a69c719" label="graphic materials" type="box">1</container>
+        <container id="aspace_8dd0ebff25232ac96ee6e0471cee242c" parent="aspace_8ba58718062b229950c6bb625a69c719" type="item">39</container>
+        <dao entityref="xt7qbz618j56_39_1"/>
+      </did>
+    </c>
+    <c id="ref40" level="item">
+      <did>
+        <unittitle>Four sculpted wooden cups</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764437</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_cf12540dd19779cd904f2f504764cd7f" label="graphic materials" type="box">1</container>
+        <container id="aspace_6e9509372fa801ab2efcd1e2fc6786c9" parent="aspace_cf12540dd19779cd904f2f504764cd7f" type="item">40</container>
+        <dao entityref="xt7qbz618j56_40_1"/>
+      </did>
+    </c>
+    <c id="ref41" level="item">
+      <did>
+        <unittitle>Sculptures of a hippopotamus and two rhinoceroses</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764438</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_4c90bb24c5ce4c3c02451408088f949c" label="graphic materials" type="box">1</container>
+        <container id="aspace_f0397933f46e90db0e5fb63aebb421a2" parent="aspace_4c90bb24c5ce4c3c02451408088f949c" type="item">41</container>
+        <dao entityref="xt7qbz618j56_41_1"/>
+      </did>
+    </c>
+    <c id="ref42" level="item">
+      <did>
+        <unittitle>Sculptures of an elephant and a donkey</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764439</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_aa6f783bda7d348e1f1309b015d69cc6" label="graphic materials" type="box">1</container>
+        <container id="aspace_9209c8f4d0a3fdae4d25bbb8784179f5" parent="aspace_aa6f783bda7d348e1f1309b015d69cc6" type="item">42</container>
+        <dao entityref="xt7qbz618j56_42_1"/>
+      </did>
+    </c>
+    <c id="ref43" level="item">
+      <did>
+        <unittitle>Various animal sculptures</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764440</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_2e2088f2dc66289b9a6804cc9ac2f7de" label="graphic materials" type="box">1</container>
+        <container id="aspace_568568f8f934a9267792398f9ae63efe" parent="aspace_2e2088f2dc66289b9a6804cc9ac2f7de" type="item">43</container>
+        <dao entityref="xt7qbz618j56_43_1"/>
+      </did>
+    </c>
+    <c id="ref44" level="item">
+      <did>
+        <unittitle>Sculpture of two giraffes and a camel</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764441</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_a1b3347f01aef87f4cf6001db70684ba" label="graphic materials" type="box">1</container>
+        <container id="aspace_4a9fb9bb83113cd90ea3951aebb5581c" parent="aspace_a1b3347f01aef87f4cf6001db70684ba" type="item">44</container>
+        <dao entityref="xt7qbz618j56_44_1"/>
+      </did>
+    </c>
+    <c id="ref45" level="item">
+      <did>
+        <unittitle>Sculpture of three lions</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764442</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_b992ad48172a2d19d72a2529bb9f6cd7" label="graphic materials" type="box">1</container>
+        <container id="aspace_72fb1a9cd9485f4d78654d73e2843114" parent="aspace_b992ad48172a2d19d72a2529bb9f6cd7" type="item">45</container>
+        <dao entityref="xt7qbz618j56_45_1"/>
+      </did>
+    </c>
+    <c id="ref46" level="item">
+      <did>
+        <unittitle>Sculpture of a truck</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764443</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_807a316d477c54a95694845ff68d9799" label="graphic materials" type="box">1</container>
+        <container id="aspace_bed6571d9c4d11c912402948582e8c26" parent="aspace_807a316d477c54a95694845ff68d9799" type="item">46</container>
+        <dao entityref="xt7qbz618j56_46_1"/>
+      </did>
+    </c>
+    <c id="ref47" level="item">
+      <did>
+        <unittitle>Sculpture of a wooden soldier playing</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764444</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_6d6064ed71429b656df8c6babf8aa50b" label="graphic materials" type="box">1</container>
+        <container id="aspace_d89c40af7619e6bb64213db771be926e" parent="aspace_6d6064ed71429b656df8c6babf8aa50b" type="item">47</container>
+        <dao entityref="xt7qbz618j56_47_1"/>
+      </did>
+    </c>
+    <c id="ref48" level="item">
+      <did>
+        <unittitle>Sculpture of a wooden soldier playing a trumpet with one arm</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764445</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_c6ffc6d9788da64ea16ede7ec2b32c53" label="graphic materials" type="box">1</container>
+        <container id="aspace_73684d5ea9f4c6c41343a59fff523769" parent="aspace_c6ffc6d9788da64ea16ede7ec2b32c53" type="item">48</container>
+        <dao entityref="xt7qbz618j56_48_1"/>
+      </did>
+    </c>
+    <c id="ref49" level="item">
+      <did>
+        <unittitle>Wooden busts of every President of the United States from George Washington to Harry S. Truman</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/764446</unitid>
+        <unitdate datechar="creation" type="inclusive">undated</unitdate>
+        <container id="aspace_8db22fa43577b70b5258662a7e05cab5" label="graphic materials" type="box">1</container>
+        <container id="aspace_f231a8f305696359a62e6986cae148e5" parent="aspace_8db22fa43577b70b5258662a7e05cab5" type="item">49</container>
+        <dao entityref="xt7qbz618j56_49_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

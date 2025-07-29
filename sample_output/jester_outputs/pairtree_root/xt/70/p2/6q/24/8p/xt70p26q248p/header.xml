@@ -1,0 +1,92 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt70p26q248p</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt70p26q248p/data/88m3.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Bourbon Academy minute book (dated 1799-1855; 0.23; 1 box) consists of one book and loose pages outlining meetings held by the Bourbon Academy Board of Trustees.</abstract>
+  <descriptive_summary>
+    <author>Eva Grossi</author>
+    <title>Bourbon Academy minute book</title>
+    <source>Bourbon Academy minute book</source>
+    <unitdates>
+      <date>1799-1855 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.23 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Bourbon County (Ky.)</subject>
+      <subject>Education -- Kentucky.</subject>
+      <subject>Minutes (Records)</subject>
+      <subject>Bourbon Academy (Paris, Ky.)</subject>
+    </subjects>
+    <prefercite>88m3:[identification of item], Bourbon Academy minute book, 1799-1855, University of Kentucky Libraries Special Collection Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Bourbon Academy was a school in Paris, Kentucky (Bourbon County) that was established in 1798. In 1865 the school changed its name to Paris City School. The school was torn down, but the its four original columns stand in front of the Earl E. Redwine Gymnasium as of 2019.</p><p>Sources:
+      <title>About Paris High School.</title> Paris High School - About Us. Paris Independent Schools. Accessed September 3, 2019. http://www.paris.k12.ky.us/Schools/ParisHighHome/HSAboutUs.aspx.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Bourbon Academy minute book (dated 1799-1855; 0.23; 1 box) consists of one book and loose pages outlining meetings held by the Bourbon Academy Board of Trustees. The vast majority of entries begin with the date, location, and names of the members attending each meeting. Common topics include the employment of new teachers or school staff and the hiring/promotion of members of the board. Occasionally, the minute book outlines new policies for the academy, such as whether or not parents have say in which teacher their child has or what time the school day should consistently start and end.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Bourbon Academy minute book</unittitle>
+        <unitdate datechar="creation" type="inclusive">1799-1855</unitdate>
+        <container id="aspace_1c92569ab8efc3945fc303ee03feca48" label="mixed materials" type="box">1</container>
+        <container id="aspace_b17aeaaf00fb3e2fd9b43db27c4a7cad" parent="aspace_1c92569ab8efc3945fc303ee03feca48" type="folder">1</container>
+        <dao entityref="xt70p26q248p_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Bourbon Academy minute book - loose pages</unittitle>
+        <unitdate datechar="creation" type="inclusive">1799-1800</unitdate>
+        <container id="aspace_613a9c7f9188cb46f7d8fd37cfc7494e" label="mixed materials" type="box">1</container>
+        <container id="aspace_776af4905791e020a53c47d357551ccb" parent="aspace_613a9c7f9188cb46f7d8fd37cfc7494e" type="folder">2</container>
+        <dao entityref="xt70p26q248p_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Bourbon Academy minute book - loose pages</unittitle>
+        <unitdate datechar="creation" type="inclusive">1800-1826</unitdate>
+        <container id="aspace_4cd822c5a1d7d1c7d5c11ef2317251af" label="mixed materials" type="box">1</container>
+        <container id="aspace_eda0f60deefb75ae3a095fbaeed8866b" parent="aspace_4cd822c5a1d7d1c7d5c11ef2317251af" type="folder">3</container>
+        <dao entityref="xt70p26q248p_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Bourbon Academy minute book - loose pages</unittitle>
+        <unitdate datechar="creation" type="inclusive">1823-1831</unitdate>
+        <container id="aspace_7443757a8627412f613f0cac72f531e7" label="mixed materials" type="box">1</container>
+        <container id="aspace_6c6a9e8d93ad09a84fdbc99efb1aa1b3" parent="aspace_7443757a8627412f613f0cac72f531e7" type="folder">4</container>
+        <dao entityref="xt70p26q248p_4_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

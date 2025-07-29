@@ -1,0 +1,66 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7vt43hxt41</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7vt43hxt41/data/87W1.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Bourbon Furnace ledger (dated 1796-1797, 1864-1866; 0.1 cubic feet; 1 item) contains accounts of the Bourbon Furnace of Bath County, Ky., January 15, 1796 to November 30, 1797.</abstract>
+  <descriptive_summary>
+    <author>Processed by: Archives Staff ; machine-readable finding aid created by:Eric Weig</author>
+    <title>Bourbon Furnace ledger</title>
+    <source>Bourbon Furnace ledger</source>
+    <unitdates>
+      <date>1796-1797, 1864-1866 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Blast-furnaces -- Kentucky</subject>
+      <subject>Business records -- Kentucky -- Bath County.</subject>
+      <subject>Cast-iron.</subject>
+      <subject>Furnaces -- Records and correspondence.</subject>
+      <subject>Iron foundries -- Kentucky -- Bath County.</subject>
+      <subject>Iron industry and trade -- Kentucky -- Bath County.</subject>
+      <subject>Ledgers (account books)</subject>
+    </subjects>
+    <prefercite>87W1: [Identification of item], Bourbon Furnace ledger, 1796-1797, 1864-1866, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>Bourbon Furnace, established in 1791, was the first iron furnace west of the Allegheny Mountains. It was located three miles south of Owingsville, Ky. in Bath County and was owned and operated by John Cockey Owings and Company. In 1795 Thomas Deye Owings, of Cockeyville, Md., moved to Kentucky at the request of this father, John Cockey Owings, to assume the management of the company. Originally built for the purpose of casting ten gallon kettles for the boiling of saline water for salt, the furnace began to diversify its products with the demand for other manufactured iron utensils and implements. During the War of 1812 the request for iron increased because of the requirements of war, and orders for cannon balls, canister and grapeshot came to the Bourbon Furnace.</p><p>Colonel Owings continued to operate the Bourbon Furnace until 1822 when he failed financially, after which time the property was sold under various court orders, subsequently purchased by Robert Wickliffe of Lexington and operated by him until the furnace went out of blast in 1838.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Bourbon Furnace ledger (dated 1796-1797, 1864-1866; 0.1 cubic feet; 1 item) contains accounts of the Bourbon Furnace of Bath County, Ky., January 15, 1796 to November 30, 1797. The ledger includes accounts paid, accounts receivable and house expenses as well as the names of clients who purchased iron materials from the company.</p><p>At the back of the ledger are what appear to be medical notes and accounts for the years 1864 to 1866.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Copyright has not been assigned to the University of Kentucky.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Bourbon Furnace ledger</unittitle>
+        <unitdate datechar="creation" type="inclusive">1796-1797</unitdate>
+        <container id="aspace_d8732ce93cee9d8e71a24a389a0adb48" label="mixed materials" type="item">1</container>
+        <dao entityref="xt7vt43hxt41_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

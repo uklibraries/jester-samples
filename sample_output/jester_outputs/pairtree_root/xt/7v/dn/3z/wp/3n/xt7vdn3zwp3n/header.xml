@@ -1,0 +1,71 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7vdn3zwp3n</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7vdn3zwp3n/data/2008ua025_01.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The University of Kentucky Athletics Publications Collection (dated 1900-2019; 81.79 cubic feet, 3.76 Gigabytes; 34 record storage cartons, 125 document boxes, 4 slim boxes, 8 flat boxes, and 2459 files) consists of magazines, programs, and media guides documenting athletics at the University of Kentucky (UK) and sporting events in which UK teams participated.</abstract>
+  <descriptive_summary>
+    <author>Andrew W. McGraw, Marie Dale, Brynne Stevens, Maria Vela, Ruth E. Bryan</author>
+    <title>University of Kentucky Athletic Publications Collection:  Football Publications</title>
+    <source>University of Kentucky Athletic Publications Collection:  Football Publications</source>
+    <unitdates>
+      <date>1900-2019 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>81.79 Cubic Feet</extent>
+    <arrangement>The publications are arranged by sport and type of publication and thereunder arranged chronologically. There are three collection guides to the entire collection: General publications (2008ua025), Football (2008ua025.01), and Basketball (2008ua025.02).</arrangement>
+    <subjects>
+      <subject>Basketball -- Kentucky -- History.</subject>
+      <subject>Basketball -- Kentucky -- Lexington.</subject>
+      <subject>Football -- Kentucky -- History</subject>
+      <subject>Football -- Kentucky -- Lexington</subject>
+      <subject>Basketball for women -- Kentucky</subject>
+      <subject>College sports -- Kentucky</subject>
+    </subjects>
+    <prefercite>2008ua025 : [identification of item], University of Kentucky. Athletics Publications collection, 1900-2019, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist></bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The University of Kentucky Athletics Publications Collection (dated 1900-2019; 81.79 cubic feet, 3.76 Gigabytes; 34 record storage cartons, 125 document boxes, 4 slim boxes, 8 flat boxes, and 2459 files) consists of magazines, programs, and media guides documenting athletics at the University of Kentucky (UK) and sporting events in which UK teams participated. The majority of the publications are UK-specific, but there are also Southeastern Conference (SEC), National Collegiate Athletic Association (NCAA), and national publications. Sports documented include football, men's basketball, women's basketball, cross country, track and field, rifle, softball, baseball, golf, gymnastics, swimming and diving, soccer, tennis, volleyball, and wrestling.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The intellectual rights to this collection are owned by the University of Kentucky.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Football</unittitle>
+        <unitid>Series IV.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/228455</unitid>
+        <unitdate datechar="creation" type="inclusive">1900-2018</unitdate>
+      </did>
+      <c id="ref2" level="subseries"/>
+      <c id="ref26" level="subseries"/>
+      <c id="ref130" level="subseries"/>
+      <c id="ref1026" level="subseries"/>
+      <c id="ref1032" level="subseries"/>
+      <c id="ref1037" level="subseries"/>
+      <c id="ref1039" level="subseries"/>
+      <c id="ref1139" level="subseries"/>
+      <c id="ref1141" level="subseries"/>
+      <c id="ref1172" level="subseries"/>
+    </c>
+  </contents>
+</header>

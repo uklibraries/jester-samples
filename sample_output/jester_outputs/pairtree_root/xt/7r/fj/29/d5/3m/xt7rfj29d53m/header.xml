@@ -1,0 +1,106 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7rfj29d53m</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7rfj29d53m/data/2019ua034.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The University of Kentucky Athletic Coaches and Teams Photographs and Documents (dated 1898-2019, undated; 6.09 cubic feet and 4.05 Gigabytes; 10 document boxes, 3 flat boxes, and 1265 digital files) comprise photographs and documents documenting University of Kentucky sports teams and coaches.</abstract>
+  <descriptive_summary>
+    <author>Marie Dale; Daniela Gamez Salgado; Maria Vela; Ruth E. Bryan</author>
+    <title>University of Kentucky Athletic Coaches and Teams Photographs and Documents</title>
+    <source>University of Kentucky Athletic Coaches and Teams Photographs and Documents</source>
+    <unitdates>
+      <date>1898-2019, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>6.79 Cubic Feet</extent>
+    <arrangement>Collection is arranged into three series, Coaches, Teams, and Facilities.  Within each Series, organized by name of coach, sport, or facility, and within sport, by season.  Boxes are not in consecutive order.</arrangement>
+    <subjects>
+      <subject>College sports -- Kentucky</subject>
+      <subject>College athletes -- Kentucky.</subject>
+      <subject>Football -- Kentucky -- Lexington</subject>
+      <subject>Basketball -- Kentucky -- Lexington.</subject>
+      <subject>Basketball for women -- Kentucky</subject>
+    </subjects>
+    <prefercite>2019ua034 : [identification of item], University of Kentucky Athletic Coaches and Teams photographs and documents, 1898-2019, undated, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist></bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The University of Kentucky Athletic Coaches and Teams photographs (dated 1898-2019, undated; 6.09 cubic feet and 4.05 Gigabytes; 10 document boxes, 3 flat boxes, and 1265 digital files) comprise photographs and a few documents documenting University of Kentucky sports teams and coaches.  Sports represented include men's and women's basketball, football, baseball, golf, softball, soccer, and volleyball.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Coaches</unittitle>
+        <unitid>Series I.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/756388</unitid>
+        <unitdate datechar="creation" type="inclusive">1939-2012, undated</unitdate>
+      </did>
+      <c id="ref2" level="subseries"/>
+      <c id="ref5" level="subseries"/>
+      <c id="ref73" level="subseries"/>
+      <c id="ref77" level="subseries"/>
+      <c id="ref107" level="subseries"/>
+      <c id="ref109" level="subseries"/>
+      <c id="ref113" level="subseries"/>
+      <c id="ref117" level="subseries"/>
+      <c id="ref138" level="subseries"/>
+    </c>
+    <c id="ref143" level="series">
+      <did>
+        <unittitle>Teams</unittitle>
+        <unitid>Series II.</unitid>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/756389</unitid>
+        <unitdate datechar="creation" type="inclusive">1898-2019, undated</unitdate>
+      </did>
+      <c id="ref144" level="subseries"/>
+      <c id="ref147" level="subseries"/>
+      <c id="ref160" level="subseries"/>
+      <c id="ref168" level="subseries"/>
+      <c id="ref210" level="subseries"/>
+      <c id="ref310" level="subseries"/>
+      <c id="ref316" level="subseries"/>
+      <c id="ref337" level="subseries"/>
+      <c id="ref356" level="subseries"/>
+      <c id="ref361" level="subseries"/>
+      <c id="ref363" level="subseries"/>
+      <c id="ref365" level="subseries"/>
+      <c id="ref370" level="subseries"/>
+      <c id="ref380" level="subseries"/>
+      <c id="ref411" level="subseries"/>
+      <c id="ref437" level="subseries"/>
+      <c id="ref447" level="subseries"/>
+      <c id="ref454" level="subseries"/>
+      <c id="ref456" level="subseries"/>
+      <c id="ref458" level="subseries"/>
+    </c>
+    <c id="ref460" level="series">
+      <did>
+        <unittitle>Sports facilities</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/943065</unitid>
+        <unitdate datechar="creation" type="inclusive">1950-1990s, undated</unitdate>
+      </did>
+      <c id="ref461" level="subseries"/>
+      <c id="ref467" level="subseries"/>
+    </c>
+  </contents>
+</header>

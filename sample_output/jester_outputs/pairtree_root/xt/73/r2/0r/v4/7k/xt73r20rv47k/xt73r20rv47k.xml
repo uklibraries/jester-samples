@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">M-301</eadid><filedesc><titlestmt><titleproper type="filing">Scott, John papers</titleproper><titleproper>Guide to the John Scott papers, 1821-1909 <num>M-301</num></titleproper><author>Megan Mummey</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2023 May 11</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-11 15:39:37 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>John Scott papers</unittitle>
+    <origination label="Creator">
+      <persname>Scott, John, 1767-1846</persname>
+    </origination>
+    <unitid>M-301</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.05 Cubic Feet</extent>
+      <extent altrender="carrier">1 reel of microfilm</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1821/1909" type="inclusive">1821-1909</unitdate>
+    <abstract id="aspace_df64ce73300635d23e3239a713066812">The John Scott papers (dated 1821-1909; 0.05 cubic feet; 1 reel of microfilm) consist of microfilmed letters that document John Scott's time as pastor at the Baptist Church in Ghent, Kentucky, as well as the workings of the office of Stephen Burbridge during the Civil War.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_c2cd3b7c22177053d7e7c0d1cd65c9b3">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <acqinfo id="aspace_fe812bd3e048270a33e71685ddaf9615">
+    <head>Immediate Source of Acquisition</head>
+<p>Loan for microfilming from Joyce Gex, Covington, Kentucky.</p>  </acqinfo>
+  <arrangement id="aspace_1583e9c2af230f5e8b85c66bb21f500b">
+    <head>Arrangement</head>
+<p>Collection is arranged by subject.</p>  </arrangement>
+  <bioghist id="aspace_08ed368eeb47bff5569473b0b88a0635">
+    <head>Biographical note</head>
+<p>Reverend John Scott, son of William Scott, was born on May 8, 1767, in Londonderry, Ireland. John Scott worked as a surveyor and owned large tracts of land in Carrol, Grant, and Owen Counties in Kentucky. He was married three times: Jane Sneed, Mary Bailey Whitehead, and Marcia Alexander. He married Jane Sneed on December 12, 1795; they had ten children, including Harriet, William Alfred, Samuel Sneed, Robert Miller, Elizabeth M., John Taylor, Mariah Ann Sneed, Melissa Jane, James Blanton, and Benjamin Sneed Scott. </p><p>In addition to surveying, John Scott was a Baptist pastor. He served as the pastor for 30 years at New Liberty Church (1803-1833) in Owen County. He also served as the pastor at Ghent Baptist Church from 1833 until his death in 1846. </p><p>Sources:
+<emph render="doublequote">John Scott</emph>, Find A Grave, https://www.findagrave.com/memorial/22768845/john-scott [accessed May 11, 2023]</p><p>Perrin, W.H., J.H. Battle, and G.C. Kniffen. <title render="italic">Kentucky a History of the State</title>. Louisville, Ky.: F.A. Battey, p. 1753.</p>  </bioghist>
+  <prefercite id="aspace_9aed77e053f7822a730450c779efe3c7">
+    <head>Preferred Citation</head>
+<p>M-301: [identification of item], John Scott papers, 1821-1909, University of Kentucky Libraries Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_93a48424cc5b488d425bef2c853ad5f9">
+    <head>Scope and Contents</head>
+<p>The John Scott papers (dated 1821-1909; 0.05 cubic feet; 1 reel of microfilm) consist of microfilmed letters that document John Scott's time as pastor at the Baptist Church in Ghent, Kentucky, as well as the workings of the office of Stephen Burbridge during the Civil War. The John Scott letters primarily relate to religious matters, land transactions and the opening of the ferry at Ghent</p><p>Additional letters in the collection relate to the office of Union General, Stephen Burbridge, during the Civil War. The letters pertain to the recruitment of African American soldiers and political activities of the military in Kentucky during and directly after the Civil War. Notable items include an 1865 letter to General Burbridge marked confidential criticizing General James S. Brisbin, claiming he <emph render="doublequote">recognized in an official act the power of a master over slaves</emph> by arresting Black men working for the army and having them work under a written contract benefitting the enslaver. Another 1865 letter and accompanying affidavits describe alleged election interference by J.J. Craddock during the 1864 election in Franklin County, Kentucky. </p><p>Additionally, the collection contains some assorted correspondence as well as legal and financial documents for the Perry and Gex families of Kentucky in the late 19th and early 20th centuries.</p>  </scopecontent>
+  <userestrict id="aspace_100a0bc90dc76ad00940b3ea787ea395">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Baptists -- Kentucky.</subject>
+    <subject source="lcsh">Elections -- Kentucky.</subject>
+    <geogname source="lcsh">Ghent (Ky.)</geogname>
+    <geogname authfilenumber="sh 85071970" source="lcsh">Kentucky -- History -- Civil War, 1861-1865</geogname>
+    <geogname authfilenumber="sh 85140205" source="lcsh">United States -- History -- Civil War, 1861-1865.</geogname>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865 -- African Americans</geogname>
+    <persname>Scott, John, 1767-1846</persname>
+    <corpname rules="rda" source="local">Ghent Baptist Church (Ghent, Ky.)</corpname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>John Scott correspondence</unittitle><container id="aspace_2199764859222a5f47578def412f7c1e" label="Microform" type="reel">1</container><container id="aspace_14a62619afefa8ed7783fdbb6a9a5248" parent="aspace_2199764859222a5f47578def412f7c1e" type="frame">1-54</container><dao entityref="xt73r20rv47k_1_1"/></did></c><c id="ref2" level="file"><did><unittitle>Civil War records from the office of Stephen Burbridge</unittitle><container id="aspace_acb4733d8a02530dc4312d0f24b90f56" label="Microform" type="reel">1</container><container id="aspace_9d7b900dc8d226ce69fdcfe5a143c3fe" parent="aspace_acb4733d8a02530dc4312d0f24b90f56" type="frame">55-80</container><dao entityref="xt73r20rv47k_2_1"/></did></c><c id="ref3" level="file"><did><unittitle>Assorted items</unittitle><container id="aspace_1476c6a95558c9b8c6d7f64e2d3cad9d" label="Microform" type="reel">1</container><container id="aspace_a33993b37ab4ecc16c43253f851eeb7d" parent="aspace_1476c6a95558c9b8c6d7f64e2d3cad9d" type="frame">81-103</container><dao entityref="xt73r20rv47k_3_1"/></did></c></dsc>
+</archdesc>
+</ead>

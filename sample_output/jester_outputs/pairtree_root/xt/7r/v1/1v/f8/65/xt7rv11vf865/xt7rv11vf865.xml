@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/fa/findingaid/?id=xt7rv11vf865">95m6</eadid><filedesc><titlestmt><titleproper type="filing">Oldham, Samuel A. papers</titleproper><titleproper>Guide to the Samuel A. Oldham papers, 1833-1892 <num>95m6</num></titleproper><author>Processed by: Archives Staff ; machine-readable finding aid created by:Eric Weig</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-02-08 07:45:48 -0500</date>.</creation><langusage>Description is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Samuel A. Oldham papers</unittitle>
+    <unitid>95m6</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Cubic Feet</extent>
+      <extent altrender="carrier">2 folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1833/1892" type="inclusive">1833-1892</unitdate>
+    <abstract id="aspace_857dc2e900193a30ffcf5a6551b090f4">The Samuel A. Oldham papers (dated 1833-1892; 0.1 cubic feet; 2 folders) consist of the legal and personal papers of Samuel A. Oldham, a freedman from Lexington, Kentucky.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_bafab0d8d1ab1f13455e6b79edd9d89e">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <acqinfo id="aspace_950204d1fa85e1bfd63b9c55139c1462">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, 1988</p>  </acqinfo>
+  <arrangement id="aspace_5334d33497ae6e1d6634bdaf83ea8226">
+    <head>Arrangement</head>
+<p>Collection is arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_0c2bcaad3c5a1deab3ecdbf4538b0ae3">
+    <head>Biographical note</head>
+<p>Samuel Oldham was a freedman in Lexington, Kentucky. He was the father of at least one child, a daughter Fanny, who was married to Willis Battleton. In 1857, Oldham and Battleton contracted with Fanny's master to buy her freedom. Oldham was a barber and a respected member of the community. He was guardian to Mary Clark, a freedwoman, and was responsible for training his apprentice, Henry Mitchell. He managed his own property and that of Lucy Price and Reuben Burnley. He served as the executor of Richard Morrison's estate. A letter of introduction, written for him by Mayor O.F. Payne of Lexington, testifies to the respect accorded him within the community.</p>  </bioghist>
+  <prefercite id="aspace_840fb1611bcd54772eb1dbee1179cfdc">
+    <head>Preferred Citation</head>
+<p>95m6: [identification of item], Samuel A. Oldham papers, 1833-1892, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_0358480286c7756a1e27cbba8dafe10b">
+    <head>Scope and Contents</head>
+<p>The Samuel A. Oldham papers (dated 1833-1892; 0.1 cubic feet; 2 folders) consist of the legal and personal papers of Samuel A. Oldham, a freedman from Lexington, Kentucky. The collection includes indentures for property; including his daughter Fanny, and the apprenticeship of Henry Mitchell. Instruments granting the power of attorney to Oldham from Lucy Price and Reuben Burnley are included as is the will of Richard Morrison. Several receipts and a letter of introduction from Mayor O.F. Payne are also included.</p>  </scopecontent>
+  <userestrict id="aspace_eb330ffc0ce02b2ff76b8a1481448b9d">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">African American artisans -- Kentucky -- Lexington -- History -- 19th century</subject>
+    <subject source="lcsh">African Americans -- Kentucky -- Lexington -- History -- 19th Century.</subject>
+    <subject source="lcsh">Legal instruments.</subject>
+    <subject source="lcsh">Slavery -- Kentucky.</subject>
+    <subject source="lcsh">Slavery -- Kentucky -- Lexington -- History -- 19th Century.</subject>
+    <subject source="lcsh">Wills.</subject>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Samuel A. Oldham papers</unittitle><unitdate datechar="creation" type="inclusive">1833-1892</unitdate><container id="aspace_2435dd89cd72c91ccc655bfa88b32f91" label="mixed materials" type="box">MS-47</container><container id="aspace_8afe6113e7c37c42d88883634b92da9f" parent="aspace_2435dd89cd72c91ccc655bfa88b32f91" type="folder">1</container><container id="aspace_760ce64382bbc3fd587be7eec4975431" label="mixed materials" type="box">OS-14</container><container id="aspace_a68a4a3c4af15fa0a573da02a15692f0" parent="aspace_760ce64382bbc3fd587be7eec4975431" type="folder">2</container><dao entityref="xt7rv11vf865_1_1"/></did></c></dsc>
+</archdesc>
+</ead>

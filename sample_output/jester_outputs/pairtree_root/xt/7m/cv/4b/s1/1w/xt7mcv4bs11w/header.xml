@@ -1,0 +1,190 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7mcv4bs11w</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7mcv4bs11w/data/1997ms165.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Benjamin Sebastian papers (dated 1762-1803; 0.37 cubic feet; 2 boxes) contain correspondence, receipts, land grants, and materials pertaining to Sebastian's role in the Church of England.</abstract>
+  <descriptive_summary>
+    <author>Andrew McGraw</author>
+    <title>Benjamin Sebastian papers</title>
+    <source>Benjamin Sebastian papers</source>
+    <unitdates>
+      <date>1765-1803 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.37 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Correspondence.</subject>
+      <subject>Land grants -- Kentucky.</subject>
+      <subject>Land grants -- Virginia.</subject>
+    </subjects>
+    <prefercite>1997ms165: [identification of item], The Benjamin Sebastian papers, 1765-1803, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Benjamin Sebastian (1745-1834) was a lawyer practicing in Lousiville, Kentucky as of 1785. He served as a delegate to the constitutional convention in 1792 and as a judge on the Kentucky Court of Appeals from 1792 until 1806. He resigned due to investigations into his involvement with the Spanish Conspiracy to annex the western states.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Benjamin Sebastian papers (dated 1762-1803; 0.37 cubic feet; 2 boxes) contain correspondence, receipts, land grants, and materials pertaining to Sebastian's role in the Church of England. The materials document Sebastian's purchase of land; his relationship with Alex Breckinridge and Robert Breckinridge; his role within in the Church of England; and his expenses while living in what would eventually become the Commonwealth of Kentucky.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Document, printed, complete in ink - conforming to Liturgy of the Church of England</unittitle>
+        <unitdate datechar="creation">1766 September 12</unitdate>
+        <container id="aspace_eced717c16a0a340b8e71a74cc629036" label="mixed materials" type="box">1</container>
+        <container id="aspace_0ab2dbf3313739c2a2ab0d3808fcda48" parent="aspace_eced717c16a0a340b8e71a74cc629036" type="folder">1</container>
+        <dao entityref="xt7mcv4bs11w_1_1"/>
+      </did>
+    </c>
+    <c id="ref2" level="file">
+      <did>
+        <unittitle>Francis Fauquier letter to Benjamin Sebastian</unittitle>
+        <unitdate datechar="creation">1770 January 14</unitdate>
+        <container id="aspace_6b759a4830c93dbaade01068169e3b61" label="mixed materials" type="box">1</container>
+        <container id="aspace_295513eff5cd2814b94a6048d5ed94e1" parent="aspace_6b759a4830c93dbaade01068169e3b61" type="folder">2</container>
+        <dao entityref="xt7mcv4bs11w_2_1"/>
+      </did>
+    </c>
+    <c id="ref3" level="file">
+      <did>
+        <unittitle>Benjamin Sebastian statement of account and payments</unittitle>
+        <unitdate datechar="creation" type="inclusive">1783-1785</unitdate>
+        <container id="aspace_17e0118c073d4995830d6efd46f75465" label="mixed materials" type="box">1</container>
+        <container id="aspace_0ee739a21651ced990272e20201250f7" parent="aspace_17e0118c073d4995830d6efd46f75465" type="folder">3</container>
+        <dao entityref="xt7mcv4bs11w_3_1"/>
+      </did>
+    </c>
+    <c id="ref4" level="file">
+      <did>
+        <unittitle>Indenture between Alexander and Jane Breckinridge and Benjamin Sebastian - Jefferson Co. </unittitle>
+        <unitdate datechar="creation">1786 February 13</unitdate>
+        <container id="aspace_f54cac86a2e4dd6efdc43a4630080a61" label="mixed materials" type="box">1</container>
+        <container id="aspace_84eeed39f71d94bbe8412f3f628cb861" parent="aspace_f54cac86a2e4dd6efdc43a4630080a61" type="folder">4</container>
+        <dao entityref="xt7mcv4bs11w_4_1"/>
+      </did>
+    </c>
+    <c id="ref5" level="file">
+      <did>
+        <unittitle>Patrick Henry land grant to Benjamin Sebastian
+    </unittitle>
+        <unitdate datechar="creation">1797 May</unitdate>
+        <container id="aspace_a44986d1bd6c0190fac1d06028352a5e" label="mixed materials" type="box">1</container>
+        <container id="aspace_508a33446094b9f6885da78a2c1f439d" parent="aspace_a44986d1bd6c0190fac1d06028352a5e" type="folder">5</container>
+        <dao entityref="xt7mcv4bs11w_5_1"/>
+      </did>
+    </c>
+    <c id="ref6" level="file">
+      <did>
+        <unittitle>Isaac Shelby land grant of 400 acres in Jefferson Co. to James Floyd</unittitle>
+        <unitdate datechar="creation">1790</unitdate>
+        <container id="aspace_d5a847874f6d37ac5163513cc7a249ce" label="mixed materials" type="box">1</container>
+        <container id="aspace_9418506a2ab8ffa47d1c8215be06f129" parent="aspace_d5a847874f6d37ac5163513cc7a249ce" type="folder">6</container>
+        <dao entityref="xt7mcv4bs11w_6_1"/>
+      </did>
+    </c>
+    <c id="ref7" level="file">
+      <did>
+        <unittitle>Indenture broadside</unittitle>
+        <unitdate datechar="creation" type="inclusive">1800-1803</unitdate>
+        <container id="aspace_e7a2b8f5986581b087249e1dfb2c90b1" label="mixed materials" type="box">1</container>
+        <container id="aspace_9b3ecce1ce46418bab3f5c9ca08550eb" parent="aspace_e7a2b8f5986581b087249e1dfb2c90b1" type="folder">7</container>
+        <dao entityref="xt7mcv4bs11w_7_1"/>
+      </did>
+    </c>
+    <c id="ref8" level="file">
+      <did>
+        <unittitle>Appointment of Benjamin Sebastian as Deacon</unittitle>
+        <unitdate datechar="creation">1765 September</unitdate>
+        <container id="aspace_bdf36a51d44c84b3633376ed3b919317" label="mixed materials" type="box">2</container>
+        <container id="aspace_696ae549cff74649ff362db23a292c44" parent="aspace_bdf36a51d44c84b3633376ed3b919317" type="folder">1</container>
+        <dao entityref="xt7mcv4bs11w_8_1"/>
+      </did>
+    </c>
+    <c id="ref9" level="file">
+      <did>
+        <unittitle>Benjamin Sebastian letter to Alex Breckinridge</unittitle>
+        <unitdate datechar="creation">circa 1780</unitdate>
+        <container id="aspace_f47041a9a3f60b73d2b5f8ca23c35ba9" label="mixed materials" type="box">2</container>
+        <container id="aspace_07ab99b2f39e4380655dae451745c731" parent="aspace_f47041a9a3f60b73d2b5f8ca23c35ba9" type="folder">2</container>
+        <dao entityref="xt7mcv4bs11w_9_1"/>
+      </did>
+    </c>
+    <c id="ref10" level="file">
+      <did>
+        <unittitle>Benjamin Sebastian debt to Dr. Samuel Young</unittitle>
+        <unitdate datechar="creation">1784 October 5</unitdate>
+        <container id="aspace_0971dce9eff3e98f10069dbdc395372e" label="mixed materials" type="box">2</container>
+        <container id="aspace_aac9ebaff4a1cc9140d1654aabea18b8" parent="aspace_0971dce9eff3e98f10069dbdc395372e" type="folder">3</container>
+        <dao entityref="xt7mcv4bs11w_10_1"/>
+      </did>
+    </c>
+    <c id="ref11" level="file">
+      <did>
+        <unittitle>A statement of account with Dr. Samuel Young</unittitle>
+        <unitdate datechar="creation">1784-1785</unitdate>
+        <container id="aspace_1491a87525fa89d317ffd6f6c944b78c" label="mixed materials" type="box">2</container>
+        <container id="aspace_117d07dc996dbba4726ad9c71956b29c" parent="aspace_1491a87525fa89d317ffd6f6c944b78c" type="folder">4</container>
+        <dao entityref="xt7mcv4bs11w_11_1"/>
+      </did>
+    </c>
+    <c id="ref12" level="file">
+      <did>
+        <unittitle>Statement of purchases by Benjamin Sebastian from George Woltz</unittitle>
+        <unitdate datechar="creation" type="inclusive">1784-1785</unitdate>
+        <container id="aspace_10a0aa1bee19425b47133366fde667d1" label="mixed materials" type="box">2</container>
+        <container id="aspace_66721706c2921d45e741423b7b1ae1f1" parent="aspace_10a0aa1bee19425b47133366fde667d1" type="folder">5</container>
+        <dao entityref="xt7mcv4bs11w_12_1"/>
+      </did>
+    </c>
+    <c id="ref13" level="file">
+      <did>
+        <unittitle>Statement from Benjamin Sebastian to John Riddle - for tuition for his children</unittitle>
+        <unitdate datechar="creation">1784</unitdate>
+        <container id="aspace_1886b58b909ad0a9ca6c49f2ff2cc406" label="mixed materials" type="box">2</container>
+        <container id="aspace_328fafcc30d492d63bbfc4f67f3655b9" parent="aspace_1886b58b909ad0a9ca6c49f2ff2cc406" type="folder">6</container>
+        <dao entityref="xt7mcv4bs11w_13_1"/>
+      </did>
+    </c>
+    <c id="ref14" level="file">
+      <did>
+        <unittitle>Statement of expenses to I. Taylor - journey from Hagers Town to the Monohala </unittitle>
+        <unitdate datechar="creation">1785 October</unitdate>
+        <container id="aspace_e8286b8b915066a8b6eb31e237d57be1" label="mixed materials" type="box">2</container>
+        <container id="aspace_16f78125bbe09b6bb29b6d41b653b931" parent="aspace_e8286b8b915066a8b6eb31e237d57be1" type="folder">7</container>
+        <dao entityref="xt7mcv4bs11w_14_1"/>
+      </did>
+    </c>
+    <c id="ref15" level="file">
+      <did>
+        <unittitle>Benjamin Sebastian letter Robert Breckinridge - Copy: Original was delivered to F. Taylor</unittitle>
+        <unitdate datechar="creation">1790 September 27</unitdate>
+        <container id="aspace_89686074ef040b35bf83d7cf03306c79" label="mixed materials" type="box">2</container>
+        <container id="aspace_b8007ef982b4aecc22e1201cad5ed801" parent="aspace_89686074ef040b35bf83d7cf03306c79" type="folder">8</container>
+        <dao entityref="xt7mcv4bs11w_15_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

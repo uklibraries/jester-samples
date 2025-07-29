@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="http://exploreuk.uky.edu/catalog/xt7dbr8mgh9m/guide">65m131</eadid><filedesc><titlestmt><titleproper type="filing">Hilton family diaries</titleproper><titleproper>Hilton family diaries, 1840-1904 <num>65m131</num></titleproper><author>Ida Lucille Sell</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2011 June 7</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-06-03 09:37:41 -0400</date>.</creation><langusage>Description is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Hilton family diaries</unittitle>
+    <unitid>65m131</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/606</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.45 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1840/1904" type="inclusive">1840-1904</unitdate>
+    <abstract id="aspace_d1a52273b122bbb9a50424b16b26aca5">The Hilton family diaries (dated 1840-1904; 0.45 cubic feet; 1 box) includes diaries kept by Martin Tobey Hilton and his daughter, Mary Henrietta Hilton.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_a31c8c78965e921bbd439c4f4b59b827">
+    <head>Biographical note</head>
+<p>Surveyor and engineer, Martin Tobey Hilton (1817-1898) was a native of Maine who moved to Kentucky in 1853 to work for the Lexington &amp; and the Big Sandy Railroad Company. He settled in Ashland, Kentucky, in 1855. He was responsible for surveying and laying out the city of Ashland.</p>  </bioghist>
+  <scopecontent id="aspace_80feac81ff9f97eb4bd7e6cadfd8a71e">
+    <head>Scope and Contents</head>
+<p>The Hilton family diaries (dated 1840-1904; 0.45 cubic feet; 1 box) includes diaries kept by Martin Tobey Hilton and his daughter, Mary Henrietta Hilton. The diaries record information on weather conditions, social events, and family matters. Martin Tobey Hilton's diaries contain information about his work as a surveyor and engineer. Two of the diaries, for 1854-1855 and for 1898, contain receipts and other papers.</p>  </scopecontent>
+  <arrangement id="aspace_5886f09fddfff763250e4986ab73e13f">
+    <head>Arrangement</head>
+<p>This collection is arranged chronologically.</p>  </arrangement>
+  <accessrestrict id="aspace_23baafd98ae93a05fd7cd36613a10721">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <userestrict id="aspace_03f2e92d51e69d02d661cd255116baa8">
+    <head>Conditions Governing Use</head>
+<p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact Special Collections.</p>  </userestrict>
+  <prefercite id="aspace_fe737c27264f3c4ce5b37af1d2611cf8">
+    <head>Preferred Citation</head>
+<p>65m131: [identification of item], Hilton family diaries, 1840-1904, University of Kentucky Special Collections.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Diaries -- 19th Century.</subject>
+    <genreform authfilenumber="gf2014026085" source="lcsh">Diaries.</genreform>
+    <subject source="lcsh">Engineers.</subject>
+    <subject source="lcsh">Surveyors.</subject>
+    <geogname source="lcsh">Ashland (Ky.) -- History</geogname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unitid type="aspace_uri">/repositories/2/archival_objects/54843</unitid><unitdate datechar="creation">1840-1851</unitdate><container id="aspace_f484b7cfa89187cfd46f20b52a7b4692" label="mixed materials" type="box">1</container><container id="aspace_2ecc79003e89cc41b1ebc064ef9985a9" parent="aspace_f484b7cfa89187cfd46f20b52a7b4692" type="folder">1</container><dao entityref="xt7dbr8mgh9m_1_1"/></did></c><c id="ref2" level="file"><did><unitid type="aspace_uri">/repositories/2/archival_objects/54844</unitid><unitdate datechar="creation">1851-1855</unitdate><container id="aspace_13c9a01f62e51a2c6966368783380a53" label="mixed materials" type="box">1</container><container id="aspace_fe2c6813eacecc0c737bb55c78c1289e" parent="aspace_13c9a01f62e51a2c6966368783380a53" type="folder">2</container><dao entityref="xt7dbr8mgh9m_2_1"/></did></c><c id="ref3" level="file"><did><unitid type="aspace_uri">/repositories/2/archival_objects/54845</unitid><unitdate datechar="creation">1863-1876</unitdate><container id="aspace_be569a7e1a5ccb6d420ad30d449e5d2d" label="mixed materials" type="box">1</container><container id="aspace_ca31bd5fefec65511bd8b06326fa64a7" parent="aspace_be569a7e1a5ccb6d420ad30d449e5d2d" type="folder">3</container><dao entityref="xt7dbr8mgh9m_3_1"/></did></c><c id="ref4" level="file"><did><unitid type="aspace_uri">/repositories/2/archival_objects/54846</unitid><unitdate datechar="creation">1880-1892</unitdate><container id="aspace_6eeb904184fdf1e82f96cfa2df43d61d" label="mixed materials" type="box">1</container><container id="aspace_46cc725fe71c0100dc03904cd2f99d0a" parent="aspace_6eeb904184fdf1e82f96cfa2df43d61d" type="folder">4</container><dao entityref="xt7dbr8mgh9m_4_1"/></did></c><c id="ref5" level="file"><did><unitid type="aspace_uri">/repositories/2/archival_objects/54847</unitid><unitdate datechar="creation">1892-1895</unitdate><container id="aspace_fcd6768b58af3e2ffaee4b50d735e49f" label="mixed materials" type="box">1</container><container id="aspace_310bc49e3105955b051ac4a942244e55" parent="aspace_fcd6768b58af3e2ffaee4b50d735e49f" type="folder">5</container><dao entityref="xt7dbr8mgh9m_5_1"/></did></c><c id="ref6" level="file"><did><unitid type="aspace_uri">/repositories/2/archival_objects/54848</unitid><unitdate datechar="creation">1896-1899</unitdate><container id="aspace_0f7befe5d3760d965f45fc6412badfad" label="mixed materials" type="box">1</container><container id="aspace_21ec481fadf3c649df056f6f0cfd1320" parent="aspace_0f7befe5d3760d965f45fc6412badfad" type="folder">6</container><dao entityref="xt7dbr8mgh9m_6_1"/></did></c><c id="ref7" level="file"><did><unitid type="aspace_uri">/repositories/2/archival_objects/54849</unitid><unitdate datechar="creation">1900-1904</unitdate><container id="aspace_c7492bba46c60ae6f4cb1949bd2b62f8" label="mixed materials" type="box">1</container><container id="aspace_baa921000bd72adce6e2d245158f8225" parent="aspace_c7492bba46c60ae6f4cb1949bd2b62f8" type="folder">7</container><dao entityref="xt7dbr8mgh9m_7_1"/></did></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,63 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7s4m91cd55</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7s4m91cd55/data/2005ms024.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Medicine recipe book (dated 1876-1892; 0.1 cubic feet; 1 box) is a journal of handwritten medical recipes presumably maintained by a Kentucky physician or pharmacist.</abstract>
+  <descriptive_summary>
+    <author>Taylor Sturgill</author>
+    <title>Medicine recipe book</title>
+    <source>Medicine recipe book</source>
+    <unitdates>
+      <date>1876-1892 (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement></arrangement>
+    <subjects>
+      <subject>Medicine -- Kentucky.</subject>
+      <subject>Medicine -- Formulae, receipts, prescriptions.</subject>
+      <subject>Traditional medicine</subject>
+    </subjects>
+    <prefercite>2005ms024 : [identification of item] Medicine recipe book, 1876-1892, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>Prior to the introduction of antibiotics in the 20th century, medical practitioners relied heavily upon natural plants, such as herbs, seeds, berries, roots, leaves, bark or flowers, for medicinal formulations. Herbal medicines often helped heal symptoms or alieviate discomfort during an illness. The unknown 19th century person, possibly a physician or pharmacist, who created this journal of medical recipes using plants and other natural substances, likely used the small journal as a reference book for their recipes.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Medicine recipe book (dated 1876-1892; 0.1 cubic feet; 1 box) is a journal of handwritten medical recipes presumably maintained by a Kentucky physician or pharmacist. Some of the formulas include common herbs and natural ingredients such as peppermint, spearmint, bloodroot, garden valerian, maiden hair, yellow water flag, and others to aleviate the symptoms of common ailments such as cough and fever. Procedures on how to concentrate certain ingredients are in the back of the manuscript, while the first half gives the listing ingredients, measurements, and instructions on how to make each compound. The collection also contains 1 loose leaf paper with instructions for a medicine formulation.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Medicine recipe book</unittitle>
+        <unitdate datechar="creation" type="inclusive">1876-1892</unitdate>
+        <container id="aspace_159c0ac3db8d64f376f7996c27bf067e" label="mixed materials" type="box">1</container>
+        <container id="aspace_619ff75cd3f251809d7e8039ca4f281e" parent="aspace_159c0ac3db8d64f376f7996c27bf067e" type="item">1</container>
+        <dao entityref="xt7s4m91cd55_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

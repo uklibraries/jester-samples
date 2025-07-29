@@ -1,0 +1,122 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7f1v5bcx0c</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7f1v5bcx0c/data/64m142.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract></abstract>
+  <descriptive_summary>
+    <author>Finding aid prepared by Katie L.B. Henningsen</author>
+    <title>Smith family papers</title>
+    <source>Smith family papers</source>
+    <unitdates>
+      <date>1858-1955 (inclusive)</date>
+      <date>Bulk, 1859-1874 (bulk)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.45 Cubic feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Smith, George Washington, 1832-1908</subject>
+      <subject>Smith, Robert, 1784-1858</subject>
+      <subject>Agriculture--Documentation.</subject>
+      <subject>Agriculture--Kentucky--History.</subject>
+      <subject>Corn</subject>
+      <subject>Corydon (Ky.)</subject>
+      <subject>Henderson (Ky.)</subject>
+      <subject>Henderson County (Ky.)--Genealogy.</subject>
+      <subject>Henderson County (Ky.)--Social conditions.</subject>
+      <subject>Registers of births, etc.</subject>
+      <subject>Rye.</subject>
+      <subject>Slavery--Kentucky--History.</subject>
+      <subject>Smith Mills (Ky.)</subject>
+      <subject>Tobacco.</subject>
+      <subject>United States--History--Civil War, 1861-1865.</subject>
+      <subject>Wheat.</subject>
+      <subject>Wills.</subject>
+    </subjects>
+    <prefercite>64M142 : [identification of item], Smith family papers, 1858-1955, Bulk 1859-1874, University of Kentucky Special Collections.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+                  <head>Biographical note</head>
+                  <p>George Washington Smith (1832-1908) was a farmer and, apparently, owner of a sawmill in Henderson County, Ky.</p>
+    </bioghist>
+    <scopecontent>
+      
+                  <head>Scope and Contents note</head>
+                  <p>The collection consists of a diary, a will, a letter and some genealogical material related to the Smith family of Smith Mills and Henderson, Ky. The diary (1854-1874) which comprises the bulk of the collection is that of George Washington Smith. Primarily, the diary is a laconic account of Smith's daily activities, such as supervising slaves, planting and harvesting corn, wheat, rye or tobacco, making trips into Corydon, or into Henderson, attending church or going to parties and other social functions for the purpose of obtaining a wife. The diary sometimes offers insights into the political situation in Henderson County preceding and during the Civil War, the price of slaves throughout the war as well as social and religious life in the area. The original and a typescript of the diary are available.</p>
+                  <p>The will of George Washington Smith's father, Robert Smith, is present as are some pages from the Smith family Bible which records births, deaths and marriages from 1753-1955. Also included is a letter from G. W. Smith proposing marriage (which he apparently did numerous times, without success) to an unknown correspondent.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+                  <head>Conditions Governing Access note</head>
+                  <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+                  <head>Conditions Governing Use note</head>
+                  <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+                    <did>
+                        <unittitle>Diary</unittitle>
+                        <container id="cid1219001" type="box" label="Mixed materials">1</container>
+                        <container parent="cid1219001" type="folder">1</container>
+                        <unitdate>1859-1862</unitdate>
+                    <dao entityref="xt7f1v5bcx0c_1_1"/></did>
+                </c>
+    <c id="ref2" level="file">
+                    <did>
+                        <unittitle>Diary</unittitle>
+                        <container id="cid1219002" type="box" label="Mixed materials">1</container>
+                        <container parent="cid1219002" type="folder">2</container>
+                        <unitdate>1863-1867</unitdate>
+                    <dao entityref="xt7f1v5bcx0c_2_1"/></did>
+                </c>
+    <c id="ref3" level="file">
+                    <did>
+                        <unittitle>Diary</unittitle>
+                        <container id="cid1219003" type="box" label="Mixed materials">1</container>
+                        <container parent="cid1219003" type="folder">3</container>
+                        <unitdate>1868-1874</unitdate>
+                    <dao entityref="xt7f1v5bcx0c_3_1"/></did>
+                </c>
+    <c id="ref4" level="file">
+                    <did>
+                        <unittitle>Family Records</unittitle>
+                        <container id="cid1219004" type="box" label="Mixed materials">1</container>
+                        <container parent="cid1219004" type="folder">4</container>
+                        <unitdate>1753-1955</unitdate>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>This folder contains a genealogy, which appears to be from a family bible and a typescript of Robert Smith's will.</p>
+                    </scopecontent>
+                </c>
+    <c id="ref5" level="file">
+                    <did>
+                        <unittitle>Proposal of marriage to unidentified recipient</unittitle>
+                        <container id="cid1219005" type="box" label="Mixed materials">1</container>
+                        <container parent="cid1219005" type="folder">5</container>
+                        <unitdate>1861 July 23</unitdate>
+                    </did>
+                </c>
+    <c id="ref6" level="file">
+                    <did>
+                        <unittitle>Diary Typescript</unittitle>
+                        <container id="cid1219008" type="box" label="Mixed materials">1</container>
+                        <container parent="cid1219008" type="folder">6-8</container>
+                        <unitdate>1859-1874</unitdate>
+                    <dao entityref="xt7f1v5bcx0c_4_1"/></did>
+                </c>
+  </contents>
+</header>

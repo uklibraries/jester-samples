@@ -1,0 +1,79 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt71rn305g3g</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt71rn305g3g/data/2011ms196.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Captain Francis Allyn papers (dated 1814-1925, undated; 0.3 cu. ft.; 21 folders) primarily contains letters sent to Francis Allyn, documenting his work as an Antlantic ship captain and his relationship with the Marquis de Lafayette and the Lafayette family.</abstract>
+  <descriptive_summary>
+    <author>Carol Street</author>
+    <title>Captain Francis Allyn papers</title>
+    <source>Captain Francis Allyn papers</source>
+    <unitdates>
+      <date>1814-1925, undated (inclusive)</date>
+    </unitdates>
+    <creator></creator>
+    <extent>0.3 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Cadmus (Brig)</subject>
+      <subject>Letters.</subject>
+      <subject>Ship captains.</subject>
+      <subject>Scientists.</subject>
+      <subject>Travel.</subject>
+    </subjects>
+    <prefercite>2011ms196: [identification of item], Captain Francis Allyn papers, 1814-1925, undated, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Francis Allyn (1791-1862) worked as a sea captain in the Atlantic trade. He served as an military officer in the 41st Infantry Regiment during the War of 1812. He was the captain of the ship Cadmus, which brought General Lafayette and his family from France to the United States in 1824. During the journey, they became friends and Lafayette's family relied on Captain Allyn to coordinate letters, packages, and transit home to France. The families remained close after the journey and Allyn's wife, Jane Colden Ally (1801-1873), spent months at the Lafayette family home, La Grange.</p><p>Garland Hale Barr (1861-1930) likely purchased the Lafayette letters from Captain Francis Allyn's descendents in the 1920s. Barr lived in Lexington and worked in finance. He and his wife, Elsie Jackson Barr, had a son, Garland Hale Barr, Jr. </p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Captain Francis Allyn papers (dated 1814-1925, undated; 0.3 cu. ft.; 21 folders) primarily contain letters sent to Francis Allyn, documenting his work as an Antlantic ship captain and his relationship with the Marquis de Lafayette and the Lafayette family. The letters from Lafayette and his son, George Washington (G.W.) Lafayette, to Allyn frequently mention travel arrangements, requests for help in forwarding mail to their next stop, and other logistics during their journey to and through the United States from July 1824 to September 1825. Of major concern for G.W. Lafayette was the safe passage of a shipment containing four opossums to an unnamed scientist in Paris for research purposes. Captain Allyn and the Lafayette family remained close and there are letters dated after the journey ended. There is a letter from Nathalie Lafayette (G.W.'s daughter) to Allyn's wife, Jane Colden Allyn, after her extended stay at the Lafayette home, La Grange, in France.</p><p>Two letters are from Peter Stephen Du Ponceau (1760-1844), a French-American linguist and philosopher who lived in Philadelphia. It appears that General Lafayette connected the two men.</p><p>The collection also contains Fort Lewis inspection reports give a detailed inventory of military personnell, clothing, weapons, and food supplies at Fort Lewis in Brooklyn, New York, in 1814.</p><p>In addition, the collection includes unrelated items, such as photographs of portrait paintings and a family in front of a house, facsimiles of an Abraham Lincoln letter and an early map of Kentucky, and photogravures from the Corcoran Gallery in Washington, D.C.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="series">
+      <did>
+        <unittitle>Captain Francis Allyn papers</unittitle>
+        <unitid>Series I.</unitid>
+        <unitdate datechar="creation" type="inclusive">1814-1828, undated</unitdate>
+      </did>
+      <c id="ref2" level="subseries"/>
+      <c id="ref5" level="subseries"/>
+    </c>
+    <c id="ref24" level="series">
+      <did>
+        <unittitle>Barr family papers</unittitle>
+        <unitid>Series II.</unitid>
+        <unitdate datechar="creation" type="inclusive">1924-1925, undated</unitdate>
+      </did>
+      <c id="ref25" level="file"/>
+      <c id="ref26" level="file"/>
+      <c id="ref27" level="file"/>
+      <c id="ref28" level="file"/>
+      <c id="ref29" level="file"/>
+      <c id="ref30" level="file"/>
+      <c id="ref31" level="file"/>
+    </c>
+  </contents>
+</header>

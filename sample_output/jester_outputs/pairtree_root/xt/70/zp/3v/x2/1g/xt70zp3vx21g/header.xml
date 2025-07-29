@@ -1,0 +1,64 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt70zp3vx21g</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt70zp3vx21g/data/53M95.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Postlethwait's Tavern daybook (dated 1797-1803; 0.09 cubic feet; 1 item) lists the purchases made by patrons at the Lexington, Kentucky tavern between the years of 1797 and 1803.</abstract>
+  <descriptive_summary>
+    <author>Paige Thyne</author>
+    <title>Postlethwait's Tavern daybook</title>
+    <source>Postlethwait's Tavern daybook</source>
+    <unitdates>
+      <date>1797-1803 (inclusive)</date>
+    </unitdates>
+    <creator>Postlethwait, John, Captain, d. 1833</creator>
+    <extent>0.09 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Account books.</subject>
+      <subject>Alcohol</subject>
+      <subject>Ledgers (account books)</subject>
+      <subject>Taverns (Inns) -- Kentucky.</subject>
+      <subject>Postlethwait, John, Captain, d. 1833</subject>
+    </subjects>
+    <prefercite>53M95: [identification of item], Postlethwait's Tavern daybook, 1797-1803, University of Kentucky Libraries Special Collection Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Historical note</head>
+      <p>The Postlethwait Tavern was established in 1797 by Captain John Postlethwait in Lexington, Kentucky. The tavern was frequented by both common people and prominent individuals. Horse racing was growing in popularity at the time, and the tavern aided it's development by selling pools for the races. The tavern became a hotspot for horse racing enthusiests because of this. </p><p>In the summer of 1833, the Postlethwait Tavern became the center of the Lexington, Kentucky cholera epidemic. The tavern likely used water contaminated by the disease, and due to the tavern's popularity the disease spread rapidly. The disease would claim the lives of about 500 Lexington citizens, including John Postlethwait. </p><p>After two fires, the tavern was rebuilt in around 1820 and renamed the Phoenix Hotel. It remained a Lexington landmark until it was torn down in the early 1980s.</p><p>Sources: </p><p>Jacob Baird and T. C. Whitlock. <title render="doublequote">Captain John Postlethwait's Tavern.</title>, Clio: Your Guide to History. December 31, 2019. Accessed February 27, 2023. https://www.theclio.com/entry/88539</p><p>The WPA Guide to Kentucky, Compiled and Written by the Federal Writers' Project of the Work Projects Administration for the State of Kentucky; F. Kevin Simon, editor; foreword by Thomas D. Clark, Accessed February 27, 2023. https://exploreuk.uky.edu/catalog/xt7gth8bj73z#page/1/mode/1up.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Postlethwait's Tavern daybook (dated 1797-1803; 0.09 cubic feet; 1 item) lists the purchases made by patrons at the Lexington, Kentucky tavern between the years of 1797 and 1803. The daybook progresses in chronological order, including pages dedicated to the accounts of regular customers. It lists items purchased under individuals' names, charges for the items, and amounts received in payment. Ledger items include brandy, wine, punch, whiskey, oats, breakfast, dinner, supper, horse lodging, and other sundries. Among the names of customers included are those of John Bradford, Henry Clay, Cuthbert Banks, John Speed, Levi Todd, Buckner Thruston, Baron Felipe Enrique Neri Bastrop, George Bibb and other notable Kentuckians of the time period.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Access to the original daybook is restricted due to preservation concerns. Digitized images of the daybook have been provided for patron access and use.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Postlethwait's Tavern daybook</unittitle>
+        <unitdate datechar="creation" type="inclusive">1797-1803</unitdate>
+        <container id="aspace_df083fbcd5cfe799c07d81a4373accea" label="mixed materials" type="item">1</container>
+        <dao entityref="xt70zp3vx21g_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

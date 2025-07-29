@@ -1,0 +1,63 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt75hq3rz116</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt75hq3rz116/data/2021ms021.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Simon Kenton papers (dated 1783-1812; 0.1 cubic feet; 1 folder) comprise indentures, a receipt, a bond, a petition, and a deposition involving Kenton and document various land deals, disputes, and financial arrangements in Kentucky.</abstract>
+  <descriptive_summary>
+    <author>Megan Mummey</author>
+    <title>Simon Kenton papers</title>
+    <source>Simon Kenton papers</source>
+    <unitdates>
+      <date>1783-1812 (inclusive)</date>
+    </unitdates>
+    <creator>Kenton, Simon, 1755-1836</creator>
+    <extent>0.1 Cubic Feet</extent>
+    <arrangement>Collection is arranged chronologically.</arrangement>
+    <subjects>
+      <subject>Fugitive slaves -- Kentucky.</subject>
+      <subject>Kentucky -- History -- To 1792.</subject>
+      <subject>Clay, Henry, 1777-1852</subject>
+      <subject>Kenton, Simon, 1755-1836</subject>
+    </subjects>
+    <prefercite>2021ms021: [identification of item], Simon Kenton papers, 1783-1812, University of Kentucky Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Simon Kenton (1755-1836), of Virginia, left home as a teenager, heading west to Kentucky and serving there as a scout in Dunmore's War (1774), saving Daniel Boone's life in 1777, and joining the American frontier war experience during the Revolution, including some service as a scout with George Rogers Clark. Acquiring land in Mason County, Kentucky, in 1785, he lived there in relative prosperity, with service in the 1793-1794 campaigns of Anthony Wayne, until settling in Ohio in 1799. He served with a Kentucky regiment in the War of 1812, taking part in the battle of the Thames. His later years were spent in poverty, primarily due to defective titles to his land.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Simon Kenton papers (dated 1783-1812; 0.1 cubic feet; 1 folder) comprise indentures, a receipt, a bond, a petition, and a deposition involving Kenton and document various land deals, disputes, and financial arrangements in Kentucky. The collection includes a deposition Kenton gave in Urbana, Ohio, in 1812, concerning an enslaved woman named Sarah, who escaped from slavery. Kenton swore in the deposition that her enslaver, John Phillips, was searching for her in Mason County, Kentucky, where she was supposedly living with a Native American tribe. Other documents include indentures, a receipt, a promissory note, accounts, a personal bond, and a petition concerning a road through Kenton's property in Mason County from 1789. Additionally there is a note from Kenton to Henry Clay (text and signature in another hand) directing an appeareance to take depositions.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="file">
+      <did>
+        <unittitle>Simon Kenton papers</unittitle>
+        <unitdate datechar="creation" type="inclusive">1783-1812</unitdate>
+        <container id="aspace_27ba0de82efa584cc1c7ae15b02be35a" label="mixed materials" type="box">MS-49</container>
+        <container id="aspace_b3a05c6401fd74510c3249e47fd029ce" parent="aspace_27ba0de82efa584cc1c7ae15b02be35a" type="folder">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

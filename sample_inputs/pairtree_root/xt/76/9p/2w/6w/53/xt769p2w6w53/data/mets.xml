@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:bib="http://www.loc.gov/mets/profiles/bibRecord" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:mets="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" OBJID="2022ms063" PROFILE="lc:bibRecord">
+  <mets:metsHdr CREATEDATE="2024-06-04T13:17:36" LASTMODDATE="2024-06-04T13:17:36" RECORDSTATUS="SIP">
+    <mets:agent ROLE="CREATOR" TYPE="REPOSITORY">
+      <mets:name>University of Kentucky</mets:name>
+      <mets:note>SIP METS and associated file(s) submitted to KUDL.</mets:note>
+    </mets:agent>
+    <mets:agent ROLE="PRESERVATION" TYPE="ORGANIZATION">
+      <mets:name>University of Kentucky</mets:name>
+      <mets:note>SIP METS and associated file(s) submitted to KUDL.</mets:note>
+    </mets:agent>
+    <mets:altRecordID TYPE="SIP">2022ms063</mets:altRecordID>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMD1">
+    <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OAI_DC">
+      <mets:xmlData>
+        <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en">The Kentucky Quilt Project, Inc. "Why Quilts Matter: History, Art, and Politics" documentary records</dc:title>
+          <dc:source>The Kentucky Quilt Project, Inc. "Why Quilts Matter: History, Art, and Politics" documentary records</dc:source>
+          <dc:creator>Kentucky Quilt Project</dc:creator>
+          <dc:identifier>2022ms063</dc:identifier>
+          <dc:publisher>University of Kentucky</dc:publisher>
+          <dc:date>1994-2023</dc:date>
+          <dc:format>collections</dc:format>
+          <dc:type>text</dc:type>
+          <dc:language>English</dc:language>
+          <dc:rights>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.  Contact the Special Collections Research Center for information regarding rights and use of this collection.</dc:rights>
+          <dc:description>4 Cubic Feet 2 record boxes of text documents, 2 record boxes of physical media and hard drives 418.6 Gigabytes 3,006 files, 517 folders 367 Megabytes553 files in 63 foldersThis directory is primarily composed of Microsoft Word and Excel documents, recording the business, budgets, fundraising, and other financial and distribution activities of the Kentucky Quilt Project.</dc:description>
+        </oai_dc:dc>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec>
+    <mets:rightsMD>
+      <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="RIGHTSMD">
+        <mets:xmlData>
+          <mets:versionStatement>2024</mets:versionStatement>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="ADMRTS1">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRights">
+        <mets:xmlData>
+          <mets:RightsDeclarationMD RIGHTSCATEGORY="">
+            <mets:Context CONTEXTCLASS="GENERAL PUBLIC">
+              <mets:Constraints CONSTRAINTTYPE="RE-USE">
+                <mets:ConstraintDescription>View Collection Guide to obtain rights information.</mets:ConstraintDescription>
+              </mets:Constraints>
+            </mets:Context>
+          </mets:RightsDeclarationMD>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ID="FileGrpFindingAid" USE="Finding Aid">
+      <mets:file ID="MasterFindingAid" USE="master" MIMETYPE="application/xml">
+        <mets:FLocat xlink:href="2022ms063.xml" LOCTYPE="OTHER"/>
+      </mets:file>
+    <mets:file ID="AccessFindingAid" MIMETYPE="application/xml" USE="access"><mets:FLocat LOCTYPE="OTHER" xlink:href="2022ms063.dao.xml"/></mets:file></mets:fileGrp>
+  </mets:fileSec>
+<mets:structMap/></mets:mets>

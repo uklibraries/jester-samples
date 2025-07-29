@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2022ua022</eadid><filedesc><titlestmt><titleproper type="filing">University of Kentucky. College of Education. Kentucky Lincoln School for Gifted Children proposal and supporting documents</titleproper><titleproper>Guide to the University of Kentucky. College of Education. Kentucky Lincoln School for Gifted Children proposal and supporting documents, 1967-1969 <num>2022ua022</num></titleproper><author>Ruth E. Bryan</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2022 April 26</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-06-13 12:32:19 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>University of Kentucky. College of Education. Kentucky Lincoln School for Gifted Children proposal and supporting documents</unittitle>
+    <unitid>2022ua022</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.56 Cubic Feet</extent>
+      <extent altrender="carrier">1 slim document box, 1 flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1967/1969" type="inclusive">1967-1969</unitdate>
+    <abstract id="aspace_f29627c89bfd47a84379ea0a5aea0788">The University of Kentucky. College of Education. Kentucky Lincoln School for Gifted Children proposal and supporting documents (dated 1967-1969; 0.56 cubic feet; 1 slim document box, 1 flat box) comprises a proposal from the University of Kentucky College of Education to the Board of the Kentucky Lincoln School in response to a mandate from the Kentucky Legislature that the Lincoln School should become a <emph render="doublequote">secondary school for the education of exceptionally talented but culturally and economically deprived children of the Commonwealth of Kentucky.</emph></abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_8711ca4281951f5ac4e79c53c60d47f1">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment</p>  </accessrestrict>
+  <acqinfo id="aspace_6350e37989592a07a9157159b11c84ba">
+    <head>Immediate Source of Acquisition</head>
+<p>Transfer, 2010?</p>  </acqinfo>
+  <bioghist id="aspace_c849a8decf5eef14308e8a62ec415bdc">
+    <head>Historical Note</head>
+<p>The Lincoln School in Simpsonville, Kentucky, had its roots in the Lincoln Institute, a secondary school for African-American students that was formed with support from Berea College after the 1904 Kentucky Day Law was passed, which prohibited integrated education. The Lincoln Foundation deeded the Institute to the state in 1948 and when the Day Law was amended in 1954 to allow integration, the decision was made to phase out the Lincoln Institute. It continued to operate until 1966 while plans for a new type of school were discussed.</p><p>A prospectus presented to the Kentucky Department of Education by the Board of Regents from Kentucky State College set out plans for a boarding school designed for academically gifted, "deprived" students of all races. This plan was approved in 1966 and a governing board was created, made up of representatives chosen by Kentucky State College and the University of Kentucky. The Board was instructed to contract with the UK College of Education for the operation of the school and the first class began in September 1967.</p><p>The objective of the Lincoln School was to "accelerate and enrich" the educational experience of its students in order that they be prepared for entrance into college upon completion. The school was to serve as a sort of research experiment in alternative education, guided and studied by the UK College of Education. The school's residential nature allowed for schedules and teaching methods that differed from the norm at that time, and it also allowed for greater attention to individual students.
+While results of the experiment were good--test scores, attitudes and interest of most students studied improved significantly--disagreements concerning the overall importance of the program, implementation of policies, and, most of all, a lack of public support for funding led to the closing of the school at the end of the 1970 school year (which included an accelerated summer program that allowed seniors to graduate, thanks to support from Governor Louie B. Nunn). Efforts were made to ensure the acceptance of any interested graduating seniors into college.</p><p>The site is now home to the Whitney M. Young Job Corps Center, but alumni and former faculty of the Lincoln School continue to keep in touch through a newsletter that began on the school's closing, and is now available in an online version (see "Related Materials" below) along with photographs and other documentation on the school.</p><p>Source:  <title render="doublequote">Historical Note.</title> Guide to the Lincoln School records. University of Kentucky Libraries Special Collections Research Center, January 2008.</p>  </bioghist>
+  <prefercite id="aspace_cf49d66f5a393b0cdc98b0b8dfc5e83c">
+    <head>Preferred Citation</head>
+<p>2022ua022 : [identification of item], University of Kentucky. College of Education. Kentucky Lincoln School for Gifted Children proposal and supporting documents, 1967-1969, University of Kentucky Libraries Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_d0b0facc0ed05d6645b1aa7d8de91017">
+    <head>Scope and Contents</head>
+<p>The University of Kentucky. College of Education. Kentucky Lincoln School for Gifted Children proposal and supporting documents (dated 1967-1969; 0.56 cubic feet; 1 slim document box, 1 flat box) comprises a proposal from the University of Kentucky College of Education to the Board of the Kentucky Lincoln School in response to a mandate from the Kentucky Legislature that the Lincoln School should become a <emph render="doublequote">secondary school for the education of exceptionally talented but culturally and economically deprived children of the Commonwealth of Kentucky.</emph> The proposal was packaged in a binder that includes policies, Lincoln School board minutes, budget, curriculum and class schedules, campus and capital planning, correspondence and notes, school newsletters, and printed material about the Lincoln School. the binder probably belonged to Robert L. Johnson, Vice President of University of Kentucky Student Affairs, who was a member of the Lincoln School board.</p>  </scopecontent>
+  <userestrict id="aspace_f34055bdc2d595ec60146582614d1fea">
+    <head>Conditions Governing Use</head>
+<p>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.</p>  </userestrict>
+  <relatedmaterial id="aspace_3a4b6f43431242643698394a8e82b77e">
+    <head>Related Materials</head>
+<p>0000ua133:  Lincoln School records, 1944-1971, University of Kentucky Libraries Special Collections Research Center.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Gifted children -- Education -- Kentucky.</subject>
+    <subject source="lcsh">Government aid to education -- Kentucky</subject>
+    <subject source="lcsh">Poor children -- Education -- Kentucky.</subject>
+    <subject source="lcsh">School integration -- Kentucky -- Simpsonville.</subject>
+    <subject source="lcsh">Students -- Kentucky -- Simpsonville.</subject>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Kentucky Lincoln School for Gifted Children proposal and supporting documents</unittitle><unitdate datechar="creation" type="inclusive">1967-1969</unitdate><container id="aspace_307c27a5140ae0e43447e8b547d0985d" label="mixed materials" type="box">1</container></did></c><c id="ref2" level="file"><did><unittitle>3-ring binder labeled <emph render="doublequote">The Board of the Lincoln School</emph></unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_f08cbde173c41c6866c208610f192eff" label="Realia" type="box">2</container></did></c></dsc>
+</archdesc>
+</ead>

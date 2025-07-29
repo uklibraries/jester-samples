@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:bib="http://www.loc.gov/mets/profiles/bibRecord" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:mets="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" OBJID="2023ua054" PROFILE="lc:bibRecord">
+  <mets:metsHdr CREATEDATE="2025-03-31T12:52:05" LASTMODDATE="2025-03-31T12:52:05" RECORDSTATUS="SIP">
+    <mets:agent ROLE="CREATOR" TYPE="REPOSITORY">
+      <mets:name>University of Kentucky</mets:name>
+      <mets:note>SIP METS and associated file(s) submitted to KUDL.</mets:note>
+    </mets:agent>
+    <mets:agent ROLE="PRESERVATION" TYPE="ORGANIZATION">
+      <mets:name>University of Kentucky</mets:name>
+      <mets:note>SIP METS and associated file(s) submitted to KUDL.</mets:note>
+    </mets:agent>
+    <mets:altRecordID TYPE="SIP">2023ua054</mets:altRecordID>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMD1">
+    <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OAI_DC">
+      <mets:xmlData>
+        <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en">University of Kentucky. Facilities Management. Capital Project Management Division Records</dc:title>
+          <dc:source>University of Kentucky. Facilities Management. Capital Project Management Division Records</dc:source>
+          <dc:creator>University of Kentucky. Facilities Management. Capital Project Management Division</dc:creator>
+          <dc:identifier>2023ua054</dc:identifier>
+          <dc:publisher>University of Kentucky</dc:publisher>
+          <dc:date>1963-2021, undated</dc:date>
+          <dc:format>collections</dc:format>
+          <dc:type>text</dc:type>
+          <dc:language>English</dc:language>
+          <dc:rights>Property rights reside with the University of Kentucky.  The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky.  For information about permission to reproduce or publish, please contact the Special Collections Research Center.  Contact the Special Collections Research Center for information regarding rights and use of this collection.</dc:rights>
+          <dc:description>1.8 Cubic Feet 3 document boxes, 3 photograph boxes, 1 oversize box 56.1 Megabytes 45 files</dc:description>
+        </oai_dc:dc>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec>
+    <mets:rightsMD>
+      <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="RIGHTSMD">
+        <mets:xmlData>
+          <mets:versionStatement>2025</mets:versionStatement>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="ADMRTS1">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRights">
+        <mets:xmlData>
+          <mets:RightsDeclarationMD RIGHTSCATEGORY="">
+            <mets:Context CONTEXTCLASS="GENERAL PUBLIC">
+              <mets:Constraints CONSTRAINTTYPE="RE-USE">
+                <mets:ConstraintDescription>View Collection Guide to obtain rights information.</mets:ConstraintDescription>
+              </mets:Constraints>
+            </mets:Context>
+          </mets:RightsDeclarationMD>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ID="FileGrpFindingAid" USE="Finding Aid">
+      <mets:file ID="MasterFindingAid" USE="master" MIMETYPE="application/xml">
+        <mets:FLocat xlink:href="2023ua054.xml" LOCTYPE="OTHER"/>
+      </mets:file>
+    <mets:file ID="AccessFindingAid" MIMETYPE="application/xml" USE="access"><mets:FLocat LOCTYPE="OTHER" xlink:href="2023ua054.dao.xml"/></mets:file></mets:fileGrp>
+  </mets:fileSec>
+<mets:structMap/></mets:mets>

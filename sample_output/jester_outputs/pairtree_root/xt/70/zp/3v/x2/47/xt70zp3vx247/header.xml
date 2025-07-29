@@ -1,0 +1,68 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt70zp3vx247</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt70zp3vx247/data/1997MS324.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract>The Iva Dagley scrapbook (dated 1908-1924; 0.17 cubic feet; 1 box) contains playbills, concert tickets, and programs from church services, opera houses, choir recitals, and various commencement ceremonies from Kentucky and other places.</abstract>
+  <descriptive_summary>
+    <author>Darby Matusz</author>
+    <title>Iva Dagley scrapbook</title>
+    <source>Iva Dagley scrapbook</source>
+    <unitdates>
+      <date>1908-1924 (inclusive)</date>
+    </unitdates>
+    <creator>Dagley, Iva, 1898-1982</creator>
+    <extent>0.17 Cubic Feet</extent>
+    <arrangement>Collection is arranged by format.</arrangement>
+    <subjects>
+      <subject>Concerts -- Kentucky -- Lexington.</subject>
+      <subject>Concert programs.</subject>
+      <subject>Opera programs</subject>
+      <subject>Programs.</subject>
+      <subject>Theater -- Kentucky -- Lexington.</subject>
+      <subject>Theater -- 20th century</subject>
+      <subject>Dagley, Iva, 1898-1982</subject>
+    </subjects>
+    <prefercite>1997MS324: [identification of item], Iva Dagley scrapbook, 1908-1924, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Iva Dagley was born in September 1898 in Kentucky. She taught langagues at Millersburg College before receiving a scholarship to study music in Paris, France. She performed as a rising opera singer at the New York Metropolitan Opera until the Great Depression sent her back to Lexington where she taught music at the University of Kentucky and later Henry Clay High School.</p><p>Iva Dagley lived at Aylesford (Elley Villa) at 320 Linden Walk in Lexington. Aylesford house was built in 1851 and used as a hospital during the Civil War. She had no family and rented the unused upstairs bedrooms to college students. Iva died in February 1982 and was buried in the Lexington Cemetery. She had no surviving relatives, and left a trust for a scholarship to go to a Henry Clay student majoring or minoring in a world language. This $2,000 scholarship is only given out every 4 years and is renewable each year as long as the student continues their studies in a world language.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Iva Dagley scrapbook (dated 1908-1924; 0.17 cubic feet, 1 box) contains playbills, concert tickets, and programs from church services, opera houses, choir recitals, and various commencement ceremonies from Kentucky and other places. Local programs document the appearance of Sarah Bernhardt at the Lexington Opera House and John Philip Sousa and his band at the Lexington Auditorium (1908). The collection also includes programs from the National Theatre in Washington D.C. with feature appearances by Rachmaninoff, George Arliss, and Billie Burke.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Scrapbook</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/940595</unitid>
+        <unitdate datechar="creation" type="inclusive">1908-1924</unitdate>
+        <container id="aspace_2b04638c94fa06088aab5e6bb15ba6e6" label="mixed materials" type="box">1</container>
+        <container id="aspace_d127ac403f06b830fde303cfe7edd6a2" parent="aspace_2b04638c94fa06088aab5e6bb15ba6e6" type="item">1</container>
+        <dao entityref="xt70zp3vx247_1_1"/>
+      </did>
+    </c>
+  </contents>
+</header>

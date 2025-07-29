@@ -1,0 +1,67 @@
+<header>
+  <meta>
+    <catalog_url>http://exploreuk.uky.edu/catalog/xt7xsj19q19n</catalog_url>
+    <ead_url>https://exploreuk.uky.edu/dips/xt7xsj19q19n/data/2023av006.dao.xml</ead_url>
+    <repository>University of Kentucky</repository>
+  </meta>
+  <abstract></abstract>
+  <descriptive_summary>
+    <author>Callie Aitken</author>
+    <title>Dorothy Annabelle Caldwell Frontier Nursing Service scrapbook</title>
+    <source>Dorothy Annabelle Caldwell Frontier Nursing Service scrapbook</source>
+    <unitdates>
+      <date>1930s</date>
+    </unitdates>
+    <creator>Caldwell, Dorothy Annabelle, 1909-2004</creator>
+    <extent>0.56 Cubic Feet</extent>
+    <arrangement>Collection retains its original order.</arrangement>
+    <subjects>
+      <subject>Midwifery -- Appalachian Region</subject>
+      <subject>Nursing -- Kentucky.</subject>
+      <subject>Photographs</subject>
+      <subject>Public health -- Appalachian Region</subject>
+      <subject>Scrapbooks</subject>
+      <subject>Women -- Appalachian Region</subject>
+      <subject>Caldwell, Dorothy Annabelle, 1909-2004</subject>
+    </subjects>
+    <prefercite>2023av006: [identification of item], Dorothy Caldwell Frontier Nursing Service Scrapbook, 1930s, University of Kentucky Libraries Special Collections Research Center.</prefercite>
+  </descriptive_summary>
+  <collection_overview>
+    <bioghist>
+      
+          <head>Biographical note</head>
+      <p>Dorothy Annabelle Caldwell (1909-2004) was a volunteer courier with the Frontier Nursing Service in the 1930s. Her family moved from Cincinnati, Ohio, to Boone County, Kentucky, in the 1940s. Dorothy became a teacher and cared for her blind brother, John A. Caldwell, Jr. on their family farm in Boone County. Both of Dorothy's parents were involved in healthcare; her father, Dr. John Alexander Caldwell, Jr. (1877-1958) was a prominent surgeon and physician in Cincinnati while her mother, Orpha Cornelia Featherstone (1874-1968) was a trained nurse. Dorothy's paternal grandfather, Judge John Alexander Caldwell, Sr. (1852-1927) was the Mayor of Cincinnati, an Ohio congressman, and the Lt. Governor of Ohio.</p>
+    </bioghist>
+    <scopecontent>
+      
+          <head>Scope and Contents</head>
+      <p>The Dorothy Annabelle Caldwell Frontier Nursing Service scrapbook (dated 1930s; 0.5 cubic feet; 1 box) comprises photographs documenting the activities of the Frontier Nursing Service, which includes patients, nurses, horses, patient transportation, nursing outposts, and Appalachian culture. The beginning of the scrapbook includes a list of Frontier Nursing Service personnel that are referenced throughout. In addition to original small photographs, the scrapbook also includes images from the Frontier Nursing Service publications and well as 8 x 10 inch photos from professional photopgraphers, Caufield and Shook.</p>
+    </scopecontent>
+    <processinfo></processinfo>
+  </collection_overview>
+  <restrictions>
+    <extref_label></extref_label>
+    <extref_href></extref_href>
+    <accessrestrict>
+      
+          <head>Conditions Governing Access</head>
+      <p>Collection is open to researchers by appointment.</p>
+    </accessrestrict>
+    <userestrict>
+      
+          <head>Conditions Governing Use</head>
+      <p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>
+    </userestrict>
+  </restrictions>
+  <contents>
+    <c id="ref1" level="item">
+      <did>
+        <unittitle>Dorothy Annabelle Caldwell scrapbook</unittitle>
+        <unitid type="aspace_uri">/repositories/2/archival_objects/981899</unitid>
+        <unitdate datechar="creation" type="inclusive">1930s</unitdate>
+        <container id="aspace_2056aad6c32ca80fcdd86e6c1dbcab65" label="mixed materials" type="box">1</container>
+        <container id="aspace_de9086b7a72693397b156809151c34e8" parent="aspace_2056aad6c32ca80fcdd86e6c1dbcab65" type="item">1</container>
+      </did>
+    </c>
+  </contents>
+</header>

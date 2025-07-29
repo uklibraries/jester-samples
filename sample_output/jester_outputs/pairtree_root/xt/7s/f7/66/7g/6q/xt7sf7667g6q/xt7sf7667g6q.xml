@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk">2022ms016</eadid><filedesc><titlestmt><titleproper type="filing">Dearinger, Kevin The Education of Madame Metcalfmanuscript</titleproper><titleproper>Guide to the Kevin Dearinger The Education of Madame Metcalf manuscript, 2021 September <num>2022ms016</num></titleproper><author>Jordan Connely</author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>2022 September 2</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-16 15:42:12 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Kevin Dearinger <title render="italic">The Education of Madame Metcalf</title> manuscript</unittitle>
+    <unitid>2022ms016</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/4173</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.23 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2021-09/2021-09">2021 September</unitdate>
+    <abstract id="aspace_3dc711f9d18d933b879f862b362a59c1">The Kevin Dearinger <title render="italic">The Education of Madame Metcalf</title> manuscript (dated 2021 September; 0.23 cubic feet; 1 box) is an unpublished biographical account of the life and relationships of Henrietta Alice McCrea-Metcalf.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_b2ca3d65fd5e6a28729c6a0a0e62cd7c">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment.</p>  </accessrestrict>
+  <arrangement id="aspace_00a60d5eb71d06b57a002b31fd7b658c">
+    <head>Arrangement</head>
+<p>Collection is arranged by format.</p>  </arrangement>
+  <bioghist id="aspace_d260e9ab8ca77997f0eaf3c30293e1ce">
+    <head>Biographical note</head>
+<p>Henrietta Alice McCrea was born into a wealthy Chicago family in 1888. She was taken to Paris, France, at an early age and spoke French as her native tongue. She was married twice: first to the landscape painter Willard Lloyd Metcalf (1858-1925) and for a short time to the author Marcus Aurelius Goodrich (1897-1991). Both marriages ended in divorce, but she reverted to Metcalf's name for the rest of her life. She and Willard Metcalf had two children, Addison and Rosalind. Additionally, in 1952, she took in a boy named Jacobus Arnoldus who inherited a portion of her estate.</p><p>She was an avid fan of theater and actors and amassed a large collection of autographed photographs and other memorabilia. Metcalf also translated French works into English: Alexandre Dumas' play <title render="italic">Camille</title> and Anatole France's story <title render="italic">Our Lady's Juggler</title>.</p><p>In 1928 she began an affair with Thelma Wood, the lover of the novelist Djuna Barnes. This prompted Barnes to satirize Metcalf in her novel, <title render="italic">Nightwood</title>. Metcalf appears as the character Jenny Petherbridge. Metcalf and Wood's relationship lasted until 1943, and they did not part on goodvterms.</p><p>Metcalf died in 1981.</p><p>Kevin Lane Dearinger was born in Kentucky in 1951. An actor, author, and playwright, his published works include <title render="italic">The Bard and the Bluegrass</title> (2007), <title render="italic">Marie Prescott: A Star of Some Brilliance</title> (2009), and <title render="italic">Bad Sex in Kentucky</title> (2019). </p><p>Sources:</p><p>"Bad Sex in Kentucky, An Interview with Kevin Lane Dearinger," <title render="italic">Lexington Public Library</title>, 2019, https://www.lexpublib.org/podcasts/bad-sex-kentucky-interview-kevin-lane-dearinger-2019.</p><p>McCrea-Metcalf, New York Times, page 13, 1910 Dec 13, Newspapers.com, accessed 2022 May 24.
+Addison M. Metcalf Collection of Gertrude Steiniana (Collection D.Mss.0014), Denison Library, Scripps College. https://oac.cdlib.org/findaid/ark:/13030/c8k35z26/entire_text/, accessed 2022 May 24.</p><p>Will Provides for Destroying Art, Miami Herald, Page 14, 1925 March 25, newspapers.com, accessed 2022 May 24.   
+Henrietta Metcalf Theatre Collection, The Kentucky Review, Volume 6, 1986.</p>  </bioghist>
+  <prefercite id="aspace_357bfc7cbcdaf12ce6080c58a233715c">
+    <head>Preferred Citation</head>
+<p>2022ms016 : [identification of item], Kevin Dearinger <title render="italic">The Education of Madame Metcalf</title> manuscript, 2021 September, University of Kentucky Libraries Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_786f1b58cc773982a1cd0596b64c6109">
+    <head>Scope and Contents</head>
+<p>The Kevin Dearinger <title render="italic">The Education of Madame Metcalf</title> manuscript (dated 2021 September; 0.23 cubic feet, 1 box) is an unpublished biographical account of the life and relationships of Henrietta Alice McCrea-Metcalf. This is a typed document on standard 8.5 x 11 in. paper and is 354 pages.</p>  </scopecontent>
+  <userestrict id="aspace_fbcb5733e170a3a196ebc822b18178e8">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Libraries Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Biographies</subject>
+    <subject source="lcsh">Lesbianism -- United States -- History -- 20th century.</subject>
+    <genreform source="lcsh">Manuscripts.</genreform>
+    <subject source="lcsh">Theater. </subject>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle><title render="italic">The Education of Madame Metcalf: A Scrapbook of Murder, Madness, Suicide, Betrayal, Bigamy, Passion, and Ambition</title></unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/930936</unitid><unitdate datechar="creation" type="inclusive">2021 September</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_170fcc1139300870544ae430ea8b1323" label="mixed materials" type="box">1</container><container id="aspace_cac417e8e82bc02fa3f97e90efad5a9f" parent="aspace_170fcc1139300870544ae430ea8b1323" type="folder">1-2</container></did></c></dsc>
+</archdesc>
+</ead>

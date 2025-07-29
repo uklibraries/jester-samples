@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-kuk" url="https://exploreuk.uky.edu/catalog/xt7b2r3nzq5b">56m4</eadid><filedesc><titlestmt><titleproper type="filing">Milward, Hubbard Kavanaugh diary</titleproper><titleproper>Guide to the Hubbard Kavanaugh Milward diary, 1864-1865 <num>56m4</num></titleproper><author>Aaron Reynolds </author></titlestmt><publicationstmt><publisher>University of Kentucky Special Collections Research Center</publisher><p><date>September 21, 2018</date></p><address><addressline>Special Collections Research Center</addressline><addressline>University of Kentucky Libraries</addressline><addressline>Margaret I. King Library</addressline><addressline>Lexington, Kentucky 40506-0039</addressline><addressline>Business Number: (859) 257-1742</addressline><addressline>URL: <extptr href="https://libraries.uky.edu/SC" show="new" title="https://libraries.uky.edu/SC" type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-26 10:41:48 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>2023 March</date><item>Correction made to the names of H.K. Milward's children.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>University of Kentucky Special Collections Research Center</corpname>
+    </repository>
+    <unittitle>Hubbard Kavanaugh Milward Civil War diary</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Milward, H.K. (Hubbard Kavanaugh), 1835-1892</persname>
+    </origination>
+    <unitid>56m4</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/2836</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Cubic Feet</extent>
+      <extent altrender="carrier">1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1864/1865" type="inclusive">1864-1865</unitdate>
+    <abstract id="aspace_51998d91d0200f89e7da93b4e3462f19">The Hubbard Kavanaugh Milward diary (dated 1864-1865; 0.03 cubic feet; 1 folder) contains the handwritten account of Major Hubbard Kavanaugh Milward of Lexington, Kentucky, during his Civil War service in the Union Army.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_216b13389b6e49653c0a2af50e03924f">
+    <head>Conditions Governing Access</head>
+<p>Collection is open to researchers by appointment. Due to the delicate physical nature of the diary, it is recommended to use the photocopies as an access copy.</p>  </accessrestrict>
+  <arrangement id="aspace_adc5e864c363bebda1c04b84b943d646">
+    <head>Arrangement</head>
+<p>Collection is arranged by subject.</p>  </arrangement>
+  <bioghist id="aspace_bc4e657d7fe4c131c20888657b8df7ad">
+    <head>Biographical note</head>
+<p>Hubbard Kavanaugh Milward (known as H.K. Milward) served as a Lieutenant Colonel of the 18th Kentucky Regiment during the Civil War. He was born in Lexington, Kentucky, on November 23, 1835, to Eliza Young and Joseph Milward. He attended Transylvania College in Lexington, read law, and worked as a harness maker. He enlisted as a private in the Union Army in August 1861. He initially worked as a drill master at Camp Dick Robinson. From there he transferred to the 18th Regiment where he was promoted to Lieutenant Colonel. He and his regiment were the only regiment from Kentucky to participate in the infamous <emph render="doublequote">Sherman's March to the Sea</emph>. After the war, he returned to Lexington where he purchased the <title render="italic">National Unionist Newspaper</title>, renaming it <title render="italic">The Union Standard</title>. After that publication ended, he was associated with the Republican newspaper, <title render="italic">The Statesman</title>. After briefly moving to Louisville to manage <title render="italic">The Daily Commercial</title>, he moved back to Lexington to work as coroner. In 1873, he married Kate White Adams of Barboursville, Kentucky. In 1876, President Grant appointed him Postmaster of Lexington. In 1891, he was elected Cashier of the National Exchange Bank. He died at the age of 57 on April 19, 1892 in Lexington. He was survived by his wife Kate and his children Susan, Amelia, and Henry Kavanaugh.</p>  </bioghist>
+  <prefercite id="aspace_78063df127df7b0f521a80a7164f879f">
+    <head>Preferred Citation</head>
+<p>56m4 : [identification of item], Hubbard Kavanaugh Milward diary, 1864-1865, University of Kentucky Special Collections Research Center.</p>  </prefercite>
+  <scopecontent id="aspace_246251d5b03c5d3fffab3ed97edeffbb">
+    <head>Scope and Contents</head>
+<p>The Hubbard Kavanaugh Milward diary (dated 1864-1865; 0.03 cubic feet; 1 folder) contains the handwritten account of Major Hubbard Kavanaugh Milward of Lexington, Kentucky, during his Civil War service in the Union Army. This collection also includes photocopies of each page of the diary, a brief family history of the Milward Family, an envelope addressed to Mr. Burton Milward of the Lexington Leader, and a photocopy of that envelope. The family history was written by Margaret Taylor Macdonald and contains biographical information concerning H.K. Milward and service in the army as well as his life after the war. </p><p>The diary entries are short and concise. Milward became a Colonel of the 18th Kentucky Regiment in the Union Army during the Civil War, and his diary recounts the day to day life of a soldier. The diary runs from October 6, 1864 to May 7, 1865, and mostly contains information about where his regiment marched and for how long. The diary includes entries pertaining to General William T. Sherman's campaign, the burning of Atlanta, the capturing of Savannah, and the freeing of enslaved persons. </p>  </scopecontent>
+  <userestrict id="aspace_cddbe5351ddeb791a012c32a629e757c">
+    <head>Conditions Governing Use</head>
+<p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections Research Center.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Atlanta Campaign, 1864.</subject>
+    <subject source="lcsh">Diaries -- 19th Century.</subject>
+    <geogname authfilenumber="sh 85071970" source="lcsh">Kentucky -- History -- Civil War, 1861-1865</geogname>
+    <geogname source="local">Kentucky -- Lexington</geogname>
+    <geogname source="lcsh">Lexington (Ky.) -- Newspapers.</geogname>
+    <subject source="lcsh">Slavery, abolition, and emancipation</subject>
+    <geogname authfilenumber="sh 85140205" source="lcsh">United States -- History -- Civil War, 1861-1865.</geogname>
+    <persname rules="dacs" source="local">Macdonald, Margaret Taylor</persname>
+    <persname rules="rda" source="local">Milward, H.K. (Hubbard Kavanaugh), 1835-1892</persname>
+  </controlaccess>
+  <dsc><c id="ref1" level="file"><did><unittitle>Hubbard Kavanaugh Milward diary</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/697411</unitid><unitdate datechar="creation" type="inclusive">1864-1865</unitdate><container id="aspace_6837b566741aa8a209fbbd2e6ebb2ffc" label="mixed materials" type="box">VF-12</container><container id="aspace_c97aa845d86a7e4cff9e9e732821c1b4" parent="aspace_6837b566741aa8a209fbbd2e6ebb2ffc" type="folder">1</container><container id="aspace_ce166d64faacd9ee3f3239aa5627ad7f" parent="aspace_c97aa845d86a7e4cff9e9e732821c1b4" type="item">1</container></did></c><c id="ref2" level="file"><did><unittitle>Milward family history</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/697525</unitid><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_2eded1e6adb70a236f8907d3b5641a2b" label="mixed materials" type="box">VF-12</container><container id="aspace_9bcbba5b6fa394b2378c68c7f1ba4713" parent="aspace_2eded1e6adb70a236f8907d3b5641a2b" type="folder">1</container><container id="aspace_34e67e0e965af934132b13854ecfba53" parent="aspace_9bcbba5b6fa394b2378c68c7f1ba4713" type="item">2</container></did></c><c id="ref3" level="file"><did><unittitle>Hubbard Kavanaugh Milward diary, photocopies </unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/697619</unitid><container id="aspace_9b770e32221823bd8868c4918aa5dc2f" label="mixed materials" type="box">VF-12</container><container id="aspace_6783400fa354c8c0161e8311e3b1ec26" parent="aspace_9b770e32221823bd8868c4918aa5dc2f" type="folder">1</container><container id="aspace_b713e3c4882150de58be00c371dde845" parent="aspace_6783400fa354c8c0161e8311e3b1ec26" type="item">3</container></did></c></dsc>
+</archdesc>
+</ead>
